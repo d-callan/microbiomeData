@@ -3,4 +3,6 @@
 
 ## usethis namespace: start
 ## usethis namespace: end
-NULL
+#' @import veupathUtils
+#' @import data.table
+#' @importFrom microbiomeComputations AbundanceData
