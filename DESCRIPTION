@@ -6,7 +6,7 @@ Authors@R:
            family = "Callan",
            role = c("aut", "cre"),
            email = "dcallan@upenn.edu"))
-           biocViews: 
+biocViews: 
 Imports:
     data.table,
     microbiomeComputations,
