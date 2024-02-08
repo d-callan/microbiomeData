@@ -8,3 +8,16 @@ setMethod("getCollection", "mbioDataset", function(object, collectionName = char
     # TODO check if collection exists, turn into an AbundanceData object
     
 })
+
+#' @importFrom microbiomeComputations ComputeResult
+setGeneric("getComputeResult", function(object) standardGeneric("getComputeResult"))
+
+setMethod("getComputeResult", "ComputeResult", function(object) {
+    return(object@data)  
+})
+
+#' @importFrom microbiomeComputations CorrelationComputeResult
+
+setMethod("getComputeResult", "CorrelationComputeResult", function(object) {
+    return(object@statistics)  
+})

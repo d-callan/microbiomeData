@@ -41,7 +41,11 @@ correlationResults <- correlation(myCollection)
 differentialAbundanceResults <- differentialAbundance(myCollection)
 ```
 
-This will give you a `ComputeResult` object, with slots for `data` and `statistics` that you can explore. These objects can be difficult to parse, so we're planning to either expand this package or maybe introduce a second one to help format these results in more usable and exciting ways!
+This will give you a `ComputeResult` object, with slots for `data` and `statistics` that you can explore. These objects can be difficult to parse, so we're planning to either expand this package or maybe introduce a second one to help format these results in more usable and exciting ways! For now though, we have a primitive helper called `getComputeResult` which will return data.tables and you can use like this:
+
+```R
+myCorrelationDT <- getComputeResult(correlationResults)
+```
 
 ### Usage as a Package Dependency
 This package may be used as a dependency in other R packages. In order to establish that depedency the developer of the 
