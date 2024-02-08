@@ -31,7 +31,9 @@ If you already read those files into R, you can do a similar thing except passin
 Once you have `myData`, you can ask for specific collections from that dataset. That might look something like:
 
 ```R
-myCollection <- getCollection(myData, '16S-species')
+getCollectionNames(myData) # will print the names of collections
+myData <- updateCollectionName(myData, '16S-species', '16S Species')
+myCollection <- getCollection(myData, '16S Species')
 ```
 
 Once you have `myCollection`, you can start using our `microbiomeComputations` package (which was installed for you when you installed this one) to do fun things like:
