@@ -14,19 +14,19 @@ setMethod("names", "Collections", function(x) {
 })
 
 setGeneric("getCollectionNames", function(object) standardGeneric("getCollectionNames"))
-setMethod("getCollectionNames", "mbioDataset", function(object) {
+setMethod("getCollectionNames", "MbioDataset", function(object) {
     return(names(object@collections))
 })
 
 setGeneric("updateCollectionName", function(object, oldName, newName) standardGeneric("updateCollectionName"))
-setMethod("updateCollectionName", "mbioDataset", function(object, oldName, newName) {
+setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newName) {
     object@collections[[oldName]]@name <- newName
     return(object)
 })
 
 #' @importFrom microbiomeComputations AbundanceData
 setGeneric("getCollection", function(object, collectionName) standardGeneric("getCollection"))
-setMethod("getCollection", "mbioDataset", function(object, collectionName = character(0)) {
+setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0)) {
     if (length(collectionName) == 0) {
         stop("Must specify a collection name")
     }

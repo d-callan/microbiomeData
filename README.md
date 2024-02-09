@@ -20,10 +20,10 @@ This package could be used directly to explore data you've downloaded from Micro
 ### Direct Usage
 You can download data for a particular microbiome study from MicrobiomeDB.org. Data files from the website are organized by 'entity', with some entities representing sample metadata and others assay data. The assay data are organized into 'collections' where a particular collection might for example represent all abundances for a particular taxonomic rank for a particular assay. The column names in the assay data files are prepended with their collection id.
 
-You can pass lists of files to a method called `mbioDataset`. You can pass one list of files for any entities representing sample metadata and a second list of files for any entities representing assay data/ collections. If you got the files from our website, or have organized yours similarly enough, we'll parse them into the appropriate collections for you. That might look something like this:
+You can pass lists of files to a method called `MbioDataset`. You can pass one list of files for any entities representing sample metadata and a second list of files for any entities representing assay data/ collections. If you got the files from our website, or have organized yours similarly enough, we'll parse them into the appropriate collections for you. That might look something like this:
 
 ```R
-myData <- mbioDataset(collections = list(fileA, fileB), metadata = list(fileD, fileE))
+myData <- MbioDataset(collections = list(fileA, fileB), metadata = list(fileD, fileE))
 ```
 
 If you already read those files into R, you can do a similar thing except passing lists of data.frame or data.table objects and things will work the same.
@@ -70,9 +70,9 @@ Please make sure to update tests as appropriate.
 If you are trying to add data a dataset to the package, then on your local machine you should:
  1. Make sure you have `devtools` installed locally.
  2. Clone this repository and make a branch to work in.
- 3. Create an `mbioDataset` object in your local R using the 'Direct Usage' instructions above. 
+ 3. Create an `MbioDataset` object in your local R using the 'Direct Usage' instructions above. 
  4. Make sure your new dataset and its collections, etc are named well enough for others to use them too.
- 5. Use `usethis::use_data` to add the `mbioDataset` object to the package. Be sure you're working in the branch you made.
+ 5. Use `usethis::use_data` to add the `MbioDataset` object to the package. Be sure you're working in the branch you made.
  6. Add documentation for your dataset in R/data.R following this example:
    ```R
    #' World Health Organization TB data
@@ -89,7 +89,7 @@ If you are trying to add data a dataset to the package, then on your local machi
    #'   ...
    #' }
    #' @source <https://www.who.int/teams/global-tuberculosis-programme/data>
-   "who" ## This is the name of your `mbioDataset` object
+   "who" ## This is the name of your `MbioDataset` object
    ```
  7. Make a Pull Request against this repo!
 

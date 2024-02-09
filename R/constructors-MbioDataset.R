@@ -45,49 +45,49 @@ setMethod("Collections", signature("character"), function(collections) {
 })
 
 
-setGeneric("mbioDataset", function(collections, metadata) standardGeneric("mbioDataset"))
+setGeneric("MbioDataset", function(collections, metadata) standardGeneric("MbioDataset"))
 
-setMethod("mbioDataset", signature("missing", "missing"), function(collections, metadata) {
-    new("mbioDataset")
+setMethod("MbioDataset", signature("missing", "missing"), function(collections, metadata) {
+    new("MbioDataset")
 })
 
-setMethod("mbioDataset", signature("Collections", "data.frame"), function(collections, metadata) {
-    new("mbioDataset", collections = collections, metadata = SampleMetadata(metadata))
+setMethod("MbioDataset", signature("Collections", "data.frame"), function(collections, metadata) {
+    new("MbioDataset", collections = collections, metadata = SampleMetadata(metadata))
 })
 
-setMethod("mbioDataset", signature("Collections", "missing"), function(collections, metadata) {
-    new("mbioDataset", collections = collections)
+setMethod("MbioDataset", signature("Collections", "missing"), function(collections, metadata) {
+    new("MbioDataset", collections = collections)
 })
 
-setMethod("mbioDataset", signature("Collection", "data.frame"), function(collections, metadata) {
-    new("mbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
+setMethod("MbioDataset", signature("Collection", "data.frame"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
 })
 
-setMethod("mbioDataset", signature("Collection", "missing"), function(collections, metadata) {
-    new("mbioDataset", collections = Collections(collections))
+setMethod("MbioDataset", signature("Collection", "missing"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections))
 })
 
-setMethod("mbioDataset", signature("list", "data.frame"), function(collections, metadata) {
+setMethod("MbioDataset", signature("list", "data.frame"), function(collections, metadata) {
     # TODO make Collections from a list of files containing data
-    new("mbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
+    new("MbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
 })
 
-setMethod("mbioDataset", signature("list", "missing"), function(collections, metadata) {
+setMethod("MbioDataset", signature("list", "missing"), function(collections, metadata) {
     # TODO make Collections from a list of files containing data
-    new("mbioDataset", collections = Collections(collections))
+    new("MbioDataset", collections = Collections(collections))
 })
 
-setMethod("mbioDataset", signature("list", "list"), function(collections, metadata) {
+setMethod("MbioDataset", signature("list", "list"), function(collections, metadata) {
     # TODO make Collections and SampleMetadata from a list of files containing data
-    new("mbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
+    new("MbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
 })
 
-setMethod("mbioDataset", signature("data.frame", "missing"), function(collections, metadata) {
+setMethod("MbioDataset", signature("data.frame", "missing"), function(collections, metadata) {
     # TODO parse data frame into Collections
-    new("mbioDataset", collections = Collections(collections))
+    new("MbioDataset", collections = Collections(collections))
 })
 
-setMethod("mbioDataset", signature("data.frame", "data.frame"), function(collections, metadata) {
+setMethod("MbioDataset", signature("data.frame", "data.frame"), function(collections, metadata) {
     # TODO parse data frame into Collections
-    new("mbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
+    new("MbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
 })
