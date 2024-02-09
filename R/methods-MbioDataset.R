@@ -1,30 +1,43 @@
+#some basic accessors
 setGeneric("name", function(x) standardGeneric("name"))
-setMethod("name", "Collection", function(x) {
-    return(x@name)
-})
+setMethod("name", "Collection", function(x) return(x@name))
 setGeneric("name<-", function(x, value) standardGeneric("name<-"))
-setMethod("name<-", "Collection", function(x, value) {
-    x@name <- value
-    return(x)
-})
-
+setMethod("name<-", "Collection", function(x, value) x@name <- value; return(x))
 setGeneric("names", function(x) standardGeneric("names"))
-setMethod("names", "Collections", function(x) {
-    return(sapply(x, name))
-})
+setMethod("names", "Collections", function(x) return(sapply(x, name)))
 
+#' Get Microbiome Dataset Collection Names
+#' 
+#' Get the names of the collections in the Microbiome Dataset.
+#' @param object A Microbiome Dataset
+#' @return a character vector of collection names
+#' @export
 setGeneric("getCollectionNames", function(object) standardGeneric("getCollectionNames"))
-setMethod("getCollectionNames", "MbioDataset", function(object) {
-    return(names(object@collections))
-})
+setMethod("getCollectionNames", "MbioDataset", function(object) return(names(object@collections)))
 
+#' Update Microbiome Dataset Collection Name
+#' 
+#' Update the name of a collection in the Microbiome Dataset.
+#' @param object A Microbiome Dataset
+#' @param oldName The name of the collection to update
+#' @param newName The new name of the collection
+#' @return A Microbiome Dataset with the updated collection name
+#' @export
 setGeneric("updateCollectionName", function(object, oldName, newName) standardGeneric("updateCollectionName"))
 setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newName) {
     object@collections[[oldName]]@name <- newName
     return(object)
 })
 
+#' Get Microbiome Dataset Collection
+#' 
+#' Get a collection from the Microbiome Dataset. The collection will be returned
+#' as an AbundanceData object.
+#' @param object A Microbiome Dataset
+#' @param collectionName The name of the collection to return
+#' @return An AbundanceData object representing the collection and any associated study metadata
 #' @importFrom microbiomeComputations AbundanceData
+#' @export
 setGeneric("getCollection", function(object, collectionName) standardGeneric("getCollection"))
 setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0)) {
     if (length(collectionName) == 0) {
@@ -35,15 +48,48 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
     
 })
 
+#' Get Microbiome Dataset Compute Result
+#' 
+#' Get the compute result from a Microbiome Dataset in a particular format.
+#' Some formats may not be supported for all compute results.
+#' @param object A Microbiome Dataset
+#' @param format The format of the compute result. Currently only "data.table" and "igraph" are supported.
+#' @return The compute result in the specified format
 #' @importFrom microbiomeComputations ComputeResult
-setGeneric("getComputeResult", function(object) standardGeneric("getComputeResult"))
+#' @export
+setGeneric("getComputeResult", function(object, format = c("data.table", "igraph")) standardGeneric("getComputeResult"))
 
-setMethod("getComputeResult", "ComputeResult", function(object) {
+#' @export
+setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table", "igraph")) {
+    format <- veupathUtils::matchArg(format)
+
+    if (format == "igraph") {
+        stop("igraph not yet supported")
+    }
+
     return(object@data)  
 })
 
 #' @importFrom microbiomeComputations CorrelationComputeResult
+#' @export
+setMethod("getComputeResult", "CorrelationComputeResult", function(object, format = c("data.table", "igraph")) {
+    format <- veupathUtils::matchArg(format)
 
-setMethod("getComputeResult", "CorrelationComputeResult", function(object) {
+    if (format == "igraph") {
+        stop("igraph not yet supported")
+    }
+
     return(object@statistics)  
+})
+
+#' @importFrom microbiomeComputations DifferentialAbundanceComputeResult
+#' @export
+setMethod("getComputeResult", "DifferentialAbundanceComputeResult", function(object, format = c("data.table", "igraph")) {
+    format <- veupathUtils::matchArg(format)
+
+    if (format == "igraph") {
+        stop("igraph not supported for DifferentialAbundanceComputeResult")
+    }
+
+    return(object@statistics)
 })
