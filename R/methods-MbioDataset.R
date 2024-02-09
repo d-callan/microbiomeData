@@ -2,9 +2,8 @@
 setGeneric("name", function(x) standardGeneric("name"))
 setMethod("name", "Collection", function(x) return(x@name))
 setGeneric("name<-", function(x, value) standardGeneric("name<-"))
-setMethod("name<-", "Collection", function(x, value) x@name <- value; return(x))
-setGeneric("names", function(x) standardGeneric("names"))
-setMethod("names", "Collections", function(x) return(sapply(x, name)))
+setMethod("name<-", "Collection", function(x, value) {x@name <- value; return(x)})
+setMethod(getGeneric("names"), "Collections", function(x) return(sapply(x, name)))
 
 #' Get Microbiome Dataset Collection Names
 #' 
@@ -70,9 +69,9 @@ setMethod("getComputeResult", "ComputeResult", function(object, format = c("data
     return(object@data)  
 })
 
-#' @importFrom microbiomeComputations CorrelationComputeResult
+#' @importFrom microbiomeComputations CorrelationResult
 #' @export
-setMethod("getComputeResult", "CorrelationComputeResult", function(object, format = c("data.table", "igraph")) {
+setMethod("getComputeResult", "CorrelationResult", function(object, format = c("data.table", "igraph")) {
     format <- veupathUtils::matchArg(format)
 
     if (format == "igraph") {
@@ -82,9 +81,9 @@ setMethod("getComputeResult", "CorrelationComputeResult", function(object, forma
     return(object@statistics)  
 })
 
-#' @importFrom microbiomeComputations DifferentialAbundanceComputeResult
+#' @importFrom microbiomeComputations DifferentialAbundanceResult
 #' @export
-setMethod("getComputeResult", "DifferentialAbundanceComputeResult", function(object, format = c("data.table", "igraph")) {
+setMethod("getComputeResult", "DifferentialAbundanceResult", function(object, format = c("data.table", "igraph")) {
     format <- veupathUtils::matchArg(format)
 
     if (format == "igraph") {
