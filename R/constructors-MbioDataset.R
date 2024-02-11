@@ -10,25 +10,37 @@ setGeneric("Collection", function(name, data, recordIdColumn) standardGeneric("C
 
 #' @export
 setMethod("Collection", signature("character", "data.frame", "character"), function(name, data, recordIdColumn) {
-    new("Collection", name, data, recordIdColumn)
-})
-
-#' @export
-setMethod("Collection", signature("character", "missing", "missing"), function(name, data, recordIdColumn) {
-    new("Collection", name)
+    data <- setDT(data)
+    new("Collection", name = name, data = data, recordIdColumn = recordIdColumn)
 })
 
 #' @export
 setMethod("Collection", signature("character", "data.frame", "missing"), function(name, data, recordIdColumn) {
     # TODO find recordIdColumn, maybe an arg to say if the first column is the record id
-    new("Collection", name, data)
+    warning("recordIdColumn not specified, assuming first column is record id")
+    recordIdColumn <- names(data)[1]
+    data <- setDT(data)
+    new("Collection", name = name, data = data, recordIdColumn = recordIdColumn)
 })
 
 #' @export
 setMethod("Collection", signature("character", "character", "missing"), function(name, data, recordIdColumn) {
-    # TODO read from file
+    data <- data.table::fread(data)
     # TODO find recordIdColumn, maybe an arg to say if the first column is the record id
-    new("Collection", name, data)
+    warning("recordIdColumn not specified, assuming first column is record id")
+    recordIdColumn <- names(data)[1]
+    new("Collection", name = name, data = data, recordIdColumn = recordIdColumn)
+})
+
+#' @export 
+setMethod("Collection", signature("character", "character", "character"), function(name, data, recordIdColumn) {
+    data <- data.table::fread(data)
+    new("Collection", name =name, data = data, recordIdColumn = recordIdColumn)
+})
+
+#' @export
+setMethod("Collection", signature("missing", "missing", "missing"), function(name, data, recordIdColumn) {
+    new("Collection")
 })
 
 

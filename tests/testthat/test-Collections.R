@@ -1,11 +1,16 @@
 test_that("we can create a new Collection", {
     # an empty one
+    collection <- Collection()
+    expect_that(collection, is_a("Collection"))
 
-    # a manually populated one
-
-    # from a data frame
+    # a manually populated one/ from a data frame
+    collection <- Collection("my collection", data.frame(entity.id = 1, entity.x = 1, entity.y = 2), "entity.id")
+    expect_that(collection, is_a("Collection"))
 
     # from a file
+    fileName <- '../../inst/extdata/collection.tab'
+    collection <- Collection("my collection", fileName, "entity.id")
+    expect_that(collection, is_a("Collection"))
 })
 
 test_that("Collection validation works", {
