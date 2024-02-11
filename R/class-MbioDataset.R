@@ -1,5 +1,49 @@
 check_collection <- function(object) {
-    return(TRUE)
+    errors <- character()
+    allIdColumns <- c(object@recordIdColumn, object@ancestorIdColumns)
+
+    # check that name is not empty
+    if (object@name == "") {
+        msg <- "name cannot be empty"
+        errors <- c(errors, msg)
+    }
+
+    # check that recordIdColumn exists in data
+    if (!object@recordIdColumn %in% names(object@data)) {
+        msg <- sprintf("recordIdColumn '%s' does not exist in data", object@recordIdColumn)
+        errors <- c(errors, msg)
+    }
+
+    # check that ancestorIdColumns exist in data
+    if (!all(object@ancestorIdColumns %in% names(object@data))) {
+        msg <- sprintf("ancestorIdColumns '%s' do not exist in data", paste(object@ancestorIdColumns, collapse=", "))
+        errors <- c(errors, msg)
+    }
+
+    # check that all columns in data are numeric except recordIdColumn
+    if (!all(sapply(object@data[, -..allIdColumns], is.numeric))) {
+        msg <- sprintf("all columns in data except '%s' must be numeric", paste(allIdColumns, collapse=", "))
+        errors <- c(errors, msg)
+    }
+
+    # check that all values are non-negative
+    if (any(object@data[, -..allIdColumns] < 0)) {
+        msg <- sprintf("all values in data except '%s' must be non-negative", paste(allIdColumns, collapse=", "))
+        errors <- c(errors, msg)
+    }
+
+    # TODO find entity prefix of recordIdColumn and use that to check that all column names start w the same prefix
+    # check that all column names start w the same prefix except ancestorIdColumns
+    if (!all(grepl(paste0("^", object@recordIdColumn), names(object@data)))) {
+        msg <- sprintf("all column names in data except '%s' must start with '%s'", paste(allIdColumns, collapse=", "), object@recordIdColumn)
+        errors <- c(errors, msg)
+    }
+
+    if (length(errors) == 0) {
+        return(TRUE)
+    } else {
+        return(errors)
+    }
 }
 
 #' Microbiome Data Collection
@@ -16,14 +60,34 @@ setClass("Collection",
     slots = c(
         name = "character",
         data = "data.frame",
-        recordIdColumn = "character"
+        recordIdColumn = "character",
+        ancestorIdColumns = "character"
     ),
     validity = check_collection
 )
 
 
 check_collections <- function(object) {
-    return(TRUE)
+    errors <- character()
+
+    # check that all names are unique
+    if (length(unique(names(object))) != length(object)) {
+        msg <- "collection names must be unique"
+        errors <- c(errors, msg)
+    }
+
+    # check that at least one ancestorIdColumn is shared between collections
+    firstCollectionAncestorIds <- object[[1]]@ancestorIdColumns
+    if (!all(lapply(object, function(x) any(x@ancestorIdColumns %in% firstCollectionAncestorIds)))) {
+        msg <- "at least one ancestorIdColumn must be shared between collections"
+        errors <- c(errors, msg)
+    }
+
+    if (length(errors) == 0) {
+        return(TRUE)
+    } else {
+        return(errors)
+    }
 }
 
 #' Microbiome Data Collections
@@ -41,7 +105,20 @@ setClass("Collections",
 )
 
 check_mbio_dataset <- function(object) {
-    return(TRUE)
+    errors <- character()
+
+    # check that at least some ancestorIdColumns are shared between collections and sampleMetadata
+    sampleMetadataAncestorIds <- object@metadata@ancestorIdColumns
+    if (!all(lapply(object@collections, function(x) any(x@ancestorIdColumns %in% sampleMetadataAncestorIds)))) {
+        msg <- "at least one ancestorIdColumn must be shared between collections and sampleMetadata"
+        errors <- c(errors, msg)
+    }
+    
+    if (length(errors) == 0) {
+        return(TRUE)
+    } else {
+        return(errors)
+    }
 }
 
 #' MicrobiomeDB Dataset
