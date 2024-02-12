@@ -44,6 +44,100 @@ setMethod("Collection", signature("missing", "missing", "missing"), function(nam
 })
 
 
+##### some helpers for building Collections objects from various data sources #####
+
+findCollectionId <- function(dataColName) {
+    # this is the case where the id columns follow no format and the data columns follow `Name [CollectionId_VariableId]` format (downloads)
+    if (grepl("\\[", dataColName, fixed = TRUE)) {
+        varId <- strsplit(dataColName, "\\[", fixed = TRUE)[[1]][1]
+        collectionId <- strsplit(varId, "_", fixed = TRUE)[[1]][1]
+        return(collectionId)
+    }
+
+    # this presumably the case where the column headers follow the `entityId.variableId`` format (the eda services format)
+    if (grepl(".", dataColName, fixed = TRUE)) {
+        varId <- strsplit(dataColName, ".", fixed = TRUE)[[1]][1]
+        collectionId <- strsplit(varId, "_", fixed = TRUE)[[1]][1]
+        return(collectionId)
+    }
+
+    stop("Could not find collection ids. Unrecognized format.")
+}
+
+findCollectionIds <- function(dataColNames) {
+    return(unique(sapply(dataColNames, findCollectionId)))
+}
+
+# TODO add support for eda services format to these helpers
+findRecordIdColumn <- function(dataColNames) {
+    # for now assume were working w bulk download files, which means its the first column
+    return(dataColNames[1])
+}
+
+findAncestorIdColumns <- function(dataColNames) {
+    # for now assume were working w bulk download files, which means they have '_Id'
+    allIdColumns <- dataColNames[grepl("_Id", dataColNames, fixed=TRUE)]
+    return(allIdColumns[2:length(allIdColumns)])
+}
+
+getDataFromSource <- function(dataSource) {
+    if (inherits(dataSource, "character")) {
+        veupathUtils::logWithTime(sprintf("Attempting to read file: %s", dataSource))
+        dt <- data.table::fread(dataSource)
+    } else if (inherits(dataSource, "data.frame")) {
+        dt <- data.table::as.data.table(dataSource)        
+    }
+
+    return(dt)
+}
+
+findCollectionDataColumns <- function(dataColNames, collectionId) {
+    return(grepl(collectionId, dataColNames, fixed=TRUE))
+}
+
+# TODO figure how to turn these into human readable somethings
+# maybe a manually curated named list here, or allow parsing of ontology file from downloads, or...
+getCollectionName <- function(collectionId) {
+    return(as.character(collectionId))
+}
+
+# so i considered that these should be constructors or something maybe.. 
+# but i mean them to only ever be used internally so im not going to worry about it until something forces me to
+collectionBuilder <- function(collectionId, dt) {
+    dataColNames <- names(dt)
+    collectionColumns <- findCollectionDataColumns(dataColNames, collectionId)
+    recordIdColumn <- findRecordIdColumn(dataColNames)
+    findAncestorIdColumns <- findAncestorIdColumns(dataColNames)
+
+    collection <- new("Collection", 
+        name=getCollectionName(collectionId),
+        data=dt[, c(recordIdColumn, findAncestorIdColumns,collectionColumns), with = FALSE],
+        recordIdColumn=recordIdColumn,
+        findAncestorIdColumns=findAncestorIdColumns
+    )
+
+    return(collection)
+}
+
+getCollectionsList <- function(dataSource) {
+    dt <- getDataFromSource(dataSource)
+    dataColNames <- names(dt)
+    collectionIds <- findCollectionIds(dataColNames)
+
+    collections <- lapply(collectionIds, collectionBuilder, dt)
+
+    return(collections)
+}
+
+collectionsBuilder <- function(dataSources) {
+    collectionsLists <- lapply(dataSources, getCollectionsList)
+    collections <- unlist(collectionsLists, recursive = FALSE)
+
+    collections <- new("Collections", collections)
+
+    return(collections)
+}
+
 #' Create Collections
 #' 
 #' This is a constructor for the Collections class. It creates a Collections
@@ -61,14 +155,21 @@ setMethod("Collections", signature("missing"), function(collections) {
 
 #' @export
 setMethod("Collections", signature("list"), function(collections) {
-    # TODO make Collections from a list of files
-    new("Collections", collections)
+    if (length(collections) == 0) {
+        new("Collections")
+    } else {
+        # TODO this wont work if the list is already a list of Collection objects
+        collectionsBuilder(collections)
+    }
 })
 
 #' @export
 setMethod("Collections", signature("data.frame"), function(collections) {
-    # TODO make Collections from a data frame
-    new("Collections", collections)
+    if (nrow(collections) == 0) {
+        new("Collections")
+    } else {
+        collectionsBuilder(list(collections))
+    }  
 })
 
 #' @export
@@ -78,8 +179,11 @@ setMethod("Collections", signature("Collection"), function(collections) {
 
 #' @export
 setMethod("Collections", signature("character"), function(collections) {
-    # TODO make Collections from a file
-    new("Collections", list(Collection(collections)))
+    if (!length(collections) || collections == '') {
+        new("Collections")
+    } else {
+        collectionsBuilder(list(collections))
+    }
 })
 
 
