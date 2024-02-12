@@ -223,12 +223,12 @@ sampleMetadataBuilder <- function(dataSource) {
     dt <- getDataFromSource(dataSource, keepIdsAndNumbersOnly=FALSE)
     dataColNames <- names(dt)
     recordIdColumn <- findRecordIdColumn(dataColNames)
-    findAncestorIdColumns <- findAncestorIdColumns(dataColNames)
+    ancestorIdColumns <- findAncestorIdColumns(dataColNames)
 
     sampleMetadata <- new("SampleMetadata",
         data=dt,
         recordIdColumn = recordIdColumn,
-        findAncestorIdColumns = findAncestorIdColumns
+        ancestorIdColumns = findAncestorIdColumns
     )
 
     return(sampleMetadata)
@@ -237,14 +237,14 @@ sampleMetadataBuilder <- function(dataSource) {
 # TODO turn this into a proper S4 method of SampleMetadata and put it in a different package?
 # this will not work for metadata across different branches of the tree. IDK if we have that case in mbio?
 mergeSampleMetadata <- function(x, y) {
-    uniqueAncestorIdColumns <- unique(x@findAncestorIdColumns, y@findAncestorIdColumns)
+    uniqueAncestorIdColumns <- unique(x@ancestorIdColumns, y@ancestorIdColumns)
     recordIdColumn <- ifelse(x@recordIdColumn %in% uniqueAncestorIdColumns, y@recordIdColumn, x@recordIdColumn)
     data <- merge(x@data, y@data, by = uniqueAncestorIdColumns, all = TRUE)
 
     sampleMetadata <- new("SampleMetadata",
         data = data,
         recordIdColumn = recordIdColumn,
-        findAncestorIdColumns = uniqueAncestorIdColumns
+        ancestorIdColumns = uniqueAncestorIdColumns
     )
 
     return(sampleMetadata)
@@ -273,9 +273,19 @@ setMethod("MbioDataset", signature("missing", "missing"), function(collections, 
     new("MbioDataset")
 })
 
+#' @export 
+setMethod("MbioDataset", signature("Collections", "SampleMetadata"), function(collections, metadata) {
+    new("MbioDataset", collections = collections, metadata = metadata)
+})
+
 #' @export
 setMethod("MbioDataset", signature("Collections", "data.frame"), function(collections, metadata) {
     new("MbioDataset", collections = collections, metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collections", "list"), function(collections, metadata) {
+    new("MbioDataset", collections = collections, metadata = sampleMetadataFromDataSources(metadata))
 })
 
 #' @export
@@ -284,8 +294,38 @@ setMethod("MbioDataset", signature("Collections", "missing"), function(collectio
 })
 
 #' @export
+setMethod("MbioDataset", signature("Collections", "character"), function(collections, metadata) {
+    new("MbioDataset", collections = collections, metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collection", "SampleMetadata"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = metadata)
+})
+
+#' @export
 setMethod("MbioDataset", signature("Collection", "data.frame"), function(collections, metadata) {
     new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collection", "list"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collection", "missing"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collection", "character"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("list", "SampleMetadata"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = metadata)
 })
 
 #' @export
@@ -304,6 +344,21 @@ setMethod("MbioDataset", signature("list", "list"), function(collections, metada
 })
 
 #' @export
+setMethod("MbioDataset", signature("list", "character"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("data.frame", "SampleMetadata"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = metadata)
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "list"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export
 setMethod("MbioDataset", signature("data.frame", "missing"), function(collections, metadata) {
     new("MbioDataset", collections = Collections(collections))
 })
@@ -311,4 +366,34 @@ setMethod("MbioDataset", signature("data.frame", "missing"), function(collection
 #' @export
 setMethod("MbioDataset", signature("data.frame", "data.frame"), function(collections, metadata) {
     new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' export
+setMethod("MbioDataset", signature("data.frame", "character"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "character"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "list"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "missing"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "data.frame"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("character", "SampleMetadata"), function(collections, metadata) {
+    new("MbioDataset", collections = Collections(collections), metadata = metadata)
 })
