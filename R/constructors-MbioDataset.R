@@ -1,3 +1,5 @@
+# TODO need to accept an ontologyMapping file as well, and use it to update names of collections and variables to human readable names.
+
 #' Create a Collection
 #' 
 #' This is a constructor for the Collection class. It creates a Collection
@@ -6,40 +8,40 @@
 #' @param data A data.frame or a character vector representing a file path to a data.frame
 #' @param recordIdColumn The name of the column in the data.frame that contains the record id
 #' @export
-setGeneric("Collection", function(name, data, recordIdColumn) standardGeneric("Collection"))
+setGeneric("Collection", function(name, data, recordIdColumn, ancestorIdColumns) standardGeneric("Collection"))
 
 #' @export
-setMethod("Collection", signature("character", "data.frame", "character"), function(name, data, recordIdColumn) {
+setMethod("Collection", signature("character", "data.frame", "character", "character"), function(name, data, recordIdColumn, ancestorIdColumns) {
     data <- data.table::setDT(data)
-    new("Collection", name = name, data = data, recordIdColumn = recordIdColumn)
+    new("Collection", name = name, data = data, recordIdColumn = recordIdColumn, ancestorIdColumns = ancestorIdColumns)
 })
 
 #' @export
-setMethod("Collection", signature("character", "data.frame", "missing"), function(name, data, recordIdColumn) {
-    # TODO find recordIdColumn, maybe an arg to say if the first column is the record id
-    warning("recordIdColumn not specified, assuming first column is record id")
-    recordIdColumn <- names(data)[1]
+setMethod("Collection", signature("character", "data.frame", "missing", "missing"), function(name, data, recordIdColumn, ancestorIdColumns) {
+    warning("Id columns not specified, assuming first column is record id and other Id columns end in `_Id`")
+    recordIdColumn <- findRecordIdColumn(names(data))
+    ancestorIdColumns <- findAncestorIdColumns(names(data))
     data <- data.table::setDT(data)
-    new("Collection", name = name, data = data, recordIdColumn = recordIdColumn)
+    new("Collection", name = name, data = data, recordIdColumn = recordIdColumn, ancestorIdColumns = ancestorIdColumns)
 })
 
 #' @export
-setMethod("Collection", signature("character", "character", "missing"), function(name, data, recordIdColumn) {
+setMethod("Collection", signature("character", "character", "missing"), function(name, data, recordIdColumn, ancestorIdColumns) {
     data <- data.table::fread(data)
-    # TODO find recordIdColumn, maybe an arg to say if the first column is the record id
-    warning("recordIdColumn not specified, assuming first column is record id")
-    recordIdColumn <- names(data)[1]
-    new("Collection", name = name, data = data, recordIdColumn = recordIdColumn)
+    warning("Id columns not specified, assuming first column is record id and other Id columns end in `_Id`")
+    recordIdColumn <- findRecordIdColumn(names(data))
+    ancestorIdColumns <- findAncestorIdColumns(names(data))
+    new("Collection", name = name, data = data, recordIdColumn = recordIdColumn, ancestorIdColumns = ancestorIdColumns)
 })
 
 #' @export 
-setMethod("Collection", signature("character", "character", "character"), function(name, data, recordIdColumn) {
+setMethod("Collection", signature("character", "character", "character", "character"), function(name, data, recordIdColumn, ancestorIdColumns) {
     data <- data.table::fread(data)
-    new("Collection", name =name, data = data, recordIdColumn = recordIdColumn)
+    new("Collection", name =name, data = data, recordIdColumn = recordIdColumn, ancestorIdColumns = ancestorIdColumns)
 })
 
 #' @export
-setMethod("Collection", signature("missing", "missing", "missing"), function(name, data, recordIdColumn) {
+setMethod("Collection", signature("missing", "missing", "missing", "missing"), function(name, data, recordIdColumn, ancestorIdColumns) {
     new("Collection")
 })
 
@@ -113,7 +115,7 @@ collectionBuilder <- function(collectionId, dt) {
         name=getCollectionName(collectionId),
         data=dt[, c(recordIdColumn, findAncestorIdColumns,collectionColumns), with = FALSE],
         recordIdColumn=recordIdColumn,
-        findAncestorIdColumns=findAncestorIdColumns
+        ancestorIdColumns=findAncestorIdColumns
     )
 
     return(collection)

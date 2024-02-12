@@ -1,22 +1,3 @@
-findCollectionPrefix <- function(dataColNames) {
-
-    # this is the case where the id columns follow no format and the data columns follow `Name [CollectionId_VariableId]` format (downloads)
-    if (all(grepl("\\[", dataColNames, fixed = TRUE))) {
-        firstVarId <- strsplit(dataColNames[1], "\\[", fixed = TRUE)[[1]][1]
-        firstCollectionId <- strsplit(firstVarId, "_", fixed = TRUE)[[1]][1]
-        return(firstCollectionId)
-    }
-
-    # this presumably the case where the column headers follow the `entityId.variableId`` format (the eda services format)
-    if (all(grepl(".", dataColNames, fixed = TRUE))) {
-        firstVarId <- strsplit(dataColNames[1], ".", fixed = TRUE)[[1]][1]
-        firstCollectionId <- strsplit(firstVarId, "_", fixed = TRUE)[[1]][1]
-        return(firstCollectionId)
-    }
-
-    stop("Could not find collection prefix. Unrecognized format.")
-}
-
 check_collection <- function(object) {
     errors <- character()
     allIdColumns <- c(object@recordIdColumn, object@ancestorIdColumns)
@@ -39,7 +20,7 @@ check_collection <- function(object) {
         errors <- c(errors, msg)
     }
 
-    # check that all columns in data are numeric except recordIdColumn
+    # check that all columns in data are numeric except id columns
     dataColNames <- names(object@data)[!names(object@data) %in% allIdColumns]
     if (!all(sapply(object@data[, dataColNames], is.numeric))) {
         msg <- sprintf("all columns in data except '%s' must be numeric", paste(allIdColumns, collapse=", "))
@@ -49,13 +30,6 @@ check_collection <- function(object) {
     # check that all values are non-negative
     if (any(object@data[, dataColNames] < 0)) {
         msg <- sprintf("all values in data except '%s' must be non-negative", paste(allIdColumns, collapse=", "))
-        errors <- c(errors, msg)
-    }
-
-    # check that all column names start w the same prefix except ancestorIdColumns
-    collectionId <- findCollectionPrefix(dataColNames)
-    if (!all(grepl(collectionId, dataColNames, fixed = TRUE))) {
-        msg <- sprintf("all column names in data except '%s' must start with '%s'", paste(allIdColumns, collapse=", "), object@recordIdColumn)
         errors <- c(errors, msg)
     }
 
