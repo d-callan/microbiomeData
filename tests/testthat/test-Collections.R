@@ -4,36 +4,33 @@ test_that("we can create a new Collection", {
     expect_s4_class(collection, "Collection")
 
     # a manually populated one/ from a data frame
-    collection <- Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id")
+    collection <- Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "entity.id", "ancestor.y")
     expect_s4_class(collection, "Collection")
 
     # from a file
     fileName <- '../../inst/extdata/collection.tab'
-    collection <- Collection("my collection", fileName, "entity.id")
+    collection <- Collection("my collection", fileName, "entity.id", "ancestor.y")
     expect_s4_class(collection, "Collection")
 })
 
 test_that("Collection validation works", {
     # empty name fails
-    expect_error(Collection("", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id"))
+    expect_error(Collection("", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "entity.id", "ancestor.y"))
 
     # empty data fails
-    expect_error(Collection("my collection", data.frame(), "entity.id"))
+    expect_error(Collection("my collection", data.frame(), "entity.id", "ancestor.y"))
 
     # negative data values fail
-    expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = -1, entity.collection_y = 2), "entity.id"))
+    expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = -1, entity.collection_y = 2, ancestor.y = 1), "entity.id", "ancestor.y"))
 
-    # empty recordIdColumn fails
-    expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), ""))
+    # empty id column fails
+    expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "", "ancestor.y"))
+    expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "entity.id", ""))
+    expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "entity.id"))
 
-    # recordIdColumn not in data fails
+    # id column not in data fails
     expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.z"))
-
-    # ancestorIdColumns not in data fails
-    expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id", "entity.z"))
-
-    # all column names start w the same prefix except id columns or fails
-    expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.y = 2), "entity.id", "ancestor.id"))
+    expect_error(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id", "ancestor.y"))
 })
 
 test_that("we can make Collections", {
@@ -42,10 +39,10 @@ test_that("we can make Collections", {
     expect_s4_class(Collections, "Collections")
 
     # from a list of Collections
-    Collections <- Collections(list(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id")))
-    expect_s4_class(Collections, "Collections")
-
-    Collections <- Collections(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id"))
+    Collections <- Collections(list(
+        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "entity.id", "ancestor.y"), 
+        Collection("my collection 2", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "entity.id", "ancestor.y")
+    ))
     expect_s4_class(Collections, "Collections")
 
     # from a file
@@ -76,13 +73,13 @@ test_that("we can make Collections", {
 test_that("Collection validation works", {
     # duplicate names fails
     expect_error(Collections(list(
-        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id"),
-        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id")
+        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "entity.id", "ancestor.y"),
+        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "entity.id", "ancestor.y")
     )))
 
     # a collection w different ancestorIdColumns fails
     expect_error(Collections(list(
-        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id", "ancestor.y"),
-        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id", "ancestor.z")
+        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1), "entity.id", "ancestor.y"),
+        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.z = 1), "entity.id", "ancestor.z")
     )))
 })

@@ -1,3 +1,7 @@
+isNAorNonNegative <- function(x) {
+    return(is.na(x) | x >= 0)
+}
+
 check_collection <- function(object) {
     errors <- character()
     allIdColumns <- c(object@recordIdColumn, object@ancestorIdColumns)
@@ -27,8 +31,8 @@ check_collection <- function(object) {
         errors <- c(errors, msg)
     }
 
-    # check that all values are non-negative
-    if (any(object@data[, dataColNames] < 0)) {
+    # check that all values are non-negative or NA
+    if (any(!isNAorNonNegative(object@data[, dataColNames, with = FALSE]))) {
         msg <- sprintf("all values in data except '%s' must be non-negative", paste(allIdColumns, collapse=", "))
         errors <- c(errors, msg)
     }
@@ -68,6 +72,10 @@ check_collections <- function(object) {
     if (length(unique(names(object))) != length(object)) {
         msg <- "collection names must be unique"
         errors <- c(errors, msg)
+    }
+
+    if (length(object) == 0) {
+        return(TRUE)
     }
 
     # check that at least one ancestorIdColumn is shared between collections

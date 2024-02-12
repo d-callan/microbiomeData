@@ -5,14 +5,14 @@ test_that("we can create a new MbioDataset", {
     
     # a manually populated one
     mbioDataset <- MbioDataset(
-        Collections("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id"), 
+        Collections(list(Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id", "ancestor.y"))), 
         SampleMetadata()
     )
     expect_s4_class(mbioDataset, "MbioDataset")   
 
     # from a Collection object and SampleMetadata
     mbioDataset <- MbioDataset(
-        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id"), 
+        Collection("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id", "ancestor.y"), 
         SampleMetadata()
     )
     expect_s4_class(mbioDataset, "MbioDataset")

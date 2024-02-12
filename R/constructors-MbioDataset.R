@@ -1,4 +1,6 @@
 # TODO need to accept an ontologyMapping file as well, and use it to update names of collections and variables to human readable names.
+# TODO consider that the Collection constructors should take a single object, and work like collectionBuilder. then remove collectionBuilder.
+# TODO consider ways to validate input files as our own download files.
 
 #' Create a Collection
 #' 
@@ -50,30 +52,35 @@ setMethod("Collection", signature("missing", "missing", "missing", "missing"), f
 
 findCollectionId <- function(dataColName) {
     # this is the case where the id columns follow no format and the data columns follow `Name [CollectionId_VariableId]` format (downloads)
-    if (grepl("\\[", dataColName, fixed = TRUE)) {
-        varId <- strsplit(dataColName, "\\[", fixed = TRUE)[[1]][1]
-        collectionId <- strsplit(varId, "_", fixed = TRUE)[[1]][1]
+    if (grepl("\\[", dataColName)) {
+        varId <- strsplit(dataColName, "\\[")[[1]][2]
+        collectionId <- regmatches(varId,regexpr("^([^_]*_[^_]*)",varId))
         return(collectionId)
     }
 
-    # this presumably the case where the column headers follow the `entityId.variableId`` format (the eda services format)
+    # this presumably the case where the column headers follow the `entityId.variableId` format (the eda services format)
     if (grepl(".", dataColName, fixed = TRUE)) {
         varId <- strsplit(dataColName, ".", fixed = TRUE)[[1]][1]
         collectionId <- strsplit(varId, "_", fixed = TRUE)[[1]][1]
         return(collectionId)
     }
 
-    stop("Could not find collection ids. Unrecognized format.")
+    stop((sprintf("Could not find collection id for column: %s. Unrecognized format.", dataColName)))
 }
 
 findCollectionIds <- function(dataColNames) {
-    return(unique(sapply(dataColNames, findCollectionId)))
+    recordIdColumn <- findRecordIdColumn(dataColNames)
+    ancestorIdColumns <- findAncestorIdColumns(dataColNames)
+    variableColNames <- dataColNames[!dataColNames %in% c(recordIdColumn,ancestorIdColumns)]
+
+    return(unique(unlist(sapply(variableColNames, findCollectionId))))
 }
 
 # TODO add support for eda services format to these helpers
 findRecordIdColumn <- function(dataColNames) {
     # for now assume were working w bulk download files, which means its the first column
-    return(dataColNames[1])
+    allIdColumns <- dataColNames[grepl("_Id", dataColNames, fixed=TRUE)]
+    return(allIdColumns[1])
 }
 
 findAncestorIdColumns <- function(dataColNames) {
@@ -82,25 +89,47 @@ findAncestorIdColumns <- function(dataColNames) {
     return(allIdColumns[2:length(allIdColumns)])
 }
 
-getDataFromSource <- function(dataSource) {
+getDataFromSource <- function(dataSource, keepIdsAndNumbersOnly = c(TRUE, FALSE)) {
+    keepIdsAndNumbersOnly <- veupathUtils::matchArg(keepIdsAndNumbersOnly)
+
     if (inherits(dataSource, "character")) {
-        veupathUtils::logWithTime(sprintf("Attempting to read file: %s", dataSource))
+        veupathUtils::logWithTime(sprintf("Attempting to read file: %s", dataSource), verbose = TRUE)
         dt <- data.table::fread(dataSource)
     } else if (inherits(dataSource, "data.frame")) {
         dt <- data.table::as.data.table(dataSource)        
+    }
+
+    # theres probably a better way to do this..
+    # the idea is that some assay entities have things like presence/ absence of a bug. 
+    # they show up as character columns w values like 'Y' and 'N', but were not supporting these data for now.
+    if (keepIdsAndNumbersOnly) {
+        dataColNames <- names(dt)
+        recordIdColumn <- findRecordIdColumn(dataColNames)
+        ancestorIdColumns <- findAncestorIdColumns(dataColNames)
+        numericColumns <- dataColNames[which(sapply(dt,is.numeric))]
+        dt <- dt[, c(recordIdColumn, ancestorIdColumns, numericColumns), with=FALSE]
     }
 
     return(dt)
 }
 
 findCollectionDataColumns <- function(dataColNames, collectionId) {
-    return(grepl(collectionId, dataColNames, fixed=TRUE))
+    return(dataColNames[grepl(collectionId, dataColNames, fixed=TRUE)])
 }
 
 # TODO figure how to turn these into human readable somethings
 # maybe a manually curated named list here, or allow parsing of ontology file from downloads, or...
-getCollectionName <- function(collectionId) {
-    return(as.character(collectionId))
+# TODO will have to add dataSourceName mappings manually unless i think of something better..
+getCollectionName <- function(collectionId, dataSourceName) {
+    if (grepl("16S", dataSourceName, fixed=TRUE)) {
+        dataSourceName <- "16S"
+    }
+
+    if (grepl("Metagenomic", dataSourceName, fixed=TRUE)) {
+        dataSourceName <- "WGS"
+    }
+
+    return(paste(dataSourceName, collectionId))
 }
 
 # so i considered that these should be constructors or something maybe.. 
@@ -109,19 +138,21 @@ collectionBuilder <- function(collectionId, dt) {
     dataColNames <- names(dt)
     collectionColumns <- findCollectionDataColumns(dataColNames, collectionId)
     recordIdColumn <- findRecordIdColumn(dataColNames)
-    findAncestorIdColumns <- findAncestorIdColumns(dataColNames)
+    ancestorIdColumns <- findAncestorIdColumns(dataColNames)
 
     collection <- new("Collection", 
-        name=getCollectionName(collectionId),
-        data=dt[, c(recordIdColumn, findAncestorIdColumns,collectionColumns), with = FALSE],
+        name=getCollectionName(collectionId, recordIdColumn),
+        data=dt[, c(recordIdColumn, ancestorIdColumns, collectionColumns), with = FALSE],
         recordIdColumn=recordIdColumn,
-        ancestorIdColumns=findAncestorIdColumns
+        ancestorIdColumns=ancestorIdColumns
     )
 
     return(collection)
 }
 
 getCollectionsList <- function(dataSource) {
+    if (inherits(dataSource, "Collection")) return(dataSource)
+
     dt <- getDataFromSource(dataSource)
     dataColNames <- names(dt)
     collectionIds <- findCollectionIds(dataColNames)
@@ -189,7 +220,7 @@ setMethod("Collections", signature("character"), function(collections) {
 })
 
 sampleMetadataBuilder <- function(dataSource) {
-    dt <- getDataFromSource(dataSource)
+    dt <- getDataFromSource(dataSource, keepIdsAndNumbersOnly=FALSE)
     dataColNames <- names(dt)
     recordIdColumn <- findRecordIdColumn(dataColNames)
     findAncestorIdColumns <- findAncestorIdColumns(dataColNames)
