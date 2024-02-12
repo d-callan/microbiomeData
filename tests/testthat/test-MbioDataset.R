@@ -47,3 +47,39 @@ test_that("we can create a new MbioDataset", {
     expect_s4_class(mbioDataset, "MbioDataset")
     # TODO check that things have reasonable names and id columns
 })
+
+test_that("we can update collection names and get collections", {
+    mbioDataset <- MbioDataset(
+        Collections("my collection", data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2), "entity.id"), 
+        SampleMetadata()
+    )
+
+    testDataset <- updateCollectionName(mbioDataset, "my collection", "My Collection")
+
+    expect_equal(testDataset@collections[[1]]@name, "My Collection")
+    expect_equal(getCollectionNames(testDataset)[[1]], "My Collection")
+
+    testCollection <- getCollection(testDataset, "My Collection")
+    expect_s4_class(testCollection, "Collection")
+    expect_equal(testCollection@name, "My Collection")
+    expect_equal(testCollection@data, data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2))
+    expect_equal(testCollection@recordIdColumn, "entity.id")
+})
+
+test_that("we can get compute results in different formats", {
+    dataFile1 <- '../../inst/extdata/DiabImmune/DiabImmune_entity_16SRRNAV4Assay.txt'
+    metadataFile1 <- '../../inst/extdata/DiabImmune/DiabImmune_ParticipantRepeatedMeasure.txt'
+    dataFile2 <- '../../inst/extdata/DiabImmune/DiabImmune_MetagenomicSequencingAssay.txt'
+    metadataFile2 <- '../../inst/extdata/DiabImmune/DiabImmune_Participant.txt'
+    metadataFile3 <- '../../inst/extdata/DiabImmune/DiabImmune_Sample.txt'
+    mbioDataset <- MbioDataset(list(dataFile1, dataFile2), list(metadataFile1, metadataFile2, metadataFile3))
+
+    correlationOutput <- microbiomeComputations::correlation(getCollection(mbioDataset, "16S Genus"))
+    correlationDT <- getComputeResult(correlationOutput, "data.table")
+
+    expect_equal(inherits(correlationDT, "data.table"), TRUE)
+    expect_equal(c('data1', 'data2', 'correlationCoefficient', 'pvalue') %in% names(correlationDT), TRUE)
+
+    correlationIGraph <- getComputeResult(correlationOutput, "igraph")
+    expect_equal(inherits(correlationIGraph, "igraph"), TRUE)
+})
