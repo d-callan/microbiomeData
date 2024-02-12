@@ -186,6 +186,43 @@ setMethod("Collections", signature("character"), function(collections) {
     }
 })
 
+sampleMetadataBuilder <- function(dataSource) {
+    dt <- getDataFromSource(dataSource)
+    dataColNames <- names(dt)
+    recordIdColumn <- findRecordIdColumn(dataColNames)
+    findAncestorIdColumns <- findAncestorIdColumns(dataColNames)
+
+    sampleMetadata <- new("SampleMetadata",
+        data=dt,
+        recordIdColumn = recordIdColumn,
+        findAncestorIdColumns = findAncestorIdColumns
+    )
+
+    return(sampleMetadata)
+}
+
+# TODO turn this into a proper S4 method of SampleMetadata and put it in a different package?
+# this will not work for metadata across different branches of the tree. IDK if we have that case in mbio?
+mergeSampleMetadata <- function(x, y) {
+    uniqueAncestorIdColumns <- unique(x@findAncestorIdColumns, y@findAncestorIdColumns)
+    recordIdColumn <- ifelse(x@recordIdColumn %in% uniqueAncestorIdColumns, y@recordIdColumn, x@recordIdColumn)
+    data <- merge(x@data, y@data, by = uniqueAncestorIdColumns, all = TRUE)
+
+    sampleMetadata <- new("SampleMetadata",
+        data = data,
+        recordIdColumn = recordIdColumn,
+        findAncestorIdColumns = uniqueAncestorIdColumns
+    )
+
+    return(sampleMetadata)
+}
+
+sampleMetadataFromDataSources <- function(dataSources) {
+    sampleMetataList <- lapply(dataSources, sampleMetadataBuilder)
+    sampleMetadata <- purrr::reduce(sampleMetataList, mergeSampleMetadata)
+
+    return(sampleMetadata)
+}
 
 #' Create a Microbiome Dataset
 #' 
@@ -205,7 +242,7 @@ setMethod("MbioDataset", signature("missing", "missing"), function(collections, 
 
 #' @export
 setMethod("MbioDataset", signature("Collections", "data.frame"), function(collections, metadata) {
-    new("MbioDataset", collections = collections, metadata = SampleMetadata(metadata))
+    new("MbioDataset", collections = collections, metadata = sampleMetadataBuilder(metadata))
 })
 
 #' @export
@@ -215,40 +252,30 @@ setMethod("MbioDataset", signature("Collections", "missing"), function(collectio
 
 #' @export
 setMethod("MbioDataset", signature("Collection", "data.frame"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
-})
-
-#' @export
-setMethod("MbioDataset", signature("Collection", "missing"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections))
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
 })
 
 #' @export
 setMethod("MbioDataset", signature("list", "data.frame"), function(collections, metadata) {
-    # TODO make Collections from a list of files containing data
-    new("MbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
 })
 
 #' @export
 setMethod("MbioDataset", signature("list", "missing"), function(collections, metadata) {
-    # TODO make Collections from a list of files containing data
     new("MbioDataset", collections = Collections(collections))
 })
 
 #' @export
 setMethod("MbioDataset", signature("list", "list"), function(collections, metadata) {
-    # TODO make Collections and SampleMetadata from a list of files containing data
-    new("MbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
 })
 
 #' @export
 setMethod("MbioDataset", signature("data.frame", "missing"), function(collections, metadata) {
-    # TODO parse data frame into Collections
     new("MbioDataset", collections = Collections(collections))
 })
 
 #' @export
 setMethod("MbioDataset", signature("data.frame", "data.frame"), function(collections, metadata) {
-    # TODO parse data frame into Collections
-    new("MbioDataset", collections = Collections(collections), metadata = SampleMetadata(metadata))
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
 })
