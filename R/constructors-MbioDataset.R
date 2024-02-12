@@ -10,7 +10,7 @@ setGeneric("Collection", function(name, data, recordIdColumn) standardGeneric("C
 
 #' @export
 setMethod("Collection", signature("character", "data.frame", "character"), function(name, data, recordIdColumn) {
-    data <- setDT(data)
+    data <- data.table::setDT(data)
     new("Collection", name = name, data = data, recordIdColumn = recordIdColumn)
 })
 
@@ -19,7 +19,7 @@ setMethod("Collection", signature("character", "data.frame", "missing"), functio
     # TODO find recordIdColumn, maybe an arg to say if the first column is the record id
     warning("recordIdColumn not specified, assuming first column is record id")
     recordIdColumn <- names(data)[1]
-    data <- setDT(data)
+    data <- data.table::setDT(data)
     new("Collection", name = name, data = data, recordIdColumn = recordIdColumn)
 })
 
