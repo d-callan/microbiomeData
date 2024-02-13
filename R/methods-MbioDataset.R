@@ -50,23 +50,28 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
     collection <- object@collections[collectionName][[1]]
     collectionIdColumns <- c(collection@recordIdColumn, collection@ancestorIdColumns)
 
-    # need to be sure sample metadata contains only the relevant rows, actually having assay data
-    # also need to make sure it has the assay record id column
-    sampleMetadataDT <- data.table::setDT(merge(
-        object@metadata@data, 
-        collection@data[, collectionIdColumns, with = FALSE], 
-        by = c(object@metadata@ancestorIdColumns, object@metadata@recordIdColumn)
-    ))
+    if (!!length(object@metadata@data)) {
+        # need to be sure sample metadata contains only the relevant rows, actually having assay data
+        # also need to make sure it has the assay record id column
+        sampleMetadataDT <- data.table::setDT(merge(
+            object@metadata@data, 
+            collection@data[, collectionIdColumns, with = FALSE], 
+            by = c(object@metadata@ancestorIdColumns, object@metadata@recordIdColumn)
+        ))
 
-    # also need to make sure they are in the same order
-    data.table::setorderv(sampleMetadataDT, cols=collection@recordIdColumn)
-    data.table::setorderv(collection@data, cols=collection@recordIdColumn)
+        # also need to make sure they are in the same order
+        data.table::setorderv(sampleMetadataDT, cols=collection@recordIdColumn)
+        data.table::setorderv(collection@data, cols=collection@recordIdColumn)
 
-    sampleMetadata <- new("SampleMetadata",
-        data = sampleMetadataDT,
-        recordIdColumn = collection@recordIdColumn,
-        ancestorIdColumns = collection@ancestorIdColumns
-    )
+        sampleMetadata <- new("SampleMetadata",
+            data = sampleMetadataDT,
+            recordIdColumn = collection@recordIdColumn,
+            ancestorIdColumns = collection@ancestorIdColumns
+        )
+    } else {
+        sampleMetadata <- object@metadata
+    }
+    
 
     abundanceData <- microbiomeComputations::AbundanceData(
         data = collection@data, 
@@ -101,7 +106,7 @@ setMethod("getComputeResult", "ComputeResult", function(object, format = c("data
         return(getComputeResult(object@statistics, format))
     }
 
-    return(object@data)  
+    return(data.table::setDT(object@data))  
 })
 
 #' @importFrom microbiomeComputations CorrelationResult
@@ -113,12 +118,12 @@ setMethod("getComputeResult", "CorrelationResult", function(object, format = c("
         stop("igraph not yet supported")
     }
 
-    return(object@statistics)  
+    return(data.table::setDT(object@statistics))  
 })
 
 #' @importFrom microbiomeComputations DifferentialAbundanceResult
 #' @export
 setMethod("getComputeResult", "DifferentialAbundanceResult", function(object, format = c("data.table")) {
     format <- veupathUtils::matchArg(format) 
-    return(object@statistics)
+    return(data.table::setDT(object@statistics))
 })
