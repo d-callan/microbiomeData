@@ -1,7 +1,3 @@
-# TODO need to accept an ontologyMapping file as well, and use it to update names of collections and variables to human readable names.
-# TODO consider that the Collection constructors should take a single object, and work like collectionBuilder. then remove collectionBuilder.
-# TODO consider ways to validate input files as our own download files.
-
 #' Create a Collection
 #' 
 #' This is a constructor for the Collection class. It creates a Collection
@@ -76,7 +72,6 @@ findCollectionIds <- function(dataColNames) {
     return(unique(unlist(sapply(variableColNames, findCollectionId))))
 }
 
-# TODO add support for eda services format to these helpers
 findRecordIdColumn <- function(dataColNames) {
     # for now assume were working w bulk download files, which means its the first column
     allIdColumns <- dataColNames[grepl("_Id", dataColNames, fixed=TRUE)]
@@ -121,9 +116,6 @@ findCollectionDataColumns <- function(dataColNames, collectionId) {
     return(dataColNames[grepl(collectionId, dataColNames, fixed=TRUE)])
 }
 
-# TODO figure how to turn these into human readable somethings
-# maybe a manually curated named list here, or allow parsing of ontology file from downloads, or...
-# TODO will have to add dataSourceName mappings manually unless i think of something better..
 getCollectionName <- function(collectionId, dataSourceName) {
     if (grepl("16S", dataSourceName, fixed=TRUE)) {
         dataSourceName <- "16S"
@@ -195,7 +187,6 @@ setMethod("Collections", signature("list"), function(collections) {
     if (length(collections) == 0) {
         new("Collections")
     } else {
-        # TODO this wont work if the list is already a list of Collection objects
         collectionsBuilder(collections)
     }
 })
@@ -238,8 +229,6 @@ sampleMetadataBuilder <- function(dataSource) {
     return(sampleMetadata)
 }
 
-# TODO turn this into a proper S4 method of SampleMetadata and put it in a different package?
-# this will not work for metadata across different branches of the tree. IDK if we have that case in mbio?
 mergeSampleMetadata <- function(x, y) {
     uniqueAncestorIdColumns <- unique(c(x@ancestorIdColumns, y@ancestorIdColumns))
     recordIdColumn <- ifelse(x@recordIdColumn %in% uniqueAncestorIdColumns, y@recordIdColumn, x@recordIdColumn)
