@@ -86,6 +86,10 @@ findRecordIdColumn <- function(dataColNames) {
 findAncestorIdColumns <- function(dataColNames) {
     # for now assume were working w bulk download files, which means they have '_Id'
     allIdColumns <- dataColNames[grepl("_Id", dataColNames, fixed=TRUE)]
+    if (length(allIdColumns) == 1) {
+        return(character(0))
+    }
+
     return(allIdColumns[2:length(allIdColumns)])
 }
 
@@ -107,7 +111,7 @@ getDataFromSource <- function(dataSource, keepIdsAndNumbersOnly = c(TRUE, FALSE)
         recordIdColumn <- findRecordIdColumn(dataColNames)
         ancestorIdColumns <- findAncestorIdColumns(dataColNames)
         numericColumns <- dataColNames[which(sapply(dt,is.numeric))]
-        dt <- dt[, c(recordIdColumn, ancestorIdColumns, numericColumns), with=FALSE]
+        dt <- dt[, unique(c(recordIdColumn, ancestorIdColumns, numericColumns)), with=FALSE]
     }
 
     return(dt)
@@ -237,7 +241,7 @@ sampleMetadataBuilder <- function(dataSource) {
 # TODO turn this into a proper S4 method of SampleMetadata and put it in a different package?
 # this will not work for metadata across different branches of the tree. IDK if we have that case in mbio?
 mergeSampleMetadata <- function(x, y) {
-    uniqueAncestorIdColumns <- unique(x@ancestorIdColumns, y@ancestorIdColumns)
+    uniqueAncestorIdColumns <- unique(c(x@ancestorIdColumns, y@ancestorIdColumns))
     recordIdColumn <- ifelse(x@recordIdColumn %in% uniqueAncestorIdColumns, y@recordIdColumn, x@recordIdColumn)
     data <- merge(x@data, y@data, by = uniqueAncestorIdColumns, all = TRUE)
 

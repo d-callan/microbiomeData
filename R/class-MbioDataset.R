@@ -80,7 +80,7 @@ check_collections <- function(object) {
 
     # check that at least one ancestorIdColumn is shared between collections
     firstCollectionAncestorIds <- object[[1]]@ancestorIdColumns
-    if (!all(lapply(object, function(x) any(x@ancestorIdColumns %in% firstCollectionAncestorIds)))) {
+    if (!all(sapply(object, function(x) any(x@ancestorIdColumns %in% firstCollectionAncestorIds)))) {
         msg <- "at least one ancestorIdColumn must be shared between collections"
         errors <- c(errors, msg)
     }

@@ -47,11 +47,32 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
         stop(sprintf("Collection '%s' does not exist", collectionName))
     }
 
+    collection <- object@collections[collectionName][[1]]
+    collectionIdColumns <- c(collection@recordIdColumn, collection@ancestorIdColumns)
+
+    # need to be sure sample metadata contains only the relevant rows, actually having assay data
+    # also need to make sure it has the assay record id column
+    sampleMetadataDT <- data.table::setDT(merge(
+        object@metadata@data, 
+        collection@data[, collectionIdColumns, with = FALSE], 
+        by = c(object@metadata@ancestorIdColumns, object@metadata@recordIdColumn)
+    ))
+
+    # also need to make sure they are in the same order
+    data.table::setorderv(sampleMetadataDT, cols=collection@recordIdColumn)
+    data.table::setorderv(collection@data, cols=collection@recordIdColumn)
+
+    sampleMetadata <- new("SampleMetadata",
+        data = sampleMetadataDT,
+        recordIdColumn = collection@recordIdColumn,
+        ancestorIdColumns = collection@ancestorIdColumns
+    )
+
     abundanceData <- microbiomeComputations::AbundanceData(
-        data = object@collections[collectionName][[1]]@data, 
-        sampleMetadata = object@metadata, 
-        recordIdColumn = object@collections[collectionName][[1]]@recordIdColumn,
-        ancestorIdColumns = object@collections[collectionName][[1]]@ancestorIdColumns
+        data = collection@data, 
+        sampleMetadata = sampleMetadata, 
+        recordIdColumn = collection@recordIdColumn,
+        ancestorIdColumns = collection@ancestorIdColumns
     )
 
     return(abundanceData)
