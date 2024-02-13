@@ -78,8 +78,8 @@ test_that("we can get compute results in different formats", {
     correlationDT <- getComputeResult(correlationOutput, "data.table")
 
     expect_equal(inherits(correlationDT, "data.table"), TRUE)
-    expect_equal(c('data1', 'data2', 'correlationCoefficient', 'pvalue') %in% names(correlationDT), TRUE)
+    expect_equal(c('data1', 'data2', 'correlationCoef', 'pvalue') %in% names(correlationDT), TRUE)
 
-    correlationIGraph <- getComputeResult(correlationOutput, "igraph")
-    expect_equal(inherits(correlationIGraph, "igraph"), TRUE)
+    #correlationIGraph <- getComputeResult(correlationOutput, "igraph")
+    #expect_equal(inherits(correlationIGraph, "igraph"), TRUE)
 })

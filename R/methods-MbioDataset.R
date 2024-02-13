@@ -97,6 +97,10 @@ setMethod("getComputeResult", "ComputeResult", function(object, format = c("data
         stop("igraph not yet supported")
     }
 
+    if (nrow(object@data) == 0) {
+        return(getComputeResult(object@statistics, format))
+    }
+
     return(object@data)  
 })
 
