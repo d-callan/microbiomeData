@@ -228,7 +228,7 @@ sampleMetadataBuilder <- function(dataSource) {
     sampleMetadata <- new("SampleMetadata",
         data=dt,
         recordIdColumn = recordIdColumn,
-        ancestorIdColumns = findAncestorIdColumns
+        ancestorIdColumns = ancestorIdColumns
     )
 
     return(sampleMetadata)

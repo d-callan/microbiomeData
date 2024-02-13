@@ -112,7 +112,7 @@ check_mbio_dataset <- function(object) {
     # check that at least some ancestorIdColumns are shared between collections and sampleMetadata
     sampleMetadataAncestorIds <- object@metadata@ancestorIdColumns
     if (!!length(sampleMetadataAncestorIds)) {
-        if (!all(lapply(object@collections, function(x) any(x@ancestorIdColumns %in% sampleMetadataAncestorIds)))) {
+        if (!all(sapply(object@collections, function(x) any(x@ancestorIdColumns %in% sampleMetadataAncestorIds)))) {
             msg <- "at least one ancestorIdColumn must be shared between collections and sampleMetadata"
             errors <- c(errors, msg)
         }

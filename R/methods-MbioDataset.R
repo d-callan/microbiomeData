@@ -48,10 +48,10 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
     }
 
     abundanceData <- microbiomeComputations::AbundanceData(
-        data = object@collections[[collectionName]][[1]]@data, 
-        sampleMetadata = sampleMetadataBuilder(object@metadata), 
-        recordIdColumn = object@collections[[collectionName]][[1]]@recordIdColumn,
-        ancestorIdColumns = object@collections[[collectionName]][[1]]@ancestorIdColumns
+        data = object@collections[collectionName][[1]]@data, 
+        sampleMetadata = object@metadata, 
+        recordIdColumn = object@collections[collectionName][[1]]@recordIdColumn,
+        ancestorIdColumns = object@collections[collectionName][[1]]@ancestorIdColumns
     )
 
     return(abundanceData)
@@ -94,6 +94,6 @@ setMethod("getComputeResult", "CorrelationResult", function(object, format = c("
 #' @importFrom microbiomeComputations DifferentialAbundanceResult
 #' @export
 setMethod("getComputeResult", "DifferentialAbundanceResult", function(object, format = c("data.table")) {
-    format <- veupathUtils::matchArg(format)
+    format <- veupathUtils::matchArg(format) 
     return(object@statistics)
 })

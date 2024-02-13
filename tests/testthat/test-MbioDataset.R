@@ -60,10 +60,10 @@ test_that("we can update collection names and get collections", {
     expect_equal(getCollectionNames(testDataset)[[1]], "My Collection")
 
     testCollection <- getCollection(testDataset, "My Collection")
-    expect_s4_class(testCollection, "Collection")
-    expect_equal(testCollection@name, "My Collection")
-    expect_equal(testCollection@data, data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2))
+    expect_s4_class(testCollection, "AbundanceData")
+    expect_equal(testCollection@data, data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1))
     expect_equal(testCollection@recordIdColumn, "entity.id")
+    expect_equal(testCollection@ancestorIdColumns, "ancestor.y")
 })
 
 test_that("we can get compute results in different formats", {
@@ -74,7 +74,7 @@ test_that("we can get compute results in different formats", {
     metadataFile3 <- '../../inst/extdata/DiabImmune/DiabImmune_Sample.txt'
     mbioDataset <- MbioDataset(list(dataFile1, dataFile2), list(metadataFile1, metadataFile2, metadataFile3))
 
-    correlationOutput <- microbiomeComputations::correlation(getCollection(mbioDataset, "16S Genus"))
+    correlationOutput <- microbiomeComputations::correlation(getCollection(mbioDataset, "16S EUPATH_0009256")) ## Genus
     correlationDT <- getComputeResult(correlationOutput, "data.table")
 
     expect_equal(inherits(correlationDT, "data.table"), TRUE)
