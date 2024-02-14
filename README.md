@@ -43,10 +43,11 @@ correlationResults <- correlation(myCollection)
 differentialAbundanceResults <- differentialAbundance(myCollection)
 ```
 
-This will give you a `ComputeResult` object, with slots for `data` and `statistics` that you can explore. These objects can be difficult to parse, so we're planning to either expand this package or maybe introduce a second one to help format these results in more usable and exciting ways! For now though, we have a primitive helper called `getComputeResult` which will return data.tables and you can use like this:
+This will give you a `ComputeResult` object, with slots for `data` and `statistics` that you can explore. These objects can be difficult to parse, so we're planning to either expand this package or maybe introduce a second one to help format these results in more usable and exciting ways! For now though, we have a primitive helper called `getComputeResult` which will return data.tables (and sometimes igraph objects) which you can use like this:
 
 ```R
 myCorrelationDT <- getComputeResult(correlationResults)
+myCorrelationGraph <- getComputeResult(correlationResults, format = 'igraph')
 ```
 
 ### Usage as a Package Dependency
@@ -91,7 +92,8 @@ If you are trying to add data a dataset to the package, then on your local machi
    #' @source <https://www.who.int/teams/global-tuberculosis-programme/data>
    "who" ## This is the name of your `MbioDataset` object
    ```
- 7. Make a Pull Request against this repo!
+ 7. Use `devtools::document()` to generate a man page for the MbioDataset.
+ 8. Make a Pull Request against this repo!
 
  See [PR #11](https://github.com/d-callan/microbiomeData/pull/11) for an example
 

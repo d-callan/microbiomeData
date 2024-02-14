@@ -116,7 +116,7 @@ findCollectionDataColumns <- function(dataColNames, collectionId) {
     return(dataColNames[grepl(collectionId, dataColNames, fixed=TRUE)])
 }
 
-getCollectionName <- function(collectionId, dataSourceName, ontology) {
+getCollectionName <- function(collectionId, dataSourceName, ontology = NULL) {
     if (grepl("16S", dataSourceName, fixed=TRUE)) {
         dataSourceName <- "16S"
     }
@@ -142,7 +142,7 @@ getCollectionName <- function(collectionId, dataSourceName, ontology) {
 
 # so i considered that these should be constructors or something maybe.. 
 # but i mean them to only ever be used internally so im not going to worry about it until something forces me to
-collectionBuilder <- function(collectionId, dt, ontology) {
+collectionBuilder <- function(collectionId, dt, ontology = NULL) {
     dataColNames <- names(dt)
     collectionColumns <- findCollectionDataColumns(dataColNames, collectionId)
     recordIdColumn <- findRecordIdColumn(dataColNames)
@@ -158,7 +158,7 @@ collectionBuilder <- function(collectionId, dt, ontology) {
     return(collection)
 }
 
-getCollectionsList <- function(dataSource, ontology) {
+getCollectionsList <- function(dataSource, ontology = NULL) {
     if (inherits(dataSource, "Collection")) return(dataSource)
 
     dt <- getDataFromSource(dataSource)
@@ -170,7 +170,7 @@ getCollectionsList <- function(dataSource, ontology) {
     return(collections)
 }
 
-collectionsBuilder <- function(dataSources, ontology) {
+collectionsBuilder <- function(dataSources, ontology = NULL) {
     collectionsLists <- lapply(dataSources, getCollectionsList, ontology)
     collections <- unlist(collectionsLists, recursive = FALSE)
 
