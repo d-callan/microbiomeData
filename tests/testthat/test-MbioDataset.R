@@ -64,6 +64,12 @@ test_that("we can update collection names and get collections", {
     expect_equal(testCollection@data, data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1))
     expect_equal(testCollection@recordIdColumn, "entity.id")
     expect_equal(testCollection@ancestorIdColumns, "ancestor.y")
+
+    testCollection <- getCollection(testDataset, "My Collection", "Collection")
+    expect_s4_class(testCollection, "Collection")
+
+    testCollection <- getCollection(testDataset, "My Collection", "phyloseq")
+    expect_s4_class(testCollection, "phyloseq")
 })
 
 test_that("we can get compute results in different formats", {
