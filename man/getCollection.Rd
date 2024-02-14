@@ -7,7 +7,8 @@
 getCollection(
   object,
   collectionName,
-  format = c("AbundanceData", "phyloseq", "Collection")
+  format = c("AbundanceData", "phyloseq", "Collection"),
+  continuousMetadataOnly = c(FALSE, TRUE)
 )
 }
 \arguments{
