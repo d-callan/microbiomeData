@@ -95,11 +95,15 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
 setGeneric("getComputeResult", function(object, format = c("data.table")) standardGeneric("getComputeResult"))
 
 #' @export
-setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table")) {
+setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table", "igraph")) {
     format <- veupathUtils::matchArg(format)
 
     if (nrow(object@data) == 0) {
         return(getComputeResult(object@statistics, format))
+    } else {
+        if (format == "igraph") {
+            stop("igraph not yet supported")
+        }
     }
 
     return(data.table::setDT(object@data))  
