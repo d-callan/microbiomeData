@@ -41,7 +41,8 @@ Once you have `myCollection`, you can start using our `microbiomeComputations` p
 ```R
 correlationResults <- correlation(myCollection)
 
-## for differential abundance you'll need a Comparator. Hopefully we can make it easier to build these soon. For now, see example below:
+## for differential abundance you'll need a Comparator. 
+## Hopefully we can make it easier to build these soon. For now, see example below:
 comparatorVariable <- microbiomeComputations::Comparator(
                           variable = veupathUtils::VariableMetadata(
                             variableSpec = VariableSpec( 
