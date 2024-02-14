@@ -4,12 +4,18 @@
 \alias{getCollection}
 \title{Get Microbiome Dataset Collection}
 \usage{
-getCollection(object, collectionName)
+getCollection(
+  object,
+  collectionName,
+  format = c("AbundanceData", "phyloseq", "Collection")
+)
 }
 \arguments{
 \item{object}{A Microbiome Dataset}
 
 \item{collectionName}{The name of the collection to return}
+
+\item{format}{The format of the collection to return. Currently supported options are "AbundanceData", "phyloseq", and "Collection".}
 }
 \value{
 An AbundanceData object representing the collection and any associated study metadata
