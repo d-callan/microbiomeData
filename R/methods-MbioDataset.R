@@ -40,9 +40,10 @@ setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newNa
 #' @importFrom phyloseq phyloseq
 #' @importFrom microbiomeComputations SampleMetadata
 #' @export
-setGeneric("getCollection", function(object, collectionName, format = c("AbundanceData", "phyloseq", "Collection")) standardGeneric("getCollection"))
-setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0), format = c("AbundanceData", "phyloseq", "Collection")) {
+setGeneric("getCollection", function(object, collectionName, format = c("AbundanceData", "phyloseq", "Collection"), continuousMetadataOnly = c(FALSE, TRUE)) standardGeneric("getCollection"))
+setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0), format = c("AbundanceData", "phyloseq", "Collection"), continuousMetadataOnly = c(FALSE, TRUE)) {
     format <- veupathUtils::matchArg(format)
+    continuousMetadataOnly <- veupathUtils::matchArg(continuousMetadataOnly)
     
     if (length(collectionName) == 0) {
         stop("Must specify a collection name")
@@ -68,6 +69,14 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
             collectionDT[, collectionIdColumns, with = FALSE], 
             by = c(object@metadata@ancestorIdColumns, object@metadata@recordIdColumn)
         ))
+
+        # if we only want continuous metadata, only keep numeric columns
+        # means we lose dates, but i think thats ok for now
+        if (continuousMetadataOnly) {
+            metadataColNames <- names(sampleMetadataDT)
+            numericColumns <- metadataColNames[which(sapply(sampleMetadataDT,is.numeric))]
+            sampleMetadataDT <- sampleMetadataDT[, unique(c(collectionIdColumns, numericColumns)), with=FALSE]
+        }
 
         # also need to make sure they are in the same order
         data.table::setorderv(sampleMetadataDT, cols=collection@recordIdColumn)
