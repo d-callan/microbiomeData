@@ -88,8 +88,41 @@ findAncestorIdColumns <- function(dataColNames) {
     return(allIdColumns[2:length(allIdColumns)])
 }
 
-getDataFromSource <- function(dataSource, keepIdsAndNumbersOnly = c(TRUE, FALSE)) {
+clean_names <- function(.data, unique = FALSE) {
+    names <- if (is.data.frame(.data)) colnames(.data) else .data
+
+    # TODO remove IRIs
+
+    names <- gsub("%+", "_pct_", names)
+    names <- gsub("\\$+", "_dollars_", names)
+    names <- gsub("\\++", "_plus_", names)
+    names <- gsub("-+", "_minus_", names)
+    names <- gsub("\\*+", "_star_", names)
+    names <- gsub("#+", "_cnt_", names)
+    names <- gsub("&+", "_and_", names)
+    names <- gsub("@+", "_at_", names)
+
+    names <- gsub("[^a-zA-Z0-9_]+", "_", names)
+    names <- gsub("([A-Z][a-z])", "_\\1", names)
+    names <- tolower(trimws(names))
+
+    names <- gsub("(^_+|_+$)", "", names)
+
+    names <- gsub("_+", "_", names)
+
+    if (unique) names <- make.unique(names, sep = "_")
+
+    if (is.data.frame(.data)) {
+        colnames(.data) <- names
+        .data
+    } else {
+        names
+    }
+}
+
+getDataFromSource <- function(dataSource, keepIdsAndNumbersOnly = c(TRUE, FALSE), cleanColumnNames = c(FALSE, TRUE)) {
     keepIdsAndNumbersOnly <- veupathUtils::matchArg(keepIdsAndNumbersOnly)
+    cleanColumnNames <- veupathUtils::matchArg(cleanColumnNames)
 
     if (inherits(dataSource, "character")) {
         veupathUtils::logWithTime(sprintf("Attempting to read file: %s", dataSource), verbose = TRUE)
@@ -107,6 +140,10 @@ getDataFromSource <- function(dataSource, keepIdsAndNumbersOnly = c(TRUE, FALSE)
         ancestorIdColumns <- findAncestorIdColumns(dataColNames)
         numericColumns <- dataColNames[which(sapply(dt,is.numeric))]
         dt <- dt[, unique(c(recordIdColumn, ancestorIdColumns, numericColumns)), with=FALSE]
+    }
+
+    if (cleanColumnNames) {
+        dt <- clean_names(dt)
     }
 
     return(dt)
@@ -249,7 +286,7 @@ setMethod("Collections", signature("character", "missing"), function(collections
 })
 
 sampleMetadataBuilder <- function(dataSource) {
-    dt <- getDataFromSource(dataSource, keepIdsAndNumbersOnly=FALSE)
+    dt <- getDataFromSource(dataSource, keepIdsAndNumbersOnly=FALSE, cleanColumnNames=TRUE)
     dataColNames <- names(dt)
     recordIdColumn <- findRecordIdColumn(dataColNames)
     ancestorIdColumns <- findAncestorIdColumns(dataColNames)
