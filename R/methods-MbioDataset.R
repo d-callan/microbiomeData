@@ -95,12 +95,8 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
 setGeneric("getComputeResult", function(object, format = c("data.table")) standardGeneric("getComputeResult"))
 
 #' @export
-setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table", "igraph")) {
+setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table")) {
     format <- veupathUtils::matchArg(format)
-
-    if (format == "igraph") {
-        stop("igraph not yet supported")
-    }
 
     if (nrow(object@data) == 0) {
         return(getComputeResult(object@statistics, format))
@@ -114,11 +110,13 @@ setMethod("getComputeResult", "ComputeResult", function(object, format = c("data
 setMethod("getComputeResult", "CorrelationResult", function(object, format = c("data.table", "igraph")) {
     format <- veupathUtils::matchArg(format)
 
+    result <- data.table::setDT(object@statistics)
+
     if (format == "igraph") {
-        stop("igraph not yet supported")
+        result <- igraph::graph_from_data_frame(result)
     }
 
-    return(data.table::setDT(object@statistics))  
+    return(result)  
 })
 
 #' @importFrom microbiomeComputations DifferentialAbundanceResult
