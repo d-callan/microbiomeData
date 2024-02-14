@@ -93,5 +93,7 @@ If you are trying to add data a dataset to the package, then on your local machi
    ```
  7. Make a Pull Request against this repo!
 
+ See [PR #11](https://github.com/d-callan/microbiomeData/pull/11) for an example
+
 ## License
 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
