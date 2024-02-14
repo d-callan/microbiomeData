@@ -4,7 +4,7 @@
 \alias{MbioDataset}
 \title{Create a Microbiome Dataset}
 \usage{
-MbioDataset(collections, metadata)
+MbioDataset(collections, metadata, ontology)
 }
 \arguments{
 \item{collections}{A list of Collection objects, a data.frame containing multiple collections,
@@ -12,6 +12,9 @@ or a character vector containing one or more file path(s)}
 
 \item{metadata}{A SampleMetadata object, a data.frame containing sample metadata,
 or a list of file path(s)}
+
+\item{ontology}{An data.frame containing the ontology of the dataset, or a character vector
+containing a file path to a data.frame}
 }
 \description{
 This is a constructor for the MbioDataset class. It creates a MbioDataset containing

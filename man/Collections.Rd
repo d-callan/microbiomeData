@@ -4,11 +4,16 @@
 \alias{Collections}
 \title{Create Collections}
 \usage{
-Collections(collections)
+Collections(collections, ontology)
 }
 \arguments{
 \item{collections}{A list of Collection objects, a data.frame containing multiple
 collections, or a character vector containing a file path to a data.frame}
+
+\item{ontology}{A data.frame containing the ontology for the dataset}
+}
+\value{
+A Collections object
 }
 \description{
 This is a constructor for the Collections class. It creates a Collections

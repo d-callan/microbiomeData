@@ -72,9 +72,10 @@ test_that("we can get compute results in different formats", {
     dataFile2 <- '../../inst/extdata/DiabImmune/DiabImmune_MetagenomicSequencingAssay.txt'
     metadataFile2 <- '../../inst/extdata/DiabImmune/DiabImmune_Participant.txt'
     metadataFile3 <- '../../inst/extdata/DiabImmune/DiabImmune_Sample.txt'
-    mbioDataset <- MbioDataset(list(dataFile1, dataFile2), list(metadataFile1, metadataFile2, metadataFile3))
+    ontologyFile <- '../../inst/extdata/DiabImmune/DiabImmune_OntologyMetadata.txt'
+    mbioDataset <- MbioDataset(list(dataFile1, dataFile2), list(metadataFile1, metadataFile2, metadataFile3), ontologyFile)
 
-    correlationOutput <- microbiomeComputations::selfCorrelation(getCollection(mbioDataset, "16S EUPATH_0009256"), method='spearman', verbose=FALSE) ## Genus
+    correlationOutput <- microbiomeComputations::selfCorrelation(getCollection(mbioDataset, "16S Genus"), method='spearman', verbose=FALSE) ## Genus
     correlationDT <- getComputeResult(correlationOutput, "data.table")
 
     expect_equal(inherits(correlationDT, "data.table"), TRUE)

@@ -116,7 +116,7 @@ findCollectionDataColumns <- function(dataColNames, collectionId) {
     return(dataColNames[grepl(collectionId, dataColNames, fixed=TRUE)])
 }
 
-getCollectionName <- function(collectionId, dataSourceName) {
+getCollectionName <- function(collectionId, dataSourceName, ontology) {
     if (grepl("16S", dataSourceName, fixed=TRUE)) {
         dataSourceName <- "16S"
     }
@@ -125,19 +125,31 @@ getCollectionName <- function(collectionId, dataSourceName) {
         dataSourceName <- "WGS"
     }
 
+    if (!is.null(ontology)) {
+        # this assumes were getting one of our own ontology download files
+        # w columns like `iri` and `label`
+        collectionLabel <- unique(ontology$label[ontology$iri == collectionId])
+
+        if (length(collectionLabel) == 1) {
+            return(paste(dataSourceName, collectionLabel))
+        } else {
+            warning("Could not find collection label for collection id: ", collectionId)
+        }
+    }
+
     return(paste(dataSourceName, collectionId))
 }
 
 # so i considered that these should be constructors or something maybe.. 
 # but i mean them to only ever be used internally so im not going to worry about it until something forces me to
-collectionBuilder <- function(collectionId, dt) {
+collectionBuilder <- function(collectionId, dt, ontology) {
     dataColNames <- names(dt)
     collectionColumns <- findCollectionDataColumns(dataColNames, collectionId)
     recordIdColumn <- findRecordIdColumn(dataColNames)
     ancestorIdColumns <- findAncestorIdColumns(dataColNames)
 
     collection <- new("Collection", 
-        name=getCollectionName(collectionId, recordIdColumn),
+        name=getCollectionName(collectionId, recordIdColumn, ontology),
         data=dt[, c(recordIdColumn, ancestorIdColumns, collectionColumns), with = FALSE],
         recordIdColumn=recordIdColumn,
         ancestorIdColumns=ancestorIdColumns
@@ -146,20 +158,20 @@ collectionBuilder <- function(collectionId, dt) {
     return(collection)
 }
 
-getCollectionsList <- function(dataSource) {
+getCollectionsList <- function(dataSource, ontology) {
     if (inherits(dataSource, "Collection")) return(dataSource)
 
     dt <- getDataFromSource(dataSource)
     dataColNames <- names(dt)
     collectionIds <- findCollectionIds(dataColNames)
 
-    collections <- lapply(collectionIds, collectionBuilder, dt)
+    collections <- lapply(collectionIds, collectionBuilder, dt, ontology)
 
     return(collections)
 }
 
-collectionsBuilder <- function(dataSources) {
-    collectionsLists <- lapply(dataSources, getCollectionsList)
+collectionsBuilder <- function(dataSources, ontology) {
+    collectionsLists <- lapply(dataSources, getCollectionsList, ontology)
     collections <- unlist(collectionsLists, recursive = FALSE)
 
     collections <- new("Collections", collections)
@@ -174,16 +186,18 @@ collectionsBuilder <- function(dataSources) {
 #' Collection objects.
 #' @param collections A list of Collection objects, a data.frame containing multiple
 #'  collections, or a character vector containing a file path to a data.frame
+#' @param ontology A data.frame containing the ontology for the dataset
+#' @return A Collections object
 #' @export
-setGeneric("Collections", function(collections) standardGeneric("Collections"))
+setGeneric("Collections", function(collections, ontology) standardGeneric("Collections"))
 
 #' @export
-setMethod("Collections", signature("missing"), function(collections) {
+setMethod("Collections", signature("missing", "missing"), function(collections, ontology) {
     new("Collections")
 })
 
 #' @export
-setMethod("Collections", signature("list"), function(collections) {
+setMethod("Collections", signature("list", "missing"), function(collections, ontology) {
     if (length(collections) == 0) {
         new("Collections")
     } else {
@@ -192,7 +206,16 @@ setMethod("Collections", signature("list"), function(collections) {
 })
 
 #' @export
-setMethod("Collections", signature("data.frame"), function(collections) {
+setMethod("Collections", signature("list", "data.frame"), function(collections, ontology) {
+    if (length(collections) == 0) {
+        new("Collections")
+    } else {
+        collectionsBuilder(collections, ontology)
+    }
+})
+
+#' @export
+setMethod("Collections", signature("data.frame", "missing"), function(collections, ontology) {
     if (nrow(collections) == 0) {
         new("Collections")
     } else {
@@ -201,12 +224,23 @@ setMethod("Collections", signature("data.frame"), function(collections) {
 })
 
 #' @export
-setMethod("Collections", signature("Collection"), function(collections) {
+setMethod("Collections", signature("data.frame", "data.frame"), function(collections, ontology) {
+    if (nrow(collections) == 0) {
+        new("Collections")
+    } else {
+        collectionsBuilder(list(collections), ontology)
+    }  
+})
+
+# For these two cases, the MbioDataset constructor should have already warned the user
+# that ontology is not needed.
+#' @export
+setMethod("Collections", signature("Collection", "missing"), function(collections, ontology) {
     new("Collections", list(collections))
 })
 
 #' @export
-setMethod("Collections", signature("character"), function(collections) {
+setMethod("Collections", signature("character", "missing"), function(collections, ontology) {
     if (!length(collections) || collections == '') {
         new("Collections")
     } else {
@@ -250,6 +284,9 @@ sampleMetadataFromDataSources <- function(dataSources) {
     return(sampleMetadata)
 }
 
+
+##### I have never hated S4 so much... even ai assisted this was excruciating #####
+
 #' Create a Microbiome Dataset
 #' 
 #' This is a constructor for the MbioDataset class. It creates a MbioDataset containing
@@ -258,135 +295,407 @@ sampleMetadataFromDataSources <- function(dataSources) {
 #'  or a character vector containing one or more file path(s)
 #' @param metadata A SampleMetadata object, a data.frame containing sample metadata,
 #' or a list of file path(s)
+#' @param ontology An data.frame containing the ontology of the dataset, or a character vector
+#'  containing a file path to a data.frame
 #' @export
-setGeneric("MbioDataset", function(collections, metadata) standardGeneric("MbioDataset"))
+setGeneric("MbioDataset", function(collections, metadata, ontology) standardGeneric("MbioDataset"))
 
 #' @export
-setMethod("MbioDataset", signature("missing", "missing"), function(collections, metadata) {
+setMethod("MbioDataset", signature("missing", "missing", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset")
 })
 
 #' @export 
-setMethod("MbioDataset", signature("Collections", "SampleMetadata"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collections", "SampleMetadata", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = collections, metadata = metadata)
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collections", "SampleMetadata", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
+    new("MbioDataset", collections = collections, metadata = metadata)
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collections", "SampleMetadata", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
     new("MbioDataset", collections = collections, metadata = metadata)
 })
 
 #' @export
-setMethod("MbioDataset", signature("Collections", "data.frame"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collections", "data.frame", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = collections, metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collections", "data.frame", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
+    new("MbioDataset", collections = collections, metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collections", "data.frame", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
     new("MbioDataset", collections = collections, metadata = sampleMetadataBuilder(metadata))
 })
 
 #' @export 
-setMethod("MbioDataset", signature("Collections", "list"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collections", "list", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = collections, metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collections", "list", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
+    new("MbioDataset", collections = collections, metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collections", "list", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
     new("MbioDataset", collections = collections, metadata = sampleMetadataFromDataSources(metadata))
 })
 
 #' @export
-setMethod("MbioDataset", signature("Collections", "missing"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collections", "missing", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = collections)
 })
 
 #' @export
-setMethod("MbioDataset", signature("Collections", "character"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collections", "missing", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
+    new("MbioDataset", collections = collections, metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collections", "missing", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
+    new("MbioDataset", collections = collections, metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collections", "character", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = collections, metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collections", "character", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
+    new("MbioDataset", collections = collections, metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collections", "character", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collections object is provided.")
     new("MbioDataset", collections = collections, metadata = sampleMetadataFromDataSources(list(metadata)))
 })
 
 #' @export 
-setMethod("MbioDataset", signature("Collection", "SampleMetadata"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collection", "SampleMetadata", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections), metadata = metadata)
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collection", "SampleMetadata", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
+    new("MbioDataset", collections = Collections(collections), metadata = metadata)
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collection", "SampleMetadata", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
     new("MbioDataset", collections = Collections(collections), metadata = metadata)
 })
 
 #' @export
-setMethod("MbioDataset", signature("Collection", "data.frame"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collection", "data.frame", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collection", "data.frame", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collection", "data.frame", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
     new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
 })
 
 #' @export 
-setMethod("MbioDataset", signature("Collection", "list"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collection", "list", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
 })
 
 #' @export 
-setMethod("MbioDataset", signature("Collection", "missing"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collection", "list", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collection", "list", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("Collection", "missing", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = Collections(collections))
 })
 
 #' @export
-setMethod("MbioDataset", signature("Collection", "character"), function(collections, metadata) {
+setMethod("MbioDataset", signature("Collection", "missing", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collection", "missing", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collection", "character", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
 })
 
+#' @export
+setMethod("MbioDataset", signature("Collection", "character", "data.frame"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("Collection", "character", "character"), function(collections, metadata, ontology) {
+    warning("Ontology specified but not used when a Collection object is provided.")
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
 #' @export 
-setMethod("MbioDataset", signature("list", "SampleMetadata"), function(collections, metadata) {
+setMethod("MbioDataset", signature("list", "SampleMetadata", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = Collections(collections), metadata = metadata)
 })
 
 #' @export
-setMethod("MbioDataset", signature("list", "data.frame"), function(collections, metadata) {
+setMethod("MbioDataset", signature("list", "SampleMetadata", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = metadata)
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "SampleMetadata", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = metadata)
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "data.frame", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
 })
 
 #' @export
-setMethod("MbioDataset", signature("list", "missing"), function(collections, metadata) {
+setMethod("MbioDataset", signature("list", "data.frame", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "data.frame", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "missing", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = Collections(collections))
 })
 
 #' @export
-setMethod("MbioDataset", signature("list", "list"), function(collections, metadata) {
+setMethod("MbioDataset", signature("list", "missing", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "missing", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "list", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
 })
 
 #' @export
-setMethod("MbioDataset", signature("list", "character"), function(collections, metadata) {
+setMethod("MbioDataset", signature("list", "list", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "list", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "character", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "character", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export
+setMethod("MbioDataset", signature("list", "character", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("data.frame", "SampleMetadata", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections), metadata = metadata)
+})
+
+#' @export 
+setMethod("MbioDataset", signature("data.frame", "SampleMetadata", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = metadata)
+})
+
+#' @export 
+setMethod("MbioDataset", signature("data.frame", "SampleMetadata", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = metadata)
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "list", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "list", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "list", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "missing", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "missing", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "missing", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "data.frame", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "data.frame", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "data.frame", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "character", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "character", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export
+setMethod("MbioDataset", signature("data.frame", "character", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "character", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
 })
 
 #' @export 
-setMethod("MbioDataset", signature("data.frame", "SampleMetadata"), function(collections, metadata) {
+setMethod("MbioDataset", signature("character", "character", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "character", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataFromDataSources(list(metadata)))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "list", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "list", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "list", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataFromDataSources(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "missing", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "missing", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "missing", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "data.frame", "missing"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "data.frame", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export 
+setMethod("MbioDataset", signature("character", "data.frame", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = sampleMetadataBuilder(metadata))
+})
+
+#' @export
+setMethod("MbioDataset", signature("character", "SampleMetadata", "missing"), function(collections, metadata, ontology) {
     new("MbioDataset", collections = Collections(collections), metadata = metadata)
 })
 
 #' @export
-setMethod("MbioDataset", signature("data.frame", "list"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
+setMethod("MbioDataset", signature("character", "SampleMetadata", "data.frame"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, ontology), metadata = metadata)
 })
 
 #' @export
-setMethod("MbioDataset", signature("data.frame", "missing"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections))
-})
-
-#' @export
-setMethod("MbioDataset", signature("data.frame", "data.frame"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
-})
-
-#' export
-setMethod("MbioDataset", signature("data.frame", "character"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
-})
-
-#' @export 
-setMethod("MbioDataset", signature("character", "character"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(list(metadata)))
-})
-
-#' @export 
-setMethod("MbioDataset", signature("character", "list"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataFromDataSources(metadata))
-})
-
-#' @export 
-setMethod("MbioDataset", signature("character", "missing"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections))
-})
-
-#' @export 
-setMethod("MbioDataset", signature("character", "data.frame"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections), metadata = sampleMetadataBuilder(metadata))
-})
-
-#' @export
-setMethod("MbioDataset", signature("character", "SampleMetadata"), function(collections, metadata) {
-    new("MbioDataset", collections = Collections(collections), metadata = metadata)
+setMethod("MbioDataset", signature("character", "SampleMetadata", "character"), function(collections, metadata, ontology) {
+    new("MbioDataset", collections = Collections(collections, data.table::fread(ontology)), metadata = metadata)
 })
