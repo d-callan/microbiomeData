@@ -4,7 +4,7 @@
 \alias{Collection}
 \title{Create a Collection}
 \usage{
-Collection(name, data, recordIdColumn)
+Collection(name, data, recordIdColumn, ancestorIdColumns)
 }
 \arguments{
 \item{name}{The name of the collection}
