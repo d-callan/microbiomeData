@@ -20,10 +20,10 @@ This package could be used directly to explore data you've downloaded from Micro
 ### Direct Usage
 You can download data for a particular microbiome study from MicrobiomeDB.org. Data files from the website are organized by 'entity', with some entities representing sample metadata and others assay data. The assay data are organized into 'collections' where a particular collection might for example represent all abundances for a particular taxonomic rank for a particular assay. The column names in the assay data files are prepended with their collection id.
 
-You can pass lists of files to a method called `MbioDataset`. You can pass one list of files for any entities representing sample metadata and a second list of files for any entities representing assay data/ collections. If you got the files from our website, or have organized yours similarly enough, we'll parse them into the appropriate collections for you. That might look something like this:
+You can pass lists of files to a method called `MbioDataset`. You can pass one list of files for any entities representing sample metadata and a second list of files for any entities representing assay data/ collections. You can optionally pass an ontology file containing mappings between stable identifiers and human-readable labels for the data. If you got the files from the 'Full Dataset' Downloads section of our website, or have organized yours similarly enough, we'll parse them into the appropriate collections for you. That might look something like this:
 
 ```R
-myData <- MbioDataset(collections = list(fileA, fileB), metadata = list(fileD, fileE))
+myData <- MbioDataset(collections = list(fileA, fileB), metadata = list(fileD, fileE), ontology = fileZ)
 ```
 
 If you already read those files into R, you can do a similar thing except passing lists of data.frame or data.table objects and things will work the same.
