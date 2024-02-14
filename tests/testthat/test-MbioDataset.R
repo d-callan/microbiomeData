@@ -64,6 +64,12 @@ test_that("we can update collection names and get collections", {
     expect_equal(testCollection@data, data.frame(entity.id = 1, entity.collection_x = 1, entity.collection_y = 2, ancestor.y = 1))
     expect_equal(testCollection@recordIdColumn, "entity.id")
     expect_equal(testCollection@ancestorIdColumns, "ancestor.y")
+
+    testCollection <- getCollection(testDataset, "My Collection", "Collection")
+    expect_s4_class(testCollection, "Collection")
+
+    testCollection <- getCollection(testDataset, "My Collection", "phyloseq")
+    expect_s4_class(testCollection, "phyloseq")
 })
 
 test_that("we can get compute results in different formats", {
@@ -75,8 +81,12 @@ test_that("we can get compute results in different formats", {
     ontologyFile <- '../../inst/extdata/DiabImmune/DiabImmune_OntologyMetadata.txt'
     mbioDataset <- MbioDataset(list(dataFile1, dataFile2), list(metadataFile1, metadataFile2, metadataFile3), ontologyFile)
 
-    correlationOutput <- microbiomeComputations::selfCorrelation(getCollection(mbioDataset, "16S Genus"), method='spearman', verbose=FALSE) ## Genus
+    correlationOutput <- microbiomeComputations::selfCorrelation(getCollection(mbioDataset, "16S Genus"), method='spearman', verbose=FALSE)
     correlationDT <- getComputeResult(correlationOutput, "data.table")
+
+    # make sure continuousMetadataOnly flag works so we can do taxa X metadata correlations
+    genus <- getCollection(mbioDataset, "16S Genus", continuousMetadataOnly = TRUE)
+    correlationOutput <- microbiomeComputations::correlation(genus, method='spearman', verbose=FALSE)
 
     expect_equal(inherits(correlationDT, "data.table"), TRUE)
     expect_equal(all(c('data1', 'data2', 'correlationCoef', 'pValue') %in% names(correlationDT)), TRUE)

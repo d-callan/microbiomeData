@@ -34,11 +34,17 @@ setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newNa
 #' as an AbundanceData object.
 #' @param object A Microbiome Dataset
 #' @param collectionName The name of the collection to return
+#' @param format The format of the collection to return. Currently supported options are "AbundanceData", "phyloseq", and "Collection".
 #' @return An AbundanceData object representing the collection and any associated study metadata
 #' @importFrom microbiomeComputations AbundanceData
+#' @importFrom phyloseq phyloseq
+#' @importFrom microbiomeComputations SampleMetadata
 #' @export
-setGeneric("getCollection", function(object, collectionName) standardGeneric("getCollection"))
-setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0)) {
+setGeneric("getCollection", function(object, collectionName, format = c("AbundanceData", "phyloseq", "Collection"), continuousMetadataOnly = c(FALSE, TRUE)) standardGeneric("getCollection"))
+setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0), format = c("AbundanceData", "phyloseq", "Collection"), continuousMetadataOnly = c(FALSE, TRUE)) {
+    format <- veupathUtils::matchArg(format)
+    continuousMetadataOnly <- veupathUtils::matchArg(continuousMetadataOnly)
+    
     if (length(collectionName) == 0) {
         stop("Must specify a collection name")
     }
@@ -48,37 +54,84 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
     }
 
     collection <- object@collections[collectionName][[1]]
-    collectionIdColumns <- c(collection@recordIdColumn, collection@ancestorIdColumns)
+    if (format == "Collection") {
+        return(collection)
+    }
 
+    collectionDT <- data.table::setDT(collection@data)
+    collectionIdColumns <- c(collection@recordIdColumn, collection@ancestorIdColumns)
     if (!!length(object@metadata@data)) {
+
         # need to be sure sample metadata contains only the relevant rows, actually having assay data
         # also need to make sure it has the assay record id column
         sampleMetadataDT <- data.table::setDT(merge(
             object@metadata@data, 
-            collection@data[, collectionIdColumns, with = FALSE], 
+            collectionDT[, collectionIdColumns, with = FALSE], 
             by = c(object@metadata@ancestorIdColumns, object@metadata@recordIdColumn)
         ))
 
+        # if we only want continuous metadata, only keep numeric columns
+        # means we lose dates, but i think thats ok for now
+        if (continuousMetadataOnly) {
+            metadataColNames <- names(sampleMetadataDT)
+            numericColumns <- metadataColNames[which(sapply(sampleMetadataDT,is.numeric))]
+            sampleMetadataDT <- sampleMetadataDT[, unique(c(collectionIdColumns, numericColumns)), with=FALSE]
+        }
+
         # also need to make sure they are in the same order
         data.table::setorderv(sampleMetadataDT, cols=collection@recordIdColumn)
-        data.table::setorderv(collection@data, cols=collection@recordIdColumn)
+        data.table::setorderv(collectionDT, cols=collection@recordIdColumn)
 
         sampleMetadata <- new("SampleMetadata",
             data = sampleMetadataDT,
             recordIdColumn = collection@recordIdColumn,
             ancestorIdColumns = collection@ancestorIdColumns
         )
+
     } else {
-        sampleMetadata <- object@metadata
+        sampleMetadataDT <- data.table::data.table()
+        sampleMetadata <- microbiomeComputations::SampleMetadata()
     }
     
+    if (format == "AbundanceData") {
 
-    abundanceData <- microbiomeComputations::AbundanceData(
-        data = collection@data, 
-        sampleMetadata = sampleMetadata, 
-        recordIdColumn = collection@recordIdColumn,
-        ancestorIdColumns = collection@ancestorIdColumns
-    )
+        abundanceData <- microbiomeComputations::AbundanceData(
+            data = collectionDT, 
+            sampleMetadata = sampleMetadata, 
+            recordIdColumn = collection@recordIdColumn,
+            ancestorIdColumns = collection@ancestorIdColumns
+        )
+
+    } else if (format == "phyloseq") {
+
+        sampleNames <- collectionDT[[collection@recordIdColumn]]
+        keepCols <- names(collectionDT)[! names(collectionDT) %in% collectionIdColumns]
+        taxaNames <- names(collectionDT[, keepCols, with = FALSE])
+        otu <- t(collectionDT[, keepCols, with = FALSE])
+        names(otu) <- sampleNames
+        rownames(otu) <- taxaNames
+
+        tax <- data.frame(taxonomy = rownames(otu))
+        rownames(tax) <- tax$taxonomy
+
+        samples <- sampleMetadataDT
+
+        if (nrow(samples) != 0) {
+            rownames(samples) <- sampleNames
+            samples <- samples[, !collectionIdColumns, with = FALSE]
+
+            abundanceData <- phyloseq::phyloseq(
+                phyloseq::otu_table(as.matrix(otu), taxa_are_rows = TRUE),
+                phyloseq::sample_data(samples),
+                phyloseq::tax_table(as.matrix(tax))
+            )
+        } else {
+            abundanceData <- phyloseq::phyloseq(
+                phyloseq::otu_table(as.matrix(otu), taxa_are_rows = TRUE),
+                phyloseq::tax_table(as.matrix(tax))
+            )
+        }
+    } 
 
     return(abundanceData)
 })
