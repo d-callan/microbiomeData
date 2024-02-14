@@ -34,11 +34,14 @@ setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newNa
 #' as an AbundanceData object.
 #' @param object A Microbiome Dataset
 #' @param collectionName The name of the collection to return
+#' @param format The format of the collection to return. Currently supported options are "AbundanceData", "phyloseq", and "Collection".
 #' @return An AbundanceData object representing the collection and any associated study metadata
 #' @importFrom microbiomeComputations AbundanceData
 #' @export
-setGeneric("getCollection", function(object, collectionName) standardGeneric("getCollection"))
-setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0)) {
+setGeneric("getCollection", function(object, collectionName, format = c("AbundanceData", "phyloseq", "Collection")) standardGeneric("getCollection"))
+setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0), format = c("AbundanceData", "phyloseq", "Collection")) {
+    format <- veupathUtils::matchArg(format)
+    
     if (length(collectionName) == 0) {
         stop("Must specify a collection name")
     }
@@ -48,9 +51,13 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
     }
 
     collection <- object@collections[collectionName][[1]]
-    collectionIdColumns <- c(collection@recordIdColumn, collection@ancestorIdColumns)
+    if (format == "Collection") {
+        return(collection)
+    }
 
+    collectionIdColumns <- c(collection@recordIdColumn, collection@ancestorIdColumns)
     if (!!length(object@metadata@data)) {
+
         # need to be sure sample metadata contains only the relevant rows, actually having assay data
         # also need to make sure it has the assay record id column
         sampleMetadataDT <- data.table::setDT(merge(
@@ -63,22 +70,42 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
         data.table::setorderv(sampleMetadataDT, cols=collection@recordIdColumn)
         data.table::setorderv(collection@data, cols=collection@recordIdColumn)
 
-        sampleMetadata <- new("SampleMetadata",
-            data = sampleMetadataDT,
+    } else {
+        sampleMetadataDT <- data.table::data.table()
+    }
+    
+    if (format == "AbundanceData") {
+
+        sampleMetadata <- sampleMetadataBuilder(sampleMetadataDT)
+
+        abundanceData <- microbiomeComputations::AbundanceData(
+            data = collection@data, 
+            sampleMetadata = sampleMetadata, 
             recordIdColumn = collection@recordIdColumn,
             ancestorIdColumns = collection@ancestorIdColumns
         )
-    } else {
-        sampleMetadata <- object@metadata
-    }
-    
 
-    abundanceData <- microbiomeComputations::AbundanceData(
-        data = collection@data, 
-        sampleMetadata = sampleMetadata, 
-        recordIdColumn = collection@recordIdColumn,
-        ancestorIdColumns = collection@ancestorIdColumns
-    )
+    } else if (format == "phyloseq") {
+
+        sampleNames <- collection@data[[collection@recordIdColumn]]
+        taxaNames <- names(collection@data[, -collectionIdColumns, with = FALSE])
+        otu <- t(collection@data[, -collectionIdColumns, with = FALSE])
+        names(otu) <- sampleNames
+        rownames(otu) <- taxaNames
+
+        samples <- sampleMetadataDT
+        rownames(samples) <- sampleNames
+        samples <- samples[, -collectionIdColumns, with = FALSE]
+
+        tax <- data.frame(taxonomy = rownames(otu))
+        rownames(tax) <- tax$taxonomy
+
+        abundanceData <- phyloseq::phyloseq(
+            phyloseq::otu_table(as.matrix(otu), taxa_are_rows = TRUE),
+            phyloseq::sample_data(samples),
+            phyloseq::tax_table(as.matrix(tax))
+        )
+    } 
 
     return(abundanceData)
 })
