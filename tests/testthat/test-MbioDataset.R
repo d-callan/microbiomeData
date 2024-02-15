@@ -83,16 +83,42 @@ test_that("we can get compute results in different formats", {
 
     # make sure metadata dont contain IRIs
     expect_equal(all(grepl('[',names(genus@sampleMetadata@data),fixed=T)), FALSE)
+    # and that that means diff abund works now
+    comparatorVariable <- microbiomeComputations::Comparator(
+                        variable = veupathUtils::VariableMetadata(
+                            variableSpec = VariableSpec(
+                                variableId = 'delivery_mode',
+                                entityId = ''
+                            ),
+                            dataShape = veupathUtils::DataShape(value="BINARY")
+                        ),
+                        groupA = veupathUtils::BinList(
+                            S4Vectors::SimpleList(
+                                c(veupathUtils::Bin(
+                                    binLabel="Vaginal"
+                                ))
+                            )
+                        ),
+                        groupB = veupathUtils::BinList(
+                            S4Vectors::SimpleList(
+                                c(veupathUtils::Bin(
+                                    binLabel="Cesarean"
+                                ))
+                            )
+                        )
+    )
+    diffAbundOutput <- microbiomeComputations::differentialAbundance(getCollection(mbioDataset, "16S Genus"), comparatorVariable, method='Maaslin', verbose=FALSE)
+    expect_equal(inherits(diffAbundOutput, "ComputeResult"), TRUE)
 
     correlationOutput <- microbiomeComputations::selfCorrelation(getCollection(mbioDataset, "16S Genus"), method='spearman', verbose=FALSE)
     correlationDT <- getComputeResult(correlationOutput, "data.table")
+    expect_equal(inherits(correlationDT, "data.table"), TRUE)
+    expect_equal(all(c('data1', 'data2', 'correlationCoef', 'pValue') %in% names(correlationDT)), TRUE)
 
     # make sure continuousMetadataOnly flag works so we can do taxa X metadata correlations
     genus <- getCollection(mbioDataset, "16S Genus", continuousMetadataOnly = TRUE)
     correlationOutput <- microbiomeComputations::correlation(genus, method='spearman', verbose=FALSE)
-
-    expect_equal(inherits(correlationDT, "data.table"), TRUE)
-    expect_equal(all(c('data1', 'data2', 'correlationCoef', 'pValue') %in% names(correlationDT)), TRUE)
+    expect_equal(inherits(correlationOutput, "ComputeResult"), TRUE)
 
     correlationIGraph <- getComputeResult(correlationOutput, "igraph")
     expect_equal(inherits(correlationIGraph, "igraph"), TRUE)
