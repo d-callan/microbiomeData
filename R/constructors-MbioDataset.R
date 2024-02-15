@@ -88,8 +88,35 @@ findAncestorIdColumns <- function(dataColNames) {
     return(allIdColumns[2:length(allIdColumns)])
 }
 
-getDataFromSource <- function(dataSource, keepIdsAndNumbersOnly = c(TRUE, FALSE)) {
+clean_names <- function(names, makeUnique = FALSE) {
+    # remove everything after the last opening square bracket to get rid of IRIs
+    names <- gsub("\\[.*$", "", names)
+
+    names <- gsub("%+", "_pct_", names)
+    names <- gsub("\\$+", "_dollars_", names)
+    names <- gsub("\\++", "_plus_", names)
+    names <- gsub("-+", "_minus_", names)
+    names <- gsub("\\*+", "_star_", names)
+    names <- gsub("#+", "_cnt_", names)
+    names <- gsub("&+", "_and_", names)
+    names <- gsub("@+", "_at_", names)
+
+    names <- gsub("[^a-zA-Z0-9_]+", "_", names)
+    names <- gsub("([A-Z][a-z])", "_\\1", names)
+    names <- tolower(trimws(names))
+
+    names <- gsub("(^_+|_+$)", "", names)
+
+    names <- gsub("_+", "_", names)
+
+    if (makeUnique) names <- make.unique(names, sep = "_")
+
+    return(names)
+}
+
+getDataFromSource <- function(dataSource, keepIdsAndNumbersOnly = c(TRUE, FALSE), cleanColumnNames = c(FALSE, TRUE)) {
     keepIdsAndNumbersOnly <- veupathUtils::matchArg(keepIdsAndNumbersOnly)
+    cleanColumnNames <- veupathUtils::matchArg(cleanColumnNames)
 
     if (inherits(dataSource, "character")) {
         veupathUtils::logWithTime(sprintf("Attempting to read file: %s", dataSource), verbose = TRUE)
@@ -98,15 +125,20 @@ getDataFromSource <- function(dataSource, keepIdsAndNumbersOnly = c(TRUE, FALSE)
         dt <- data.table::as.data.table(dataSource)        
     }
 
+    dataColNames <- names(dt)
+    recordIdColumn <- findRecordIdColumn(dataColNames)
+    ancestorIdColumns <- findAncestorIdColumns(dataColNames)
+
     # theres probably a better way to do this..
     # the idea is that some assay entities have things like presence/ absence of a bug. 
     # they show up as character columns w values like 'Y' and 'N', but were not supporting these data for now.
     if (keepIdsAndNumbersOnly) {
-        dataColNames <- names(dt)
-        recordIdColumn <- findRecordIdColumn(dataColNames)
-        ancestorIdColumns <- findAncestorIdColumns(dataColNames)
         numericColumns <- dataColNames[which(sapply(dt,is.numeric))]
         dt <- dt[, unique(c(recordIdColumn, ancestorIdColumns, numericColumns)), with=FALSE]
+    }
+
+    if (cleanColumnNames) {
+        names(dt)[!names(dt) %in% c(recordIdColumn, ancestorIdColumns)] <- clean_names(names(dt)[!names(dt) %in% c(recordIdColumn, ancestorIdColumns)])
     }
 
     return(dt)
@@ -249,7 +281,7 @@ setMethod("Collections", signature("character", "missing"), function(collections
 })
 
 sampleMetadataBuilder <- function(dataSource) {
-    dt <- getDataFromSource(dataSource, keepIdsAndNumbersOnly=FALSE)
+    dt <- getDataFromSource(dataSource, keepIdsAndNumbersOnly=FALSE, cleanColumnNames=TRUE)
     dataColNames <- names(dt)
     recordIdColumn <- findRecordIdColumn(dataColNames)
     ancestorIdColumns <- findAncestorIdColumns(dataColNames)
