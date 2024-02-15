@@ -81,6 +81,9 @@ test_that("we can get compute results in different formats", {
     ontologyFile <- '../../inst/extdata/DiabImmune/DiabImmune_OntologyMetadata.txt'
     mbioDataset <- MbioDataset(list(dataFile1, dataFile2), list(metadataFile1, metadataFile2, metadataFile3), ontologyFile)
 
+    # make sure metadata dont contain IRIs
+    expect_equal(all(grepl('[',names(genus@sampleMetadata@data),fixed=T)), FALSE)
+
     correlationOutput <- microbiomeComputations::selfCorrelation(getCollection(mbioDataset, "16S Genus"), method='spearman', verbose=FALSE)
     correlationDT <- getComputeResult(correlationOutput, "data.table")
 
