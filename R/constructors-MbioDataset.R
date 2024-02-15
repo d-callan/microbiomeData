@@ -157,6 +157,10 @@ getCollectionName <- function(collectionId, dataSourceName, ontology = NULL) {
         dataSourceName <- "WGS"
     }
 
+    if (grepl("Mass_spectrometry", dataSourceName, fixed=TRUE)) {
+        dataSourceName <- "Metabolomics"
+    }
+
     if (!is.null(ontology)) {
         # this assumes were getting one of our own ontology download files
         # w columns like `iri` and `label`
