@@ -80,6 +80,7 @@ test_that("we can get compute results in different formats", {
     metadataFile3 <- '../../inst/extdata/DiabImmune/DiabImmune_Sample.txt'
     ontologyFile <- '../../inst/extdata/DiabImmune/DiabImmune_OntologyMetadata.txt'
     mbioDataset <- MbioDataset(list(dataFile1, dataFile2), list(metadataFile1, metadataFile2, metadataFile3), ontologyFile)
+    genus <- getCollection(mbioDataset, "16S Genus", continuousMetadataOnly = TRUE)
 
     # make sure metadata dont contain IRIs
     expect_equal(all(grepl('[',names(genus@sampleMetadata@data),fixed=T)), FALSE)
@@ -115,8 +116,7 @@ test_that("we can get compute results in different formats", {
     expect_equal(inherits(correlationDT, "data.table"), TRUE)
     expect_equal(all(c('data1', 'data2', 'correlationCoef', 'pValue') %in% names(correlationDT)), TRUE)
 
-    # make sure continuousMetadataOnly flag works so we can do taxa X metadata correlations
-    genus <- getCollection(mbioDataset, "16S Genus", continuousMetadataOnly = TRUE)
+    # make sure continuousMetadataOnly flag works so we can do taxa X metadata correlations   
     correlationOutput <- microbiomeComputations::correlation(genus, method='spearman', verbose=FALSE)
     expect_equal(inherits(correlationOutput, "ComputeResult"), TRUE)
 
