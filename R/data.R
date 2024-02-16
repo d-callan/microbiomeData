@@ -82,7 +82,7 @@
 #' 741 samples of various types, including stool, saliva, and oral, vaginal and nasal swabs; 'shotgun' metagenomic sequencing.
 #'
 #' @format ## `HMP_WGS`
-#' A MbioDataset object with 14 metadata variables, 2145 16S stool samples.
+#' A MbioDataset object with 14 metadata variables, 2145 WGS stool samples.
 #' It contains the following collections: \cr
 #' "WGS 4th level EC metagenome abundance data" \cr         
 #' "WGS Metagenome enzyme pathway abundance data" \cr          
@@ -97,3 +97,27 @@
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_898df5869d/new/download>
 "HMP_WGS"
+
+#' BONUS-CF
+#'
+#' The Baby Observational and Nutrition Study (BONUS) set out to identify microbial correlates of poor growth observed in infants with cystic fibrosis (CF)
+#' 207 infants diagnosed with cystic fibrosis during newborn screening
+#' Shotgun metagenomic sequencing of 122 samples collected from healthy controls, and 1157 stool samples from infants with CF collected at months 3, 4, 5, 6, 8, 10 and 12 of life
+#' Longitudinal, observational, multicenter cohort study.
+#'
+#' @format ## `BONUS`
+#' A MbioDataset object with 23 metadata variables, 1279 WGS stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenome enzyme pathway abundance data" \cr          
+#' "WGS Metagenome enzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_b3b3ae9838/new/download>
+"BONUS"

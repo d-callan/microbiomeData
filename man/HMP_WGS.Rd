@@ -7,7 +7,7 @@
 \format{
 \subsection{\code{HMP_WGS}}{
 
-A MbioDataset object with 14 metadata variables, 2145 16S stool samples.
+A MbioDataset object with 14 metadata variables, 2145 WGS stool samples.
 It contains the following collections: \cr
 "WGS 4th level EC metagenome abundance data" \cr
 "WGS Metagenome enzyme pathway abundance data" \cr
