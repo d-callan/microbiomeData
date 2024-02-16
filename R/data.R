@@ -74,3 +74,26 @@
 #' "16S Kingdom" \cr 
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_1102462e80/new/download>
 "Bangladesh"
+
+#' HMP Phase 1 WGS
+#'
+#' The Human Microbiome Project (HMP) profiled microbial communities across diverse habitats on the human body.
+#' 103 healthly adult volunteers sampled at up to 20 different body sites.
+#' 741 samples of various types, including stool, saliva, and oral, vaginal and nasal swabs; 'shotgun' metagenomic sequencing.
+#'
+#' @format ## `HMP_WGS`
+#' A MbioDataset object with 14 metadata variables, 2145 16S stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenome enzyme pathway abundance data" \cr          
+#' "WGS Metagenome enzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_898df5869d/new/download>
+"HMP_WGS"
