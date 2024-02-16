@@ -54,3 +54,23 @@
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_4dfda49064/new/download>
 "FARMM"
+
+#' Bangladesh 5yr
+#'
+#' This study set out to define the normal maturation of the gut microbiome during the first 5 years of postnatal life.
+#'55 members of a birth cohort with consistently healthy anthropometric scores living within the Mirpur district of Dhaka, Bangladesh.
+#' 2415 stool samples; V4 region of 16S rRNA gene.
+#' Prospective cohort design with monthly sampling for the first ~5 years of life.
+#'
+#' @format ## `Bangladesh`
+#' A MbioDataset object with 14 metadata variables, 2145 16S stool samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_1102462e80/new/download>
+"Bangladesh"
