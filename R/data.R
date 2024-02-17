@@ -121,3 +121,27 @@
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_b3b3ae9838/new/download>
 "BONUS"
+
+#' NICU-NEC
+#'
+#' The Neonatal Intensive Care Unit, Necrotizing Enterocolitis (NICU NEC) study set out to understand microbial factors associated with NEC onset
+#' 150 infants born prematurely were sampled perinatally and at high frequency during the first few weeks to months of life
+#" 1118 stool samples; 'shotgun' metagenomic sequencing.
+#' Prospective cohort design.
+#'
+#' @format ## `NICU_NEC`
+#' A MbioDataset object with 46 metadata variables, 1118 WGS stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenome enzyme pathway abundance data" \cr          
+#' "WGS Metagenome enzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_84fcb69f4e/new/download>
+"NICU_NEC"
