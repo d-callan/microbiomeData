@@ -67,7 +67,8 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
         sampleMetadataDT <- data.table::setDT(merge(
             object@metadata@data, 
             collectionDT[, collectionIdColumns, with = FALSE], 
-            by = c(object@metadata@ancestorIdColumns, object@metadata@recordIdColumn)
+            by = c(object@metadata@ancestorIdColumns, object@metadata@recordIdColumn),
+            all.y = TRUE
         ))
 
         # if we only want continuous metadata, only keep numeric columns
