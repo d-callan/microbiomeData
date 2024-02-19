@@ -14,6 +14,56 @@ setMethod(getGeneric("names"), "Collections", function(x) return(sapply(x, name)
 setGeneric("getCollectionNames", function(object) standardGeneric("getCollectionNames"))
 setMethod("getCollectionNames", "MbioDataset", function(object) return(names(object@collections)))
 
+#' Get Microbiome Dataset Metadata Variable Names
+#' 
+#' Get the names of the metadata variables in the Microbiome Dataset.
+#' @param object A Microbiome Dataset
+#' @return a character vector of metadata variable names
+#' @export
+setGeneric("getMetadataVariableNames", function(object) standardGeneric("getMetadataVariableNames"))
+setMethod("getMetadataVariableNames", "MbioDataset", function(object) return(names(object@metadata@data)))
+setMethod("getMetadataVariableNames", "AbundanceData", function(object) return(names(object@sampleMetadata@data)))
+setMethod("getMetadataVariableNames", "Collection", function(object) return(names(object@sampleMetadata@data)))
+
+#' Get Microbiome Dataset Sample Metadata
+#' 
+#' Get the sample metadata from the Microbiome Dataset. If metadata variables are not specified, all sample metadata will be returned.
+#' @param object A Microbiome Dataset
+#' @param metadataVariables The metadata variables to include in the sample metadata. If NULL, all metadata variables will be included.
+#' @return A data.table of sample metadata
+#' @export
+setGeneric("getSampleMetadata", function(object, metadataVariables = NULL) standardGeneric("getSampleMetadata"), signature = c("object"))
+setMethod("getSampleMetadata", "MbioDataset", function(object, metadataVariables = NULL) {
+    if (!length(object@metadata@data)) return(NULL)
+
+    dt <- data.table::setDT(object@metadata@data)
+    if (!is.null(metadataVariables)) {
+        return(dt[, metadataVariables, with = FALSE])
+    }
+
+    return(dt)
+})
+setMethod("getSampleMetadata", "AbundanceData", function(object, metadataVariables = NULL) {
+    if (!length(object@sampleMetadata@data)) return(NULL)
+
+    dt <- data.table::setDT(object@sampleMetadata@data)
+    if (!is.null(metadataVariables)) {
+        return(dt[, metadataVariables, with = FALSE])
+    }
+
+    return(dt)
+})
+setMethod("getSampleMetadata", "Collection", function(object, metadataVariables = NULL) {
+    if (!length(object@sampleMetadata@data)) return(NULL) 
+
+    dt <- data.table::setDT(object@sampleMetadata@data)
+    if (!is.null(metadataVariables)) {
+        return(dt[, metadataVariables, with = FALSE])
+    }
+
+    return(dt)
+})
+
 #' Update Microbiome Dataset Collection Name
 #' 
 #' Update the name of a collection in the Microbiome Dataset.
@@ -150,14 +200,13 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
 #' Some formats may not be supported for all compute results.
 #' @param object A Microbiome Dataset
 #' @param format The format of the compute result. Currently only "data.table" and "igraph" are supported.
-#' @param metadataVariables A character vector of metadata variables to include in the result. If NULL, no metadata variables will be included.
 #' @return The compute result in the specified format
 #' @importFrom microbiomeComputations ComputeResult
 #' @export
-setGeneric("getComputeResult", function(object, format = c("data.table"), metadataVariables = NULL) standardGeneric("getComputeResult"))
+setGeneric("getComputeResult", function(object, format = c("data.table"), ...) standardGeneric("getComputeResult"))
 
 #' @export
-setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table", "igraph"), metadataVariables = NULL) {
+setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table", "igraph")) {
     format <- veupathUtils::matchArg(format)
 
     if (!!length(object@statistics)) {
@@ -168,12 +217,14 @@ setMethod("getComputeResult", "ComputeResult", function(object, format = c("data
         }
     }
 
-    return(data.table::setDT(object@data))  
+    dt <- data.table::setDT(object@data)
+
+    return(dt)  
 })
 
 #' @importFrom microbiomeComputations CorrelationResult
 #' @export
-setMethod("getComputeResult", "CorrelationResult", function(object, format = c("data.table", "igraph"), metadataVariables = NULL) {
+setMethod("getComputeResult", "CorrelationResult", function(object, format = c("data.table", "igraph")) {
     format <- veupathUtils::matchArg(format)
 
     result <- data.table::setDT(object@statistics)
@@ -187,7 +238,59 @@ setMethod("getComputeResult", "CorrelationResult", function(object, format = c("
 
 #' @importFrom microbiomeComputations DifferentialAbundanceResult
 #' @export
-setMethod("getComputeResult", "DifferentialAbundanceResult", function(object, format = c("data.table"), metadataVariables = NULL) {
+setMethod("getComputeResult", "DifferentialAbundanceResult", function(object, format = c("data.table")) {
     format <- veupathUtils::matchArg(format) 
     return(data.table::setDT(object@statistics))
+})
+
+mergeComputeResultAndMetadata <- function(computeResult, dataset, metadataVariables) {
+    dt <- getComputeResult(computeResult, "data.table")
+    metadata <- getSampleMetadata(dataset, metadataVariables)
+
+    computeResultIdColumns <- c(computeResult@recordIdColumn, computeResult@ancestorIdColumns)
+    dt <- merge(dt, metadata, by = computeResultIdColumns)
+
+    return(dt)
+}
+
+#' Get Microbiome Dataset Compute Result With Metadata
+#' 
+#' Get the compute result from a Microbiome Dataset in a particular format with metadata.
+#' @param object A Microbiome Dataset
+#' @param dataset The MbioDataset, AbundanceData or Collection object from which the compute result was obtained.
+#' @param format The format of the compute result. Currently only "data.table" is supported.
+#' @param metadataVariables The metadata variables to include in the compute result. If NULL, no metadata variables will be included.
+#' @return The compute result in the specified format
+#' @export
+setGeneric("getComputeResultWithMetadata", 
+function(object, dataset, format = c("data.table"), metadataVariables = NULL) 
+    standardGeneric("getComputeResultWithMetadata"), 
+    signature = c("object", "dataset")
+)
+
+#' @export
+setMethod("getComputeResultWithMetadata", signature = c("ComputeResult", "MbioDataset"), 
+function(object, dataset = NULL, format = c("data.table"), metadataVariables = NULL) {
+    format <- veupathUtils::matchArg(format)
+    dt <- mergeComputeResultAndMetadata(object, dataset, metadataVariables)
+
+    return(dt)
+})
+
+#' @export
+setMethod("getComputeResultWithMetadata", signature = c("ComputeResult", "Collection"), 
+function(object, dataset = NULL, format = c("data.table"), metadataVariables = NULL) {
+    format <- veupathUtils::matchArg(format)
+    dt <- mergeComputeResultAndMetadata(object, dataset, metadataVariables)
+
+    return(dt)
+})
+
+#' @export 
+setMethod("getComputeResultWithMetadata", signature = c("ComputeResult", "AbundanceData"), 
+function(object, dataset = NULL, format = c("data.table"), metadataVariables = NULL) {
+    format <- veupathUtils::matchArg(format)
+    dt <- mergeComputeResultAndMetadata(object, dataset, metadataVariables)
+
+    return(dt)
 })
