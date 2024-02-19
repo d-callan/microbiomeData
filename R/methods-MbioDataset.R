@@ -150,16 +150,17 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
 #' Some formats may not be supported for all compute results.
 #' @param object A Microbiome Dataset
 #' @param format The format of the compute result. Currently only "data.table" and "igraph" are supported.
+#' @param metadataVariables A character vector of metadata variables to include in the result. If NULL, no metadata variables will be included.
 #' @return The compute result in the specified format
 #' @importFrom microbiomeComputations ComputeResult
 #' @export
-setGeneric("getComputeResult", function(object, format = c("data.table")) standardGeneric("getComputeResult"))
+setGeneric("getComputeResult", function(object, format = c("data.table"), metadataVariables = NULL) standardGeneric("getComputeResult"))
 
 #' @export
-setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table", "igraph")) {
+setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table", "igraph"), metadataVariables = NULL) {
     format <- veupathUtils::matchArg(format)
 
-    if (nrow(object@data) == 0) {
+    if (!!length(object@statistics)) {
         return(getComputeResult(object@statistics, format))
     } else {
         if (format == "igraph") {
@@ -172,7 +173,7 @@ setMethod("getComputeResult", "ComputeResult", function(object, format = c("data
 
 #' @importFrom microbiomeComputations CorrelationResult
 #' @export
-setMethod("getComputeResult", "CorrelationResult", function(object, format = c("data.table", "igraph")) {
+setMethod("getComputeResult", "CorrelationResult", function(object, format = c("data.table", "igraph"), metadataVariables = NULL) {
     format <- veupathUtils::matchArg(format)
 
     result <- data.table::setDT(object@statistics)
@@ -186,7 +187,7 @@ setMethod("getComputeResult", "CorrelationResult", function(object, format = c("
 
 #' @importFrom microbiomeComputations DifferentialAbundanceResult
 #' @export
-setMethod("getComputeResult", "DifferentialAbundanceResult", function(object, format = c("data.table")) {
+setMethod("getComputeResult", "DifferentialAbundanceResult", function(object, format = c("data.table"), metadataVariables = NULL) {
     format <- veupathUtils::matchArg(format) 
     return(data.table::setDT(object@statistics))
 })
