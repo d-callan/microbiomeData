@@ -38,7 +38,8 @@ setMethod("getSampleMetadata", "MbioDataset", function(object, metadataVariables
 
     dt <- data.table::setDT(object@metadata@data)
     if (!is.null(metadataVariables)) {
-        return(dt[, metadataVariables, with = FALSE])
+        metadataIdColumns <- c(object@metadata@recordIdColumn, object@metadata@ancestorIdColumns)
+        dt <- dt[, c(metadataIdColumns, metadataVariables), with = FALSE]
     }
 
     return(dt)
@@ -48,7 +49,8 @@ setMethod("getSampleMetadata", "AbundanceData", function(object, metadataVariabl
 
     dt <- data.table::setDT(object@sampleMetadata@data)
     if (!is.null(metadataVariables)) {
-        return(dt[, metadataVariables, with = FALSE])
+        metadataIdColumns <- c(object@sampleMetadata@recordIdColumn, object@sampleMetadata@ancestorIdColumns)
+        dt <- dt[, c(metadataIdColumns, metadataVariables), with = FALSE]
     }
 
     return(dt)
@@ -58,11 +60,38 @@ setMethod("getSampleMetadata", "Collection", function(object, metadataVariables 
 
     dt <- data.table::setDT(object@sampleMetadata@data)
     if (!is.null(metadataVariables)) {
-        return(dt[, metadataVariables, with = FALSE])
+        metadataIdColumns <- c(object@sampleMetadata@recordIdColumn, object@sampleMetadata@ancestorIdColumns)
+        dt <- dt[, c(metadataIdColumns, metadataVariables), with = FALSE]
     }
 
     return(dt)
 })
+
+#' Get Microbiome Dataset Id Column Names
+#' 
+#' Get the names of the record and ancestor id columns in the Microbiome Dataset.
+#' @param object A Microbiome Dataset, or other object w recordIdColumn and ancestorIdColumns slots
+#' @return a character vector of id column names
+#' @export
+setGeneric("getIdColumnNames", function(object) standardGeneric("getIdColumnNames"))
+setMethod("getIdColumnNames", "ANY", function(object) {
+    if (all(c('recordIdColumn','ancestorIdColumns') %in% slotNames(object))) {
+        return(c(object@recordIdColumn, object@ancestorIdColumns))
+    } else {
+        stop("Object does not have recordIdColumn and/or ancestorIdColumns slots. Received object of class ", class(object))
+    }
+})
+
+#' Get Sample Metadata Id Column Names
+#' 
+#' Get the names of the record and ancestor id columns in the sample metadata of the Microbiome Dataset.
+#' @param object A Microbiome Dataset, or other object w sample metadata
+#' @return a character vector of id column names
+#' @export
+setGeneric("getSampleMetadataIdColumnNames", function(object) standardGeneric("getSampleMetadataIdColumnNames"))
+setMethod("getSampleMetadataIdColumnNames", "MbioDataset", function(object) getIdColumnNames(object@metadata))
+setMethod("getSampleMetadataIdColumnNames", "AbundanceData", function(object) getIdColumnNames(object@sampleMetadata))
+setMethod("getSampleMetadataIdColumnNames", "Collection", function(object) getIdColumnNames(object@sampleMetadata))
 
 #' Update Microbiome Dataset Collection Name
 #' 
@@ -247,8 +276,8 @@ mergeComputeResultAndMetadata <- function(computeResult, dataset, metadataVariab
     dt <- getComputeResult(computeResult, "data.table")
     metadata <- getSampleMetadata(dataset, metadataVariables)
 
-    computeResultIdColumns <- c(computeResult@recordIdColumn, computeResult@ancestorIdColumns)
-    dt <- merge(dt, metadata, by = computeResultIdColumns)
+    metadataIdColumns <- getSampleMetadataIdColumnNames(dataset)
+    dt <- merge(dt, metadata, by = metadataIdColumns, all.x = TRUE)
 
     return(dt)
 }
