@@ -31,11 +31,12 @@ setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newNa
 #' Get Microbiome Dataset Collection
 #' 
 #' Get a collection from the Microbiome Dataset. The collection will be returned
-#' as an AbundanceData object.
+#' as an AbundanceData, phyloseq, or Collection object.
 #' @param object A Microbiome Dataset
 #' @param collectionName The name of the collection to return
 #' @param format The format of the collection to return. Currently supported options are "AbundanceData", "phyloseq", and "Collection".
-#' @return An AbundanceData object representing the collection and any associated study metadata
+#' @param continuousMetadataOnly If TRUE, only continuous metadata will be returned. If FALSE, all metadata will be returned.
+#' @return An AbundanceData, phyloseq, or Collection object representing the collection and any associated study metadata
 #' @importFrom microbiomeComputations AbundanceData
 #' @importFrom phyloseq phyloseq
 #' @importFrom microbiomeComputations SampleMetadata
@@ -60,6 +61,12 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
 
     collectionDT <- data.table::setDT(collection@data)
     collectionIdColumns <- c(collection@recordIdColumn, collection@ancestorIdColumns)
+
+    # remove IRI from collection column names. strip everything after and including the last square bracket, and remove trailing spaces
+    rawNames <- names(collectionDT)
+    names(collectionDT)[! names(collectionDT) %in% collectionIdColumns] <- sub("\\s*\\[([^\\[]*)$", "", names(collectionDT)[! names(collectionDT) %in% collectionIdColumns])
+    names(collectionDT)[names(collectionDT) == 'Incertae Sedis'] <- rawNames[names(collectionDT) == 'Incertae Sedis']
+
     if (!!length(object@metadata@data)) {
 
         # need to be sure sample metadata contains only the relevant rows, actually having assay data
