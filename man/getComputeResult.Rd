@@ -4,12 +4,14 @@
 \alias{getComputeResult}
 \title{Get Microbiome Dataset Compute Result}
 \usage{
-getComputeResult(object, format = c("data.table"))
+getComputeResult(object, format = c("data.table"), metadataVariables = NULL)
 }
 \arguments{
 \item{object}{A Microbiome Dataset}
 
 \item{format}{The format of the compute result. Currently only "data.table" and "igraph" are supported.}
+
+\item{metadataVariables}{A character vector of metadata variables to include in the result. If NULL, no metadata variables will be included.}
 }
 \value{
 The compute result in the specified format
