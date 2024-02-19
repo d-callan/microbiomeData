@@ -4,7 +4,7 @@
 \alias{getComputeResult}
 \title{Get Microbiome Dataset Compute Result}
 \usage{
-getComputeResult(object, format = c("data.table"))
+getComputeResult(object, format = c("data.table"), ...)
 }
 \arguments{
 \item{object}{A Microbiome Dataset}

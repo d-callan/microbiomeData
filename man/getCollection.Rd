@@ -17,11 +17,13 @@ getCollection(
 \item{collectionName}{The name of the collection to return}
 
 \item{format}{The format of the collection to return. Currently supported options are "AbundanceData", "phyloseq", and "Collection".}
+
+\item{continuousMetadataOnly}{If TRUE, only continuous metadata will be returned. If FALSE, all metadata will be returned.}
 }
 \value{
-An AbundanceData object representing the collection and any associated study metadata
+An AbundanceData, phyloseq, or Collection object representing the collection and any associated study metadata
 }
 \description{
 Get a collection from the Microbiome Dataset. The collection will be returned
-as an AbundanceData object.
+as an AbundanceData, phyloseq, or Collection object.
 }

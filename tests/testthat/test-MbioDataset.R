@@ -122,4 +122,11 @@ test_that("we can get compute results in different formats", {
 
     correlationIGraph <- getComputeResult(correlationOutput, "igraph")
     expect_equal(inherits(correlationIGraph, "igraph"), TRUE)
+
+    # make sure getComputeResultWithMetadata works
+    alphaDivOutput <- microbiomeComputations::alphaDiv(getCollection(mbioDataset, "16S Genus"), method='shannon', verbose=FALSE)
+    expect_equal(inherits(alphaDivOutput, "ComputeResult"), TRUE)
+    alphaDivDT <- getComputeResultWithMetadata(alphaDivOutput, mbioDataset, metadataVariables = c('country', 'delivery_mode'))
+    expect_equal(inherits(alphaDivDT, "data.table"), TRUE)
+    expect_equal(all(c('alphaDiversity', 'country', 'delivery_mode') %in% names(alphaDivDT)), TRUE)
 })
