@@ -12,7 +12,7 @@ setMethod(getGeneric("names"), "Collections", function(x) return(sapply(x, name)
 #' @return a character vector of collection names
 #' @export
 setGeneric("getCollectionNames", function(object) standardGeneric("getCollectionNames"))
-setMethod("getCollectionNames", "MbioDataset", function(object) return(names(object@collections)))
+setMethod("getCollectionNames", "MbioDataset", function(object) return(unname(names(object@collections))))
 
 #' Get Microbiome Dataset Metadata Variable Names
 #' 
