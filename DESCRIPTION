@@ -16,8 +16,8 @@ Imports:
 Remotes:
     VEuPathDB/veupathUtils,
     VEuPathDB/microbiomeComputations
-URL: https://github.com/d-callan/microbiomeData
-BugReports: https://github.com/d-callan/microbiomeData/issues
+URL: https://github.com/microbiomeDB/microbiomeData
+BugReports: https://github.com/microbiomeDB/microbiomeData/issues
 Description: An R package containing all of the curated datasets from MicrobiomeDB.org and functions for conveniently using that data in R.
 License: Apache License (= 2.0)
 Encoding: UTF-8
