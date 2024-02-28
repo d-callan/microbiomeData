@@ -1,5 +1,5 @@
 <!-- badges: start -->
-  [![R-CMD-check](https://github.com/d-callan/microbiomeData/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/d-callan/microbiomeData/actions/workflows/R-CMD-check.yaml)
+  [![R-CMD-check](https://github.com/microbiomeDB/microbiomeData/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/microbiomeDB/microbiomeData/actions/workflows/R-CMD-check.yaml)
   <!-- badges: end -->
 
 
@@ -11,7 +11,7 @@ An R package containing some (eventually all!) of the curated datasets from Micr
 Use the R package [remotes](https://cran.r-project.org/web/packages/remotes/index.html) to install microbiomeData. From the R command prompt:
 
 ```R
-remotes::install_github('d-callan/microbiomeData')
+remotes::install_github('microbiomeDB/microbiomeData')
 ```
 
 ## Usage
@@ -83,7 +83,7 @@ This package may be used as a dependency in other R packages. In order to establ
 dependent package must follow these steps:
 1. add ```microbiomeData``` to the ```Imports``` section of the dependent package's ```DESCRIPTION``` file.
 2. add a ```Remotes``` section to the dependent package's ```DESCRIPTION``` file.
-3. add ```d-callan/microbiomeData``` to the ```Remotes``` section of the dependent package's ```DESCRIPTION``` file.
+3. add ```microbiomeDB/microbiomeData``` to the ```Remotes``` section of the dependent package's ```DESCRIPTION``` file.
 4. add ```#' @import microbiomeData``` to the dependent package's package-level documentation file (usually called ```{mypackage}-package.R```).
 5. run ```devtools::document()```.
 
@@ -123,7 +123,7 @@ If you are trying to add data a dataset to the package, then on your local machi
  7. Use `devtools::document()` to generate a man page for the MbioDataset.
  8. Make a Pull Request against this repo!
 
- See [PR #11](https://github.com/d-callan/microbiomeData/pull/11) for an example
+ See [PR #11](https://github.com/microbiomeDB/microbiomeData/pull/11) for an example
 
 ## License
 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
