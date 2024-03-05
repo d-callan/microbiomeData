@@ -2,34 +2,34 @@ test_that('AbundanceData validation works', {
   
   df <- testOTU
 
-  expect_error(microbiomeComputations::AbundanceData(
+  expect_error(microbiomeData::AbundanceData(
               data = df))
-  expect_error(microbiomeComputations::AbundanceData(
+  expect_error(microbiomeData::AbundanceData(
               data = df,
               recordIdColumn = c('entity.SampleID', 'test')))
-  expect_error(microbiomeComputations::AbundanceData(
+  expect_error(microbiomeData::AbundanceData(
               data = df,
               recordIdColumn = c('test')))
-  expect_error(microbiomeComputations::AbundanceData(
+  expect_error(microbiomeData::AbundanceData(
               data = df,
               recordIdColumn = c('entity.SampleID'),
               ancestorIdColumns = c('test')))
 
   df$entity.strings <- 'a'
 
-  expect_error(microbiomeComputations::AbundanceData(
+  expect_error(microbiomeData::AbundanceData(
               data = df,
               recordIdColumn = c('entity.SampleID')))
 
   df$entity.strings <- .1
   names(df)[names(df) == 'entity.strings'] <- 'entity2.notstrings'
 
-  expect_error(microbiomeComputations::AbundanceData(
+  expect_error(microbiomeData::AbundanceData(
               data = df,
               recordIdColumn = c('entity.SampleID')))
 
   df$entity2.notstrings <- NULL
-  testing <- microbiomeComputations::AbundanceData(
+  testing <- microbiomeData::AbundanceData(
               data = df,
               recordIdColumn = c('entity.SampleID'))
 
@@ -42,13 +42,13 @@ test_that('AbundanceData validation works', {
   expect_true(testing@imputeZero)
 
 
-  sampleMetadata <- microbiomeComputations::SampleMetadata(
+  sampleMetadata <- microbiomeData::SampleMetadata(
     data = df[, 'entity.SampleID', with=F],
     recordIdColumn = 'entity.SampleID'
   )
 
   expect_error(
-    microbiomeComputations::AbundanceData(
+    microbiomeData::AbundanceData(
       data = df,
       sampleMetadata = sampleMetadata,
       recordIdColumn = 'entity.SampleID'
@@ -59,7 +59,7 @@ test_that('AbundanceData validation works', {
 
 test_that("getAbundances works", {
   df <- testOTU
-  testing <- microbiomeComputations::AbundanceData(
+  testing <- microbiomeData::AbundanceData(
     data = df,
     recordIdColumn = 'entity.SampleID'
   )
@@ -76,7 +76,7 @@ test_that("getAbundances works", {
   ## remove empty samples
   df <- rbind(df,df[nrow(df)+1,])
   df$entity.SampleID[nrow(df)] <- 'im.a.sample'
-  testing <- microbiomeComputations::AbundanceData(
+  testing <- microbiomeData::AbundanceData(
     data = df,
     recordIdColumn = 'entity.SampleID',
     removeEmptySamples = TRUE
@@ -89,7 +89,7 @@ test_that("getAbundances works", {
 
 test_that("pruneFeatures works", {
   df <- testOTU
-  testing <- microbiomeComputations::AbundanceData(
+  testing <- microbiomeData::AbundanceData(
     data = df,
     recordIdColumn = 'entity.SampleID'
   )
