@@ -25,26 +25,41 @@ setMethod("getMetadataVariableNames", "MbioDataset", function(object) return(nam
 setMethod("getMetadataVariableNames", "AbundanceData", function(object) return(names(object@sampleMetadata@data)))
 setMethod("getMetadataVariableNames", "Collection", function(object) return(names(object@sampleMetadata@data)))
 
-#' Get Microbiome Dataset Sample Metadata
-#' 
-#' Get the sample metadata from the Microbiome Dataset. If metadata variables are not specified, all sample metadata will be returned.
-#' @param object A Microbiome Dataset
-#' @param metadataVariables The metadata variables to include in the sample metadata. If NULL, all metadata variables will be included.
-#' @return A data.table of sample metadata
 #' @export
-setGeneric("getSampleMetadata", function(object, metadataVariables = NULL) standardGeneric("getSampleMetadata"), signature = c("object"))
-setMethod("getSampleMetadata", "MbioDataset", function(object, metadataVariables = NULL) {
+setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
+    asCopy <- veupathUtils::matchArg(asCopy)
+    includeIds <- veupathUtils::matchArg(includeIds)
+
     if (!length(object@metadata@data)) return(NULL)
 
-    dt <- data.table::setDT(object@metadata@data)
+    ## TODO make a helper that takes the dt, alIdColumns, and metadataVariables and returns the subset
+    ## this to reduce redundancy across these getSampleMetadata methods
+    dt <- object@metadata@data
+    allIdColumns <- getIdColumns(object)
+
+    # Check that incoming dt meets requirements
+    if (!inherits(dt, 'data.table')) {
+        data.table::setDT(dt)
+    }
+
+    if (asCopy) {
+        dt <- data.table::copy(dt)
+    }
+
+    if (!includeIds) {
+        dt <- dt[, -..allIdColumns]
+    }
+
     if (!is.null(metadataVariables)) {
-        metadataIdColumns <- c(object@metadata@recordIdColumn, object@metadata@ancestorIdColumns)
-        dt <- dt[, c(metadataIdColumns, metadataVariables), with = FALSE]
+        dt <- dt[, metadataVariables, with = FALSE]
     }
 
     return(dt)
 })
-setMethod("getSampleMetadata", "AbundanceData", function(object, metadataVariables = NULL) {
+
+# TODO move this to R/methods-AbundanceData.R
+# TODO actually respect the asCopy and includeIds arguments
+setMethod("getSampleMetadata", "AbundanceData", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
     if (!length(object@sampleMetadata@data)) return(NULL)
 
     dt <- data.table::setDT(object@sampleMetadata@data)
@@ -55,7 +70,10 @@ setMethod("getSampleMetadata", "AbundanceData", function(object, metadataVariabl
 
     return(dt)
 })
-setMethod("getSampleMetadata", "Collection", function(object, metadataVariables = NULL) {
+
+# TODO make an R/methods-Collections.R and move this there?
+# TODO actually respect the asCopy and includeIds arguments
+setMethod("getSampleMetadata", "Collection", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
     if (!length(object@sampleMetadata@data)) return(NULL) 
 
     dt <- data.table::setDT(object@sampleMetadata@data)
@@ -116,9 +134,9 @@ setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newNa
 #' @param format The format of the collection to return. Currently supported options are "AbundanceData", "phyloseq", and "Collection".
 #' @param continuousMetadataOnly If TRUE, only continuous metadata will be returned. If FALSE, all metadata will be returned.
 #' @return An AbundanceData, phyloseq, or Collection object representing the collection and any associated study metadata
-#' @importFrom microbiomeComputations AbundanceData
 #' @importFrom phyloseq phyloseq
-#' @importFrom microbiomeComputations SampleMetadata
+#' @include class-AbundanceData.R
+#' @include class-SampleMetadata.R
 #' @export
 setGeneric("getCollection", function(object, collectionName, format = c("AbundanceData", "phyloseq", "Collection"), continuousMetadataOnly = c(FALSE, TRUE)) standardGeneric("getCollection"))
 setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0), format = c("AbundanceData", "phyloseq", "Collection"), continuousMetadataOnly = c(FALSE, TRUE)) {
@@ -177,12 +195,12 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
 
     } else {
         sampleMetadataDT <- data.table::data.table()
-        sampleMetadata <- microbiomeComputations::SampleMetadata()
+        sampleMetadata <- SampleMetadata()
     }
     
     if (format == "AbundanceData") {
 
-        abundanceData <- microbiomeComputations::AbundanceData(
+        abundanceData <- AbundanceData(
             data = collectionDT, 
             sampleMetadata = sampleMetadata, 
             recordIdColumn = collection@recordIdColumn,
@@ -221,105 +239,4 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
     } 
 
     return(abundanceData)
-})
-
-#' Get Microbiome Dataset Compute Result
-#' 
-#' Get the compute result from a Microbiome Dataset in a particular format.
-#' Some formats may not be supported for all compute results.
-#' @param object A Microbiome Dataset
-#' @param format The format of the compute result. Currently only "data.table" and "igraph" are supported.
-#' @return The compute result in the specified format
-#' @importFrom microbiomeComputations ComputeResult
-#' @export
-setGeneric("getComputeResult", function(object, format = c("data.table"), ...) standardGeneric("getComputeResult"))
-
-#' @export
-setMethod("getComputeResult", "ComputeResult", function(object, format = c("data.table", "igraph")) {
-    format <- veupathUtils::matchArg(format)
-
-    if (!!length(object@statistics)) {
-        return(getComputeResult(object@statistics, format))
-    } else {
-        if (format == "igraph") {
-            stop("igraph not yet supported")
-        }
-    }
-
-    dt <- data.table::setDT(object@data)
-
-    return(dt)  
-})
-
-#' @importFrom microbiomeComputations CorrelationResult
-#' @export
-setMethod("getComputeResult", "CorrelationResult", function(object, format = c("data.table", "igraph")) {
-    format <- veupathUtils::matchArg(format)
-
-    result <- data.table::setDT(object@statistics)
-
-    if (format == "igraph") {
-        result <- igraph::graph_from_data_frame(result)
-    }
-
-    return(result)  
-})
-
-#' @importFrom microbiomeComputations DifferentialAbundanceResult
-#' @export
-setMethod("getComputeResult", "DifferentialAbundanceResult", function(object, format = c("data.table")) {
-    format <- veupathUtils::matchArg(format) 
-    return(data.table::setDT(object@statistics))
-})
-
-mergeComputeResultAndMetadata <- function(computeResult, dataset, metadataVariables) {
-    dt <- getComputeResult(computeResult, "data.table")
-    metadata <- getSampleMetadata(dataset, metadataVariables)
-
-    metadataIdColumns <- getSampleMetadataIdColumnNames(dataset)
-    dt <- merge(dt, metadata, by = metadataIdColumns, all.x = TRUE)
-
-    return(dt)
-}
-
-#' Get Microbiome Dataset Compute Result With Metadata
-#' 
-#' Get the compute result from a Microbiome Dataset in a particular format with metadata.
-#' @param object A Microbiome Dataset
-#' @param dataset The MbioDataset, AbundanceData or Collection object from which the compute result was obtained.
-#' @param format The format of the compute result. Currently only "data.table" is supported.
-#' @param metadataVariables The metadata variables to include in the compute result. If NULL, no metadata variables will be included.
-#' @return The compute result in the specified format
-#' @export
-setGeneric("getComputeResultWithMetadata", 
-function(object, dataset, format = c("data.table"), metadataVariables = NULL) 
-    standardGeneric("getComputeResultWithMetadata"), 
-    signature = c("object", "dataset")
-)
-
-#' @export
-setMethod("getComputeResultWithMetadata", signature = c("ComputeResult", "MbioDataset"), 
-function(object, dataset = NULL, format = c("data.table"), metadataVariables = NULL) {
-    format <- veupathUtils::matchArg(format)
-    dt <- mergeComputeResultAndMetadata(object, dataset, metadataVariables)
-
-    return(dt)
-})
-
-#' @export
-setMethod("getComputeResultWithMetadata", signature = c("ComputeResult", "Collection"), 
-function(object, dataset = NULL, format = c("data.table"), metadataVariables = NULL) {
-    format <- veupathUtils::matchArg(format)
-    dt <- mergeComputeResultAndMetadata(object, dataset, metadataVariables)
-
-    return(dt)
-})
-
-#' @export 
-setMethod("getComputeResultWithMetadata", signature = c("ComputeResult", "AbundanceData"), 
-function(object, dataset = NULL, format = c("data.table"), metadataVariables = NULL) {
-    format <- veupathUtils::matchArg(format)
-    dt <- mergeComputeResultAndMetadata(object, dataset, metadataVariables)
-
-    return(dt)
 })
