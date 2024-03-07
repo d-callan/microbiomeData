@@ -10,9 +10,13 @@ setGeneric("getIdColumns",
   signature = c("object")
 )
 
-#'@export 
-setMethod("getIdColumns", signature("AbundanceData"), function(object) {
-  c(object@recordIdColumn, object@ancestorIdColumns)
+#' @export
+setMethod("getIdColumns", "ANY", function(object) {
+    if (all(c('recordIdColumn','ancestorIdColumns') %in% slotNames(object))) {
+        return(c(object@recordIdColumn, object@ancestorIdColumns))
+    } else {
+        stop("Object does not have recordIdColumn and/or ancestorIdColumns slots. Received object of class ", class(object))
+    }
 })
 
 #' Get data.table of abundances from AbundanceData

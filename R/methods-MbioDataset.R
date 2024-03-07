@@ -57,47 +57,29 @@ setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, 
     return(dt)
 })
 
-# TODO move this to R/methods-AbundanceData.R
-# TODO actually respect the asCopy and includeIds arguments
-setMethod("getSampleMetadata", "AbundanceData", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
-    if (!length(object@sampleMetadata@data)) return(NULL)
-
-    dt <- data.table::setDT(object@sampleMetadata@data)
-    if (!is.null(metadataVariables)) {
-        metadataIdColumns <- c(object@sampleMetadata@recordIdColumn, object@sampleMetadata@ancestorIdColumns)
-        dt <- dt[, c(metadataIdColumns, metadataVariables), with = FALSE]
-    }
-
-    return(dt)
-})
-
 # TODO make an R/methods-Collections.R and move this there?
-# TODO actually respect the asCopy and includeIds arguments
 setMethod("getSampleMetadata", "Collection", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
+    asCopy <- veupathUtils::matchArg(asCopy)
+    includeIds <- veupathUtils::matchArg(includeIds)
+    
     if (!length(object@sampleMetadata@data)) return(NULL) 
 
     dt <- data.table::setDT(object@sampleMetadata@data)
+    allIdColumns <- getIdColumns(object)
+
+    if (asCopy) {
+        dt <- data.table::copy(dt)
+    }
+
+    if (!includeIds) {
+        dt <- dt[, -..allIdColumns]
+    }
+
     if (!is.null(metadataVariables)) {
-        metadataIdColumns <- c(object@sampleMetadata@recordIdColumn, object@sampleMetadata@ancestorIdColumns)
-        dt <- dt[, c(metadataIdColumns, metadataVariables), with = FALSE]
+        dt <- dt[, metadataVariables, with = FALSE]
     }
 
     return(dt)
-})
-
-#' Get Microbiome Dataset Id Column Names
-#' 
-#' Get the names of the record and ancestor id columns in the Microbiome Dataset.
-#' @param object A Microbiome Dataset, or other object w recordIdColumn and ancestorIdColumns slots
-#' @return a character vector of id column names
-#' @export
-setGeneric("getIdColumnNames", function(object) standardGeneric("getIdColumnNames"))
-setMethod("getIdColumnNames", "ANY", function(object) {
-    if (all(c('recordIdColumn','ancestorIdColumns') %in% slotNames(object))) {
-        return(c(object@recordIdColumn, object@ancestorIdColumns))
-    } else {
-        stop("Object does not have recordIdColumn and/or ancestorIdColumns slots. Received object of class ", class(object))
-    }
 })
 
 #' Get Sample Metadata Id Column Names
@@ -106,10 +88,10 @@ setMethod("getIdColumnNames", "ANY", function(object) {
 #' @param object A Microbiome Dataset, or other object w sample metadata
 #' @return a character vector of id column names
 #' @export
-setGeneric("getSampleMetadataIdColumnNames", function(object) standardGeneric("getSampleMetadataIdColumnNames"))
-setMethod("getSampleMetadataIdColumnNames", "MbioDataset", function(object) getIdColumnNames(object@metadata))
-setMethod("getSampleMetadataIdColumnNames", "AbundanceData", function(object) getIdColumnNames(object@sampleMetadata))
-setMethod("getSampleMetadataIdColumnNames", "Collection", function(object) getIdColumnNames(object@sampleMetadata))
+setGeneric("getSampleMetadataIdColumns", function(object) standardGeneric("getSampleMetadataIdColumnNames"))
+setMethod("getSampleMetadataIdColumns", "MbioDataset", function(object) getIdColumns(object@metadata))
+setMethod("getSampleMetadataIdColumns", "AbundanceData", function(object) getIdColumns(object@sampleMetadata))
+setMethod("getSampleMetadataIdColumns", "Collection", function(object) getIdColumns(object@sampleMetadata))
 
 #' Update Microbiome Dataset Collection Name
 #' 
