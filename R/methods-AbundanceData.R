@@ -76,6 +76,8 @@ setMethod("getAbundances", signature("AbundanceData"), function(object, ignoreIm
 #' @param includeIds boolean indicating whether we should include recordIdColumn and ancestorIdColumns
 #' @param metadataVariables The metadata variables to include in the sample metadata. If NULL, all metadata variables will be included.
 #' @return data.table of sample metadata
+#' @import veupathUtils
+#' @import data.table
 #' @export
 setGeneric("getSampleMetadata",
   function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) standardGeneric("getSampleMetadata"),
