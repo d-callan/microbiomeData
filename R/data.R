@@ -32,7 +32,6 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_a2f8877e68/new/download>
-#' @export
 "DiabImmune"
 
 #' FARMM
@@ -57,7 +56,6 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_4dfda49064/new/download>
-#' @export
 "FARMM"
 
 #' Bangladesh 5yr
@@ -78,7 +76,6 @@
 #' "16S Phylum" \cr                                           
 #' "16S Kingdom" \cr 
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_1102462e80/new/download>
-#' @export
 "Bangladesh"
 
 #' HMP Phase 1 WGS
@@ -102,7 +99,6 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_898df5869d/new/download>
-#' @export
 "HMP_WGS"
 
 #' BONUS-CF
@@ -127,7 +123,6 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_b3b3ae9838/new/download>
-#' @export
 "BONUS"
 
 #' NICU-NEC
@@ -152,5 +147,4 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_84fcb69f4e/new/download>
-#' @export
 "NICU_NEC"
