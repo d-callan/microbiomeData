@@ -26,7 +26,7 @@ check_collection <- function(object) {
 
     # check that all columns in data are numeric except id columns
     dataColNames <- names(object@data)[!names(object@data) %in% allIdColumns]
-    if (!all(sapply(object@data[, dataColNames], is.numeric))) {
+    if (!all(sapply(object@data[, ..dataColNames], is.numeric))) {
         msg <- sprintf("all columns in data except '%s' must be numeric", paste(allIdColumns, collapse=", "))
         errors <- c(errors, msg)
     }
