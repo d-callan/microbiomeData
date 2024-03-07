@@ -115,15 +115,15 @@ setMethod("getSampleMetadata", signature("AbundanceData"), function(object, asCo
     dt <- dt[rowSums(isNAorZero(abundances)) != ncol(abundances),]
   }
 
-  if (!includeIds) {
-    dt <- dt[, -..allIdColumns]
-  }
+  if (includeIds && !is.null(metadataVariables)) {
+        dt <- dt[, c(allIdColumns, metadataVariables), with = FALSE]
+    } else if (!includeIds && !is.null(metadataVariables)) {
+        dt <- dt[, metadataVariables, with = FALSE]
+    } else if (!includeIds && is.null(metadataVariables)) {
+        dt <- dt[, -..allIdColumns]
+    }
 
-  if (!is.null(metadataVariables)) {
-    dt <- dt[, metadataVariables, with = FALSE]
-  }
-
-  return(dt)
+    return(dt)
 })
 
 #' Drop samples with incomplete SampleMetadata

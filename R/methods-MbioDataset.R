@@ -32,7 +32,7 @@ setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, 
 
     if (!length(object@metadata@data)) return(NULL)
 
-    ## TODO make a helper that takes the dt, alIdColumns, and metadataVariables and returns the subset
+    ## TODO make a helper that takes the dt, allIdColumns, and metadataVariables and returns the subset
     ## this to reduce redundancy across these getSampleMetadata methods
     dt <- object@metadata@data
     allIdColumns <- getSampleMetadataIdColumns(object)
@@ -46,12 +46,12 @@ setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, 
         dt <- data.table::copy(dt)
     }
 
-    if (!includeIds) {
-        dt <- dt[, -..allIdColumns]
-    }
-
-    if (!is.null(metadataVariables)) {
+    if (includeIds && !is.null(metadataVariables)) {
+        dt <- dt[, c(allIdColumns, metadataVariables), with = FALSE]
+    } else if (!includeIds && !is.null(metadataVariables)) {
         dt <- dt[, metadataVariables, with = FALSE]
+    } else if (!includeIds && is.null(metadataVariables)) {
+        dt <- dt[, -..allIdColumns]
     }
 
     return(dt)
@@ -71,12 +71,12 @@ setMethod("getSampleMetadata", "Collection", function(object, asCopy = c(TRUE, F
         dt <- data.table::copy(dt)
     }
 
-    if (!includeIds) {
-        dt <- dt[, -..allIdColumns]
-    }
-
-    if (!is.null(metadataVariables)) {
+    if (includeIds && !is.null(metadataVariables)) {
+        dt <- dt[, c(allIdColumns, metadataVariables), with = FALSE]
+    } else if (!includeIds && !is.null(metadataVariables)) {
         dt <- dt[, metadataVariables, with = FALSE]
+    } else if (!includeIds && is.null(metadataVariables)) {
+        dt <- dt[, -..allIdColumns]
     }
 
     return(dt)
