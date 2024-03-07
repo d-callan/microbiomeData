@@ -94,6 +94,7 @@ setMethod("getSampleMetadata", signature("AbundanceData"), function(object, asCo
   includeIds <- veupathUtils::matchArg(includeIds)
   
   dt <- object@sampleMetadata@data
+  # TODO change this to getSampleMetadataIdColumns
   allIdColumns <- getIdColumns(object)
 
   # Check that incoming dt meets requirements

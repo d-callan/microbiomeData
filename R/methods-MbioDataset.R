@@ -35,7 +35,7 @@ setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, 
     ## TODO make a helper that takes the dt, alIdColumns, and metadataVariables and returns the subset
     ## this to reduce redundancy across these getSampleMetadata methods
     dt <- object@metadata@data
-    allIdColumns <- getIdColumns(object)
+    allIdColumns <- getSampleMetadataIdColumns(object)
 
     # Check that incoming dt meets requirements
     if (!inherits(dt, 'data.table')) {
@@ -65,7 +65,7 @@ setMethod("getSampleMetadata", "Collection", function(object, asCopy = c(TRUE, F
     if (!length(object@sampleMetadata@data)) return(NULL) 
 
     dt <- data.table::setDT(object@sampleMetadata@data)
-    allIdColumns <- getIdColumns(object)
+    allIdColumns <- getSampleMetadataIdColumns(object)
 
     if (asCopy) {
         dt <- data.table::copy(dt)
@@ -82,6 +82,8 @@ setMethod("getSampleMetadata", "Collection", function(object, asCopy = c(TRUE, F
     return(dt)
 })
 
+## TODO move these to more appropriate files, write one for SampleMetadata itself
+## TODO write getIdColumns for Collection if it doesnt already exist?
 #' Get Sample Metadata Id Column Names
 #' 
 #' Get the names of the record and ancestor id columns in the sample metadata of the Microbiome Dataset.

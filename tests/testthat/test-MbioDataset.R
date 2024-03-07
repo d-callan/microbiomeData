@@ -18,6 +18,7 @@ test_that("we can create a new MbioDataset", {
     expect_s4_class(mbioDataset, "MbioDataset")
     
     # from a file of collections and sample metadata
+    # TODO move these files to tests/testthat/testdata and use test_path()
     dataFile1 <- '../../inst/extdata/DiabImmune/DiabImmune_entity_16SRRNAV4Assay.txt'
     metadataFile1 <- '../../inst/extdata/DiabImmune/DiabImmune_ParticipantRepeatedMeasure.txt'
     mbioDataset <- MbioDataset(dataFile1, metadataFile1)
