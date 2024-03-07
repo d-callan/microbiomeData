@@ -88,7 +88,7 @@ setMethod("getSampleMetadata", "Collection", function(object, asCopy = c(TRUE, F
 #' @param object A Microbiome Dataset, or other object w sample metadata
 #' @return a character vector of id column names
 #' @export
-setGeneric("getSampleMetadataIdColumns", function(object) standardGeneric("getSampleMetadataIdColumnNames"))
+setGeneric("getSampleMetadataIdColumns", function(object) standardGeneric("getSampleMetadataIdColumns"))
 setMethod("getSampleMetadataIdColumns", "MbioDataset", function(object) getIdColumns(object@metadata))
 setMethod("getSampleMetadataIdColumns", "AbundanceData", function(object) getIdColumns(object@sampleMetadata))
 setMethod("getSampleMetadataIdColumns", "Collection", function(object) getIdColumns(object@sampleMetadata))
