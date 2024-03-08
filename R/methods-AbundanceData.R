@@ -105,7 +105,6 @@ setMethod("getSampleMetadata", signature("AbundanceData"), function(object, asCo
     dt <- data.table::copy(dt)
   }
 
-  # TODO are we setting this slot when we produce these from MbioDataset objects?
   if (object@removeEmptySamples) {
     # not using getAbundances here bc i want the empty samples here
     abundances <- object@data[, -..allIdColumns]

@@ -22,14 +22,12 @@ test_that("we can create a new MbioDataset", {
     metadataFile1 <- test_path('testdata','DiabImmune/DiabImmune_ParticipantRepeatedMeasure.txt')
     mbioDataset <- MbioDataset(dataFile1, metadataFile1)
     expect_s4_class(mbioDataset, "MbioDataset")
-    # TODO check that things have reasonable names and id columns
 
     # from a data frame of collections and sample metadata
     df <- data.table::fread(dataFile1)
     metadata <- data.table::fread(metadataFile1)
     mbioDataset <- MbioDataset(df, metadata)
     expect_s4_class(mbioDataset, "MbioDataset")
-    # TODO check that things have reasonable names and id columns
 
     # from a list of files of collections and sample metadata
     dataFile2 <- test_path('testdata','DiabImmune/DiabImmune_MetagenomicSequencingAssay.txt')
@@ -37,7 +35,6 @@ test_that("we can create a new MbioDataset", {
     metadataFile3 <- test_path('testdata','DiabImmune/DiabImmune_Sample.txt')
     mbioDataset <- MbioDataset(list(dataFile1, dataFile2), list(metadataFile1, metadataFile2, metadataFile3))
     expect_s4_class(mbioDataset, "MbioDataset")
-    # TODO check that things have reasonable names and id columns
 
     # from a list of collections and sample metadata data frames
     df2 <- data.table::fread(dataFile2)
@@ -45,7 +42,6 @@ test_that("we can create a new MbioDataset", {
     metadata3 <- data.table::fread(metadataFile3)
     mbioDataset <- MbioDataset(list(df, df2), list(metadata, metadata2, metadata3))
     expect_s4_class(mbioDataset, "MbioDataset")
-    # TODO check that things have reasonable names and id columns
 })
 
 test_that("we can update collection names and get collections", {
