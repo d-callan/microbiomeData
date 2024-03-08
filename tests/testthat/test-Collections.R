@@ -8,7 +8,7 @@ test_that("we can create a new Collection", {
     expect_s4_class(collection, "Collection")
 
     # from a file
-    fileName <- '../../inst/extdata/collection.tab'
+    fileName <- test_path('testdata','collection.tab') 
     collection <- Collection("my collection", fileName, "entity.id", "ancestor.y")
     expect_s4_class(collection, "Collection")
 })
@@ -46,7 +46,7 @@ test_that("we can make Collections", {
     expect_s4_class(Collections, "Collections")
 
     # from a file
-    file1 <- '../../inst/extdata/DiabImmune/DiabImmune_entity_16SRRNAV4Assay.txt'
+    file1 <- test_path('testdata','DiabImmune/DiabImmune_entity_16SRRNAV4Assay.txt')
     Collections <- Collections(file1)
     expect_s4_class(Collections, "Collections")
     # TODO check that things have reasonable names and id columns
@@ -58,7 +58,7 @@ test_that("we can make Collections", {
     # TODO check that things have reasonable names and id columns
 
     # from a list of files
-    file2 <- '../../inst/extdata/DiabImmune/DiabImmune_MetagenomicSequencingAssay.txt'
+    file2 <- test_path('testdata','DiabImmune/DiabImmune_MetagenomicSequencingAssay.txt')
     Collections <- Collections(list(file1, file2))
     expect_s4_class(Collections, "Collections")
     # TODO check that things have reasonable names and id columns

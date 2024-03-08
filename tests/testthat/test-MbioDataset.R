@@ -18,9 +18,8 @@ test_that("we can create a new MbioDataset", {
     expect_s4_class(mbioDataset, "MbioDataset")
     
     # from a file of collections and sample metadata
-    # TODO move these files to tests/testthat/testdata and use test_path()
-    dataFile1 <- '../../inst/extdata/DiabImmune/DiabImmune_entity_16SRRNAV4Assay.txt'
-    metadataFile1 <- '../../inst/extdata/DiabImmune/DiabImmune_ParticipantRepeatedMeasure.txt'
+    dataFile1 <- test_path('testdata','DiabImmune/DiabImmune_entity_16SRRNAV4Assay.txt')
+    metadataFile1 <- test_path('testdata','DiabImmune/DiabImmune_ParticipantRepeatedMeasure.txt')
     mbioDataset <- MbioDataset(dataFile1, metadataFile1)
     expect_s4_class(mbioDataset, "MbioDataset")
     # TODO check that things have reasonable names and id columns
@@ -33,9 +32,9 @@ test_that("we can create a new MbioDataset", {
     # TODO check that things have reasonable names and id columns
 
     # from a list of files of collections and sample metadata
-    dataFile2 <- '../../inst/extdata/DiabImmune/DiabImmune_MetagenomicSequencingAssay.txt'
-    metadataFile2 <- '../../inst/extdata/DiabImmune/DiabImmune_Participant.txt'
-    metadataFile3 <- '../../inst/extdata/DiabImmune/DiabImmune_Sample.txt'
+    dataFile2 <- test_path('testdata','DiabImmune/DiabImmune_MetagenomicSequencingAssay.txt')
+    metadataFile2 <- test_path('testdata','DiabImmune/DiabImmune_Participant.txt')
+    metadataFile3 <- test_path('testdata','DiabImmune/DiabImmune_Sample.txt')
     mbioDataset <- MbioDataset(list(dataFile1, dataFile2), list(metadataFile1, metadataFile2, metadataFile3))
     expect_s4_class(mbioDataset, "MbioDataset")
     # TODO check that things have reasonable names and id columns
