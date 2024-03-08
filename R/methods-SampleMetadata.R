@@ -20,3 +20,6 @@ setMethod("getSampleMetadata", signature("SampleMetadata"), function(object, asC
 
   return(dt)
 })
+
+#' @export 
+setMethod("getSampleMetadataIdColumns", "SampleMetadata", function(object) getIdColumns(object))

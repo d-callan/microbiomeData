@@ -1,10 +1,3 @@
-#some basic accessors
-setGeneric("name", function(x) standardGeneric("name"))
-setMethod("name", "Collection", function(x) return(x@name))
-setGeneric("name<-", function(x, value) standardGeneric("name<-"))
-setMethod("name<-", "Collection", function(x, value) {x@name <- value; return(x)})
-setMethod(getGeneric("names"), "Collections", function(x) return(sapply(x, name)))
-
 #' Get Microbiome Dataset Collection Names
 #' 
 #' Get the names of the collections in the Microbiome Dataset.
@@ -14,16 +7,8 @@ setMethod(getGeneric("names"), "Collections", function(x) return(sapply(x, name)
 setGeneric("getCollectionNames", function(object) standardGeneric("getCollectionNames"))
 setMethod("getCollectionNames", "MbioDataset", function(object) return(unname(names(object@collections))))
 
-#' Get Microbiome Dataset Metadata Variable Names
-#' 
-#' Get the names of the metadata variables in the Microbiome Dataset.
-#' @param object A Microbiome Dataset
-#' @return a character vector of metadata variable names
 #' @export
-setGeneric("getMetadataVariableNames", function(object) standardGeneric("getMetadataVariableNames"))
 setMethod("getMetadataVariableNames", "MbioDataset", function(object) return(names(object@metadata@data)))
-setMethod("getMetadataVariableNames", "AbundanceData", function(object) return(names(object@sampleMetadata@data)))
-setMethod("getMetadataVariableNames", "Collection", function(object) return(names(object@sampleMetadata@data)))
 
 #' @export
 setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
@@ -32,8 +17,6 @@ setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, 
 
     if (!length(object@metadata@data)) return(NULL)
 
-    ## TODO make a helper that takes the dt, allIdColumns, and metadataVariables and returns the subset
-    ## this to reduce redundancy across these getSampleMetadata methods
     dt <- object@metadata@data
     allIdColumns <- getSampleMetadataIdColumns(object)
 
@@ -57,43 +40,10 @@ setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, 
     return(dt)
 })
 
-# TODO make an R/methods-Collections.R and move this there?
-setMethod("getSampleMetadata", "Collection", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
-    asCopy <- veupathUtils::matchArg(asCopy)
-    includeIds <- veupathUtils::matchArg(includeIds)
-    
-    if (!length(object@sampleMetadata@data)) return(NULL) 
 
-    dt <- data.table::setDT(object@sampleMetadata@data)
-    allIdColumns <- getSampleMetadataIdColumns(object)
-
-    if (asCopy) {
-        dt <- data.table::copy(dt)
-    }
-
-    if (includeIds && !is.null(metadataVariables)) {
-        dt <- dt[, c(allIdColumns, metadataVariables), with = FALSE]
-    } else if (!includeIds && !is.null(metadataVariables)) {
-        dt <- dt[, metadataVariables, with = FALSE]
-    } else if (!includeIds && is.null(metadataVariables)) {
-        dt <- dt[, -..allIdColumns]
-    }
-
-    return(dt)
-})
-
-## TODO move these to more appropriate files, write one for SampleMetadata itself
-## TODO write getIdColumns for Collection if it doesnt already exist?
-#' Get Sample Metadata Id Column Names
-#' 
-#' Get the names of the record and ancestor id columns in the sample metadata of the Microbiome Dataset.
-#' @param object A Microbiome Dataset, or other object w sample metadata
-#' @return a character vector of id column names
 #' @export
-setGeneric("getSampleMetadataIdColumns", function(object) standardGeneric("getSampleMetadataIdColumns"))
 setMethod("getSampleMetadataIdColumns", "MbioDataset", function(object) getIdColumns(object@metadata))
-setMethod("getSampleMetadataIdColumns", "AbundanceData", function(object) getIdColumns(object@sampleMetadata))
-setMethod("getSampleMetadataIdColumns", "Collection", function(object) getIdColumns(object@sampleMetadata))
+
 
 #' Update Microbiome Dataset Collection Name
 #' 

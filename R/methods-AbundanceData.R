@@ -125,6 +125,28 @@ setMethod("getSampleMetadata", signature("AbundanceData"), function(object, asCo
     return(dt)
 })
 
+#' Get Microbiome Dataset Metadata Variable Names
+#' 
+#' Get the names of the metadata variables in the Microbiome Dataset.
+#' @param object A Microbiome Dataset
+#' @return a character vector of metadata variable names
+#' @export
+setGeneric("getMetadataVariableNames", function(object) standardGeneric("getMetadataVariableNames"))
+
+#' @export
+setMethod("getMetadataVariableNames", "AbundanceData", function(object) return(names(object@sampleMetadata@data)))
+
+#' Get Sample Metadata Id Column Names
+#' 
+#' Get the names of the record and ancestor id columns in the sample metadata of the Microbiome Dataset.
+#' @param object A Microbiome Dataset, or other object w sample metadata
+#' @return a character vector of id column names
+#' @export
+setGeneric("getSampleMetadataIdColumns", function(object) standardGeneric("getSampleMetadataIdColumns"))
+
+#' @export
+setMethod("getSampleMetadataIdColumns", "AbundanceData", function(object) getIdColumns(object@sampleMetadata))
+
 #' Drop samples with incomplete SampleMetadata
 #'
 #' Modifies the data and sampleMetadata slots of an 
