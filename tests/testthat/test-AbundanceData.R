@@ -95,7 +95,7 @@ test_that("pruneFeatures works", {
   )
   
   # pruneFeatures touched SampleMetadata, which this AbundanceData object has none. it shouldnt fail for that though.
-  testing <- pruneFeatures(testing, predicateFactory('proportionNonZero', 0.5))
+  testing <- pruneFeatures(testing, veupathUtils::predicateFactory('proportionNonZero', 0.5))
   expect_equal(nrow(testing@data), 288)
   expect_equal(ncol(testing@data), 13)
 })
