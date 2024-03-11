@@ -1,6 +1,14 @@
 ## TODO add the rest of the datasets
 ## TODO add dates they were added to this package, MicrobiomeDB.org release version, etc. for provenance
 
+#' testOTU
+#' 
+#' A test dataset for testing the functions in the package
+#'
+#' @format ## `testOTU`
+#' A data.table with hundreds of mock OTUs
+"testOTU"
+
 #' DiabImmune
 #'
 #' Broad Institute's study of three pediatric cohorts that examined the microbiome in 
