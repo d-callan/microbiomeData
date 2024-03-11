@@ -25,6 +25,8 @@ getAbundances(
 \item{ignoreImputeZero}{boolean indicating whether we should respect the imputeZero slot}
 
 \item{includeIds}{boolean indicating whether we should include recordIdColumn and ancestorIdColumns}
+
+\item{verbose}{boolean indicating if timed logging is desired}
 }
 \value{
 data.table of abundances

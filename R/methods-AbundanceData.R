@@ -29,6 +29,7 @@ setMethod("getIdColumns", "ANY", function(object) {
 #' @param object AbundanceData
 #' @param ignoreImputeZero boolean indicating whether we should respect the imputeZero slot
 #' @param includeIds boolean indicating whether we should include recordIdColumn and ancestorIdColumns
+#' @param verbose boolean indicating if timed logging is desired
 #' @return data.table of abundances
 #' @rdname getAbundances
 #' @export

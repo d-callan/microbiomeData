@@ -13,8 +13,6 @@ A class for working with metadata.
 \describe{
 \item{\code{data}}{A data.frame of metadata variables with samples as rows and variables as columns}
 
-\item{\code{sampleMetadata}}{A data.frame of metadata about the samples with samples as rows and metadata variables as columns}
-
 \item{\code{recordIdColumn}}{The name of the column containing IDs for the samples.}
 
 \item{\code{ancestorIdColumns}}{A character vector of column names representing parent entities of the recordIdColumn.}
