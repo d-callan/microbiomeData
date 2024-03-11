@@ -57,7 +57,7 @@ setGeneric("updateCollectionName", function(object, oldName, newName) standardGe
 #' @rdname updateCollectionName
 #' @aliases updateCollectionName,MbioDataset,character,character-method
 setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newName) {
-    object@collections[oldName][[1]]@name <- newName
+    object@collections[[which(getCollectionNames(object) == oldName)]]@name <- newName
     return(object)
 })
 
@@ -91,7 +91,7 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
         stop(sprintf("Collection '%s' does not exist", collectionName))
     }
 
-    collection <- object@collections[collectionName][[1]]
+    collection <- object@collections[[which(getCollectionNames(object) == collectionName)]]
     if (format == "Collection") {
         return(collection)
     }

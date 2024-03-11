@@ -73,7 +73,7 @@ check_collections <- function(object) {
     errors <- character()
 
     # check that all names are unique
-    if (length(unique(names(object))) != length(object)) {
+    if (length(unique(getCollectionNames(object))) != length(object)) {
         msg <- "collection names must be unique"
         errors <- c(errors, msg)
     }
