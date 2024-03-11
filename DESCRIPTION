@@ -9,7 +9,9 @@ Authors@R:
 biocViews: 
 Imports:
     data.table,
+    methods,
     phyloseq,
+    purrr,
     S4Vectors,
     veupathUtils
 Remotes:

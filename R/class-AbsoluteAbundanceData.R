@@ -1,3 +1,4 @@
+#' @import methods
 check_absolute_abundance_data <- function(object) {
     errors <- character()
     df <- object@data

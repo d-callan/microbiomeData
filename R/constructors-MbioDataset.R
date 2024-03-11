@@ -313,6 +313,7 @@ mergeSampleMetadata <- function(x, y) {
     return(sampleMetadata)
 }
 
+#' @importFrom purrr reduce
 sampleMetadataFromDataSources <- function(dataSources) {
     sampleMetataList <- lapply(dataSources, sampleMetadataBuilder)
     sampleMetadata <- purrr::reduce(sampleMetataList, mergeSampleMetadata)
