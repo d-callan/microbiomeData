@@ -2,9 +2,16 @@
 % Please edit documentation in R/methods-AbundanceData.R
 \name{removeIncompleteSamples}
 \alias{removeIncompleteSamples}
+\alias{removeIncompleteSamples,AbundanceData-method}
 \title{Drop samples with incomplete SampleMetadata}
 \usage{
 removeIncompleteSamples(
+  object,
+  colName = character(),
+  verbose = c(TRUE, FALSE)
+)
+
+\S4method{removeIncompleteSamples}{AbundanceData}(
   object,
   colName = character(),
   verbose = c(TRUE, FALSE)

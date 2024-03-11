@@ -2,11 +2,20 @@
 % Please edit documentation in R/methods-MbioDataset.R
 \name{getCollection}
 \alias{getCollection}
+\alias{getCollection,MbioDataset-method}
+\alias{getCollection,MbioDataset,character-method}
 \title{Get Microbiome Dataset Collection}
 \usage{
 getCollection(
   object,
   collectionName,
+  format = c("AbundanceData", "phyloseq", "Collection"),
+  continuousMetadataOnly = c(FALSE, TRUE)
+)
+
+\S4method{getCollection}{MbioDataset}(
+  object,
+  collectionName = character(0),
   format = c("AbundanceData", "phyloseq", "Collection"),
   continuousMetadataOnly = c(FALSE, TRUE)
 )

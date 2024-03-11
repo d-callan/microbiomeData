@@ -2,9 +2,17 @@
 % Please edit documentation in R/methods-AbundanceData.R
 \name{getAbundances}
 \alias{getAbundances}
+\alias{getAbundances,AbundanceData-method}
 \title{Get data.table of abundances from AbundanceData}
 \usage{
 getAbundances(
+  object,
+  ignoreImputeZero = c(FALSE, TRUE),
+  includeIds = c(TRUE, FALSE),
+  verbose = c(TRUE, FALSE)
+)
+
+\S4method{getAbundances}{AbundanceData}(
   object,
   ignoreImputeZero = c(FALSE, TRUE),
   includeIds = c(TRUE, FALSE),

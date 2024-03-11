@@ -2,9 +2,13 @@
 % Please edit documentation in R/methods-MbioDataset.R
 \name{updateCollectionName}
 \alias{updateCollectionName}
+\alias{updateCollectionName,MbioDataset-method}
+\alias{updateCollectionName,MbioDataset,character,character-method}
 \title{Update Microbiome Dataset Collection Name}
 \usage{
 updateCollectionName(object, oldName, newName)
+
+\S4method{updateCollectionName}{MbioDataset}(object, oldName, newName)
 }
 \arguments{
 \item{object}{A Microbiome Dataset}

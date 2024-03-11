@@ -2,9 +2,12 @@
 % Please edit documentation in R/methods-AbundanceData.R
 \name{pruneFeatures}
 \alias{pruneFeatures}
+\alias{pruneFeatures,AbundanceData-method}
 \title{Prune features by predicate}
 \usage{
 pruneFeatures(object, predicate, verbose = c(TRUE, FALSE))
+
+\S4method{pruneFeatures}{AbundanceData}(object, predicate, verbose = c(TRUE, FALSE))
 }
 \arguments{
 \item{object}{AbundanceData}

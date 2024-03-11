@@ -2,12 +2,15 @@
 % Please edit documentation in R/methods-AbundanceData.R
 \name{getIdColumns}
 \alias{getIdColumns}
+\alias{getIdColumns,ANY-method}
 \title{Get all ID columns}
 \usage{
 getIdColumns(object)
+
+\S4method{getIdColumns}{ANY}(object)
 }
 \arguments{
-\item{object}{AbundanceData}
+\item{object}{AbundanceData, or other object with slots recordIdColumn and ancestorIdColumns}
 }
 \value{
 vector of all ID columns

@@ -1,4 +1,5 @@
-#'@export 
+#' @rdname getSampleMetadata
+#' @aliases getSampleMetadata,SampleMetadata-method 
 setMethod("getSampleMetadata", signature("SampleMetadata"), function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE)) {
   asCopy <- veupathUtils::matchArg(asCopy)
   includeIds <- veupathUtils::matchArg(includeIds)

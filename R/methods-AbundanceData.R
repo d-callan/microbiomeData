@@ -135,7 +135,7 @@ setMethod("getSampleMetadata", signature("AbundanceData"), function(object, asCo
 #' Get the names of the metadata variables in the Microbiome Dataset.
 #' @param object A Microbiome Dataset
 #' @return a character vector of metadata variable names
-#' @rdname getSampleMetadataVariableNames
+#' @rdname getMetadataVariableNames
 #' @export
 setGeneric("getMetadataVariableNames", function(object) standardGeneric("getMetadataVariableNames"))
 

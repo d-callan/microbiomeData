@@ -1,16 +1,13 @@
-#' Get Microbiome Dataset Collection Names
-#' 
-#' Get the names of the collections in the Microbiome Dataset.
-#' @param object A Microbiome Dataset
-#' @return a character vector of collection names
-#' @export
-setGeneric("getCollectionNames", function(object) standardGeneric("getCollectionNames"))
-setMethod("getCollectionNames", "MbioDataset", function(object) return(unname(names(object@collections))))
+#' @rdname getCollectionNames
+#' @aliases getCollectionNames,MbioDataset-method
+setMethod("getCollectionNames", "MbioDataset", function(object) return(unname(getCollectionNames(object@collections))))
 
-#' @export
+#' @rdname getMetadataVariableNames
+#' @aliases getMetadataVariableNames,MbioDataset-method
 setMethod("getMetadataVariableNames", "MbioDataset", function(object) return(names(object@metadata@data)))
 
-#' @export
+#' @rdname getSampleMetadata
+#' @aliases getSampleMetadata,MbioDataset-method
 setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
     asCopy <- veupathUtils::matchArg(asCopy)
     includeIds <- veupathUtils::matchArg(includeIds)
@@ -41,7 +38,8 @@ setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, 
 })
 
 
-#' @export
+#' @rdname getSampleMetadataIdColumns
+#' @aliases getSampleMetadataIdColumns,MbioDataset-method
 setMethod("getSampleMetadataIdColumns", "MbioDataset", function(object) getIdColumns(object@metadata))
 
 
@@ -52,8 +50,12 @@ setMethod("getSampleMetadataIdColumns", "MbioDataset", function(object) getIdCol
 #' @param oldName The name of the collection to update
 #' @param newName The new name of the collection
 #' @return A Microbiome Dataset with the updated collection name
+#' @rdname updateCollectionName
 #' @export
 setGeneric("updateCollectionName", function(object, oldName, newName) standardGeneric("updateCollectionName"))
+
+#' @rdname updateCollectionName
+#' @aliases updateCollectionName,MbioDataset,character,character-method
 setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newName) {
     object@collections[oldName][[1]]@name <- newName
     return(object)
@@ -71,8 +73,12 @@ setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newNa
 #' @importFrom phyloseq phyloseq
 #' @include class-AbundanceData.R
 #' @include class-SampleMetadata.R
+#' @rdname getCollection
 #' @export
 setGeneric("getCollection", function(object, collectionName, format = c("AbundanceData", "phyloseq", "Collection"), continuousMetadataOnly = c(FALSE, TRUE)) standardGeneric("getCollection"))
+
+#' @rdname getCollection
+#' @aliases getCollection,MbioDataset,character-method
 setMethod("getCollection", "MbioDataset", function(object, collectionName = character(0), format = c("AbundanceData", "phyloseq", "Collection"), continuousMetadataOnly = c(FALSE, TRUE)) {
     format <- veupathUtils::matchArg(format)
     continuousMetadataOnly <- veupathUtils::matchArg(continuousMetadataOnly)
