@@ -2,15 +2,17 @@
 #' 
 #' Returns a vector of all ID columns
 #' 
-#' @param object AbundanceData
+#' @param object AbundanceData, or other object with slots recordIdColumn and ancestorIdColumns
 #' @return vector of all ID columns
+#' @rdname getIdColumns
 #' @export
 setGeneric("getIdColumns",
   function(object) standardGeneric("getIdColumns"),
   signature = c("object")
 )
 
-#' @export
+#' @rdname getIdColumns
+#' @aliases getIdColumns,ANY-method
 setMethod("getIdColumns", "ANY", function(object) {
     if (all(c('recordIdColumn','ancestorIdColumns') %in% slotNames(object))) {
         return(c(object@recordIdColumn, object@ancestorIdColumns))
@@ -28,13 +30,15 @@ setMethod("getIdColumns", "ANY", function(object) {
 #' @param ignoreImputeZero boolean indicating whether we should respect the imputeZero slot
 #' @param includeIds boolean indicating whether we should include recordIdColumn and ancestorIdColumns
 #' @return data.table of abundances
+#' @rdname getAbundances
 #' @export
 setGeneric("getAbundances",
   function(object, ignoreImputeZero = c(FALSE, TRUE), includeIds = c(TRUE, FALSE), verbose = c(TRUE, FALSE)) standardGeneric("getAbundances"),
   signature = c("object")
 )
 
-#'@export 
+#' @rdname getAbundances
+#' @aliases getAbundances,AbundanceData-method
 setMethod("getAbundances", signature("AbundanceData"), function(object, ignoreImputeZero = c(FALSE, TRUE), includeIds = c(TRUE, FALSE), verbose = c(TRUE, FALSE)) {
   ignoreImputeZero <- veupathUtils::matchArg(ignoreImputeZero)
   includeIds <- veupathUtils::matchArg(includeIds)
@@ -82,13 +86,15 @@ setMethod("getAbundances", signature("AbundanceData"), function(object, ignoreIm
 #' @return data.table of sample metadata
 #' @import veupathUtils
 #' @import data.table
+#' @rdname getSampleMetadata
 #' @export
 setGeneric("getSampleMetadata",
   function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) standardGeneric("getSampleMetadata"),
   signature = c("object")
 )
 
-#'@export 
+#' @rdname getSampleMetadata
+#' @aliases getSampleMetadata,AbundanceData-method
 setMethod("getSampleMetadata", signature("AbundanceData"), function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
   asCopy <- veupathUtils::matchArg(asCopy)
   includeIds <- veupathUtils::matchArg(includeIds)
@@ -129,10 +135,12 @@ setMethod("getSampleMetadata", signature("AbundanceData"), function(object, asCo
 #' Get the names of the metadata variables in the Microbiome Dataset.
 #' @param object A Microbiome Dataset
 #' @return a character vector of metadata variable names
+#' @rdname getSampleMetadataVariableNames
 #' @export
 setGeneric("getMetadataVariableNames", function(object) standardGeneric("getMetadataVariableNames"))
 
-#' @export
+#' @rdname getMetadataVariableNames
+#' @aliases getMetadataVariableNames,AbundanceData-method
 setMethod("getMetadataVariableNames", "AbundanceData", function(object) return(names(object@sampleMetadata@data)))
 
 #' Get Sample Metadata Id Column Names
@@ -140,10 +148,12 @@ setMethod("getMetadataVariableNames", "AbundanceData", function(object) return(n
 #' Get the names of the record and ancestor id columns in the sample metadata of the Microbiome Dataset.
 #' @param object A Microbiome Dataset, or other object w sample metadata
 #' @return a character vector of id column names
+#' @rdname getSampleMetadataIdColumns
 #' @export
 setGeneric("getSampleMetadataIdColumns", function(object) standardGeneric("getSampleMetadataIdColumns"))
 
-#' @export
+#' @rdname getSampleMetadataIdColumns
+#' @aliases getSampleMetadataIdColumns,AbundanceData-method
 setMethod("getSampleMetadataIdColumns", "AbundanceData", function(object) getIdColumns(object@sampleMetadata))
 
 #' Drop samples with incomplete SampleMetadata
@@ -156,13 +166,15 @@ setMethod("getSampleMetadataIdColumns", "AbundanceData", function(object) getIdC
 #' @param colName String providing the column name in SampleMetadata to check for completeness
 #' @param verbose boolean indicating if timed logging is desired
 #' @return AbundanceData with modified data and sampleMetadata slots
+#' @rdname removeIncompleteSamples
 #' @export
 setGeneric("removeIncompleteSamples",
   function(object, colName = character(), verbose = c(TRUE, FALSE)) standardGeneric("removeIncompleteSamples"),
   signature = c("object")
 )
 
-#'@export 
+#' @rdname removeIncompleteSamples
+#' @aliases removeIncompleteSamples,AbundanceData-method
 setMethod("removeIncompleteSamples", signature("AbundanceData"), function(object, colName = character(), verbose = c(TRUE, FALSE)) {
   verbose <- veupathUtils::matchArg(verbose)
 
@@ -199,13 +211,15 @@ setMethod("removeIncompleteSamples", signature("AbundanceData"), function(object
 #' @param predicate Function returning a boolean indicating if a feature should be included (TRUE) or excluded (FALSE)
 #' @param verbose boolean indicating if timed logging is desired
 #' @return AbundanceData with modified data slot
+#' @rdname pruneFeatures
 #' @export
 setGeneric("pruneFeatures",
   function(object, predicate, verbose = c(TRUE, FALSE)) standardGeneric("pruneFeatures"),
   signature = c("object")
 )
 
-#'@export 
+#' @rdname pruneFeatures
+#' @aliases pruneFeatures,AbundanceData-method 
 setMethod("pruneFeatures", signature("AbundanceData"), function(object, predicate, verbose = c(TRUE, FALSE)) {
   df <- getAbundances(object)
   allIdColumns <- c(object@recordIdColumn, object@ancestorIdColumns)
