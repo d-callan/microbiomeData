@@ -1,5 +1,6 @@
 ## TODO add the rest of the datasets
 ## TODO add dates they were added to this package, MicrobiomeDB.org release version, etc. for provenance
+## stop lazy loading all this data, write a function that does it as needed
 
 #' testOTU
 #' 
@@ -7,7 +8,9 @@
 #'
 #' @format ## `testOTU`
 #' A data.table with hundreds of mock OTUs
-"testOTU"
+testOTU <- function() {
+    data("testOTU", package = "microbiomeData")
+}
 
 #' DiabImmune
 #'
@@ -40,7 +43,9 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_a2f8877e68/new/download>
-"DiabImmune"
+DiabImmune <- function() {
+    data("DiabImmune", package = "microbiomeData")
+}
 
 #' FARMM
 #'
@@ -64,7 +69,9 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_4dfda49064/new/download>
-"FARMM"
+FARMM <- function() {
+    data("FARMM", package = "microbiomeData")
+}
 
 #' Bangladesh 5yr
 #'
@@ -84,7 +91,9 @@
 #' "16S Phylum" \cr                                           
 #' "16S Kingdom" \cr 
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_1102462e80/new/download>
-"Bangladesh"
+Bangladesh <- function() {
+    data("Bangladesh", package = "microbiomeData")
+}
 
 #' HMP Phase 1 WGS
 #'
@@ -107,7 +116,9 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_898df5869d/new/download>
-"HMP_WGS"
+HMP_WGS <- function() {
+    data("HMP_WGS", package = "microbiomeData")
+}
 
 #' BONUS-CF
 #'
@@ -131,7 +142,9 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_b3b3ae9838/new/download>
-"BONUS"
+BONUS <- function() {
+    data("BONUS", package = "microbiomeData")
+}
 
 #' NICU-NEC
 #'
@@ -155,4 +168,6 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_84fcb69f4e/new/download>
-"NICU_NEC"
+NICU_NEC <- function() {
+    data("NICU_NEC", package = "microbiomeData")
+}
