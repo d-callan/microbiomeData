@@ -34,6 +34,7 @@
 #' "WGS Kingdom"  \cr                                          
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_a2f8877e68/new/download>
+#' @importFrom utils data
 DiabImmune <- function() {
     data("DiabImmune", package = "microbiomeData")
 }
