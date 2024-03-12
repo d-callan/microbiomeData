@@ -42,3 +42,5 @@ Collate:
     'microbiomeData-package.R'
     'utils.R'
 License: Apache License (>= 2)
+LazyData: true
+LazyDataCompression:xz
