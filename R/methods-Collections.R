@@ -11,6 +11,7 @@ setGeneric("name", function(x) standardGeneric("name"))
 setMethod("name", "Collection", function(x) return(x@name))
 
 #' @rdname name
+#' @param value The new name of the collection
 #' @export
 setGeneric("name<-", function(x, value) standardGeneric("name<-"))
 

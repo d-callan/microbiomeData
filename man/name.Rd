@@ -18,6 +18,8 @@ name(x) <- value
 }
 \arguments{
 \item{x}{A Collection}
+
+\item{value}{The new name of the collection}
 }
 \description{
 Get or set the name of the collection

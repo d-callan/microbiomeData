@@ -5,6 +5,7 @@
 #' @param name The name of the collection
 #' @param data A data.frame or a character vector representing a file path to a data.frame
 #' @param recordIdColumn The name of the column in the data.frame that contains the record id
+#' @param ancestorIdColumns A character vector of column names representing parent entities of the recordIdColumn
 #' @export
 #' @rdname Collection-methods
 setGeneric("Collection", function(name, data, recordIdColumn, ancestorIdColumns) standardGeneric("Collection"))

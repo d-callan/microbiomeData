@@ -27,6 +27,8 @@ Collection(name, data, recordIdColumn, ancestorIdColumns)
 \item{data}{A data.frame or a character vector representing a file path to a data.frame}
 
 \item{recordIdColumn}{The name of the column in the data.frame that contains the record id}
+
+\item{ancestorIdColumns}{A character vector of column names representing parent entities of the recordIdColumn}
 }
 \description{
 This is a constructor for the Collection class. It creates a Collection
