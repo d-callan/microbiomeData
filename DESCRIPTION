@@ -9,17 +9,16 @@ Authors@R:
 biocViews: 
 Imports:
     data.table,
-    microbiomeComputations,
+    methods,
     phyloseq,
+    purrr,
     S4Vectors,
     veupathUtils
 Remotes:
-    VEuPathDB/veupathUtils,
-    VEuPathDB/microbiomeComputations
+    VEuPathDB/veupathUtils
 URL: https://github.com/microbiomeDB/microbiomeData
 BugReports: https://github.com/microbiomeDB/microbiomeData/issues
 Description: An R package containing all of the curated datasets from MicrobiomeDB.org and functions for conveniently using that data in R.
-License: Apache License (= 2.0)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
@@ -28,4 +27,18 @@ Suggests:
 Config/testthat/edition: 3
 Depends: 
     R (>= 2.10)
-LazyData: true
+Collate: 
+    'class-SampleMetadata.R'
+    'class-AbundanceData.R'
+    'class-AbsoluteAbundanceData.R'
+    'class-Collections.R'
+    'class-MbioDataset.R'
+    'constructors-MbioDataset.R'
+    'data.R'
+    'methods-AbundanceData.R'
+    'methods-Collections.R'
+    'methods-MbioDataset.R'
+    'methods-SampleMetadata.R'
+    'microbiomeData-package.R'
+    'utils.R'
+License: Apache License (>= 2)

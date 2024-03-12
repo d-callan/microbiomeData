@@ -34,48 +34,7 @@ Once you have `myData`, you can ask for specific collections from that dataset. 
 getCollectionNames(myData) # will print the names of collections
 myData <- updateCollectionName(myData, '16S-species', '16S Species')
 myCollection <- getCollection(myData, '16S Species')
-```
 
-Once you have `myCollection`, you can start using our `microbiomeComputations` package (which was installed for you when you installed this one) to do fun things like:
-
-```R
-correlationResults <- correlation(myCollection)
-
-## for differential abundance you'll need a Comparator. 
-## Hopefully we can make it easier to build these soon. For now, see example below:
-comparatorVariable <- microbiomeComputations::Comparator(
-                          variable = veupathUtils::VariableMetadata(
-                            variableSpec = VariableSpec( 
-                              variableId = 'binA', # column header
-                              entityId = '' # leave empty
-                            ),
-                            dataShape = veupathUtils::DataShape(value="BINARY")
-                          ),
-                          groupA = veupathUtils::BinList(
-                            S4Vectors::SimpleList(
-                              c(veupathUtils::Bin(
-                                binLabel="binA_a" # a value of interest in groupA
-                              ))
-                            )
-                          ),
-                          groupB = veupathUtils::BinList(
-                            S4Vectors::SimpleList(
-                              c(veupathUtils::Bin(
-                                binLabel="binA_b" # a value of interest in groupB
-                              ))
-                            )
-                          )
-  )
-differentialAbundanceResults <- differentialAbundance(myCollection, comparatorVariable)  
-
-
-```
-
-This will give you a `ComputeResult` object, with slots for `data` and `statistics` that you can explore. These objects can be difficult to parse, so we're planning to either expand this package or maybe introduce a second one to help format these results in more usable and exciting ways! For now though, we have a primitive helper called `getComputeResult` which will return data.tables (and sometimes igraph objects) which you can use like this:
-
-```R
-myCorrelationDT <- getComputeResult(correlationResults)
-myCorrelationGraph <- getComputeResult(correlationResults, format = 'igraph')
 ```
 
 ### Usage as a Package Dependency
