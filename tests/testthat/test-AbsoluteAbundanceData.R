@@ -2,7 +2,9 @@ test_that('AbsoluteAbundanceData validation works', {
 
   # Most tests are handled by the parent class.
 
-  data(testOTU)
+  testOTU_path <- testthat::test_path('testdata','testOTU.rda')
+  load(testOTU_path)
+
   df <- testOTU
 
   # Expect error when input data is not integers (not rounded)

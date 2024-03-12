@@ -2,15 +2,6 @@
 ## TODO add dates they were added to this package, MicrobiomeDB.org release version, etc. for provenance
 ## stop lazy loading all this data, write a function that does it as needed
 
-#' testOTU
-#' 
-#' A test dataset for testing the functions in the package
-#'
-#' @format ## `testOTU`
-#' A data.table with hundreds of mock OTUs
-testOTU <- function() {
-    data("testOTU", package = "microbiomeData")
-}
 
 #' DiabImmune
 #'

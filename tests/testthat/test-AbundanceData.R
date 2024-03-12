@@ -1,5 +1,8 @@
 test_that('AbundanceData validation works', {
   
+  testOTU_path <- testthat::test_path('testdata','testOTU.rda')
+  load(testOTU_path)
+
   df <- testOTU
 
   expect_error(microbiomeData::AbundanceData(
@@ -58,7 +61,12 @@ test_that('AbundanceData validation works', {
 })
 
 test_that("getAbundances works", {
+
+  testOTU_path <- testthat::test_path('testdata','testOTU.rda')
+  load(testOTU_path)
+
   df <- testOTU
+
   testing <- microbiomeData::AbundanceData(
     data = df,
     recordIdColumn = 'entity.SampleID'
@@ -88,7 +96,12 @@ test_that("getAbundances works", {
 })
 
 test_that("pruneFeatures works", {
+
+  testOTU_path <- testthat::test_path('testdata','testOTU.rda')
+  load(testOTU_path)
+
   df <- testOTU
+  
   testing <- microbiomeData::AbundanceData(
     data = df,
     recordIdColumn = 'entity.SampleID'
