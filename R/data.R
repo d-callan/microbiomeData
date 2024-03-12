@@ -36,7 +36,7 @@
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_a2f8877e68/new/download>
 #' @importFrom utils data
 DiabImmune <- function() {
-    data("DiabImmune", package = "microbiomeData")
+    data("DiabImmune", package = "microbiomeData", envir = environment())
 }
 
 #' FARMM
@@ -62,7 +62,7 @@ DiabImmune <- function() {
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_4dfda49064/new/download>
 FARMM <- function() {
-    data("FARMM", package = "microbiomeData")
+    data("FARMM", package = "microbiomeData", envir = environment())
 }
 
 #' Bangladesh 5yr
@@ -84,7 +84,7 @@ FARMM <- function() {
 #' "16S Kingdom" \cr 
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_1102462e80/new/download>
 Bangladesh <- function() {
-    data("Bangladesh", package = "microbiomeData")
+    data("Bangladesh", package = "microbiomeData", envir = environment())
 }
 
 #' HMP Phase 1 WGS
@@ -109,7 +109,7 @@ Bangladesh <- function() {
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_898df5869d/new/download>
 HMP_WGS <- function() {
-    data("HMP_WGS", package = "microbiomeData")
+    data("HMP_WGS", package = "microbiomeData", envir = environment())
 }
 
 #' BONUS-CF
@@ -135,7 +135,7 @@ HMP_WGS <- function() {
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_b3b3ae9838/new/download>
 BONUS <- function() {
-    data("BONUS", package = "microbiomeData")
+    data("BONUS", package = "microbiomeData", envir = environment())
 }
 
 #' NICU-NEC
@@ -161,5 +161,5 @@ BONUS <- function() {
 #' "WGS Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_84fcb69f4e/new/download>
 NICU_NEC <- function() {
-    data("NICU_NEC", package = "microbiomeData")
+    data("NICU_NEC", package = "microbiomeData", envir = environment())
 }
