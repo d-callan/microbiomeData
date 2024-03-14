@@ -12,6 +12,7 @@ An R package containing all of the curated datasets from MicrobiomeDB.org and fu
 Useful links:
 \itemize{
   \item \url{https://github.com/microbiomeDB/microbiomeData}
+  \item \url{https://microbiomedb.github.io/microbiomeData/}
   \item Report bugs at \url{https://github.com/microbiomeDB/microbiomeData/issues}
 }
 

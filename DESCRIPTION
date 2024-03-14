@@ -16,7 +16,7 @@ Imports:
     veupathUtils
 Remotes:
     VEuPathDB/veupathUtils
-URL: https://github.com/microbiomeDB/microbiomeData
+URL: https://github.com/microbiomeDB/microbiomeData, https://microbiomedb.github.io/microbiomeData/
 BugReports: https://github.com/microbiomeDB/microbiomeData/issues
 Description: An R package containing all of the curated datasets from MicrobiomeDB.org and functions for conveniently using that data in R.
 Encoding: UTF-8
@@ -43,4 +43,4 @@ Collate:
     'utils.R'
 License: Apache License (>= 2)
 LazyData: true
-LazyDataCompression:xz
+LazyDataCompression: xz
