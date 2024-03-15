@@ -33,4 +33,7 @@ The Human Microbiome Project (HMP) profiled microbial communities across diverse
 103 healthly adult volunteers sampled at up to 20 different body sites.
 741 samples of various types, including stool, saliva, and oral, vaginal and nasal swabs; 'shotgun' metagenomic sequencing.
 }
+\details{
+Website Release 32. (2023 May 30)
+}
 \keyword{datasets}

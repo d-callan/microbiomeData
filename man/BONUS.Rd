@@ -34,4 +34,7 @@ The Baby Observational and Nutrition Study (BONUS) set out to identify microbial
 Shotgun metagenomic sequencing of 122 samples collected from healthy controls, and 1157 stool samples from infants with CF collected at months 3, 4, 5, 6, 8, 10 and 12 of life
 Longitudinal, observational, multicenter cohort study.
 }
+\details{
+Website Release 32. (2023 May 30)
+}
 \keyword{datasets}

@@ -30,4 +30,7 @@ This study set out to define the normal maturation of the gut microbiome during 
 2415 stool samples; V4 region of 16S rRNA gene.
 Prospective cohort design with monthly sampling for the first ~5 years of life.
 }
+\details{
+Website Release 32. (2023 May 30)
+}
 \keyword{datasets}

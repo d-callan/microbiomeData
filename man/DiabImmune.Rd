@@ -42,5 +42,6 @@ Includes 289 children across three sites, including Russia (Karelia), Finland an
 There are 3184 stool samples which have amplicon sequencing data from the V4 region of 16S rRNA gene.
 There are 1149 stool samples having 'shotgun' metagenomic sequencing data.
 Prospective cohort design with monthly sampling for the first ~3 years of life.
+Website Release 32. (2023 May 30)
 }
 \keyword{datasets}

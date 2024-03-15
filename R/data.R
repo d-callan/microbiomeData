@@ -1,7 +1,4 @@
 ## TODO add the rest of the datasets
-## TODO add dates they were added to this package, MicrobiomeDB.org release version, etc. for provenance
-## TODO consider this might be better as a single function `loadStudyData` that takes a study name and returns a MbioDataset object
-
 
 #' DiabImmune
 #'
@@ -11,7 +8,9 @@
 #' There are 3184 stool samples which have amplicon sequencing data from the V4 region of 16S rRNA gene.
 #' There are 1149 stool samples having 'shotgun' metagenomic sequencing data.
 #' Prospective cohort design with monthly sampling for the first ~3 years of life.
-#'
+#
+#' Website Release 32. (2023 May 30)
+#' 
 #' @format ## `DiabImmune`
 #' A MbioDataset object with 60 metadata variables, 3184 16S stool samples and 1149 shotgun stool samples.
 #' It contains the following collections: \cr
@@ -44,6 +43,8 @@
 #' Follows 31 healthy human adult volunteers monitored longitudinaly over a 15 day period.
 #' Includes 454 stool samples and sequencing controls; 'shotgun' metagenomic sequencing.
 #'
+#' Website Release 32. (2023 May 30)
+#' 
 #' @format ## `FARMM`
 #' A MbioDataset object with 17 metadata variables, 454 shotgun stool assays and 150 mass spec assays.
 #' It contains the following collections: \cr
@@ -71,6 +72,8 @@
 #' 2415 stool samples; V4 region of 16S rRNA gene.
 #' Prospective cohort design with monthly sampling for the first ~5 years of life.
 #'
+#' Website Release 32. (2023 May 30)
+#'
 #' @format ## `Bangladesh`
 #' A MbioDataset object with 14 metadata variables, 2145 16S stool samples.
 #' It contains the following collections: \cr
@@ -91,6 +94,8 @@
 #' The Human Microbiome Project (HMP) profiled microbial communities across diverse habitats on the human body.
 #' 103 healthly adult volunteers sampled at up to 20 different body sites.
 #' 741 samples of various types, including stool, saliva, and oral, vaginal and nasal swabs; 'shotgun' metagenomic sequencing.
+#' 
+#' Website Release 32. (2023 May 30)
 #'
 #' @format ## `HMP_WGS`
 #' A MbioDataset object with 14 metadata variables, 2145 WGS stool samples.
@@ -117,6 +122,8 @@
 #' 207 infants diagnosed with cystic fibrosis during newborn screening
 #' Shotgun metagenomic sequencing of 122 samples collected from healthy controls, and 1157 stool samples from infants with CF collected at months 3, 4, 5, 6, 8, 10 and 12 of life
 #' Longitudinal, observational, multicenter cohort study.
+#' 
+#' Website Release 32. (2023 May 30)
 #'
 #' @format ## `BONUS`
 #' A MbioDataset object with 23 metadata variables, 1279 WGS stool samples.
@@ -143,6 +150,8 @@
 #' 150 infants born prematurely were sampled perinatally and at high frequency during the first few weeks to months of life
 #" 1118 stool samples; 'shotgun' metagenomic sequencing.
 #' Prospective cohort design.
+#' 
+#' Website Release 32. (2023 May 30)
 #'
 #' @format ## `NICU_NEC`
 #' A MbioDataset object with 46 metadata variables, 1118 WGS stool samples.

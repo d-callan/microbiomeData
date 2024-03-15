@@ -34,4 +34,7 @@ The Food and Resulting Microbial Metabolites (FARMM) study set out to define the
 Follows 31 healthy human adult volunteers monitored longitudinaly over a 15 day period.
 Includes 454 stool samples and sequencing controls; 'shotgun' metagenomic sequencing.
 }
+\details{
+Website Release 32. (2023 May 30)
+}
 \keyword{datasets}
