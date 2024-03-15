@@ -196,3 +196,27 @@
 #' @name GEMS1
 #' @export
 "GEMS1"
+
+#' DailyBaby
+#'
+#' Near daily fecal specimens collected from term infants during the first year of life.
+#' 12 healthy term infants born in Oslo, Norway.
+#' 2684 stool samples total, with an average of 224 samples (range 116–267) per infant.
+#' Prospective cohort design.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `DailyBaby`
+#' A MbioDataset object with 17 metadata variables, 2684 16S stool samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_5a4f8a1791/new/download>
+#' @name DailyBaby
+#' @export
+"DailyBaby"
