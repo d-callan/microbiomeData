@@ -412,3 +412,32 @@
 #' @name MALED_diarrhea
 #' @export
 "MALED_diarrhea"
+
+#' Malaysia helminth
+#' 
+#' The Malaysia Helminth study profiled gut metagenomes of indigenous and 
+#' non-indigenous individuals originating from 5 villages
+#' 407 adult and pediatric participants from 5 villages 
+#' (Bangkong, Tanjung Sepat, Rasau, Legong, and Judah), and Kuala Lumpur
+#' 650 stool samples; 'shotgun' metagenomic sequencing.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `Malaysia_helminth`
+#' A MbioDataset object with 28 metadata variables, 650 shotgun stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenome enzyme pathway abundance data" \cr          
+#' "WGS Metagenome enzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_abcf1b1d90/new/download>
+#' @name Malaysia_helminth
+#' @export
+"Malaysia_helminth"
