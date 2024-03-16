@@ -386,3 +386,29 @@
 #' @name MALED_2yr
 #' @export
 "MALED_2yr"
+
+#' MAL-ED diarrhea
+#' 
+#' This study set out to define the consequence of diarrhea on maturation of the gut
+#'  microbiome during the first 2 years of postnatal life.
+#' 271 children from the Amazonian lowlands near Iquitos, Peru
+#' 928 stool samples; V4 region of 16S rRNA gene.
+#' Prospective cohort design with samples obtained at postnatal months 6, 12, 18, and 24
+#' Additional clinical and epidemiologic data for the same participants is available at ClinEpiDB.org.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `MALED_diarrhea`
+#' A MbioDataset object with 36 metadata variables, 928 16S stool samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_2e56313a65/new/download>
+#' @name MALED_diarrhea
+#' @export
+"MALED_diarrhea"
