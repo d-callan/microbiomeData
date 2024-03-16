@@ -361,3 +361,28 @@
 #' @name Leishmaniasis
 #' @export
 "Leishmaniasis"
+
+#' MAL-ED 0-2yr
+#' 
+#' This study set out to define the normal maturation of the gut microbiome during the first 2 years of postnatal life.
+#' 50 children from four sites in the MAL-ED study: Brazil, India, Peru and South Africa.
+#' 1091 stool samples; V4 region of 16S rRNA gene.
+#' Prospective cohort design with monthly sampling for the first ~2 years of life.
+#' Additional clinical and epidemiologic data for the same participants is available at ClinEpiDB.org.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `MALED_2yr`
+#' A MbioDataset object with 16 metadata variables, 1091 16S stool samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_72c94486c6/new/download>
+#' @name MALED_2yr
+#' @export
+"MALED_2yr"
