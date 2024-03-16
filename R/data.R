@@ -323,7 +323,7 @@
 #' Website Release 32. (2023 May 30)
 #'
 #' @format ## `HMP_V3V5`
-#' A MbioDataset object with 11 metadata variables, 5826 16S samples.
+#' A MbioDataset object with 13 metadata variables, 5462 16S samples.
 #' It contains the following collections: \cr
 #' "16S Order" \cr                
 #' "16S Genus" \cr                                           
@@ -336,3 +336,28 @@
 #' @name HMP_V3V5
 #' @export
 "HMP_V3V5"
+
+#' Human cutaneous leishmaniasis
+#' 
+#' This study explored the skin microbiome during human cutaneous leishmaniasis.
+#' 45 patients with cutaneous leishmaniasis.
+#' 128 skin swabs collected from affected and unaffected skin; V1-V3 region of 16S rRNA gene.
+#' Case-control (restrospective) design in patients seen at a field hospital 
+#' (Clinica em Leishmaniose Dr. Jackson Costa) in Corte de Pedra, Bahia, Brazil.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `Leishmaniasis`
+#' A MbioDataset object with 16 metadata variables, 128 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_75221fce95/new/download>
+#' @name Leishmaniasis
+#' @export
+"Leishmaniasis"

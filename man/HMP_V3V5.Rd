@@ -7,7 +7,7 @@
 \format{
 \subsection{\code{HMP_V3V5}}{
 
-A MbioDataset object with 11 metadata variables, 5826 16S samples.
+A MbioDataset object with 13 metadata variables, 5462 16S samples.
 It contains the following collections: \cr
 "16S Order" \cr
 "16S Genus" \cr
