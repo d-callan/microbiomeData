@@ -266,3 +266,27 @@
 #' @name ECAM
 #' @export
 "ECAM"
+
+#' Eco-CF
+#' 
+#' The Ecology of Cystic Fibrosis (Eco-CF) study profiled the microbiome in pediatric CF patients.
+#' 169 pediatric cystic fibrosis patients seen over a four year period at Columbia Univeristy Medical Center in NYC, USA.
+#' 844 samples, including sputum, oral swabs and bronchoalveolar lavage (BAL) fluid; V4 region of 16S rRNA gene.
+#' Prospective cohort design.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `EcoCF`
+#' A MbioDataset object with 77 metadata variables, 844 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_5a4f8a1791/new/download>
+#' @name EcoCF
+#' @export
+"EcoCF"
