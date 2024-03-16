@@ -3,6 +3,7 @@
 export("name<-")
 export(AbsoluteAbundanceData)
 export(AbundanceData)
+export(Anopheles_albimanus)
 export(BONUS)
 export(Bangladesh)
 export(Collection)

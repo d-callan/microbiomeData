@@ -220,3 +220,26 @@
 #' @name DailyBaby
 #' @export
 "DailyBaby"
+
+#' Anopheles albimanus
+#'
+#' This study assessed the impact of pyrethroid exposure on the internal and cuticle microbiome of Anopheles albimanusi.
+#' 125 samples, each pool of 3 mosquitos. V3-V4 region of 16S rRNA gene.
+#' Adult and larval Anopheles albimanus collected in and around Las Cruces, Guatemala.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `Anopheles_albimanus`
+#' A MbioDataset object with 12 metadata variables, 125 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_36cb9bab56/new/download>
+#' @name Anopheles_albimanus
+#' @export
+"Anopheles_albimanus"
