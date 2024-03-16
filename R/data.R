@@ -441,3 +441,31 @@
 #' @name Malaysia_helminth
 #' @export
 "Malaysia_helminth"
+
+#' MORDOR phase 1
+#' 
+#' The Macrolides Oraux pour Réduire les Décès avec un Oeil sur la Résistance (MORDOR) I 
+#' metagenome study evaluated the impact of mass azithromycin administration on the gut microbiome in children
+#' 574 pediatric (preschool) participants from 30 Nigerien communities
+#' Rectal swabs; 'shotgun' metagenomic sequencing of RNA.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `MORDOR`
+#' A MbioDataset object with 10 metadata variables, 574 shotgun stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenome enzyme pathway abundance data" \cr          
+#' "WGS Metagenomeenzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_39d3629e79/new/download>
+#' @name MORDOR
+#' @export
+"MORDOR"
