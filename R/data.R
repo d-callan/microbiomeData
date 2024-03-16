@@ -290,3 +290,26 @@
 #' @name EcoCF
 #' @export
 "EcoCF"
+
+#' HMP Phase 1 (V1-V3)
+#' 
+#' The Human Microbiome Project (HMP) profiled microbial communities across diverse habitats on the human body.
+#' 242 healthly adult volunteers sampled at approximately 15 different body sites.
+#' 3156 samples of various types; V1-V3 region of 16S rRNA gene.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `HMP_V1V3`
+#' A MbioDataset object with 11 metadata variables, 3045 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_570856e10e/new/download>
+#' @name HMP_V1V3
+#' @export
+"HMP_V1V3"
