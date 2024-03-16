@@ -243,3 +243,26 @@
 #' @name Anopheles_albimanus
 #' @export
 "Anopheles_albimanus"
+
+#' ECAM
+#' 
+#' The Early Childhood Antibiotics and the Microbiome (ECAM) study set out to identify the impact of antibiotics, 
+#' delivery mode and diet on the infant gut Microbiome. Prospective cohort design in healthy humans from USA.
+#' 43 infants sampled during the first two years of life. 1216 samples of various types; V4 region of 16S rRNA gene.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `ECAM`
+#' A MbioDataset object with 27 metadata variables, 1216 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_accd1b80f6/new/download>
+#' @name ECAM
+#' @export
+"ECAM"
