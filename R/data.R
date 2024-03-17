@@ -494,3 +494,41 @@
 #' @name PIH_Uganda
 #' @export
 "PIH_Uganda"
+
+#' Preterm Infant Resistome 1
+#' 
+#' The Preterm Infant Resistome I study used 16S rRNA marker gene sequencing and shotgun 
+#' metagenomics to profile the stool metagenome in preterm infants (born < 33 weeks gestational age) 
+#' stratified by antibiotic use during their hospitalization.
+#' 84 preterm infant patients seen at the Washington University School of Medicine in St. Louis, MO, USA.
+#' 399 stool samples; 'shotgun' metagenomic sequencing.
+#' 103/399 stool samples; V4 16S rRNA gene sequencing.
+#' Prospective cohort design.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `PretermInfantResistome1`
+#' A MbioDataset object with 64 metadata variables, 399 shotgun stool samples, 103 16S stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenomeenzyme pathway abundance data" \cr          
+#' "WGS Metagenomeenzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_d1b9f788dc/new/download>
+#' @name PretermInfantResistome1
+#' @export
+"PretermInfantResistome1"
