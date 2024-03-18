@@ -171,3 +171,364 @@
 #' @name NICU_NEC
 #' @export
 "NICU_NEC"
+
+#' GEMS1 Case Control
+#'
+#' The Global Enteric Multicenter Study (GEMS) investigated the cause, incidence and impact of 
+#' moderate to severe diarrheal (MSD) disease in children. 514 MSD cases and 493 endemic controls from Bangladesh, 
+#' The Gambia, Kenya and Mali were included. 1007 stool samples; V1-V2 region of 16S rRNA gene. 
+#' Prospective, age-stratified, matched case-control design. Additional clinical and epidemiologic 
+#' data for the same participants is available at ClinEpiDB.org.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `GEMS1`
+#' A MbioDataset object with 12 metadata variables, 1015 16S stool samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_a5167b81e3/new/download>
+#' @name GEMS1
+#' @export
+"GEMS1"
+
+#' DailyBaby
+#'
+#' Near daily fecal specimens collected from term infants during the first year of life.
+#' 12 healthy term infants born in Oslo, Norway.
+#' 2684 stool samples total, with an average of 224 samples (range 116–267) per infant.
+#' Prospective cohort design.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `DailyBaby`
+#' A MbioDataset object with 17 metadata variables, 2684 16S stool samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_5a4f8a1791/new/download>
+#' @name DailyBaby
+#' @export
+"DailyBaby"
+
+#' Anopheles albimanus
+#'
+#' This study assessed the impact of pyrethroid exposure on the internal and cuticle microbiome of Anopheles albimanusi.
+#' 125 samples, each pool of 3 mosquitos. V3-V4 region of 16S rRNA gene.
+#' Adult and larval Anopheles albimanus collected in and around Las Cruces, Guatemala.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `Anopheles_albimanus`
+#' A MbioDataset object with 12 metadata variables, 125 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_36cb9bab56/new/download>
+#' @name Anopheles_albimanus
+#' @export
+"Anopheles_albimanus"
+
+#' ECAM
+#' 
+#' The Early Childhood Antibiotics and the Microbiome (ECAM) study set out to identify the impact of antibiotics, 
+#' delivery mode and diet on the infant gut Microbiome. Prospective cohort design in healthy humans from USA.
+#' 43 infants sampled during the first two years of life. 1216 samples of various types; V4 region of 16S rRNA gene.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `ECAM`
+#' A MbioDataset object with 27 metadata variables, 1216 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_accd1b80f6/new/download>
+#' @name ECAM
+#' @export
+"ECAM"
+
+#' Eco-CF
+#' 
+#' The Ecology of Cystic Fibrosis (Eco-CF) study profiled the microbiome in pediatric CF patients.
+#' 169 pediatric cystic fibrosis patients seen over a four year period at Columbia Univeristy Medical Center in NYC, USA.
+#' 844 samples, including sputum, oral swabs and bronchoalveolar lavage (BAL) fluid; V4 region of 16S rRNA gene.
+#' Prospective cohort design.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `EcoCF`
+#' A MbioDataset object with 77 metadata variables, 844 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_5a4f8a1791/new/download>
+#' @name EcoCF
+#' @export
+"EcoCF"
+
+#' HMP Phase 1 (V1-V3)
+#' 
+#' The Human Microbiome Project (HMP) profiled microbial communities across diverse habitats on the human body.
+#' 242 healthly adult volunteers sampled at approximately 15 different body sites.
+#' 3156 samples of various types; V1-V3 region of 16S rRNA gene.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `HMP_V1V3`
+#' A MbioDataset object with 11 metadata variables, 3045 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_570856e10e/new/download>
+#' @name HMP_V1V3
+#' @export
+"HMP_V1V3"
+
+#' HMP Phase 1 (V3-V5)
+#' 
+#' The Human Microbiome Project (HMP) profiled microbial communities across diverse habitats on the human body.
+#' 242 healthly adult volunteers sampled at approximately 15 different body sites.
+#' 5826 samples of various types; V3-V5 region of 16S rRNA gene.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `HMP_V3V5`
+#' A MbioDataset object with 13 metadata variables, 5462 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_ca4404e155/new/download>
+#' @name HMP_V3V5
+#' @export
+"HMP_V3V5"
+
+#' Human cutaneous leishmaniasis
+#' 
+#' This study explored the skin microbiome during human cutaneous leishmaniasis.
+#' 45 patients with cutaneous leishmaniasis.
+#' 128 skin swabs collected from affected and unaffected skin; V1-V3 region of 16S rRNA gene.
+#' Case-control (restrospective) design in patients seen at a field hospital 
+#' (Clinica em Leishmaniose Dr. Jackson Costa) in Corte de Pedra, Bahia, Brazil.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `Leishmaniasis`
+#' A MbioDataset object with 16 metadata variables, 128 16S samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_75221fce95/new/download>
+#' @name Leishmaniasis
+#' @export
+"Leishmaniasis"
+
+#' MAL-ED 0-2yr
+#' 
+#' This study set out to define the normal maturation of the gut microbiome during the first 2 years of postnatal life.
+#' 50 children from four sites in the MAL-ED study: Brazil, India, Peru and South Africa.
+#' 1091 stool samples; V4 region of 16S rRNA gene.
+#' Prospective cohort design with monthly sampling for the first ~2 years of life.
+#' Additional clinical and epidemiologic data for the same participants is available at ClinEpiDB.org.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `MALED_2yr`
+#' A MbioDataset object with 16 metadata variables, 1091 16S stool samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_72c94486c6/new/download>
+#' @name MALED_2yr
+#' @export
+"MALED_2yr"
+
+#' MAL-ED diarrhea
+#' 
+#' This study set out to define the consequence of diarrhea on maturation of the gut
+#'  microbiome during the first 2 years of postnatal life.
+#' 271 children from the Amazonian lowlands near Iquitos, Peru
+#' 928 stool samples; V4 region of 16S rRNA gene.
+#' Prospective cohort design with samples obtained at postnatal months 6, 12, 18, and 24
+#' Additional clinical and epidemiologic data for the same participants is available at ClinEpiDB.org.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `MALED_diarrhea`
+#' A MbioDataset object with 36 metadata variables, 928 16S stool samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_2e56313a65/new/download>
+#' @name MALED_diarrhea
+#' @export
+"MALED_diarrhea"
+
+#' Malaysia helminth
+#' 
+#' The Malaysia Helminth study profiled gut metagenomes of indigenous and 
+#' non-indigenous individuals originating from 5 villages
+#' 407 adult and pediatric participants from 5 villages 
+#' (Bangkong, Tanjung Sepat, Rasau, Legong, and Judah), and Kuala Lumpur
+#' 650 stool samples; 'shotgun' metagenomic sequencing.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `Malaysia_helminth`
+#' A MbioDataset object with 28 metadata variables, 650 shotgun stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenome enzyme pathway abundance data" \cr          
+#' "WGS Metagenome enzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_abcf1b1d90/new/download>
+#' @name Malaysia_helminth
+#' @export
+"Malaysia_helminth"
+
+#' MORDOR phase 1
+#' 
+#' The Macrolides Oraux pour Réduire les Décès avec un Oeil sur la Résistance (MORDOR) I 
+#' metagenome study evaluated the impact of mass azithromycin administration on the gut microbiome in children
+#' 574 pediatric (preschool) participants from 30 Nigerien communities
+#' Rectal swabs; 'shotgun' metagenomic sequencing of RNA.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `MORDOR`
+#' A MbioDataset object with 10 metadata variables, 574 shotgun stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenome enzyme pathway abundance data" \cr          
+#' "WGS Metagenomeenzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_39d3629e79/new/download>
+#' @name MORDOR
+#' @export
+"MORDOR"
+
+#' PIH Uganda
+#' 
+#' This study profiled microbes present in the cerebrospinal fluid (CSF) of pediatric patients 
+#' with infectious and non-infectious hydrocephalus. 92 children from Uganda, including 58 with 
+#' postinfectious hydrocephalus (PIH) and 34 with non-postinfectious hydrocephalus (NPIH).
+#' 92 cerebrospinal fluid (CSF) samples retained in this workflow; V1-V2 region of 16S rRNA gene.
+#' Case-control (retrospective) design with samples collected in the first ~100 days of life.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `PIH_Uganda`
+#' A MbioDataset object with 11 metadata variables, 92 CSF samples.
+#' It contains the following collections: \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_d00b1afb83/new/download>
+#' @name PIH_Uganda
+#' @export
+"PIH_Uganda"
+
+#' Preterm Infant Resistome 1
+#' 
+#' The Preterm Infant Resistome I study used 16S rRNA marker gene sequencing and shotgun 
+#' metagenomics to profile the stool metagenome in preterm infants (born < 33 weeks gestational age) 
+#' stratified by antibiotic use during their hospitalization.
+#' 84 preterm infant patients seen at the Washington University School of Medicine in St. Louis, MO, USA.
+#' 399 stool samples; 'shotgun' metagenomic sequencing.
+#' 103/399 stool samples; V4 16S rRNA gene sequencing.
+#' Prospective cohort design.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `PretermInfantResistome1`
+#' A MbioDataset object with 64 metadata variables, 399 shotgun stool samples, 103 16S stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenomeenzyme pathway abundance data" \cr          
+#' "WGS Metagenomeenzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "16S Order" \cr                
+#' "16S Genus" \cr                                           
+#' "16S Family" \cr                                        
+#' "16S Species" \cr                                          
+#' "16S Class" \cr                                         
+#' "16S Phylum" \cr                                           
+#' "16S Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_d1b9f788dc/new/download>
+#' @name PretermInfantResistome1
+#' @export
+"PretermInfantResistome1"
