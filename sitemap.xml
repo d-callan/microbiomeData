@@ -19,6 +19,9 @@
     <loc>https://microbiomedb.github.io/microbiomeData/reference/AbundanceData-class.html</loc>
   </url>
   <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/Anopheles_albimanus.html</loc>
+  </url>
+  <url>
     <loc>https://microbiomedb.github.io/microbiomeData/reference/BONUS.html</loc>
   </url>
   <url>
@@ -37,13 +40,46 @@
     <loc>https://microbiomedb.github.io/microbiomeData/reference/Collections-methods.html</loc>
   </url>
   <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/DailyBaby.html</loc>
+  </url>
+  <url>
     <loc>https://microbiomedb.github.io/microbiomeData/reference/DiabImmune.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/ECAM.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/EcoCF.html</loc>
   </url>
   <url>
     <loc>https://microbiomedb.github.io/microbiomeData/reference/FARMM.html</loc>
   </url>
   <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/GEMS1.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/HMP_V1V3.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/HMP_V3V5.html</loc>
+  </url>
+  <url>
     <loc>https://microbiomedb.github.io/microbiomeData/reference/HMP_WGS.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/Leishmaniasis.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/MALED_2yr.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/MALED_diarrhea.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/MORDOR.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/Malaysia_helminth.html</loc>
   </url>
   <url>
     <loc>https://microbiomedb.github.io/microbiomeData/reference/MbioDataset-class.html</loc>
@@ -53,6 +89,12 @@
   </url>
   <url>
     <loc>https://microbiomedb.github.io/microbiomeData/reference/NICU_NEC.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/PIH_Uganda.html</loc>
+  </url>
+  <url>
+    <loc>https://microbiomedb.github.io/microbiomeData/reference/PretermInfantResistome1.html</loc>
   </url>
   <url>
     <loc>https://microbiomedb.github.io/microbiomeData/reference/SampleMetadata-class.html</loc>
