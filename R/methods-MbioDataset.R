@@ -2,13 +2,15 @@
 #' @aliases getCollectionNames,MbioDataset-method
 setMethod("getCollectionNames", "MbioDataset", function(object) return(unname(getCollectionNames(object@collections))))
 
+metadataVarNamesGeneric <- getGeneric("getMetadataVariableNames", "veupathUtils")
 #' @rdname getMetadataVariableNames
 #' @aliases getMetadataVariableNames,MbioDataset-method
-setMethod(getGeneric("getMetadataVariableNames", "veupathUtils"), "MbioDataset", function(object) return(names(object@metadata@data)))
+setMethod(metadataVarNamesGeneric, "MbioDataset", function(object) return(names(object@metadata@data)))
 
+sampleMetadataGeneric <- getGeneric("getSampleMetadata", "veupathUtils")
 #' @rdname getSampleMetadata
 #' @aliases getSampleMetadata,MbioDataset-method
-setMethod(getGeneric("getSampleMetadata", "veupathUtils"), "MbioDataset", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
+setMethod(sampleMetadataGeneric, "MbioDataset", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
     asCopy <- veupathUtils::matchArg(asCopy)
     includeIds <- veupathUtils::matchArg(includeIds)
 
@@ -37,10 +39,10 @@ setMethod(getGeneric("getSampleMetadata", "veupathUtils"), "MbioDataset", functi
     return(dt)
 })
 
-
+metadataIdColsGeneric <- getGeneric("getSampleMetadataIdColumns", "veupathUtils")
 #' @rdname getSampleMetadataIdColumns
 #' @aliases getSampleMetadataIdColumns,MbioDataset-method
-setMethod(getGeneric("getSampleMetadataIdColumns", "veupathUtils"), "MbioDataset", function(object) veupathUtils::getIdColumns(object@metadata))
+setMethod(metadataIdColsGeneric, "MbioDataset", function(object) veupathUtils::getIdColumns(object@metadata))
 
 
 #' Update Microbiome Dataset Collection Name
