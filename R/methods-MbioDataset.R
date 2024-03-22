@@ -4,18 +4,18 @@ setMethod("getCollectionNames", "MbioDataset", function(object) return(unname(ge
 
 #' @rdname getMetadataVariableNames
 #' @aliases getMetadataVariableNames,MbioDataset-method
-setMethod("getMetadataVariableNames", "MbioDataset", function(object) return(names(object@metadata@data)))
+setMethod(getGeneric("getMetadataVariableNames", "veupathUtils"), "MbioDataset", function(object) return(names(object@metadata@data)))
 
 #' @rdname getSampleMetadata
 #' @aliases getSampleMetadata,MbioDataset-method
-setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
+setMethod(getGeneric("getSampleMetadata", "veupathUtils"), "MbioDataset", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
     asCopy <- veupathUtils::matchArg(asCopy)
     includeIds <- veupathUtils::matchArg(includeIds)
 
     if (!length(object@metadata@data)) return(NULL)
 
     dt <- object@metadata@data
-    allIdColumns <- getSampleMetadataIdColumns(object)
+    allIdColumns <- veupathUtils::getSampleMetadataIdColumns(object)
 
     # Check that incoming dt meets requirements
     if (!inherits(dt, 'data.table')) {
@@ -40,7 +40,7 @@ setMethod("getSampleMetadata", "MbioDataset", function(object, asCopy = c(TRUE, 
 
 #' @rdname getSampleMetadataIdColumns
 #' @aliases getSampleMetadataIdColumns,MbioDataset-method
-setMethod("getSampleMetadataIdColumns", "MbioDataset", function(object) getIdColumns(object@metadata))
+setMethod(getGeneric("getSampleMetadataIdColumns", "veupathUtils"), "MbioDataset", function(object) veupathUtils::getIdColumns(object@metadata))
 
 
 #' Update Microbiome Dataset Collection Name
@@ -72,7 +72,6 @@ setMethod("updateCollectionName", "MbioDataset", function(object, oldName, newNa
 #' @return An AbundanceData, phyloseq, or Collection object representing the collection and any associated study metadata
 #' @importFrom phyloseq phyloseq
 #' @include class-AbundanceData.R
-#' @include class-SampleMetadata.R
 #' @rdname getCollection
 #' @export
 setGeneric("getCollection", function(object, collectionName, format = c("AbundanceData", "phyloseq", "Collection"), continuousMetadataOnly = c(FALSE, TRUE)) standardGeneric("getCollection"))

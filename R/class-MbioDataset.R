@@ -22,7 +22,7 @@ check_mbio_dataset <- function(object) {
 #' This class represents a MicrobiomeDB dataset.
 #' @name MbioDataset-class
 #' @rdname MbioDataset-class
-#' @include class-SampleMetadata.R
+#' @importFrom veupathUtils SampleMetadata
 setClass("MbioDataset", 
     slots = c(
         collections = "Collections",
