@@ -21,6 +21,6 @@ A class for working with microbiome or ecological abundance data.
 
 \item{\code{imputeZero}}{A logical indicating whether NA/ null values should be replaced with zeros.}
 
-\item{\code{removeEmptySamples}}{A logical indicating whether empty (all NA/ zero)samples should be removed.}
+\item{\code{removeEmptyRecords}}{A logical indicating whether empty (all NA/ zero) samples should be removed.}
 }}
 

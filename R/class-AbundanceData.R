@@ -21,7 +21,7 @@ check_abundance_data <- function(object) {
 #' @slot recordIdColumn The name of the column containing IDs for the samples. All other columns will be treated as abundance values.
 #' @slot ancestorIdColumns A character vector of column names representing parent entities of the recordIdColumn.
 #' @slot imputeZero A logical indicating whether NA/ null values should be replaced with zeros.
-#' @slot removeEmptySamples A logical indicating whether empty (all NA/ zero)samples should be removed.
+#' @slot removeEmptyRecords A logical indicating whether empty (all NA/ zero) samples should be removed.
 #' @name AbundanceData-class
 #' @rdname AbundanceData-class
 #' @importFrom veupathUtils SampleMetadata
