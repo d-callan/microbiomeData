@@ -30,5 +30,6 @@ check_absolute_abundance_data <- function(object) {
 #' @name AbsoluteAbundanceData-class
 #' @rdname AbsoluteAbundanceData-class
 #' @include class-AbundanceData.R
+#' @import data.table
 #' @export 
 AbsoluteAbundanceData <- setClass("AbsoluteAbundanceData", contains = "AbundanceData", validity = check_absolute_abundance_data)

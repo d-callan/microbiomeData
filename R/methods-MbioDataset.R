@@ -1,15 +1,32 @@
-#' @rdname getCollectionNames
-#' @aliases getCollectionNames,MbioDataset-method
-setMethod("getCollectionNames", "MbioDataset", function(object) return(unname(getCollectionNames(object@collections))))
+collectionNamesGeneric <- getGeneric("getCollectionNames", "veupathUtils")
+#' Get Names of Collections
+#' 
+#' Get the names of the collections in a MbioDataset object
+#' @param object An MbioDataset
+#' @return A character vector of collection names
+#' @export
+setMethod(collectionNamesGeneric, "MbioDataset", function(object) return(unname(getCollectionNames(object@collections))))
 
 metadataVarNamesGeneric <- getGeneric("getMetadataVariableNames", "veupathUtils")
-#' @rdname getMetadataVariableNames
-#' @aliases getMetadataVariableNames,MbioDataset-method
+#' Get Variable Names of Metadata
+#' 
+#' Get the names of the metadata variables in an MbioDataset.
+#' @param object An MbioDataset
+#' @return a character vector of metadata variable names
+#' @export
 setMethod(metadataVarNamesGeneric, "MbioDataset", function(object) return(names(object@metadata@data)))
 
 sampleMetadataGeneric <- getGeneric("getSampleMetadata", "veupathUtils")
-#' @rdname getSampleMetadata
-#' @aliases getSampleMetadata,MbioDataset-method
+#' Get data.table of sample metadata from MbioDataset
+#'
+#' Returns a data.table of sample metadata
+#' 
+#' @param object MbioDataset
+#' @param asCopy boolean indicating whether to return the data as a copy or by reference
+#' @param includeIds boolean indicating whether we should include recordIdColumn and ancestorIdColumns
+#' @param metadataVariables The metadata variables to include in the sample metadata. If NULL, all metadata variables will be included.
+#' @return data.table of sample metadata
+#' @export
 setMethod(sampleMetadataGeneric, "MbioDataset", function(object, asCopy = c(TRUE, FALSE), includeIds = c(TRUE, FALSE), metadataVariables = NULL) {
     asCopy <- veupathUtils::matchArg(asCopy)
     includeIds <- veupathUtils::matchArg(includeIds)
@@ -40,8 +57,11 @@ setMethod(sampleMetadataGeneric, "MbioDataset", function(object, asCopy = c(TRUE
 })
 
 metadataIdColsGeneric <- getGeneric("getSampleMetadataIdColumns", "veupathUtils")
-#' @rdname getSampleMetadataIdColumns
-#' @aliases getSampleMetadataIdColumns,MbioDataset-method
+#' Get Sample Metadata Id Column Names
+#' 
+#' Get the names of the record and ancestor id columns in the sample metadata of an MbioDataset object.
+#' @param object MbioDataset
+#' @return a character vector of id column names
 setMethod(metadataIdColsGeneric, "MbioDataset", function(object) veupathUtils::getIdColumns(object@metadata))
 
 
@@ -142,6 +162,7 @@ setMethod("getCollection", "MbioDataset", function(object, collectionName = char
     if (format == "AbundanceData") {
 
         abundanceData <- AbundanceData(
+            name = collection@name,
             data = collectionDT, 
             sampleMetadata = sampleMetadata, 
             recordIdColumn = collection@recordIdColumn,
