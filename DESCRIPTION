@@ -30,12 +30,10 @@ Depends:
 Collate: 
     'class-AbundanceData.R'
     'class-AbsoluteAbundanceData.R'
-    'class-Collections.R'
     'class-MbioDataset.R'
     'constructors-MbioDataset.R'
     'data.R'
     'methods-AbundanceData.R'
-    'methods-Collections.R'
     'methods-MbioDataset.R'
     'microbiomeData-package.R'
 License: Apache License (>= 2)
