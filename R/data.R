@@ -542,3 +542,35 @@
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_b9dc726b20/new/download>
 #' @name PretermInfantResistome2
 "PretermInfantResistome2"
+
+#' Uganda Maternal
+#' 
+#' The Uganda Maternal microbiome study profled vaginal samples obtained from 
+#' Ugandan pregnant women during active labor but before birth. 
+#' Patients were catergorizd by intrapartum fever status
+#' 99 adult intrapartum women seen at the Mbarara (n=50) or Mbale (n=49) 
+#' Hospitals in western and eastern Uganda, respectively
+#' 99 vaginal swab samples; profiled using both V1-V2 and V3-V4 region of 16S rRNA gene.
+#' 
+#' Website Release 32. (2023 May 30)
+#' 
+#' @format ## `UgandaMaternal`
+#' A MbioDataset object with 11 metadata variables, 99 successful V1V2 assays and 97 successful V3V4 assays.
+#' It contains the following collections: \cr
+#' "16S V1V2 Order" \cr                
+#' "16S V1V2 Genus" \cr                                           
+#' "16S V1V2 Family" \cr                                        
+#' "16S V1V2 Species" \cr                                          
+#' "16S V1V2 Class" \cr                                         
+#' "16S V1V2 Phylum" \cr                                           
+#' "16S V1V2 Kingdom" \cr 
+#' "16S V3V4 Order" \cr                
+#' "16S V3V4 Genus" \cr                                           
+#' "16S V3V4 Family" \cr                                        
+#' "16S V3V4 Species" \cr                                          
+#' "16S V3V4 Class" \cr                                         
+#' "16S V3V4 Phylum" \cr                                           
+#' "16S V3V4 Kingdom" \cr 
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_d3053dfc9c/new/download>
+#' @name UgandaMaternal
+"UgandaMaternal"
