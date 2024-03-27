@@ -512,3 +512,33 @@
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_d1b9f788dc/new/download>
 #' @name PretermInfantResistome1
 "PretermInfantResistome1"
+
+#' Preterm Infant Resistome 1
+#' 
+#' The Preterm Infant Resistome II (WGS) study profiled the stool metagenome in preterm infants 
+#' (born < 33 weeks gestational age) throughout the first 21 months of life.
+#'  Patients were stratified by antibiotic use during their hospitalization
+#' 41 preterm infants and 17 antibiotic-naive, healthy early term or late-preterm infants 
+#' seen at the Washington University School of Medicine in St. Louis, MO, USA
+#' 437 stool samples; 'shotgun' metagenomic sequencing.
+#' Prospective cohort design.
+#' 
+#' Website Release 32. (2023 May 30)
+#'
+#' @format ## `PretermInfantResistome2`
+#' A MbioDataset object with 24 metadata variables, 427 shotgun stool samples.
+#' It contains the following collections: \cr
+#' "WGS 4th level EC metagenome abundance data" \cr         
+#' "WGS Metagenomeenzyme pathway abundance data" \cr          
+#' "WGS Metagenomeenzyme pathway coverage data"  \cr        
+#' "WGS Genus" \cr        
+#' "WGS Species" \cr                                           
+#' "WGS Family" \cr                                         
+#' "WGS Order" \cr                                          
+#' "WGS Phylum" \cr                                           
+#' "WGS Class"  \cr                                          
+#' "WGS Kingdom"  \cr                                          
+#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_b9dc726b20/new/download>
+#' @name PretermInfantResistome2
+"PretermInfantResistome2"

@@ -8,11 +8,7 @@ Authors@R:
            email = "dcallan@upenn.edu"))
 biocViews: 
 Imports:
-    data.table,
-    methods,
     MicrobiomeDB,
-    phyloseq,
-    purrr,
     S4Vectors,
     veupathUtils
 Extends:
