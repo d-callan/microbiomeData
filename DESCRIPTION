@@ -8,17 +8,17 @@ Authors@R:
            email = "dcallan@upenn.edu"))
 biocViews: 
 Imports:
-    data.table,
-    methods,
-    phyloseq,
-    purrr,
+    MicrobiomeDB,
     S4Vectors,
     veupathUtils
+Extends:
+    MicrobiomeDB
 Remotes:
+    microbiomeDB/MicrobiomeDB,
     VEuPathDB/veupathUtils
 URL: https://github.com/microbiomeDB/microbiomeData, https://microbiomedb.github.io/microbiomeData/
 BugReports: https://github.com/microbiomeDB/microbiomeData/issues
-Description: An R package containing all of the curated datasets from MicrobiomeDB.org and functions for conveniently using that data in R.
+Description: An R package containing all of the curated datasets from MicrobiomeDB.org.
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
@@ -27,20 +27,6 @@ Suggests:
 Config/testthat/edition: 3
 Depends: 
     R (>= 2.10)
-Collate: 
-    'class-SampleMetadata.R'
-    'class-AbundanceData.R'
-    'class-AbsoluteAbundanceData.R'
-    'class-Collections.R'
-    'class-MbioDataset.R'
-    'constructors-MbioDataset.R'
-    'data.R'
-    'methods-AbundanceData.R'
-    'methods-Collections.R'
-    'methods-MbioDataset.R'
-    'methods-SampleMetadata.R'
-    'microbiomeData-package.R'
-    'utils.R'
 License: Apache License (>= 2)
 LazyData: true
 LazyDataCompression: xz
