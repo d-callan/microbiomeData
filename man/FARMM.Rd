@@ -31,7 +31,7 @@ FARMM
 }
 \description{
 The Food and Resulting Microbial Metabolites (FARMM) study set out to define the impact of defined diets on the microbiome and metabolome.
-Follows 31 healthy human adult volunteers monitored longitudinaly over a 15 day period.
+Follows 31 healthy human adult volunteers monitored longitudinally over a 15 day period.
 Includes 454 stool samples and sequencing controls; 'shotgun' metagenomic sequencing.
 }
 \details{

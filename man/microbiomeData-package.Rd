@@ -6,7 +6,7 @@
 \alias{microbiomeData-package}
 \title{microbiomeData: Curated Data from MicrobiomeDB.org}
 \description{
-An R package containing all of the curated datasets from MicrobiomeDB.org and functions for conveniently using that data in R.
+An R package containing all of the curated datasets from MicrobiomeDB.org.
 }
 \seealso{
 Useful links:
