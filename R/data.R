@@ -1,4 +1,13 @@
-## TODO add the rest of the datasets
+#' Get Curated Data Set Names
+#' 
+#' Returns a vector of curated data set names from the 'microbiomeData' package. 
+#' These data are the same from the MicrobiomeDB.org website and can be 
+#' analyzed with the 'MicrobiomeDB' R package.
+#' @return A vector of curated data set names
+#' @export
+getCuratedDatasetNames <- function() {
+    return(data(package="microbiomeData")$results[, "Item"])
+}
 
 #' DiabImmune
 #'
