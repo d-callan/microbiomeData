@@ -1,0 +1,408 @@
+Participant_Id	Age (years) [OBI_0001169]	Boiled water [EUPATH_0009342]	City, village, or region [ENVO_00000856]	Country [ENVO_00000009]	Diarrhea in past 3 months [EUPATH_0009345]	Education level [OMRSE_00002045]	Ethnicity [OMRSE_00000205]	Response to anthelminthic treatment [EUPATH_0009349]	Sex [PATO_0000047]	Taken antibiotics in past 3 months [EUPATH_0009343]	Taken probiotic food in past 3 months [EUPATH_0009344]	Undercooked meat [EUPATH_0009341]
+BK051A (Source)	50	NA	Bangkong, Selangor	Malaysia			Indigenous	Uninfected	Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Male			
+BK059A (Source)	50	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+BK059C (Source)	8	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+BK102A (Source)	35	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Male			
+									Female			
+									Female			
+BK11B (Source)	28	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Male			
+									Female			
+BK16A (Source)	34	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+BK16B (Source)	7	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+BK16C (Source)	12	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+BK16D (Source)	8	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+BK16E (Source)	37	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+BK18B (Source)	5	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+BK1A (Source)	7	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+BK1B (Source)	9	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Male			
+BK22A (Source)	37	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+BK29A (Source)	29	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+BK29B (Source)	10	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+BK29C (Source)		NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+BK29E (Source)		NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+BK58A (Source)	64	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+BK62C (Source)	24	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Male			
+									Male			
+									Male			
+									Female			
+									Male			
+									Female			
+BK8C (Source)	9	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+									Female			
+									Female			
+									Female			
+JH2A (Source)	28	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+JH2B (Source)	24	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+JK14A (Source)	34	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+JK1A (Source)	39	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+JK35B (Source)	53	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Male			
+									Male			
+									Female			
+									Female			
+									Female			
+									Female			
+									Male			
+JL6C (Source)	18	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+JQ12A (Source)	47	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+JQ12B (Source)	33	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous	Responder	Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+JQ4D (Source)	22	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+JQ4E (Source)	19	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+JQ9A (Source)	41	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Female			
+KR004E (Source)	8	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
+KR004F (Source)	4	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
+									Male			
+									Male			
+									Female			
+									Male			
+									Female			
+									Female			
+									Male			
+									Male			
+									Female			
+									Male			
+									Male			
+									Female			
+KR042C (Source)	33	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
+									Male			
+KR047A (Source)	48	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
+									Male			
+									Male			
+									Male			
+KR056A (Source)	48	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Female			
+									Male			
+									Male			
+									Female			
+									Male			
+									Female			
+									Male			
+									Male			
+									Male			
+									Female			
+									Male			
+									Female			
+KR069D (Source)	25	NA	Rasau, Perak	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Male			
+									Male			
+KR095A (Source)	37	Yes	Rasau, Perak	Malaysia	No		Indigenous		Male	:::UNDEFF:::	No	No
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Female			
+									Male			
+									Female			
+									Female			
+LL15A (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+LL16A (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+LL1A (Source)	36	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+LL1C (Source)	6	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Male			
+									Female			
+LL22B (Source)	19	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Male			
+LL25D (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Female			
+									Female			
+LL32D (Source)		Yes	Legong, Kedah	Malaysia	No		Indigenous		Male	:::UNDEFF:::	Yes	No
+LL33A (Source)	61	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+LL33B (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Male			
+									Male			
+									Male			
+LL47A (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Male			
+									Female			
+									Male			
+									Female			
+									Male			
+									Male			
+									Female			
+									Male			
+LL53C (Source)	9	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+LL55C (Source)	9	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Male			
+									Female			
+									Male			
+									Male			
+									Male			
+LL57B (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Male			
+									Female			
+									Male			
+									Female			
+									Female			
+									Female			
+									Female			
+									Male			
+									Male			
+									Female			
+									Male			
+									Male			
+									Female			
+									Female			
+									Male			
+									Female			
+									Female			
+LL65C (Source)	24	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+LL65D (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+LL66A (Source)	45	Yes	Legong, Kedah	Malaysia		No formal education	Indigenous		Female	:::UNDEFF:::	No	Yes
+									Female			
+									Female			
+LL6A (Source)	25	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Male			
+									Male			
+LL71C (Source)	18	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Male			
+									Male			
+									Female			
+									Female			
+									Female			
+									Female			
+LL8C (Source)	36	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Male			
+									Female			
+LL9A (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Male			
+LL9D (Source)	6	Yes	Legong, Kedah	Malaysia	No		Indigenous		Male	No	No	No
+LL9E (Source)	6	Yes	Legong, Kedah	Malaysia	No		Indigenous		Male	No	No	No
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+									Female			
+SJ004C (Source)	9	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+SJ004D (Source)	6	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Male			
+									Female			
+									Male			
+									Male			
+SJ012A (Source)	21	NA	Judah, Selangor	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Female			
+									Male			
+									Female			
+SJ017B (Source)		Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous		Male	No	Yes	No
+									Female			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+SJ023A (Source)	36	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Male			
+									Female			
+									Female			
+									Male			
+									Male			
+									Female			
+									Male			
+									Male			
+									Female			
+									Female			
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Male			
+									Male			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Female			
+									Female			
+									Female			
+SJ053A (Source)	20	NA	Judah, Selangor	Malaysia			Indigenous	Responder	Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Male			
+SJ058B (Source)	12	NA	Judah, Selangor	Malaysia			Indigenous	Responder	Female	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Male			
+SJ062A (Source)	34	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Male			
+									Female			
+SJ067C (Source)	20	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+SJ067D (Source)	19	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Male			
+									Male			
+									Female			
+									Female			
+									Female			
+									Female			
+									Male			
+SJ072B (Source)	12	NA	Judah, Selangor	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
+									Male			
+									Female			
+									Female			
+SJ076A (Source)	44	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+SJ076B (Source)	39	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+SJ076C (Source)	10	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+									Male			
+SJ087A (Source)		Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous		Male	No	No	Yes
+									Female			
+									Female			
+									Female			
+									Female			
+									Female			
+									Female			
+									Female			
+									Female			
+									Male			
+									Male			
+SJ092A (Source)	41	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Female			
+									Female			
+SJ095A (Source)	27	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+									Male			
+SJ095C (Source)	55	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
+SJ095D (Source)	30	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
+									Male			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Female			
+									Male			
+									Female			
+									Female			
+									Male			
+									Male			
+									Female			
+									Male			
+									Male			
+									Female			
+									Female			
+									Male			
+									Female			
+									Female			
+									Female			
+									Female			
+UC30 (Source)	40	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous		Male	:::UNDEFF:::		No
+									Female			
+									Female			
+									Male			
+									Male			
+									Female			
+									Female			
+									Female			
+									Female			
+UC44 (Source)	29	NA	Kuala Lumpur, Selangor	Malaysia			Non-indigenous		Female	:::UNDEFF:::		NA
+									Male			
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Female			
+									Female			
+									Male			
+									Female			
+									Male			
+									Female			
+									Male			
+									Male			
+									Female			
+									Male			
+									Male			
+									Male			
+									Female			
