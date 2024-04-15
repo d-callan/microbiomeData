@@ -8,7 +8,6 @@ Authors@R:
            email = "dcallan@upenn.edu"))
 biocViews: 
 Imports:
-    MicrobiomeDB,
     S4Vectors,
     veupathUtils
 Extends:
@@ -26,7 +25,8 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Depends: 
-    R (>= 2.10)
+    R (>= 2.10),
+    MicrobiomeDB
 License: Apache License (>= 2)
 LazyData: true
 LazyDataCompression: xz
