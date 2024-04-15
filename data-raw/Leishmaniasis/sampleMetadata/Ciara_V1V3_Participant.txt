@@ -1,0 +1,46 @@
+Participant_Id	Country [ENVO_00000009]	Cured [EUPATH_0009013]	DTH testing result [EUPATH_0009014]	Habitat [ENVO_01000739]	Lesion size (mm squared) [EUPATH_0000621]	Number of treatments [EUPATH_0000619]	Skin charateristics [EUPATH_0009012]	Skin lesion duration [EUPATH_0000632]	Title [OBI_0001622]
+1 (Source)	Brazil	Yes	400	Human-associated habitat	396	1	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+10 (Source)	Brazil	Yes	156	Human-associated habitat	49	1	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+11 (Source)	Brazil	Yes	144	Human-associated habitat	25	1	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+12 (Source)	Brazil	Yes		Human-associated habitat	70	1	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+13 (Source)	Brazil	Yes	289	Human-associated habitat	3300	1	Dry	40	Alteration of the skin microbiome during human cutaneous leishmaniasis
+14 (Source)	Brazil	Yes	255	Human-associated habitat	180	1	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+15 (Source)		Yes		Human-associated habitat	90		Dry	10	Alteration of the skin microbiome during human cutaneous leishmaniasis
+16 (Source)		Yes		Human-associated habitat	200		Dry	60	Alteration of the skin microbiome during human cutaneous leishmaniasis
+17 (Source)		Yes		Human-associated habitat	380	1	Dry	40	Alteration of the skin microbiome during human cutaneous leishmaniasis
+18 (Source)		Yes	100	Human-associated habitat	780	2	Dry	21	Alteration of the skin microbiome during human cutaneous leishmaniasis
+19 (Source)		Yes	180	Human-associated habitat	80	1	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+2 (Source)	Brazil	Yes	441	Human-associated habitat	216	2	Sebaceous	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+20 (Source)		Yes	255	Human-associated habitat	500	2	Dry	60	Alteration of the skin microbiome during human cutaneous leishmaniasis
+21 (Source)		Yes	300	Human-associated habitat	100	2	Dry	60	Alteration of the skin microbiome during human cutaneous leishmaniasis
+22 (Source)		Yes	285	Human-associated habitat	24	1	Moist	60	Alteration of the skin microbiome during human cutaneous leishmaniasis
+23 (Source)		Yes	180	Human-associated habitat	130	1	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+24 (Source)		Yes	272	Human-associated habitat	150	1	Dry	21	Alteration of the skin microbiome during human cutaneous leishmaniasis
+25 (Source)		Yes	1085	Human-associated habitat	270	1	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+26 (Source)		Yes	130	Human-associated habitat	1575	1	Dry	60	Alteration of the skin microbiome during human cutaneous leishmaniasis
+27 (Source)		Yes	700	Human-associated habitat	192	2	Sebaceous	34	Alteration of the skin microbiome during human cutaneous leishmaniasis
+28 (Source)		Yes	460	Human-associated habitat	480	1	Dry	14	Alteration of the skin microbiome during human cutaneous leishmaniasis
+29 (Source)		No	100	Human-associated habitat	325		Sebaceous		Alteration of the skin microbiome during human cutaneous leishmaniasis
+3 (Source)	Brazil	Yes	49	Human-associated habitat	130	1	Dry	40	Alteration of the skin microbiome during human cutaneous leishmaniasis
+30 (Source)		Yes	441	Human-associated habitat	130	1	Dry	20	Alteration of the skin microbiome during human cutaneous leishmaniasis
+31 (Source)		Yes	440	Human-associated habitat	35	1	Dry	45	Alteration of the skin microbiome during human cutaneous leishmaniasis
+32 (Source)		Yes	225	Human-associated habitat	49	1	Dry	20	Alteration of the skin microbiome during human cutaneous leishmaniasis
+33 (Source)		Yes	300	Human-associated habitat	306	1	Moist	15	Alteration of the skin microbiome during human cutaneous leishmaniasis
+34 (Source)		Yes	144	Human-associated habitat	400	1	Dry	35	Alteration of the skin microbiome during human cutaneous leishmaniasis
+35 (Source)		Yes	725	Human-associated habitat	25	1	Dry	15	Alteration of the skin microbiome during human cutaneous leishmaniasis
+36 (Source)		Yes	440	Human-associated habitat	77		Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+37 (Source)		Yes	225	Human-associated habitat	330	1	Dry	90	Alteration of the skin microbiome during human cutaneous leishmaniasis
+38 (Source)			0	Human-associated habitat	1476		Dry	60	Alteration of the skin microbiome during human cutaneous leishmaniasis
+39 (Source)		Yes	400	Human-associated habitat	272	1	Dry	20	Alteration of the skin microbiome during human cutaneous leishmaniasis
+4 (Source)	Brazil	Yes	225	Human-associated habitat	225	1	Dry	40	Alteration of the skin microbiome during human cutaneous leishmaniasis
+40 (Source)		Yes	210	Human-associated habitat	1377	1	Dry	45	Alteration of the skin microbiome during human cutaneous leishmaniasis
+41 (Source)		Yes	130	Human-associated habitat	30	2	Sebaceous	20	Alteration of the skin microbiome during human cutaneous leishmaniasis
+42 (Source)		Yes	110	Human-associated habitat	255	1	Sebaceous	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+43 (Source)		Yes	378	Human-associated habitat	216	1	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+44 (Source)		Yes	260	Human-associated habitat	207	1	Sebaceous	40	Alteration of the skin microbiome during human cutaneous leishmaniasis
+45 (Source)		Yes		Human-associated habitat	340	1	Dry	90	Alteration of the skin microbiome during human cutaneous leishmaniasis
+5 (Source)	Brazil	Yes	255	Human-associated habitat	660	1	Dry	90	Alteration of the skin microbiome during human cutaneous leishmaniasis
+6 (Source)	Brazil	Yes	130	Human-associated habitat	500	1	Sebaceous	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+7 (Source)	Brazil		625	Human-associated habitat	544		Dry	21	Alteration of the skin microbiome during human cutaneous leishmaniasis
+8 (Source)	Brazil	Yes	196	Human-associated habitat	437	2	Dry	30	Alteration of the skin microbiome during human cutaneous leishmaniasis
+9 (Source)	Brazil	Yes	225	Human-associated habitat	840	2	Sebaceous	60	Alteration of the skin microbiome during human cutaneous leishmaniasis
