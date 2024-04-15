@@ -9,10 +9,12 @@ Authors@R:
 biocViews: 
 Imports:
     S4Vectors,
+    microbiomeComputations,
     veupathUtils
 Extends:
     MicrobiomeDB
 Remotes:
+    microbiomeDB/microbiomeComputations,
     microbiomeDB/MicrobiomeDB,
     VEuPathDB/veupathUtils
 URL: https://github.com/microbiomeDB/microbiomeData, https://microbiomedb.github.io/microbiomeData/
@@ -25,8 +27,7 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Depends: 
-    R (>= 2.10),
-    MicrobiomeDB
+    R (>= 2.10)
 License: Apache License (>= 2)
 LazyData: true
 LazyDataCompression: xz
