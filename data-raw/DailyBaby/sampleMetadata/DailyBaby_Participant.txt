@@ -1,0 +1,13 @@
+Participant_Id	Age 1st solid food given (days) [EUPATH_0011036]	Animals on property [EUPATH_0000343]	Country [ENVO_00000009]	Delivery mode [EUPATH_0000581]	Diet [EUPATH_0011732]	Habitat [ENVO_01000739]	Sex [PATO_0000047]
+ID1 (Source)	186		Norway	Vaginal	Breast milk	Human	Female
+ID10 (Source)	172	cat, dog	Norway	Cesarean	Breast milk and formula	Human	Male
+ID11 (Source)	173	cat, dog	Norway	Cesarean	Breast milk and formula	Human	Female
+ID12 (Source)	122		Norway	Vaginal	Breast milk and formula	Human	Female
+ID2 (Source)	159		Norway	Vaginal	Formula	Human	Male
+ID3 (Source)	165		Norway	Vaginal	Breast milk	Human	Female
+ID4 (Source)	126		Norway	Vaginal	Breast milk	Human	Female
+ID5 (Source)	116		Norway	Vaginal	Breast milk	Human	Male
+ID6 (Source)	121		Norway	Vaginal	Breast milk and formula	Human	Male
+ID7 (Source)	122		Norway	Vaginal	Breast milk	Human	Male
+ID8 (Source)	247		Norway	Vaginal	Breast milk	Human	Female
+ID9 (Source)	182	rabbit	Norway	Cesarean	Breast milk	Human	Female
