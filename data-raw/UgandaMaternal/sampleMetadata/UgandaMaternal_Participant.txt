@@ -1,0 +1,100 @@
+Participant_Id	Age (months) [OBI_0001169]	Antibiotics before delivery, by maternal report [EUPATH_0009036]	Chills [SYMP_0019174]	City, village, or region [ENVO_00000856]	Country [ENVO_00000009]	Delivery duration (hours) [EUPATH_0038078]	Delivery mode [EUPATH_0000581]	Fever during labor [EUPATH_0009109]	HIV status [EUPATH_0033193]	Previous pregnancies count [EUPATH_0051011]	Sex [PATO_0000047]	Vaginal infection [GSSO_004872]
+5001 (Source)	22	No	Yes	Mbarara	Uganda	8	Vaginal	Yes	Negative	2	Female	Yes
+5002 (Source)	22	No	Yes	Mbarara	Uganda	22	Vaginal	No	Negative	1	Female	No
+5003 (Source)	19	No	No	Mbarara	Uganda	18	Vaginal	No	Negative	1	Female	No
+5004 (Source)	33	No	No	Mbarara	Uganda	14	Vaginal	No	Negative	4	Female	No
+5005 (Source)	29	No	No	Mbarara	Uganda	24	Vaginal	No	Negative	4	Female	Yes
+5006 (Source)	26	No	No	Mbarara	Uganda	2	Vaginal	No	Positive	3	Female	No
+5007 (Source)	20	No	Yes	Mbarara	Uganda	24	Cesarean	Yes	Negative	2	Female	No
+5008 (Source)	35	No	No	Mbarara	Uganda	24	Cesarean	Yes	Negative	6	Female	No
+5009 (Source)	25		Yes	Mbarara	Uganda	48	Cesarean	Yes	Negative	1	Female	No
+5010 (Source)	26	No	Yes	Mbarara	Uganda	52	Cesarean	No	Negative	1	Female	No
+5011 (Source)	27	No	No	Mbarara	Uganda	12	Vaginal	No	Negative	3	Female	No
+5012 (Source)	21	No	No	Mbarara	Uganda	12	Cesarean	Yes	Negative	1	Female	No
+5013 (Source)	22	No	No	Mbarara	Uganda	5	Vaginal	No	Negative	3	Female	Yes
+5014 (Source)	37	No	No	Mbarara	Uganda	17	Vaginal	No	Negative	7	Female	No
+5015 (Source)	19	No	No	Mbarara	Uganda	4	Cesarean	No	Negative	2	Female	No
+5016 (Source)	32	No	No	Mbarara	Uganda	24	Vaginal	No	Negative	5	Female	No
+5017 (Source)	25	No	Yes	Mbarara	Uganda	72	Vaginal	No	Negative	2	Female	No
+5018 (Source)	24	No	No	Mbarara	Uganda	48	Cesarean	No	Positive	3	Female	No
+5019 (Source)	25	No	No	Mbarara	Uganda	48	Vaginal	No	Negative	1	Female	No
+5020 (Source)	25	No	No	Mbarara	Uganda	24	Vaginal	No	Negative	4	Female	Yes
+5021 (Source)	26		No	Mbarara	Uganda	20	Vaginal	No	Negative	1	Female	No
+5022 (Source)	27		Yes	Mbarara	Uganda	85	Cesarean	Yes	Positive	1	Female	No
+5023 (Source)	19		Yes	Mbarara	Uganda	48	Cesarean	Yes	Negative	1	Female	Yes
+5024 (Source)	25	No	No	Mbarara	Uganda	48	Vaginal	No	Negative	3	Female	No
+5025 (Source)	28		No	Mbarara	Uganda	10	Vaginal	No	Negative	3	Female	No
+5026 (Source)	29	No	Yes	Mbarara	Uganda	85	Cesarean	Yes	Negative	2	Female	No
+5028 (Source)	26	No	No	Mbarara	Uganda	6	Vaginal	No	Negative	3	Female	No
+5029 (Source)	18		No	Mbarara	Uganda	48	Cesarean	Yes	Negative	1	Female	No
+5030 (Source)	33	No	No	Mbarara	Uganda	48	Vaginal	No	Negative	4	Female	No
+5031 (Source)	23	No	No	Mbarara	Uganda	12	Vaginal	No	Positive	2	Female	No
+5032 (Source)	23	No	No	Mbarara	Uganda	7	Vaginal	No	Negative	1	Female	No
+5033 (Source)	33		Yes	Mbarara	Uganda	36	Vaginal	Yes	Negative	5	Female	No
+5034 (Source)	26	No	No	Mbarara	Uganda	48	Vaginal	No	Negative	1	Female	No
+5035 (Source)	22		No	Mbarara	Uganda	52	Cesarean	Yes	Negative	1	Female	No
+5036 (Source)	39	No	No	Mbarara	Uganda	24	Vaginal	No	Positive	9	Female	No
+5037 (Source)	23		No	Mbarara	Uganda	24	Cesarean	No	Negative	1	Female	No
+5038 (Source)	19	No	Yes	Mbarara	Uganda	48	Cesarean	Yes	Negative	1	Female	No
+5039 (Source)	19	Yes	Yes	Mbarara	Uganda	48	Vaginal	Yes	Negative	1	Female	No
+5040 (Source)	20	No	Yes	Mbarara	Uganda	49	Cesarean	Yes	Negative	1	Female	No
+5041 (Source)	19	No	Yes	Mbarara	Uganda	49	Cesarean	Yes	Negative	1	Female	No
+5042 (Source)	25	No	Yes	Mbarara	Uganda	72	Cesarean	Yes	Negative	1	Female	No
+5043 (Source)	20	No	Yes	Mbarara	Uganda	65	Vaginal	Yes	Positive	1	Female	No
+5044 (Source)	21	No	No	Mbarara	Uganda	48	Cesarean	Yes	Negative	1	Female	No
+5046 (Source)	19	No	Yes	Mbarara	Uganda	72	Cesarean	Yes	Negative	2	Female	No
+5047 (Source)	23	No	Yes	Mbarara	Uganda	24	Vaginal	Yes	Positive	2	Female	Yes
+5048 (Source)	19	No	Yes	Mbarara	Uganda	48	Cesarean	Yes	Negative	1	Female	No
+5049 (Source)	21	No	Yes	Mbarara	Uganda	12	Vaginal	Yes	Negative	1	Female	No
+5050 (Source)	24	No	Yes	Mbarara	Uganda	48	Vaginal	Yes	Negative	2	Female	No
+5051 (Source)	38	No	Yes	Mbarara	Uganda	49	Cesarean	Yes	Negative	6	Female	No
+5052 (Source)	20	No	Yes	Mbarara	Uganda	49	Vaginal	Yes	Negative	1	Female	No
+6001 (Source)	36	No	No	Mbale	Uganda	13	Vaginal	No	Negative	7	Female	No
+6002 (Source)	29	No	No	Mbale	Uganda	120	Vaginal	No	Negative	1	Female	No
+6003 (Source)	20	No	No	Mbale	Uganda	23	Vaginal	No	Negative	1	Female	No
+6004 (Source)	18	No	No	Mbale	Uganda	16	Cesarean	No	Negative	1	Female	No
+6005 (Source)	19	Yes	No	Mbale	Uganda	58	Cesarean	No	Negative	1	Female	No
+6006 (Source)	30	No	No	Mbale	Uganda	10	Cesarean	No	Negative	1	Female	No
+6008 (Source)	25	No	No	Mbale	Uganda	13	Vaginal	No	Negative	1	Female	No
+6010 (Source)	26	No	No	Mbale	Uganda	12	Vaginal	No	Negative	4	Female	No
+6011 (Source)	34	No	No	Mbale	Uganda	24	Vaginal	No	Negative	3	Female	No
+6012 (Source)	27	No	No	Mbale	Uganda	8	Vaginal	No	Negative	3	Female	No
+6013 (Source)	22	No	No	Mbale	Uganda	48	Cesarean	No	Negative	1	Female	No
+6014 (Source)	20	No	No	Mbale	Uganda	0.5	Vaginal	No	Negative	1	Female	No
+6015 (Source)	28	No	No	Mbale	Uganda	4	Vaginal	No	Negative	3	Female	No
+6016 (Source)	30	No		Mbale	Uganda	3	Vaginal	No	Negative	6	Female	
+6018 (Source)	28	No	No	Mbale	Uganda	23	Vaginal	Yes	Positive	3	Female	No
+6019 (Source)	30	No	No	Mbale	Uganda	18	Cesarean	Yes	Negative	10	Female	No
+6020 (Source)	27	No	No	Mbale	Uganda	48	Vaginal	No	Negative	3	Female	No
+6021 (Source)	24	Yes	No	Mbale	Uganda	96	Vaginal	Yes	Negative	3	Female	Yes
+6022 (Source)	32	No	No	Mbale	Uganda	12	Vaginal	Yes	Negative	4	Female	No
+6023 (Source)	19	No	No	Mbale	Uganda	48	Vaginal	Yes	Negative	2	Female	No
+6024 (Source)	36	No	Yes	Mbale	Uganda	48	Vaginal	No	Negative	5	Female	No
+6025 (Source)	23	No	No	Mbale	Uganda	36	Vaginal	Yes	Negative	2	Female	No
+6026 (Source)	26	Yes	No	Mbale	Uganda	17	Vaginal	No	Negative	3	Female	No
+6027 (Source)	19	No	No	Mbale	Uganda	18	Vaginal	Yes	Negative	1	Female	No
+6028 (Source)	23	No	Yes	Mbale	Uganda	13	Vaginal	Yes	Negative	4	Female	No
+6029 (Source)	20	No	No	Mbale	Uganda	72	Vaginal	Yes	Negative	1	Female	No
+6030 (Source)	23	No	No	Mbale	Uganda	30	Cesarean	Yes	Negative	4	Female	No
+6031 (Source)	32	Yes	No	Mbale	Uganda	0	Cesarean	Yes	Negative	6	Female	Yes
+6032 (Source)	33	No	No	Mbale	Uganda	13	Vaginal	No	Negative	5	Female	No
+6033 (Source)	26	No	No	Mbale	Uganda	1	Vaginal	Yes	Negative	1	Female	No
+6034 (Source)	20	No	Yes	Mbale	Uganda	24	Vaginal	Yes	Negative	2	Female	No
+6035 (Source)	20	No	Yes	Mbale	Uganda	16	Vaginal	Yes	Negative	1	Female	No
+6036 (Source)	18	No	No	Mbale	Uganda	18	Vaginal	Yes	Negative	1	Female	No
+6037 (Source)	27	No	Yes	Mbale	Uganda	18	Cesarean	Yes	Positive	6	Female	No
+6038 (Source)	25	No	No	Mbale	Uganda	24	Vaginal	Yes	Negative	1	Female	No
+6039 (Source)	21	No	No	Mbale	Uganda	96	Cesarean	No	Negative	1	Female	No
+6040 (Source)	27	No	No	Mbale	Uganda	20	Vaginal	No	Negative	2	Female	No
+6041 (Source)	30	No	No	Mbale	Uganda	24	Vaginal	Yes	Negative	7	Female	No
+6042 (Source)	22	No	No	Mbale	Uganda	9	Vaginal	No	Positive	1	Female	No
+6043 (Source)	33	No	No	Mbale	Uganda	32	Cesarean	No	Negative	4	Female	No
+6044 (Source)	20	No	No	Mbale	Uganda	13	Vaginal	Yes	Negative	1	Female	No
+6045 (Source)	34	No	No	Mbale	Uganda	6	Vaginal	No	Negative	6	Female	No
+6046 (Source)	23	No	No	Mbale	Uganda	9	Vaginal	No	Negative	2	Female	No
+6047 (Source)	22	No	No	Mbale	Uganda	46	Vaginal	Yes	Negative	3	Female	No
+6048 (Source)	26	No	No	Mbale	Uganda	12	Cesarean	Yes	Negative	1	Female	No
+6049 (Source)	18	No	No	Mbale	Uganda	48	Vaginal	Yes	Negative	1	Female	No
+6050 (Source)	22	No	No	Mbale	Uganda	28	Cesarean	Yes	Unknown	2	Female	No
+6051 (Source)	18	Yes	No	Mbale	Uganda	24	Vaginal	Yes	Negative	1	Female	No
+6052 (Source)		Yes		Mbale	Uganda	8	Cesarean	Yes	Negative	3	Female	
