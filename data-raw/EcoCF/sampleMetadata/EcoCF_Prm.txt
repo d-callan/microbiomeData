@@ -1,0 +1,826 @@
+prm_Id	Participant_Id	Visit number [NCIT_C83101]	Age (days) [OBI_0001169]	Azithromycin [CHEBI_2955]	CFTR mutation (F508del) [EUPATH_0009091]	Clinical status [HP_0032319]	Colistin [CHEBI_37943]	Dornase [DRON_00018567]	Forced expiratory volume (L) [EUPATH_0009088]	Forced expiratory volume, percentage (%) [EUPATH_0009087]	Tobramycin [CHEBI_28864]
+ECOCF0001_6303 (Source)	ECOCF0001 (Source)	1	6303	Yes		Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes			Yes
+ECOCF0001_6337 (Source)	ECOCF0001 (Source)	2	6337	Yes		Exacerbation (no treatment)	No	Yes	0.77	22	Yes
+ECOCF0001_6344 (Source)	ECOCF0001 (Source)	3	6344	Yes		Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	1.91	55	Yes
+ECOCF0001_6436 (Source)	ECOCF0001 (Source)	4	6436	Yes		Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0001_6464 (Source)	ECOCF0001 (Source)	5	6464	Yes		Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes			Yes
+ECOCF0001_6478 (Source)	ECOCF0001 (Source)	6	6478	Yes		Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0002_7158 (Source)	ECOCF0002 (Source)	1	7158	Yes	Other	Baseline	No	Yes	5.19	124	Yes
+ECOCF0002_7270 (Source)	ECOCF0002 (Source)	2	7270	Yes	Other	Baseline	No	Yes	4.44	129	Yes
+ECOCF0002_7382 (Source)	ECOCF0002 (Source)	3	7382	Yes	Other	Baseline	No	Yes	4.92	118	Yes
+ECOCF0002_7494 (Source)	ECOCF0002 (Source)	4	7494	Yes	Other	Baseline	No	Yes	5.03	121	Yes
+ECOCF0002_7760 (Source)	ECOCF0002 (Source)	5	7760	Yes	Other	Exacerbation (no treatment)	No	Yes	4.81	115	Yes
+ECOCF0002_8461 (Source)	ECOCF0002 (Source)	6	8461	Yes	Other	Baseline	No	Yes		132	Yes
+ECOCF0002_8545 (Source)	ECOCF0002 (Source)	8	8545	Yes	Other	Baseline	No	Yes		116	Yes
+ECOCF0003_7279 (Source)	ECOCF0003 (Source)	1	7279	Yes	Homozygous	Baseline	No	Yes	2.59	79	Yes
+ECOCF0003_7510 (Source)	ECOCF0003 (Source)	2	7510	Yes	Homozygous	Baseline	No	Yes	2.57	79	Yes
+ECOCF0004_6415 (Source)	ECOCF0004 (Source)	1	6415	Yes	Heterozygous	Baseline	No	Yes	2.53	87	Yes
+ECOCF0004_6590 (Source)	ECOCF0004 (Source)	2	6590	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.77	58	Yes
+ECOCF0004_6611 (Source)	ECOCF0004 (Source)	3	6611	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.14	70	Yes
+ECOCF0004_6737 (Source)	ECOCF0004 (Source)	4	6737	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	2.41	79	Yes
+ECOCF0004_6765 (Source)	ECOCF0004 (Source)	5	6765	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.34	76	Yes
+ECOCF0004_6883 (Source)	ECOCF0004 (Source)	6	6883	Yes	Heterozygous	Baseline	No	Yes			Yes
+ECOCF0005_4655 (Source)	ECOCF0005 (Source)	1	4655	Yes	Homozygous	Baseline	No	Yes	2.07	72	Yes
+ECOCF0005_4704 (Source)	ECOCF0005 (Source)	2	4704	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	1.66	57	Yes
+ECOCF0005_4802 (Source)	ECOCF0005 (Source)	3	4802	Yes	Homozygous	Baseline	No	Yes			Yes
+ECOCF0005_4872 (Source)	ECOCF0005 (Source)	4	4872	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	2.12	70	Yes
+ECOCF0005_4942 (Source)	ECOCF0005 (Source)	5	4942	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	2.14	69	Yes
+ECOCF0005_5229 (Source)	ECOCF0005 (Source)	6	5229	Yes	Homozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0005_5813 (Source)	ECOCF0005 (Source)	7	5813	Yes	Homozygous	Baseline	No	Yes		79	Yes
+ECOCF0005_5896 (Source)	ECOCF0005 (Source)	8	5896	Yes	Homozygous	Baseline	No	Yes		73	Yes
+ECOCF0005_5966 (Source)	ECOCF0005 (Source)	9	5966	Yes	Homozygous	Baseline	No	Yes		72	Yes
+ECOCF0005_6097 (Source)	ECOCF0005 (Source)	10	6097	Yes	Homozygous	Baseline	No	Yes			Yes
+ECOCF0006_4259 (Source)	ECOCF0006 (Source)	1	4259	Yes	Heterozygous	Baseline	No	Yes	1.92	78	Yes
+ECOCF0006_4371 (Source)	ECOCF0006 (Source)	2	4371	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	1.9	74	No
+ECOCF0006_4420 (Source)	ECOCF0006 (Source)	3	4420	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.82	70	No
+ECOCF0006_4462 (Source)	ECOCF0006 (Source)	4	4462	Yes	Heterozygous	Baseline	No	Yes	1.84	68	Yes
+ECOCF0006_4504 (Source)	ECOCF0006 (Source)	5	4504	Yes	Heterozygous	Baseline	No	Yes	2.11	83	Yes
+ECOCF0006_4665 (Source)	ECOCF0006 (Source)	6	4665	Yes	Heterozygous	Baseline	No	Yes	2.32	87	No
+ECOCF0006_4814 (Source)	ECOCF0006 (Source)	7	4814	Yes	Heterozygous	Baseline	No	Yes	2.54	93	No
+ECOCF0006_4919 (Source)	ECOCF0006 (Source)	8	4919	Yes	Heterozygous	Baseline	No	Yes	2.37	84	No
+ECOCF0006_5063 (Source)	ECOCF0006 (Source)	9	5063	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.83	64	No
+ECOCF0006_5098 (Source)	ECOCF0006 (Source)	10	5098	Yes	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	2.22	78	No
+ECOCF0006_5358 (Source)	ECOCF0006 (Source)	11	5358		Heterozygous	Baseline				77	
+ECOCF0007_2747 (Source)	ECOCF0007 (Source)	1	2747	No	Other	Baseline	No	No	0.92	67	No
+ECOCF0007_2985 (Source)	ECOCF0007 (Source)	2	2985	No	Other	Baseline	No	No	1.22	72	No
+ECOCF0007_3153 (Source)	ECOCF0007 (Source)	3	3153	No	Other	Baseline	No	No	1.23	76	No
+ECOCF0007_4051 (Source)	ECOCF0007 (Source)	4	4051	No	Other	Baseline	No	No		49	No
+ECOCF0008_1888 (Source)	ECOCF0008 (Source)	1	1888	No	Other	Baseline	No	No	1.03	107	No
+ECOCF0008_1979 (Source)	ECOCF0008 (Source)	2	1979	No	Other	Baseline	No	No	1.09	101	No
+ECOCF0008_2056 (Source)	ECOCF0008 (Source)	3	2056	No	Other	Baseline	No	No		89	No
+ECOCF0008_2168 (Source)	ECOCF0008 (Source)	4	2168	No	Other	Baseline	No	No	1.25	111	No
+ECOCF0009_ (Source)	ECOCF0009 (Source)	5		Yes	Heterozygous	Baseline	No	Yes	1.35	58	No
+ECOCF0009_4519 (Source)	ECOCF0009 (Source)	1	4519		Heterozygous	Exacerbation (no treatment)				55	
+ECOCF0009_4676 (Source)	ECOCF0009 (Source)	2	4676		Heterozygous	Baseline				67	
+ECOCF0009_4734 (Source)	ECOCF0009 (Source)	3	4734		Heterozygous	Exacerbation (no treatment)					
+ECOCF0011_495 (Source)	ECOCF0011 (Source)	1	495	No	Other	Baseline	No	No			No
+ECOCF0011_683 (Source)	ECOCF0011 (Source)	2	683	No	Other	Baseline	No	No			No
+ECOCF0012_6948 (Source)	ECOCF0012 (Source)	1	6948	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	2.43	55	Yes
+ECOCF0013_5606 (Source)	ECOCF0013 (Source)	1	5606	No	Other	Exacerbation (no treatment)	No	No	1.47	57	No
+ECOCF0013_5712 (Source)	ECOCF0013 (Source)	2	5712	No	Other	Baseline	No	No	1.7	65	No
+ECOCF0013_6329 (Source)	ECOCF0013 (Source)	3	6329	No	Other	Baseline	No	No			No
+ECOCF0013_6797 (Source)	ECOCF0013 (Source)	4	6797	No	Other	Baseline	No	No		64	No
+ECOCF0013_6967 (Source)	ECOCF0013 (Source)	5	6967	No	Other	Baseline	No	No		59	No
+ECOCF0014_3554 (Source)	ECOCF0014 (Source)	1	3554	No	Heterozygous	Baseline	No	Yes	1.8	81	No
+ECOCF0014_3577 (Source)	ECOCF0014 (Source)	2	3577	No	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.63	73	No
+ECOCF0014_3661 (Source)	ECOCF0014 (Source)	3	3661	No	Heterozygous	Exacerbation (no treatment)	No	Yes	1.4	62	No
+ECOCF0014_4025 (Source)	ECOCF0014 (Source)	4	4025	No	Heterozygous	Exacerbation (no treatment)	No	Yes	1.89	94	No
+ECOCF0015_6850 (Source)	ECOCF0015 (Source)	1	6850	Yes	Heterozygous	Baseline	No	Yes			No
+ECOCF0015_6984 (Source)	ECOCF0015 (Source)	2	6984	Yes	Heterozygous	Baseline	No	Yes			No
+ECOCF0015_7054 (Source)	ECOCF0015 (Source)	3	7054	Yes	Heterozygous		No	Yes			No
+ECOCF0015_7092 (Source)	ECOCF0015 (Source)	4	7092	Yes	Heterozygous		No	Yes			No
+ECOCF0016_7419 (Source)	ECOCF0016 (Source)	1	7419	Yes	Heterozygous		No	Yes			Yes
+ECOCF0017_5054 (Source)	ECOCF0017 (Source)	1	5054	Yes	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	1.92	73	No
+ECOCF0017_5098 (Source)	ECOCF0017 (Source)	2	5098	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.73	66	Yes
+ECOCF0017_5138 (Source)	ECOCF0017 (Source)	3	5138	Yes	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	1.96	73	No
+ECOCF0017_5215 (Source)	ECOCF0017 (Source)	4	5215	Yes	Heterozygous	Baseline	No	Yes	2.42	86	No
+ECOCF0017_5271 (Source)	ECOCF0017 (Source)	5	5271	Yes	Heterozygous	Baseline	No	Yes	2.53	87	No
+ECOCF0017_5306 (Source)	ECOCF0017 (Source)	6	5306	Yes	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	2.85	97	No
+ECOCF0017_5383 (Source)	ECOCF0017 (Source)	7	5383	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	3.21	106	Yes
+ECOCF0017_5523 (Source)	ECOCF0017 (Source)	8	5523	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.67	82	Yes
+ECOCF0017_5558 (Source)	ECOCF0017 (Source)	9	5558	Yes	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	2.99	91	Yes
+ECOCF0017_5610 (Source)	ECOCF0017 (Source)	10	5610	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.72	80	Yes
+ECOCF0017_5714 (Source)	ECOCF0017 (Source)	11	5714	No	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	3.14	93	No
+ECOCF0017_5792 (Source)	ECOCF0017 (Source)	12	5792	Yes	Heterozygous	Baseline	No	Yes	2.89	84	No
+ECOCF0017_6272 (Source)	ECOCF0017 (Source)	13	6272		Heterozygous	Exacerbation (treatment with antibiotics)				62	
+ECOCF0017_6392 (Source)	ECOCF0017 (Source)	14	6392		Heterozygous	Baseline				60	
+ECOCF0017_6408 (Source)	ECOCF0017 (Source)	15	6408		Heterozygous	Exacerbation (no treatment)				48	
+ECOCF0017_6512 (Source)	ECOCF0017 (Source)	16	6512		Heterozygous	Baseline				62	
+ECOCF0018_6493 (Source)	ECOCF0018 (Source)	1	6493	No	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.61	84	No
+ECOCF0018_6563 (Source)	ECOCF0018 (Source)	2	6563	No	Homozygous	Baseline	No	Yes	2.5	82	No
+ECOCF0018_6604 (Source)	ECOCF0018 (Source)	3	6604	No	Homozygous		No	Yes			No
+ECOCF0018_6758 (Source)	ECOCF0018 (Source)	4	6758	Yes	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.51	79	No
+ECOCF0019_6382 (Source)	ECOCF0019 (Source)	1	6382	No	Homozygous	Baseline	No	Yes	2.74	83	No
+ECOCF0020_4839 (Source)	ECOCF0020 (Source)	1	4839	No	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	No	2.32	90	No
+ECOCF0020_5328 (Source)	ECOCF0020 (Source)	2	5328	No	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	No			No
+ECOCF0020_5456 (Source)	ECOCF0020 (Source)	3	5456	No	Other	Baseline	No	No			No
+ECOCF0020_5924 (Source)	ECOCF0020 (Source)	4	5924	No	Other	Exacerbation (no treatment)	No	No		70	No
+ECOCF0020_6094 (Source)	ECOCF0020 (Source)	5	6094	No	Other	Exacerbation (no treatment)	No	No		52	No
+ECOCF0020_6210 (Source)	ECOCF0020 (Source)	6	6210	No	Other	Exacerbation (no treatment)	No	No			No
+ECOCF0021_4594 (Source)	ECOCF0021 (Source)	1	4594	No	Heterozygous	Baseline	No	No	2.23	94	No
+ECOCF0021_4678 (Source)	ECOCF0021 (Source)	2	4678	No	Heterozygous	Baseline	No	No	2.4	99	No
+ECOCF0021_5007 (Source)	ECOCF0021 (Source)	3	5007	No	Heterozygous	Baseline	No	No	2.67	106	No
+ECOCF0021_5710 (Source)	ECOCF0021 (Source)	4	5710	No	Heterozygous	Baseline	No	No		102	No
+ECOCF0021_5834 (Source)	ECOCF0021 (Source)	5	5834	No	Heterozygous	Baseline	No	No		81	No
+ECOCF0021_5918 (Source)	ECOCF0021 (Source)	6	5918	No	Heterozygous	Baseline	No	No			No
+ECOCF0022_4205 (Source)	ECOCF0022 (Source)	1	4205	No	Heterozygous	Baseline	No	Yes	2.99	104	No
+ECOCF0022_4331 (Source)	ECOCF0022 (Source)	2	4331	No	Heterozygous	Baseline	No	Yes	3.46	114	No
+ECOCF0022_4415 (Source)	ECOCF0022 (Source)	3	4415	No	Heterozygous	Baseline	No	Yes	3.47	110	No
+ECOCF0022_4499 (Source)	ECOCF0022 (Source)	4	4499	No	Heterozygous	Baseline	No	Yes	3.68	115	No
+ECOCF0023_4002 (Source)	ECOCF0023 (Source)	1	4002	No	Heterozygous	Baseline	No	No	2.78	97	No
+ECOCF0023_4156 (Source)	ECOCF0023 (Source)	2	4156	No	Heterozygous	Baseline	No	No	2.79	95	No
+ECOCF0023_4254 (Source)	ECOCF0023 (Source)	3	4254	No	Heterozygous	Baseline	No	No	2.75	98	No
+ECOCF0023_4471 (Source)	ECOCF0023 (Source)	4	4471	No	Heterozygous	Baseline	No	No	2.89	92	No
+ECOCF0023_4590 (Source)	ECOCF0023 (Source)	5	4590	Yes	Heterozygous	Baseline	No	No			No
+ECOCF0024_5310 (Source)	ECOCF0024 (Source)	1	5310	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes			No
+ECOCF0024_5362 (Source)	ECOCF0024 (Source)	2	5362	Yes	Other	Baseline	No	Yes	1.4	39	No
+ECOCF0024_5409 (Source)	ECOCF0024 (Source)	3	5409	Yes	Other	Baseline	No	Yes	1.86	51	No
+ECOCF0024_5447 (Source)	ECOCF0024 (Source)	4	5447	Yes	Other	Baseline	No	Yes	1.45	35	No
+ECOCF0024_5559 (Source)	ECOCF0024 (Source)	5	5559	Yes	Other	Exacerbation (no treatment)	No	Yes	1.18	32	No
+ECOCF0024_5573 (Source)	ECOCF0024 (Source)	6	5573	Yes	Other	Exacerbation (treatment with antibiotics)	No	Yes	1.15	31	No
+ECOCF0024_5787 (Source)	ECOCF0024 (Source)	7	5787		Other	Exacerbation (no treatment)			1.04	26	
+ECOCF0024_6028 (Source)	ECOCF0024 (Source)	8	6028	Yes	Other	Baseline	No	Yes	1.05	25	Yes
+ECOCF0024_6088 (Source)	ECOCF0024 (Source)	9	6088	Yes	Other	Baseline	No	Yes	1.13	27	Yes
+ECOCF0024_6468 (Source)	ECOCF0024 (Source)	10	6468		Other	Baseline				22	
+ECOCF0024_6607 (Source)	ECOCF0024 (Source)	11	6607		Other	Baseline				21	
+ECOCF0024_6700 (Source)	ECOCF0024 (Source)	12	6700		Other	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0024_6763 (Source)	ECOCF0024 (Source)	13	6763		Other	Baseline				21	
+ECOCF0024_6832 (Source)	ECOCF0024 (Source)	14	6832		Other	Exacerbation (treatment with antibiotics)				22	
+ECOCF0026_3965 (Source)	ECOCF0026 (Source)	1	3965	Yes		Baseline	No	Yes	0.79	41	Yes
+ECOCF0027_2351 (Source)	ECOCF0027 (Source)	1	2351	No	Other	Baseline	No	No	1.12	104	No
+ECOCF0027_2452 (Source)	ECOCF0027 (Source)	2	2452	Yes	Other	Baseline	No	No	1.25	111	No
+ECOCF0027_3011 (Source)	ECOCF0027 (Source)	3	3011	No	Other	Baseline	No	Yes	1.44	100	No
+ECOCF0027_3649 (Source)	ECOCF0027 (Source)	4	3649		Other	Baseline				122	
+ECOCF0027_3746 (Source)	ECOCF0027 (Source)	5	3746		Other	Exacerbation (no treatment)					
+ECOCF0027_3863 (Source)	ECOCF0027 (Source)	6	3863		Other	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0028_6010 (Source)	ECOCF0028 (Source)	1	6010	No		Baseline	No	No	3.88	126	No
+ECOCF0029_1442 (Source)	ECOCF0029 (Source)	4	1442	No	Heterozygous	Baseline	No	No			No
+ECOCF0029_2173 (Source)	ECOCF0029 (Source)	5	2173	No	Heterozygous	Baseline	No	No			No
+ECOCF0029_728 (Source)	ECOCF0029 (Source)	1	728	No	Heterozygous	Baseline	No	No			No
+ECOCF0029_819 (Source)	ECOCF0029 (Source)	2	819	No	Heterozygous	Baseline	No	No			No
+ECOCF0029_959 (Source)	ECOCF0029 (Source)	3	959	No	Heterozygous	Baseline	No	No			No
+ECOCF0030_301 (Source)	ECOCF0030 (Source)	1	301	No	Heterozygous	Baseline	No	No			No
+ECOCF0030_346 (Source)	ECOCF0030 (Source)	2	346	No	Heterozygous	On Antibiotics No Exacerbation	No	No			No
+ECOCF0030_427 (Source)	ECOCF0030 (Source)	3	427	No	Heterozygous	Baseline	No	No			No
+ECOCF0030_511 (Source)	ECOCF0030 (Source)	4	511	No	Heterozygous	Baseline	No	No			No
+ECOCF0030_623 (Source)	ECOCF0030 (Source)	5	623	No	Heterozygous	Baseline	No	No			No
+ECOCF0030_651 (Source)	ECOCF0030 (Source)	6	651	No	Heterozygous	Exacerbation (treatment with antibiotics)	No	No			No
+ECOCF0030_756 (Source)	ECOCF0030 (Source)	7	756	No	Heterozygous	Baseline	No	No			No
+ECOCF0031_3503 (Source)	ECOCF0031 (Source)	1	3503	No	Heterozygous	Baseline	No	No	1.7	92	Yes
+ECOCF0031_3575 (Source)	ECOCF0031 (Source)	2	3575	Yes	Heterozygous	Baseline	No	Yes	1.75	92	Yes
+ECOCF0031_4028 (Source)	ECOCF0031 (Source)	3	4028	No	Heterozygous	Baseline	No	No			No
+ECOCF0031_4987 (Source)	ECOCF0031 (Source)	4	4987		Heterozygous	Baseline				103	
+ECOCF0032_4193 (Source)	ECOCF0032 (Source)	1	4193	Yes	Homozygous	Baseline	No	Yes	2.27	90	Yes
+ECOCF0032_4244 (Source)	ECOCF0032 (Source)	2	4244	No	Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	2.24	87	No
+ECOCF0032_4291 (Source)	ECOCF0032 (Source)	3	4291	No	Homozygous	Baseline	No	Yes	2.13	81	No
+ECOCF0032_4312 (Source)	ECOCF0032 (Source)	4	4312	Yes	Homozygous	Baseline	No	Yes	1.94	74	No
+ECOCF0032_4361 (Source)	ECOCF0032 (Source)	5	4361	Yes	Homozygous	Baseline	No	Yes	2.01	77	No
+ECOCF0032_4445 (Source)	ECOCF0032 (Source)	6	4445		Homozygous	Baseline					
+ECOCF0032_4665 (Source)	ECOCF0032 (Source)	7	4665		Homozygous	Baseline			2.16	83	
+ECOCF0032_4829 (Source)	ECOCF0032 (Source)	8	4829	No	Homozygous	Baseline	No	Yes	2.47	91	No
+ECOCF0032_5468 (Source)	ECOCF0032 (Source)	9	5468		Homozygous	Exacerbation (no treatment)				80	
+ECOCF0032_5561 (Source)	ECOCF0032 (Source)	10	5561		Homozygous	Baseline				82	
+ECOCF0032_5594 (Source)	ECOCF0032 (Source)	11	5594		Homozygous	Exacerbation (no treatment)					
+ECOCF0033_2175 (Source)	ECOCF0033 (Source)	1	2175	No	Heterozygous	Exacerbation (no treatment)	No	Yes			No
+ECOCF0033_2219 (Source)	ECOCF0033 (Source)	2	2219	No	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes			No
+ECOCF0033_2231 (Source)	ECOCF0033 (Source)	3	2231	No	Heterozygous	Baseline	No	Yes	0.76	79	No
+ECOCF0033_2314 (Source)	ECOCF0033 (Source)	4	2314	No	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes			No
+ECOCF0033_2453 (Source)	ECOCF0033 (Source)	5	2453	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0033_2489 (Source)	ECOCF0033 (Source)	6	2489	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes			No
+ECOCF0033_2803 (Source)	ECOCF0033 (Source)	7	2803	Yes	Heterozygous	Baseline	No	Yes	1.12	92	No
+ECOCF0033_2929 (Source)	ECOCF0033 (Source)	8	2929	Yes	Heterozygous	Baseline	No	Yes	1.3	97	No
+ECOCF0033_3339 (Source)	ECOCF0033 (Source)	9	3339		Heterozygous	Baseline				99	
+ECOCF0033_3444 (Source)	ECOCF0033 (Source)	10	3444		Heterozygous	Baseline				105	
+ECOCF0033_3540 (Source)	ECOCF0033 (Source)	11	3540		Heterozygous	Baseline				85	
+ECOCF0033_3618 (Source)	ECOCF0033 (Source)	12	3618		Heterozygous	Baseline				105	
+ECOCF0035_6716 (Source)	ECOCF0035 (Source)	1	6716	Yes	Homozygous	Baseline	No	Yes	2.39	70	Yes
+ECOCF0035_6813 (Source)	ECOCF0035 (Source)	2	6813	Yes	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.77	52	Yes
+ECOCF0035_6876 (Source)	ECOCF0035 (Source)	3	6876	Yes	Homozygous	Baseline	No	Yes			Yes
+ECOCF0035_6995 (Source)	ECOCF0035 (Source)	4	6995	Yes	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.14	62	Yes
+ECOCF0035_7051 (Source)	ECOCF0035 (Source)	5	7051	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	2.43	70	Yes
+ECOCF0036_6755 (Source)	ECOCF0036 (Source)	1	6755	No	Heterozygous	Baseline	No	Yes	3.11	84	Yes
+ECOCF0036_6827 (Source)	ECOCF0036 (Source)	2	6827	No	Heterozygous	Baseline	No	Yes	2.73	65	No
+ECOCF0036_6906 (Source)	ECOCF0036 (Source)	3	6906	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0036_7050 (Source)	ECOCF0036 (Source)	4	7050	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.92	68	Yes
+ECOCF0036_7058 (Source)	ECOCF0036 (Source)	5	7058	No	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	2.57	57	Yes
+ECOCF0037_2849 (Source)	ECOCF0037 (Source)	1	2849	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	1.31	93	No
+ECOCF0037_2992 (Source)	ECOCF0037 (Source)	2	2992	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	1.2	85	No
+ECOCF0037_2996 (Source)	ECOCF0037 (Source)	3	2996		Homozygous						
+ECOCF0037_3503 (Source)	ECOCF0037 (Source)	4	3503	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	1.22	72	Yes
+ECOCF0037_4068 (Source)	ECOCF0037 (Source)	5	4068		Homozygous	Exacerbation (no treatment)				82	
+ECOCF0037_4186 (Source)	ECOCF0037 (Source)	6	4186		Homozygous	Baseline				101	
+ECOCF0037_4278 (Source)	ECOCF0037 (Source)	7	4278		Homozygous	Baseline					
+ECOCF0038_6957 (Source)	ECOCF0038 (Source)	1	6957	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0038_7118 (Source)	ECOCF0038 (Source)	2	7118	Yes	Heterozygous	Baseline	No	Yes	2.35	51	No
+ECOCF0039_2106 (Source)	ECOCF0039 (Source)	1	2106	No	Homozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0039_2164 (Source)	ECOCF0039 (Source)	2	2164	No	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	0.51	57	Yes
+ECOCF0039_2317 (Source)	ECOCF0039 (Source)	3	2317	No	Homozygous	Baseline	No	Yes		95	Yes
+ECOCF0039_2326 (Source)	ECOCF0039 (Source)	4	2326	No	Homozygous		No	Yes	0.6	60	Yes
+ECOCF0039_2473 (Source)	ECOCF0039 (Source)	5	2473	No	Homozygous	Baseline	No	Yes			Yes
+ECOCF0039_2592 (Source)	ECOCF0039 (Source)	6	2592	No	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0039_2652 (Source)	ECOCF0039 (Source)	7	2652	No	Homozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0040_1269 (Source)	ECOCF0040 (Source)	5	1269	No	Homozygous	Baseline	No	No			No
+ECOCF0040_1331 (Source)	ECOCF0040 (Source)	6	1331		Homozygous						
+ECOCF0040_1665 (Source)	ECOCF0040 (Source)	7	1665		Homozygous	Baseline					
+ECOCF0040_1828 (Source)	ECOCF0040 (Source)	8	1828		Homozygous	Baseline				97	
+ECOCF0040_1945 (Source)	ECOCF0040 (Source)	9	1945		Homozygous	Baseline					
+ECOCF0040_2023 (Source)	ECOCF0040 (Source)	10	2023		Homozygous	Baseline					
+ECOCF0040_540 (Source)	ECOCF0040 (Source)	1	540	No	Homozygous	Baseline	No	No			No
+ECOCF0040_632 (Source)	ECOCF0040 (Source)	2	632	No	Homozygous	Baseline	No	No			No
+ECOCF0040_713 (Source)	ECOCF0040 (Source)	3	713	No	Homozygous	Baseline	No	No			No
+ECOCF0040_874 (Source)	ECOCF0040 (Source)	4	874	No	Homozygous	Baseline	No	No			No
+ECOCF0041_6866 (Source)	ECOCF0041 (Source)	1	6866	No	Other	Exacerbation (no treatment)	No	Yes	2.05	70	No
+ECOCF0041_6901 (Source)	ECOCF0041 (Source)	2	6901	Yes	Other	Exacerbation (treatment with antibiotics)	No	Yes	2.15	73	Yes
+ECOCF0041_6927 (Source)	ECOCF0041 (Source)	3	6927	No	Other	Exacerbation (no treatment)	No	Yes	2.15	73	Yes
+ECOCF0041_7006 (Source)	ECOCF0041 (Source)	4	7006	Yes	Other	Baseline	No	Yes	2.32	80	Yes
+ECOCF0041_7480 (Source)	ECOCF0041 (Source)	5	7480	No	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	2.74	90	No
+ECOCF0041_7532 (Source)	ECOCF0041 (Source)	6	7532	Yes	Other	Exacerbation (no treatment)	No	Yes			No
+ECOCF0041_8035 (Source)	ECOCF0041 (Source)	7	8035		Other	Exacerbation (no treatment)				51	
+ECOCF0041_8057 (Source)	ECOCF0041 (Source)	8	8057		Other	Recovery (within 1 month after stopping antibiotics for exacerbation)				77	
+ECOCF0041_8147 (Source)	ECOCF0041 (Source)	9	8147		Other	Exacerbation (no treatment)				68	
+ECOCF0041_8167 (Source)	ECOCF0041 (Source)	10	8167		Other	Recovery (within 1 month after stopping antibiotics for exacerbation)				67	
+ECOCF0042_1189 (Source)	ECOCF0042 (Source)	1	1189	No		Baseline	No	Yes			Yes
+ECOCF0042_1273 (Source)	ECOCF0042 (Source)	2	1273	No		Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0042_2450 (Source)	ECOCF0042 (Source)	3	2450	No		Exacerbation (no treatment)	No	Yes		87	Yes
+ECOCF0042_2556 (Source)	ECOCF0042 (Source)	4	2556	No		Exacerbation (no treatment)	No	Yes		82	Yes
+ECOCF0042_2584 (Source)	ECOCF0042 (Source)	5	2584	No		Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		67	Yes
+ECOCF0042_2639 (Source)	ECOCF0042 (Source)	6	2639	No		Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0043_1106 (Source)	ECOCF0043 (Source)	1	1106	No		Baseline	No	No			No
+ECOCF0043_1200 (Source)	ECOCF0043 (Source)	2	1200	No		Baseline	No	Yes			No
+ECOCF0043_1302 (Source)	ECOCF0043 (Source)	3	1302	No		Baseline	No	No			No
+ECOCF0043_1568 (Source)	ECOCF0043 (Source)	4	1568	No		Baseline	No	No			No
+ECOCF0043_1707 (Source)	ECOCF0043 (Source)	5	1707	No		Baseline	No	No			No
+ECOCF0043_2261 (Source)	ECOCF0043 (Source)	6	2261			Exacerbation (no treatment)				129	
+ECOCF0043_2387 (Source)	ECOCF0043 (Source)	7	2387			Baseline				109	
+ECOCF0043_2448 (Source)	ECOCF0043 (Source)	8	2448			Exacerbation (no treatment)					
+ECOCF0043_2534 (Source)	ECOCF0043 (Source)	9	2534			Baseline					
+ECOCF0043_2646 (Source)	ECOCF0043 (Source)	10	2646			Baseline				111	
+ECOCF0044_6936 (Source)	ECOCF0044 (Source)	1	6936	No	Heterozygous	Exacerbation (no treatment)	No	Yes	2.82	90	Yes
+ECOCF0044_7582 (Source)	ECOCF0044 (Source)	2	7582	Yes	Heterozygous	Baseline	No	Yes	2.86	87	Yes
+ECOCF0044_8247 (Source)	ECOCF0044 (Source)	3	8247		Heterozygous	Baseline				84	
+ECOCF0045_7149 (Source)	ECOCF0045 (Source)	1	7149	Yes	Heterozygous	Baseline	No	Yes	3.29	86	Yes
+ECOCF0045_7223 (Source)	ECOCF0045 (Source)	2	7223	No	Heterozygous	Baseline	No	Yes	3.04	80	Yes
+ECOCF0045_7657 (Source)	ECOCF0045 (Source)	3	7657	Yes	Heterozygous	Baseline	No	Yes	3.47	91	Yes
+ECOCF0046_2349 (Source)	ECOCF0046 (Source)	1	2349	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0046_2438 (Source)	ECOCF0046 (Source)	2	2438		Heterozygous						
+ECOCF0047_2409 (Source)	ECOCF0047 (Source)	1	2409	No	Heterozygous	Baseline	No	Yes	1.35	80	No
+ECOCF0047_2563 (Source)	ECOCF0047 (Source)	2	2563	No	Heterozygous	Baseline	No	Yes	1.86	110	No
+ECOCF0047_2710 (Source)	ECOCF0047 (Source)	3	2710	No	Heterozygous	Baseline	No	Yes	1.82	111	No
+ECOCF0047_2858 (Source)	ECOCF0047 (Source)	4	2858	No	Heterozygous	Baseline	No	Yes	1.81	101	No
+ECOCF0048_6561 (Source)	ECOCF0048 (Source)	1	6561	Yes	Homozygous	Baseline	No	Yes	3.68	104	No
+ECOCF0048_6687 (Source)	ECOCF0048 (Source)	2	6687	Yes	Homozygous	Baseline	No	Yes	3.63	101	No
+ECOCF0048_6870 (Source)	ECOCF0048 (Source)	3	6870	Yes	Homozygous	Baseline	No	Yes			No
+ECOCF0049_5452 (Source)	ECOCF0049 (Source)	1	5452	Yes	Heterozygous	Baseline	No	Yes	3.37	103	No
+ECOCF0049_5606 (Source)	ECOCF0049 (Source)	2	5606	No	Heterozygous	Baseline	No	Yes	3.12	94	No
+ECOCF0049_5662 (Source)	ECOCF0049 (Source)	3	5662	No	Heterozygous	Baseline	No	Yes	3.44	108	No
+ECOCF0049_5892 (Source)	ECOCF0049 (Source)	4	5892	No	Heterozygous	Baseline	No	Yes	3.31	100	No
+ECOCF0049_6624 (Source)	ECOCF0049 (Source)	5	6624		Heterozygous	Baseline				94	
+ECOCF0049_6666 (Source)	ECOCF0049 (Source)	6	6666		Heterozygous	Baseline				99	
+ECOCF0049_6813 (Source)	ECOCF0049 (Source)	7	6813		Heterozygous	Baseline				97	
+ECOCF0050_2210 (Source)	ECOCF0050 (Source)	1	2210	No	Heterozygous	Baseline	No	No	0.31	67	No
+ECOCF0050_2350 (Source)	ECOCF0050 (Source)	2	2350	No	Heterozygous	Baseline	No	No	0.8	118	No
+ECOCF0050_2511 (Source)	ECOCF0050 (Source)	3	2511	No	Heterozygous	Baseline	No	No	0.74	91	No
+ECOCF0050_2644 (Source)	ECOCF0050 (Source)	4	2644	No	Heterozygous	Baseline	No	No	0.88	92	No
+ECOCF0050_2713 (Source)	ECOCF0050 (Source)	5	2713	No	Heterozygous	Baseline	No	No	0.97	98	No
+ECOCF0050_2825 (Source)	ECOCF0050 (Source)	6	2825	No	Heterozygous	Baseline	No	No			No
+ECOCF0050_3456 (Source)	ECOCF0050 (Source)	7	3456	No	Heterozygous	Baseline	No	No		90	No
+ECOCF0051_4589 (Source)	ECOCF0051 (Source)	1	4589	Yes	Other	Baseline	No	Yes			No
+ECOCF0051_4673 (Source)	ECOCF0051 (Source)	2	4673	Yes	Other	On Antibiotics No Exacerbation	No	Yes			No
+ECOCF0051_4764 (Source)	ECOCF0051 (Source)	3	4764	Yes	Other	On Antibiotics No Exacerbation	No	Yes			No
+ECOCF0051_4847 (Source)	ECOCF0051 (Source)	4	4847	Yes	Other	On Antibiotics No Exacerbation	No	Yes			Yes
+ECOCF0051_5038 (Source)	ECOCF0051 (Source)	5	5038	Yes	Other	Exacerbation (no treatment)	No	Yes			No
+ECOCF0051_5849 (Source)	ECOCF0051 (Source)	6	5849		Other	Baseline					
+ECOCF0051_6003 (Source)	ECOCF0051 (Source)	7	6003		Other	Baseline					
+ECOCF0052_6956 (Source)	ECOCF0052 (Source)	1	6956	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0052_7032 (Source)	ECOCF0052 (Source)	2	7032	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0052_7395 (Source)	ECOCF0052 (Source)	3	7395	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0053_529 (Source)	ECOCF0053 (Source)	1	529	No	Other	Baseline	No	Yes			No
+ECOCF0054_3565 (Source)	ECOCF0054 (Source)	1	3565	No	Heterozygous	Baseline	No	No			No
+ECOCF0054_3641 (Source)	ECOCF0054 (Source)	2	3641	No	Heterozygous	Baseline	No	No	1.85	82	No
+ECOCF0054_3725 (Source)	ECOCF0054 (Source)	3	3725	No	Heterozygous	Baseline	No	No	2.05	99	No
+ECOCF0054_4004 (Source)	ECOCF0054 (Source)	4	4004	No	Heterozygous	Baseline	No	No			No
+ECOCF0054_4109 (Source)	ECOCF0054 (Source)	5	4109	No	Heterozygous	Baseline	No	No			No
+ECOCF0054_4194 (Source)	ECOCF0054 (Source)	6	4194	No	Heterozygous	Baseline	No	No			No
+ECOCF0055_2112 (Source)	ECOCF0055 (Source)	1	2112	No	Heterozygous	Baseline	No	No			No
+ECOCF0055_2272 (Source)	ECOCF0055 (Source)	2	2272	No	Heterozygous	Baseline	No	No	1.48	115	No
+ECOCF0055_2551 (Source)	ECOCF0055 (Source)	3	2551	No	Heterozygous	Baseline	No	No			No
+ECOCF0055_2656 (Source)	ECOCF0055 (Source)	4	2656	No	Heterozygous	Baseline	No	No			No
+ECOCF0055_2741 (Source)	ECOCF0055 (Source)	5	2741	No	Heterozygous	Baseline	No	No			No
+ECOCF0056_5435 (Source)	ECOCF0056 (Source)	1	5435	No		Baseline	No	Yes			No
+ECOCF0056_5542 (Source)	ECOCF0056 (Source)	2	5542	No		Baseline	No	Yes	3.87	88	No
+ECOCF0056_5630 (Source)	ECOCF0056 (Source)	3	5630	No		Baseline	No	Yes	4.15	103	No
+ECOCF0056_5883 (Source)	ECOCF0056 (Source)	4	5883	No		Baseline	No	Yes	4.03	89	No
+ECOCF0056_6798 (Source)	ECOCF0056 (Source)	5	6798	No		Baseline	No	Yes		91	No
+ECOCF0057_6260 (Source)	ECOCF0057 (Source)	1	6260	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.67	92	No
+ECOCF0057_6390 (Source)	ECOCF0057 (Source)	2	6390	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	2.53	84	No
+ECOCF0057_6572 (Source)	ECOCF0057 (Source)	3	6572	Yes	Heterozygous	Baseline	No	Yes	2.46	82	No
+ECOCF0058_3368 (Source)	ECOCF0058 (Source)	1	3368	Yes	Heterozygous	Exacerbation (no treatment)	Yes	Yes	1.05	59	Yes
+ECOCF0058_3371 (Source)	ECOCF0058 (Source)	2	3371	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	Yes	Yes			Yes
+ECOCF0058_3383 (Source)	ECOCF0058 (Source)	3	3383	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	Yes	Yes	1.47	82	Yes
+ECOCF0058_3469 (Source)	ECOCF0058 (Source)	4	3469	Yes	Heterozygous	Baseline	Yes	Yes			Yes
+ECOCF0059_1049 (Source)	ECOCF0059 (Source)	5	1049	No	Homozygous	Baseline	No	No			No
+ECOCF0059_251 (Source)	ECOCF0059 (Source)	1	251	No	Homozygous	Exacerbation (no treatment)	No	No			No
+ECOCF0059_426 (Source)	ECOCF0059 (Source)	2	426	No	Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	No			No
+ECOCF0059_545 (Source)	ECOCF0059 (Source)	3	545	No	Homozygous	Baseline	No	No			No
+ECOCF0059_869 (Source)	ECOCF0059 (Source)	4	869	No	Homozygous	Baseline	No	No			No
+ECOCF0060_4900 (Source)	ECOCF0060 (Source)	1	4900	Yes	Heterozygous	Baseline	No	Yes	2.35	84	No
+ECOCF0060_4935 (Source)	ECOCF0060 (Source)	2	4935	Yes	Heterozygous	Baseline	No	Yes	2.07	71	No
+ECOCF0060_5005 (Source)	ECOCF0060 (Source)	3	5005	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	1.95	71	No
+ECOCF0060_5047 (Source)	ECOCF0060 (Source)	4	5047	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	2.1	77	Yes
+ECOCF0060_6043 (Source)	ECOCF0060 (Source)	5	6043		Heterozygous	Exacerbation (no treatment)				35	
+ECOCF0060_6066 (Source)	ECOCF0060 (Source)	6	6066		Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)				66	
+ECOCF0060_6149 (Source)	ECOCF0060 (Source)	7	6149		Heterozygous	Exacerbation (treatment with antibiotics)					
+ECOCF0060_6168 (Source)	ECOCF0060 (Source)	8	6168		Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0061_5855 (Source)	ECOCF0061 (Source)	1	5855	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	3.03	84	No
+ECOCF0061_5980 (Source)	ECOCF0061 (Source)	2	5980	Yes	Heterozygous	Baseline	No	Yes	3.45	96	Yes
+ECOCF0061_6127 (Source)	ECOCF0061 (Source)	3	6127	Yes	Heterozygous	Baseline	No	Yes	3.69	94	Yes
+ECOCF0061_7061 (Source)	ECOCF0061 (Source)	4	7061		Heterozygous	Baseline				82	
+ECOCF0062_2642 (Source)	ECOCF0062 (Source)	1	2642	Yes	Heterozygous	Baseline	Yes	Yes	0.79	52	Yes
+ECOCF0062_2716 (Source)	ECOCF0062 (Source)	2	2716		Heterozygous						
+ECOCF0062_2761 (Source)	ECOCF0062 (Source)	3	2761	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	Yes	Yes	0.53	33	Yes
+ECOCF0062_3315 (Source)	ECOCF0062 (Source)	4	3315	Yes	Heterozygous	Baseline	Yes	Yes	0.89	49	Yes
+ECOCF0062_3746 (Source)	ECOCF0062 (Source)	5	3746		Heterozygous	Exacerbation (no treatment)				44	
+ECOCF0062_3785 (Source)	ECOCF0062 (Source)	6	3785		Heterozygous	Exacerbation (treatment with antibiotics)				34	
+ECOCF0062_3830 (Source)	ECOCF0062 (Source)	7	3830		Heterozygous	Exacerbation (no treatment)				37	
+ECOCF0062_3851 (Source)	ECOCF0062 (Source)	8	3851		Heterozygous	Exacerbation (treatment with antibiotics)				40	
+ECOCF0062_3928 (Source)	ECOCF0062 (Source)	9	3928		Heterozygous	Baseline				39	
+ECOCF0062_4005 (Source)	ECOCF0062 (Source)	10	4005		Heterozygous	Exacerbation (treatment with antibiotics)					
+ECOCF0062_4096 (Source)	ECOCF0062 (Source)	11	4096		Heterozygous	Exacerbation (no treatment)				34	
+ECOCF0063_1586 (Source)	ECOCF0063 (Source)	1	1586	No	Other	Baseline	No	Yes			No
+ECOCF0063_1768 (Source)	ECOCF0063 (Source)	2	1768	No	Other	Baseline	No	Yes			No
+ECOCF0063_1866 (Source)	ECOCF0063 (Source)	3	1866	No	Other	Baseline	No	Yes			No
+ECOCF0063_2227 (Source)	ECOCF0063 (Source)	4	2227	No	Other	Baseline	No	Yes			No
+ECOCF0063_2292 (Source)	ECOCF0063 (Source)	5	2292	No	Other	Baseline	No	Yes			No
+ECOCF0063_2698 (Source)	ECOCF0063 (Source)	6	2698	No	Other	Baseline	No	Yes		116	No
+ECOCF0063_2829 (Source)	ECOCF0063 (Source)	7	2829	No	Other	Exacerbation (no treatment)	No	Yes		96	No
+ECOCF0063_2859 (Source)	ECOCF0063 (Source)	8	2859	No	Other	Exacerbation (no treatment)	No	Yes		115	No
+ECOCF0063_3020 (Source)	ECOCF0063 (Source)	9	3020	No	Other	Baseline	No	Yes			No
+ECOCF0064_120 (Source)	ECOCF0064 (Source)	2	120	No	Heterozygous	Baseline	No	No			No
+ECOCF0064_1224 (Source)	ECOCF0064 (Source)	5	1224	No	Heterozygous	Baseline	No	No			No
+ECOCF0064_1451 (Source)	ECOCF0064 (Source)	6	1451	No	Heterozygous	Baseline	No	No			No
+ECOCF0064_1479 (Source)	ECOCF0064 (Source)	7	1479	No	Heterozygous	Baseline	No	No			No
+ECOCF0064_1542 (Source)	ECOCF0064 (Source)	8	1542	No	Heterozygous	Baseline	No	No			No
+ECOCF0064_289 (Source)	ECOCF0064 (Source)	3	289	No	Heterozygous	Baseline	No	No			No
+ECOCF0064_828 (Source)	ECOCF0064 (Source)	4	828	No	Heterozygous	Baseline	No	No			No
+ECOCF0064_93 (Source)	ECOCF0064 (Source)	1	93	No	Heterozygous	Baseline	No	No			No
+ECOCF0065_1012 (Source)	ECOCF0065 (Source)	3	1012	No	Heterozygous	Baseline	No	No			Yes
+ECOCF0065_1103 (Source)	ECOCF0065 (Source)	4	1103	No	Heterozygous	Baseline	No	No			Yes
+ECOCF0065_1334 (Source)	ECOCF0065 (Source)	5	1334	No	Heterozygous	Baseline	No	Yes			Yes
+ECOCF0065_2293 (Source)	ECOCF0065 (Source)	1	2293		Heterozygous	Baseline				94	
+ECOCF0065_2377 (Source)	ECOCF0065 (Source)	2	2377		Heterozygous	Exacerbation (no treatment)					
+ECOCF0065_970 (Source)	ECOCF0065 (Source)	1	970	No	Heterozygous	Exacerbation (treatment with antibiotics)	No	No			No
+ECOCF0065_990 (Source)	ECOCF0065 (Source)	2	990	No	Heterozygous	Exacerbation (treatment with antibiotics)	No	No			Yes
+ECOCF0066_2725 (Source)	ECOCF0066 (Source)	1	2725	No	Homozygous	Baseline	No	Yes			Yes
+ECOCF0066_2851 (Source)	ECOCF0066 (Source)	2	2851	No	Homozygous	Exacerbation (treatment with antibiotics)	No	No	1.59		Yes
+ECOCF0066_2928 (Source)	ECOCF0066 (Source)	3	2928	No	Homozygous	Exacerbation (treatment with antibiotics)	No	No	2.02	113	Yes
+ECOCF0066_3292 (Source)	ECOCF0066 (Source)	4	3292	Yes	Homozygous	Baseline	No	Yes	2.03	101	Yes
+ECOCF0066_3390 (Source)	ECOCF0066 (Source)	5	3390	Yes	Homozygous	Baseline	No	Yes	1.97	92	Yes
+ECOCF0066_3439 (Source)	ECOCF0066 (Source)	6	3439	Yes	Homozygous	Baseline	No	Yes	1.87	87	No
+ECOCF0066_3936 (Source)	ECOCF0066 (Source)	7	3936		Homozygous	Baseline				105	
+ECOCF0066_4027 (Source)	ECOCF0066 (Source)	8	4027		Homozygous	Baseline					
+ECOCF0067_1013 (Source)	ECOCF0067 (Source)	4	1013	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0067_1018 (Source)	ECOCF0067 (Source)	5	1018	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0067_1417 (Source)	ECOCF0067 (Source)	6	1417		Heterozygous	Exacerbation (no treatment)					
+ECOCF0067_1481 (Source)	ECOCF0067 (Source)	7	1481		Heterozygous	Baseline					
+ECOCF0067_1580 (Source)	ECOCF0067 (Source)	8	1580		Heterozygous	Exacerbation (no treatment)					
+ECOCF0067_1585 (Source)	ECOCF0067 (Source)	9	1585		Heterozygous	Baseline					
+ECOCF0067_1756 (Source)	ECOCF0067 (Source)	10	1756		Heterozygous	Exacerbation (no treatment)					
+ECOCF0067_1787 (Source)	ECOCF0067 (Source)	11	1787		Heterozygous	Exacerbation (treatment with antibiotics)					
+ECOCF0067_374 (Source)	ECOCF0067 (Source)	1	374	No	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	No			Yes
+ECOCF0067_685 (Source)	ECOCF0067 (Source)	2	685	No	Heterozygous	Baseline	No	Yes			Yes
+ECOCF0067_793 (Source)	ECOCF0067 (Source)	3	793	No	Heterozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0068_2328 (Source)	ECOCF0068 (Source)	1	2328	Yes	Heterozygous	Baseline	No	Yes	1.13	100	No
+ECOCF0068_2426 (Source)	ECOCF0068 (Source)	2	2426	Yes	Heterozygous	Baseline	No	Yes	1.31	105	No
+ECOCF0069_7431 (Source)	ECOCF0069 (Source)	1	7431	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	1.34	48	No
+ECOCF0069_7494 (Source)	ECOCF0069 (Source)	2	7494	Yes	Heterozygous	Baseline	No	Yes	2.03	71	No
+ECOCF0070_1810 (Source)	ECOCF0070 (Source)	1	1810	No	Homozygous	Exacerbation (no treatment)	No	Yes			No
+ECOCF0070_1852 (Source)	ECOCF0070 (Source)	2	1852	No	Homozygous	Exacerbation (no treatment)	No	Yes	1.06	118	No
+ECOCF0070_1937 (Source)	ECOCF0070 (Source)	3	1937	Yes	Homozygous	Baseline	No	Yes			Yes
+ECOCF0070_2044 (Source)	ECOCF0070 (Source)	4	2044	Yes	Homozygous	Baseline	No	Yes			Yes
+ECOCF0071_3067 (Source)	ECOCF0071 (Source)	1	3067	No	Other	Baseline	No	Yes	1.71	89	No
+ECOCF0071_3122 (Source)	ECOCF0071 (Source)	2	3122	No	Other	Baseline	No	Yes	1.55	81	No
+ECOCF0071_3144 (Source)	ECOCF0071 (Source)	3	3144	No	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	2.3	120	No
+ECOCF0071_3157 (Source)	ECOCF0071 (Source)	4	3157		Other						
+ECOCF0071_3249 (Source)	ECOCF0071 (Source)	5	3249	No	Other	Baseline	No	Yes	2.35	132	No
+ECOCF0071_3522 (Source)	ECOCF0071 (Source)	6	3522	No	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	2.18	111	No
+ECOCF0071_4299 (Source)	ECOCF0071 (Source)	7	4299		Other	Baseline				106	
+ECOCF0071_4404 (Source)	ECOCF0071 (Source)	8	4404		Other	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0071_4453 (Source)	ECOCF0071 (Source)	9	4453		Other	Baseline				103	
+ECOCF0072_2002 (Source)	ECOCF0072 (Source)	1	2002	No	Homozygous	Baseline	No	Yes	0.43	35	Yes
+ECOCF0072_2068 (Source)	ECOCF0072 (Source)	2	2068		Homozygous						
+ECOCF0072_2121 (Source)	ECOCF0072 (Source)	3	2121	No	Homozygous	Exacerbation (treatment with antibiotics)	No	No	0.42	34	Yes
+ECOCF0072_2184 (Source)	ECOCF0072 (Source)	4	2184	No	Homozygous	Exacerbation (no treatment)	No	No	0.48	36	Yes
+ECOCF0072_2310 (Source)	ECOCF0072 (Source)	5	2310	No	Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	0.42	32	Yes
+ECOCF0072_2576 (Source)	ECOCF0072 (Source)	6	2576	No	Homozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0072_2632 (Source)	ECOCF0072 (Source)	7	2632	No	Homozygous	Baseline	No	Yes	0.42	34	Yes
+ECOCF0072_2730 (Source)	ECOCF0072 (Source)	8	2730	No	Homozygous	Exacerbation (no treatment)	No	Yes	0.55	43	Yes
+ECOCF0072_2763 (Source)	ECOCF0072 (Source)	9	2763		Homozygous	Exacerbation (no treatment)					
+ECOCF0072_2855 (Source)	ECOCF0072 (Source)	10	2855		Homozygous						
+ECOCF0072_3112 (Source)	ECOCF0072 (Source)	11	3112		Homozygous	Exacerbation (no treatment)				36	
+ECOCF0072_3220 (Source)	ECOCF0072 (Source)	13	3220		Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)				34	
+ECOCF0072_3227 (Source)	ECOCF0072 (Source)	14	3227		Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)				44	
+ECOCF0072_3407 (Source)	ECOCF0072 (Source)	15	3407		Homozygous	Exacerbation (no treatment)					
+ECOCF0073_4788 (Source)	ECOCF0073 (Source)	1	4788	No		Baseline	No	No			No
+ECOCF0073_4865 (Source)	ECOCF0073 (Source)	2	4865	No		Baseline	No	No			No
+ECOCF0074_1042 (Source)	ECOCF0074 (Source)	4	1042	No	Homozygous	Baseline	No	No			No
+ECOCF0074_1623 (Source)	ECOCF0074 (Source)	5	1623	No	Homozygous	Exacerbation (no treatment)	No	No			No
+ECOCF0074_1938 (Source)	ECOCF0074 (Source)	6	1938	No	Homozygous	Baseline	No	No			No
+ECOCF0074_2029 (Source)	ECOCF0074 (Source)	7	2029	No	Homozygous	Baseline	No	No		85	No
+ECOCF0074_528 (Source)	ECOCF0074 (Source)	1	528	No	Homozygous	Baseline	No	No			No
+ECOCF0074_640 (Source)	ECOCF0074 (Source)	2	640	No	Homozygous	Baseline	No	No			No
+ECOCF0074_752 (Source)	ECOCF0074 (Source)	3	752	No	Homozygous	Baseline	No	No			No
+ECOCF0075_1112 (Source)	ECOCF0075 (Source)	1	1112	No	Homozygous	Baseline	No	No			No
+ECOCF0075_1377 (Source)	ECOCF0075 (Source)	2	1377	No	Homozygous	Baseline	No	No			No
+ECOCF0075_2314 (Source)	ECOCF0075 (Source)	3	2314	No	Homozygous	Baseline	No	No		121	No
+ECOCF0076_5095 (Source)	ECOCF0076 (Source)	1	5095	No	Other	Baseline	No	Yes	1.46	49	Yes
+ECOCF0076_5111 (Source)	ECOCF0076 (Source)	2	5111	No	Other	Exacerbation (no treatment)	No	Yes	1.21	41	Yes
+ECOCF0076_5241 (Source)	ECOCF0076 (Source)	3	5241	No	Other	Baseline	No	Yes	1.83	64	Yes
+ECOCF0076_5325 (Source)	ECOCF0076 (Source)	4	5325	Yes	Other	Exacerbation (no treatment)	No	Yes	1.59	55	No
+ECOCF0076_5395 (Source)	ECOCF0076 (Source)	5	5395	No	Other	Exacerbation (treatment with antibiotics)	No	Yes	1.59	55	No
+ECOCF0076_5699 (Source)	ECOCF0076 (Source)	6	5699	No	Other	Exacerbation (treatment with antibiotics)	No	Yes	1.94	64	No
+ECOCF0076_5746 (Source)	ECOCF0076 (Source)	7	5746	No	Other	Exacerbation (treatment with antibiotics)	No	Yes	1.7	56	No
+ECOCF0076_6152 (Source)	ECOCF0076 (Source)	8	6152		Other	Exacerbation (treatment with antibiotics)				62	
+ECOCF0076_6188 (Source)	ECOCF0076 (Source)	9	6188		Other	Recovery (within 1 month after stopping antibiotics for exacerbation)				66	
+ECOCF0076_6375 (Source)	ECOCF0076 (Source)	11	6375		Other	Baseline				58	
+ECOCF0077_2249 (Source)	ECOCF0077 (Source)	1	2249	No	Heterozygous	Baseline	No	No	1.94	125	No
+ECOCF0077_2423 (Source)	ECOCF0077 (Source)	2	2423	No	Heterozygous	Baseline	No	No	1.9	131	No
+ECOCF0077_2598 (Source)	ECOCF0077 (Source)	3	2598	No	Heterozygous	Baseline	No	No	1.9	118	No
+ECOCF0077_2829 (Source)	ECOCF0077 (Source)	4	2829	No	Heterozygous	Exacerbation (no treatment)	No	No	2.08	124	No
+ECOCF0078_6137 (Source)	ECOCF0078 (Source)	1	6137	No	Homozygous	Baseline	No	Yes	3.61	110	No
+ECOCF0078_6263 (Source)	ECOCF0078 (Source)	2	6263	No	Homozygous	Baseline	No	Yes	3.44	105	No
+ECOCF0078_6281 (Source)	ECOCF0078 (Source)	3	6281	No	Homozygous	Baseline	No	Yes	3.66	109	No
+ECOCF0079_444 (Source)	ECOCF0079 (Source)	1	444	No	Heterozygous	Baseline	No	No			No
+ECOCF0079_549 (Source)	ECOCF0079 (Source)	2	549	No	Heterozygous	Baseline	No	No			No
+ECOCF0079_626 (Source)	ECOCF0079 (Source)	3	626	No	Heterozygous	Baseline	No	No			No
+ECOCF0080_1082 (Source)	ECOCF0080 (Source)	2	1082	No	Heterozygous	Baseline	No	No			No
+ECOCF0080_858 (Source)	ECOCF0080 (Source)	1	858	No	Heterozygous	Baseline	No	No			No
+ECOCF0081_3303 (Source)	ECOCF0081 (Source)	1	3303	No	Homozygous	Baseline	No	Yes			No
+ECOCF0081_3436 (Source)	ECOCF0081 (Source)	2	3436	No	Homozygous	Baseline	No	Yes	1.85	111	No
+ECOCF0081_3737 (Source)	ECOCF0081 (Source)	3	3737	Yes	Homozygous	Baseline	No	Yes	1.98	106	Yes
+ECOCF0081_3844 (Source)	ECOCF0081 (Source)	4	3844	Yes	Homozygous	Baseline	No	Yes			No
+ECOCF0081_3933 (Source)	ECOCF0081 (Source)	5	3933	Yes	Homozygous	Baseline	No	Yes	2.04	103	No
+ECOCF0081_4486 (Source)	ECOCF0081 (Source)	6	4486		Homozygous	Exacerbation (no treatment)				86	
+ECOCF0081_4656 (Source)	ECOCF0081 (Source)	7	4656		Homozygous	Exacerbation (no treatment)					
+ECOCF0081_4803 (Source)	ECOCF0081 (Source)	8	4803		Homozygous	Exacerbation (no treatment)				84	
+ECOCF0082_173 (Source)	ECOCF0082 (Source)	1	173	No		Baseline	No	No			No
+ECOCF0082_257 (Source)	ECOCF0082 (Source)	2	257	No		Baseline	No	No			No
+ECOCF0083_4773 (Source)	ECOCF0083 (Source)	1	4773	No	Homozygous	Baseline	No	No			No
+ECOCF0083_4821 (Source)	ECOCF0083 (Source)	2	4821	Yes	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.67	62	No
+ECOCF0083_5296 (Source)	ECOCF0083 (Source)	3	5296	No	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.59	50	No
+ECOCF0083_5527 (Source)	ECOCF0083 (Source)	4	5527	No	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.79	53	No
+ECOCF0085_5705 (Source)	ECOCF0085 (Source)	1	5705	Yes	Homozygous	Baseline	No	Yes	3.97	104	Yes
+ECOCF0085_5811 (Source)	ECOCF0085 (Source)	2	5811	Yes	Homozygous	Baseline	No	Yes	4.38	115	Yes
+ECOCF0085_5930 (Source)	ECOCF0085 (Source)	3	5930	Yes	Homozygous	Baseline	No	Yes	4.81	118	Yes
+ECOCF0086_3975 (Source)	ECOCF0086 (Source)	1	3975	No	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	1.56	62	Yes
+ECOCF0086_4088 (Source)	ECOCF0086 (Source)	2	4088	No	Heterozygous	Baseline	No	Yes	1.99	77	Yes
+ECOCF0086_4168 (Source)	ECOCF0086 (Source)	3	4168	No	Heterozygous	Exacerbation (no treatment)	No	Yes	1.94	78	Yes
+ECOCF0086_4719 (Source)	ECOCF0086 (Source)	4	4719	No	Heterozygous	Exacerbation (no treatment)	No	Yes	2.38	84	Yes
+ECOCF0086_5068 (Source)	ECOCF0086 (Source)	5	5068	No	Heterozygous	Exacerbation (no treatment)	No	Yes		69	Yes
+ECOCF0086_5126 (Source)	ECOCF0086 (Source)	6	5126	No	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes			Yes
+ECOCF0087_3691 (Source)	ECOCF0087 (Source)	1	3691	Yes	Heterozygous	Baseline	No	Yes			Yes
+ECOCF0087_3768 (Source)	ECOCF0087 (Source)	2	3768	Yes	Heterozygous	Baseline	No	Yes			Yes
+ECOCF0088_2857 (Source)	ECOCF0088 (Source)	1	2857	No	Other	On Antibiotics No Exacerbation	No	Yes			No
+ECOCF0088_3032 (Source)	ECOCF0088 (Source)	2	3032	No	Other	Baseline	No	Yes			No
+ECOCF0088_3536 (Source)	ECOCF0088 (Source)	3	3536	No	Other	Exacerbation (no treatment)	No	Yes	1.49	88	No
+ECOCF0090_2937 (Source)	ECOCF0090 (Source)	1	2937	No	Heterozygous	Baseline	No	No	1.62	110	No
+ECOCF0090_3125 (Source)	ECOCF0090 (Source)	2	3125	No	Heterozygous	Baseline	No	No	1.62	112	No
+ECOCF0090_4234 (Source)	ECOCF0090 (Source)	3	4234	No	Heterozygous	Baseline	No	No		101	No
+ECOCF0091_4868 (Source)	ECOCF0091 (Source)	1	4868	No	Homozygous	Baseline	No	Yes	1.64	58	No
+ECOCF0091_5449 (Source)	ECOCF0091 (Source)	2	5449	Yes	Homozygous	Baseline	No	Yes	2.52	71	Yes
+ECOCF0091_5490 (Source)	ECOCF0091 (Source)	3	5490	Yes	Homozygous	Baseline	No	Yes	0.94	103	Yes
+ECOCF0091_5540 (Source)	ECOCF0091 (Source)	4	5540	Yes	Homozygous	Baseline	No	Yes	2.46	68	No
+ECOCF0091_5608 (Source)	ECOCF0091 (Source)	5	5608	No	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	2.09	56	Yes
+ECOCF0091_6065 (Source)	ECOCF0091 (Source)	6	6065		Homozygous	Baseline				75	
+ECOCF0091_6156 (Source)	ECOCF0091 (Source)	7	6156		Homozygous	Baseline				71	
+ECOCF0091_6233 (Source)	ECOCF0091 (Source)	8	6233		Homozygous	Exacerbation (no treatment)					
+ECOCF0091_6275 (Source)	ECOCF0091 (Source)	9	6275		Homozygous	Exacerbation (no treatment)					
+ECOCF0091_6279 (Source)	ECOCF0091 (Source)	10	6279		Homozygous	Exacerbation (no treatment)					
+ECOCF0091_6324 (Source)	ECOCF0091 (Source)	11	6324		Homozygous	Baseline					
+ECOCF0093_1061 (Source)	ECOCF0093 (Source)	3	1061	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0093_1515 (Source)	ECOCF0093 (Source)	4	1515	Yes	Heterozygous	Baseline	No	Yes			Yes
+ECOCF0093_2009 (Source)	ECOCF0093 (Source)	5	2009		Heterozygous	Baseline					
+ECOCF0093_2120 (Source)	ECOCF0093 (Source)	6	2120		Heterozygous	Baseline					
+ECOCF0093_2162 (Source)	ECOCF0093 (Source)	7	2162		Heterozygous	Exacerbation (no treatment)				108	
+ECOCF0093_2231 (Source)	ECOCF0093 (Source)	8	2231		Heterozygous	Exacerbation (no treatment)					
+ECOCF0093_2330 (Source)	ECOCF0093 (Source)	9	2330		Heterozygous	Exacerbation (no treatment)					
+ECOCF0093_934 (Source)	ECOCF0093 (Source)	1	934	No	Heterozygous	Exacerbation (no treatment)	No	Yes			No
+ECOCF0093_956 (Source)	ECOCF0093 (Source)	2	956	No	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes			No
+ECOCF0094_2110 (Source)	ECOCF0094 (Source)	1	2110	No	Heterozygous	Baseline	No	No	1.33	84	No
+ECOCF0094_2229 (Source)	ECOCF0094 (Source)	2	2229		Heterozygous				1.27	75	
+ECOCF0094_3301 (Source)	ECOCF0094 (Source)	3	3301		Heterozygous	Baseline				83	
+ECOCF0095_3611 (Source)	ECOCF0095 (Source)	1	3611	Yes	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	1.59	85	No
+ECOCF0095_3662 (Source)	ECOCF0095 (Source)	2	3662	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	1.62	85	No
+ECOCF0095_3821 (Source)	ECOCF0095 (Source)	3	3821	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	1.46	77	Yes
+ECOCF0095_4914 (Source)	ECOCF0095 (Source)	4	4914		Homozygous	Exacerbation (no treatment)				65	
+ECOCF0095_4956 (Source)	ECOCF0095 (Source)	5	4956		Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0095_4969 (Source)	ECOCF0095 (Source)	6	4969		Homozygous	Exacerbation (no treatment)					
+ECOCF0095_5073 (Source)	ECOCF0095 (Source)	7	5073		Homozygous	Exacerbation (no treatment)				64	
+ECOCF0096_5518 (Source)	ECOCF0096 (Source)	1	5518	Yes	Heterozygous	Baseline	No	Yes	2.39	70	Yes
+ECOCF0096_5747 (Source)	ECOCF0096 (Source)	2	5747	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	1.99	55	Yes
+ECOCF0096_6037 (Source)	ECOCF0096 (Source)	3	6037	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0096_6153 (Source)	ECOCF0096 (Source)	4	6153	Yes	Heterozygous	Baseline	No	Yes	2.55	67	Yes
+ECOCF0097_1055 (Source)	ECOCF0097 (Source)	6	1055	No	Other	Baseline	No	Yes			Yes
+ECOCF0097_1290 (Source)	ECOCF0097 (Source)	7	1290		Other	Exacerbation (no treatment)					
+ECOCF0097_1339 (Source)	ECOCF0097 (Source)	8	1339		Other	Exacerbation (treatment with antibiotics)					
+ECOCF0097_1518 (Source)	ECOCF0097 (Source)	9	1518		Other	Exacerbation (no treatment)					
+ECOCF0097_356 (Source)	ECOCF0097 (Source)	1	356	No	Other	Exacerbation (no treatment)	No	No			No
+ECOCF0097_409 (Source)	ECOCF0097 (Source)	2	409	No	Other	Baseline	No	No			Yes
+ECOCF0097_446 (Source)	ECOCF0097 (Source)	3	446	No	Other	Exacerbation (treatment with antibiotics)	No	No			Yes
+ECOCF0097_809 (Source)	ECOCF0097 (Source)	4	809	No	Other	Baseline	No	No			Yes
+ECOCF0097_928 (Source)	ECOCF0097 (Source)	5	928	No	Other	Baseline	No	Yes			Yes
+ECOCF0098_4938 (Source)	ECOCF0098 (Source)	1	4938	No		Baseline	No	Yes	2.29	78	No
+ECOCF0098_5104 (Source)	ECOCF0098 (Source)	2	5104	No		Baseline	No	Yes	2.49	95	No
+ECOCF0098_5133 (Source)	ECOCF0098 (Source)	3	5133	No		Baseline	No	Yes	2.68	100	No
+ECOCF0098_5390 (Source)	ECOCF0098 (Source)	4	5390	No		Baseline	No	Yes	2.6	88	No
+ECOCF0098_5489 (Source)	ECOCF0098 (Source)	5	5489	No		Baseline	No	Yes	2.73	91	No
+ECOCF0098_6398 (Source)	ECOCF0098 (Source)	6	6398	No		Baseline	No	Yes		86	No
+ECOCF0100_2435 (Source)	ECOCF0100 (Source)	1	2435	No	Other	Baseline	No	No	1.38	111	No
+ECOCF0100_2519 (Source)	ECOCF0100 (Source)	2	2519	No	Other	Baseline	No	No	1.45	117	No
+ECOCF0100_2603 (Source)	ECOCF0100 (Source)	3	2603	No	Other	Baseline	No	No	1.38	120	No
+ECOCF0100_2695 (Source)	ECOCF0100 (Source)	4	2695	No	Other	Baseline	No	No	1.45	119	No
+ECOCF0100_3002 (Source)	ECOCF0100 (Source)	5	3002	No	Other	Baseline	No	Yes			No
+ECOCF0101_8255 (Source)	ECOCF0101 (Source)	1	8255	Yes	Heterozygous	Baseline	No	Yes			No
+ECOCF0102_5073 (Source)	ECOCF0102 (Source)	1	5073	Yes	Other	Baseline	No	Yes	2.4	84	Yes
+ECOCF0102_5804 (Source)	ECOCF0102 (Source)	2	5804	Yes	Other	Baseline	No	Yes		83	Yes
+ECOCF0102_5870 (Source)	ECOCF0102 (Source)	3	5870	Yes	Other	Exacerbation (no treatment)	No	Yes		82	Yes
+ECOCF0102_5922 (Source)	ECOCF0102 (Source)	4	5922	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		78	Yes
+ECOCF0102_6019 (Source)	ECOCF0102 (Source)	5	6019	Yes	Other	Exacerbation (no treatment)	No	Yes		95	Yes
+ECOCF0102_6027 (Source)	ECOCF0102 (Source)	6	6027	Yes	Other	Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0102_6124 (Source)	ECOCF0102 (Source)	7	6124	Yes	Other	Baseline	No	Yes		77	Yes
+ECOCF0103_1185 (Source)	ECOCF0103 (Source)	1	1185	No	Heterozygous	Exacerbation (no treatment)	No	Yes			No
+ECOCF0104_1399 (Source)	ECOCF0104 (Source)	4	1399		Heterozygous	Exacerbation (no treatment)					
+ECOCF0104_1438 (Source)	ECOCF0104 (Source)	5	1438		Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0104_1510 (Source)	ECOCF0104 (Source)	6	1510		Heterozygous	Baseline					
+ECOCF0104_1552 (Source)	ECOCF0104 (Source)	7	1552		Heterozygous	Baseline					
+ECOCF0104_1635 (Source)	ECOCF0104 (Source)	8	1635		Heterozygous	Baseline					
+ECOCF0104_1720 (Source)	ECOCF0104 (Source)	9	1720		Heterozygous	Exacerbation (no treatment)					
+ECOCF0104_1781 (Source)	ECOCF0104 (Source)	10	1781		Heterozygous	Baseline					
+ECOCF0104_346 (Source)	ECOCF0104 (Source)	1	346	No	Heterozygous	Baseline	No	No			No
+ECOCF0104_451 (Source)	ECOCF0104 (Source)	2	451	No	Heterozygous	Baseline	No	No			No
+ECOCF0104_905 (Source)	ECOCF0104 (Source)	3	905	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0105_1409 (Source)	ECOCF0105 (Source)	5	1409		Heterozygous	Exacerbation (no treatment)					
+ECOCF0105_1448 (Source)	ECOCF0105 (Source)	6	1448		Heterozygous	Exacerbation (no treatment)					
+ECOCF0105_1520 (Source)	ECOCF0105 (Source)	7	1520		Heterozygous	Baseline					
+ECOCF0105_1645 (Source)	ECOCF0105 (Source)	8	1645		Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0105_1666 (Source)	ECOCF0105 (Source)	9	1666		Heterozygous	Exacerbation (no treatment)					
+ECOCF0105_451 (Source)	ECOCF0105 (Source)	1	451	No	Heterozygous	Baseline	No	No			No
+ECOCF0105_711 (Source)	ECOCF0105 (Source)	2	711	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0105_905 (Source)	ECOCF0105 (Source)	3	905	No	Heterozygous	Exacerbation (no treatment)	No	Yes			No
+ECOCF0105_963 (Source)	ECOCF0105 (Source)	4	963	No	Heterozygous	Exacerbation (no treatment)	No	Yes			No
+ECOCF0106_3515 (Source)	ECOCF0106 (Source)	1	3515	No	Homozygous	Baseline	No	Yes	1.51	80	No
+ECOCF0106_3626 (Source)	ECOCF0106 (Source)	2	3626	No	Homozygous	Baseline	No	Yes			No
+ECOCF0106_4541 (Source)	ECOCF0106 (Source)	3	4541	No	Homozygous	Baseline	No	Yes		108	No
+ECOCF0107_18 (Source)	ECOCF0107 (Source)	1	18	No		Exacerbation (treatment with antibiotics)	No	No			No
+ECOCF0108_4439 (Source)	ECOCF0108 (Source)	1	4439	No	Heterozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0108_4596 (Source)	ECOCF0108 (Source)	2	4596	No	Heterozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0108_4840 (Source)	ECOCF0108 (Source)	3	4840	No	Heterozygous	Baseline	No	Yes	1.51	59	No
+ECOCF0108_4903 (Source)	ECOCF0108 (Source)	4	4903	No	Heterozygous	Exacerbation (no treatment)	No	Yes	1.2	45	No
+ECOCF0108_5030 (Source)	ECOCF0108 (Source)	5	5030	No	Heterozygous	Baseline	No	Yes	1.39	52	No
+ECOCF0108_5468 (Source)	ECOCF0108 (Source)	6	5468		Heterozygous	Baseline				47	
+ECOCF0108_5776 (Source)	ECOCF0108 (Source)	7	5776		Heterozygous	Baseline					
+ECOCF0109_5078 (Source)	ECOCF0109 (Source)	1	5078	No	Heterozygous	Baseline	No	Yes	2.53	83	Yes
+ECOCF0109_5177 (Source)	ECOCF0109 (Source)	2	5177	No	Heterozygous	Baseline	No	Yes			Yes
+ECOCF0109_5231 (Source)	ECOCF0109 (Source)	3	5231	No	Heterozygous	Baseline	No	Yes			Yes
+ECOCF0109_5301 (Source)	ECOCF0109 (Source)	4	5301	No	Heterozygous	Baseline	No	Yes	2.72	81	Yes
+ECOCF0109_5591 (Source)	ECOCF0109 (Source)	5	5591	No	Heterozygous	Baseline	No	Yes	2.88	78	Yes
+ECOCF0109_6135 (Source)	ECOCF0109 (Source)	6	6135	No	Heterozygous	Baseline	No	Yes			Yes
+ECOCF0109_6422 (Source)	ECOCF0109 (Source)	7	6422	No	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes			Yes
+ECOCF0109_6490 (Source)	ECOCF0109 (Source)	8	6490	No	Heterozygous	Baseline	No	Yes		83	Yes
+ECOCF0110_1442 (Source)	ECOCF0110 (Source)	2	1442	No	Heterozygous	Baseline	No	No			No
+ECOCF0110_1533 (Source)	ECOCF0110 (Source)	3	1533	No	Heterozygous	Baseline	No	No			No
+ECOCF0110_1897 (Source)	ECOCF0110 (Source)	4	1897	No	Heterozygous	Baseline	No	No		125	No
+ECOCF0110_1990 (Source)	ECOCF0110 (Source)	5	1990	No	Heterozygous	Baseline	No	No		135	No
+ECOCF0110_2081 (Source)	ECOCF0110 (Source)	6	2081	No	Heterozygous	Baseline	No	No		144	No
+ECOCF0110_2214 (Source)	ECOCF0110 (Source)	7	2214	No	Heterozygous	Exacerbation (no treatment)	No	No			No
+ECOCF0110_2277 (Source)	ECOCF0110 (Source)	8	2277	No	Heterozygous	Baseline	No	No		101	No
+ECOCF0110_896 (Source)	ECOCF0110 (Source)	1	896	No	Heterozygous	Baseline	No	No			No
+ECOCF0111_6485 (Source)	ECOCF0111 (Source)	1	6485	No	Heterozygous	Exacerbation (treatment with antibiotics)	No	Yes	3.68	98	No
+ECOCF0111_6567 (Source)	ECOCF0111 (Source)	2	6567	No	Heterozygous	Baseline	No	Yes	3.94	95	No
+ECOCF0111_6626 (Source)	ECOCF0111 (Source)	3	6626	No	Heterozygous	Baseline	No	Yes	3.93	92	No
+ECOCF0112_4111 (Source)	ECOCF0112 (Source)	1	4111	No	Heterozygous	Baseline	No	Yes	1.69	75	No
+ECOCF0112_4292 (Source)	ECOCF0112 (Source)	2	4292	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0113_7706 (Source)	ECOCF0113 (Source)	1	7706	Yes	Heterozygous	Baseline	No	No	2.3	68	Yes
+ECOCF0114_153 (Source)	ECOCF0114 (Source)	1	153	No	Other	Baseline	No	No			No
+ECOCF0115_3891 (Source)	ECOCF0115 (Source)	1	3891	Yes	Homozygous	Baseline	No	Yes	2.07	97	Yes
+ECOCF0115_3988 (Source)	ECOCF0115 (Source)	2	3988	Yes	Homozygous	Baseline	No	Yes	1.71	80	Yes
+ECOCF0115_4044 (Source)	ECOCF0115 (Source)	3	4044	Yes	Homozygous	Baseline	No	Yes	2.15	105	Yes
+ECOCF0115_4261 (Source)	ECOCF0115 (Source)	4	4261	Yes	Homozygous	Baseline	No	Yes			Yes
+ECOCF0115_4408 (Source)	ECOCF0115 (Source)	5	4408	Yes	Homozygous	Baseline	No	Yes	2.16	95	Yes
+ECOCF0115_4512 (Source)	ECOCF0115 (Source)	6	4512	Yes	Homozygous	Baseline	No	Yes	2.16	96	Yes
+ECOCF0116_4545 (Source)	ECOCF0116 (Source)	1	4545	Yes	Other	Baseline	No	Yes			Yes
+ECOCF0116_4907 (Source)	ECOCF0116 (Source)	2	4907	Yes	Other	Baseline	No	Yes			Yes
+ECOCF0116_5005 (Source)	ECOCF0116 (Source)	3	5005	Yes	Other		No	Yes			Yes
+ECOCF0117_504 (Source)	ECOCF0117 (Source)	2	504	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0117_51 (Source)	ECOCF0117 (Source)	1	51	No	Heterozygous	Baseline	No	No			No
+ECOCF0117_628 (Source)	ECOCF0117 (Source)	3	628	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0117_729 (Source)	ECOCF0117 (Source)	4	729	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0118_7176 (Source)	ECOCF0118 (Source)	1	7176	No	Homozygous	Exacerbation (no treatment)	No	Yes	1.85	59	Yes
+ECOCF0119_3333 (Source)	ECOCF0119 (Source)	1	3333	No	Heterozygous	Baseline	No	Yes	2.29	104	No
+ECOCF0120_5372 (Source)	ECOCF0120 (Source)	1	5372	Yes	Homozygous	Baseline	No	Yes			Yes
+ECOCF0121_3183 (Source)	ECOCF0121 (Source)	1	3183	Yes	Heterozygous	Exacerbation (treatment with antibiotics)	Yes	Yes	1.02	52	Yes
+ECOCF0121_3188 (Source)	ECOCF0121 (Source)	2	3188	Yes	Heterozygous		Yes	Yes			Yes
+ECOCF0121_3344 (Source)	ECOCF0121 (Source)	3	3344	Yes	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes			Yes
+ECOCF0121_3413 (Source)	ECOCF0121 (Source)	4	3413	Yes	Heterozygous		No	Yes			Yes
+ECOCF0121_3456 (Source)	ECOCF0121 (Source)	5	3456	Yes	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	Yes	Yes			No
+ECOCF0121_3596 (Source)	ECOCF0121 (Source)	6	3596	Yes	Heterozygous	Baseline	Yes	Yes	0.77	38	No
+ECOCF0121_3672 (Source)	ECOCF0121 (Source)	7	3672	Yes	Heterozygous		Yes	Yes	0.71	34	No
+ECOCF0121_3785 (Source)	ECOCF0121 (Source)	8	3785	Yes	Heterozygous	Baseline	Yes	Yes	0.93	43	No
+ECOCF0121_3918 (Source)	ECOCF0121 (Source)	9	3918	Yes	Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	Yes	Yes	0.97	44	No
+ECOCF0122_7058 (Source)	ECOCF0122 (Source)	1	7058	No	Heterozygous	Exacerbation (no treatment)	No	Yes	2.09	69	Yes
+ECOCF0122_7401 (Source)	ECOCF0122 (Source)	2	7401	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	2.73	84	Yes
+ECOCF0122_7440 (Source)	ECOCF0122 (Source)	3	7440	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes	1.66	51	Yes
+ECOCF0122_8097 (Source)	ECOCF0122 (Source)	4	8097		Heterozygous	Exacerbation (no treatment)				36	
+ECOCF0122_8135 (Source)	ECOCF0122 (Source)	5	8135		Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)				70	
+ECOCF0122_8226 (Source)	ECOCF0122 (Source)	6	8226		Heterozygous	Exacerbation (no treatment)				60	
+ECOCF0122_8247 (Source)	ECOCF0122 (Source)	7	8247		Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)				71	
+ECOCF0122_8279 (Source)	ECOCF0122 (Source)	8	8279		Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)				67	
+ECOCF0122_8339 (Source)	ECOCF0122 (Source)	9	8339		Heterozygous	Exacerbation (no treatment)					
+ECOCF0123_1344 (Source)	ECOCF0123 (Source)	3	1344	No	Other	Baseline	No	Yes			Yes
+ECOCF0123_1848 (Source)	ECOCF0123 (Source)	4	1848		Other	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0123_1937 (Source)	ECOCF0123 (Source)	5	1937		Other	Exacerbation (treatment with antibiotics)					
+ECOCF0123_1940 (Source)	ECOCF0123 (Source)	6	1940		Other	Exacerbation (treatment with antibiotics)					
+ECOCF0123_749 (Source)	ECOCF0123 (Source)	1	749	No	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes			No
+ECOCF0123_812 (Source)	ECOCF0123 (Source)	2	812	No	Other	Baseline	No	Yes			Yes
+ECOCF0124_3772 (Source)	ECOCF0124 (Source)	1	3772	No	Homozygous	Baseline	No	Yes	1.73	101	No
+ECOCF0124_3845 (Source)	ECOCF0124 (Source)	2	3845	No	Homozygous	Baseline	No	Yes	1.75	100	No
+ECOCF0125_2541 (Source)	ECOCF0125 (Source)	1	2541	No	Other	Baseline	No	No	1.33	90	No
+ECOCF0127_8515 (Source)	ECOCF0127 (Source)	1	8515	No	Other	Baseline	No	Yes	2.84	79	No
+ECOCF0128_4364 (Source)	ECOCF0128 (Source)	1	4364	Yes	Other	Exacerbation (no treatment)	No	Yes	1.5	52	Yes
+ECOCF0128_4782 (Source)	ECOCF0128 (Source)	2	4782	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes	2.18	76	Yes
+ECOCF0128_4945 (Source)	ECOCF0128 (Source)	3	4945	Yes	Other	Baseline	No	Yes	1.75	61	Yes
+ECOCF0128_5302 (Source)	ECOCF0128 (Source)	4	5302	Yes	Other	Exacerbation (no treatment)	No	Yes		66	Yes
+ECOCF0128_5329 (Source)	ECOCF0128 (Source)	5	5329	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		73	Yes
+ECOCF0128_5421 (Source)	ECOCF0128 (Source)	6	5421	Yes	Other	Baseline	No	Yes		78	Yes
+ECOCF0128_5456 (Source)	ECOCF0128 (Source)	7	5456	Yes	Other	Exacerbation (no treatment)	No	Yes		63	Yes
+ECOCF0128_5498 (Source)	ECOCF0128 (Source)	8	5498	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		81	Yes
+ECOCF0128_5624 (Source)	ECOCF0128 (Source)	9	5624	Yes	Other	Baseline	No	Yes			Yes
+ECOCF0128_5663 (Source)	ECOCF0128 (Source)	10	5663	Yes	Other	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0128_5687 (Source)	ECOCF0128 (Source)	11	5687	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		61	Yes
+ECOCF0128_5698 (Source)	ECOCF0128 (Source)	12	5698	Yes	Other	Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0129_8760 (Source)	ECOCF0129 (Source)	1	8760	Yes	Heterozygous	Baseline	No	Yes	2.97	102	No
+ECOCF0130_1091 (Source)	ECOCF0130 (Source)	1	1091		Heterozygous	Exacerbation (no treatment)					
+ECOCF0130_1141 (Source)	ECOCF0130 (Source)	2	1141		Heterozygous	Exacerbation (no treatment)					
+ECOCF0130_1159 (Source)	ECOCF0130 (Source)	3	1159		Heterozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0130_165 (Source)	ECOCF0130 (Source)	3	165	No		Baseline	No	Yes			No
+ECOCF0130_39 (Source)	ECOCF0130 (Source)	1	39	No		Baseline	No	No			No
+ECOCF0130_98 (Source)	ECOCF0130 (Source)	2	98	No		Baseline	No	No			No
+ECOCF0131_1332 (Source)	ECOCF0131 (Source)	2	1332	No	Other	Baseline	No	No			No
+ECOCF0131_1506 (Source)	ECOCF0131 (Source)	3	1506	No	Other	Exacerbation (treatment with antibiotics)	No	No			No
+ECOCF0131_1836 (Source)	ECOCF0131 (Source)	4	1836	No	Other	Exacerbation (no treatment)	No	No		86	No
+ECOCF0131_1948 (Source)	ECOCF0131 (Source)	5	1948	No	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	No		127	No
+ECOCF0131_2003 (Source)	ECOCF0131 (Source)	6	2003	No	Other	Baseline	No	No		131	No
+ECOCF0131_2184 (Source)	ECOCF0131 (Source)	7	2184	No	Other	Baseline	No	No		87	No
+ECOCF0131_883 (Source)	ECOCF0131 (Source)	1	883	No	Other	Baseline	No	No			No
+ECOCF0132_4573 (Source)	ECOCF0132 (Source)	1	4573	No	Heterozygous	Baseline	No	No			No
+ECOCF0132_5667 (Source)	ECOCF0132 (Source)	2	5667	No	Heterozygous	Baseline	No	No		96	No
+ECOCF0132_5868 (Source)	ECOCF0132 (Source)	3	5868	No	Heterozygous	Baseline	No	No		95	No
+ECOCF0133_4728 (Source)	ECOCF0133 (Source)	1	4728	Yes	Homozygous	Baseline	No	Yes	2.18	79	Yes
+ECOCF0133_4802 (Source)	ECOCF0133 (Source)	2	4802	Yes	Homozygous	Baseline	No	Yes	2.12	75	Yes
+ECOCF0133_4865 (Source)	ECOCF0133 (Source)	3	4865	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	1.94	66	Yes
+ECOCF0133_5005 (Source)	ECOCF0133 (Source)	4	5005	Yes	Homozygous	Baseline	No	Yes	1.94	64	Yes
+ECOCF0133_5180 (Source)	ECOCF0133 (Source)	5	5180	Yes	Homozygous	Baseline	No	Yes	2.52	79	Yes
+ECOCF0133_5297 (Source)	ECOCF0133 (Source)	6	5297	Yes	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	3.13	94	Yes
+ECOCF0133_5684 (Source)	ECOCF0133 (Source)	7	5684	Yes	Homozygous	Exacerbation (no treatment)	No	Yes		71	Yes
+ECOCF0133_5901 (Source)	ECOCF0133 (Source)	9	5901	Yes	Homozygous	Exacerbation (no treatment)	No	Yes		73	Yes
+ECOCF0134_5474 (Source)	ECOCF0134 (Source)	1	5474	Yes	Homozygous	Baseline	No	Yes	2.94	94	Yes
+ECOCF0134_5548 (Source)	ECOCF0134 (Source)	2	5548	Yes	Homozygous	Baseline	No	Yes	3.2	92	Yes
+ECOCF0134_5751 (Source)	ECOCF0134 (Source)	3	5751	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	2.89	78	Yes
+ECOCF0134_5926 (Source)	ECOCF0134 (Source)	4	5926	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	3.31	86	Yes
+ECOCF0134_6002 (Source)	ECOCF0134 (Source)	5	6002	Yes	Homozygous	Baseline	No	Yes	3.27	85	Yes
+ECOCF0134_6031 (Source)	ECOCF0134 (Source)	6	6031	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	2.64	68	Yes
+ECOCF0134_6045 (Source)	ECOCF0134 (Source)	7	6045	Yes	Homozygous	Exacerbation (treatment with antibiotics)	No	Yes	3.83	97	Yes
+ECOCF0134_6430 (Source)	ECOCF0134 (Source)	8	6430	Yes	Homozygous	Exacerbation (no treatment)	No	Yes		84	Yes
+ECOCF0134_6542 (Source)	ECOCF0134 (Source)	10	6542	Yes	Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		83	Yes
+ECOCF0134_6647 (Source)	ECOCF0134 (Source)	11	6647	Yes	Homozygous	Exacerbation (no treatment)	No	Yes		68	Yes
+ECOCF0135_6139 (Source)	ECOCF0135 (Source)	1	6139	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	2.18	63	Yes
+ECOCF0135_6492 (Source)	ECOCF0135 (Source)	2	6492	Yes	Homozygous	Baseline	No	Yes	2.54	60	Yes
+ECOCF0135_6544 (Source)	ECOCF0135 (Source)	3	6544	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	2.26	56	Yes
+ECOCF0135_6596 (Source)	ECOCF0135 (Source)	4	6596	Yes	Homozygous	Baseline	No	Yes	2.63	61	Yes
+ECOCF0135_6625 (Source)	ECOCF0135 (Source)	5	6625	Yes	Homozygous	Baseline	No	Yes	2.61	61	Yes
+ECOCF0135_6660 (Source)	ECOCF0135 (Source)	6	6660	Yes	Homozygous	Baseline	No	Yes	2.67	63	Yes
+ECOCF0135_6716 (Source)	ECOCF0135 (Source)	7	6716	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	2.17	51	Yes
+ECOCF0137_7026 (Source)	ECOCF0137 (Source)	1	7026	No	Homozygous	Baseline	No	No	4.13	89	No
+ECOCF0138_3970 (Source)	ECOCF0138 (Source)	1	3970	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	1.13	59	Yes
+ECOCF0138_4446 (Source)	ECOCF0138 (Source)	2	4446	Yes	Homozygous	Exacerbation (no treatment)	No	Yes	0.94	45	No
+ECOCF0138_4982 (Source)	ECOCF0138 (Source)	3	4982		Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0138_5097 (Source)	ECOCF0138 (Source)	4	5097		Homozygous	Exacerbation (no treatment)				50	
+ECOCF0140_3195 (Source)	ECOCF0140 (Source)	1	3195	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0140_3537 (Source)	ECOCF0140 (Source)	2	3537	No	Heterozygous	Baseline	No	Yes	1.55	82	No
+ECOCF0140_3643 (Source)	ECOCF0140 (Source)	3	3643	Yes	Heterozygous	Baseline	No	Yes			No
+ECOCF0140_4245 (Source)	ECOCF0140 (Source)	4	4245		Heterozygous	Baseline				78	
+ECOCF0140_4406 (Source)	ECOCF0140 (Source)	5	4406		Heterozygous	Baseline					
+ECOCF0143_2137 (Source)	ECOCF0143 (Source)	1	2137	No	Other	Baseline	No	No			No
+ECOCF0143_2363 (Source)	ECOCF0143 (Source)	2	2363	No	Other	Exacerbation (no treatment)	No	No			No
+ECOCF0143_3239 (Source)	ECOCF0143 (Source)	3	3239	No	Other	Exacerbation (no treatment)	No	No			No
+ECOCF0144_2819 (Source)	ECOCF0144 (Source)	1	2819	No	Other	Baseline	No	No			No
+ECOCF0144_3094 (Source)	ECOCF0144 (Source)	2	3094	No	Other	Baseline	No	No	1.04	91	No
+ECOCF0144_3140 (Source)	ECOCF0144 (Source)	3	3140		Other				0.91	73	
+ECOCF0144_3290 (Source)	ECOCF0144 (Source)	4	3290	No	Other	Baseline	No	No	1.2	98	No
+ECOCF0144_4003 (Source)	ECOCF0144 (Source)	5	4003		Other	Baseline					
+ECOCF0145_5399 (Source)	ECOCF0145 (Source)	1	5399	No		Baseline	No	Yes			No
+ECOCF0146_1166 (Source)	ECOCF0146 (Source)	1	1166	No	Heterozygous	Baseline	No	No			No
+ECOCF0146_1373 (Source)	ECOCF0146 (Source)	2	1373	Yes	Heterozygous	Exacerbation (no treatment)	No	Yes			No
+ECOCF0147_7129 (Source)	ECOCF0147 (Source)	1	7129	No	Homozygous	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0149_161 (Source)	ECOCF0149 (Source)	1	161	No	Heterozygous	Baseline	No	No			No
+ECOCF0149_366 (Source)	ECOCF0149 (Source)	2	366	No	Heterozygous	Baseline	No	No			No
+ECOCF0149_471 (Source)	ECOCF0149 (Source)	3	471	No	Heterozygous	Baseline	No	No			No
+ECOCF0150_1159 (Source)	ECOCF0150 (Source)	1	1159	No	Other	Baseline	No	No			No
+ECOCF0151_3883 (Source)	ECOCF0151 (Source)	2	3883	Yes	Other	Exacerbation (no treatment)	No	Yes		41	No
+ECOCF0151_3938 (Source)	ECOCF0151 (Source)	3	3938	Yes	Other	Exacerbation (no treatment)	No	Yes	1.24	49	No
+ECOCF0151_4100 (Source)	ECOCF0151 (Source)	5	4100	Yes	Other	Exacerbation (no treatment)	No	Yes	1.25	47	No
+ECOCF0151_4170 (Source)	ECOCF0151 (Source)	6	4170	Yes	Other	Exacerbation (no treatment)	No	Yes	1.34	48	No
+ECOCF0151_4440 (Source)	ECOCF0151 (Source)	7	4440	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		44	No
+ECOCF0151_4471 (Source)	ECOCF0151 (Source)	8	4471	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		36	No
+ECOCF0151_4555 (Source)	ECOCF0151 (Source)	10	4555	Yes	Other	Exacerbation (no treatment)	No	Yes		35	No
+ECOCF0151_4568 (Source)	ECOCF0151 (Source)	11	4568	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		49	No
+ECOCF0151_4616 (Source)	ECOCF0151 (Source)	12	4616	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		34	No
+ECOCF0151_4642 (Source)	ECOCF0151 (Source)	14	4642	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		33	No
+ECOCF0151_4681 (Source)	ECOCF0151 (Source)	16	4681	Yes	Other	Exacerbation (no treatment)	No	Yes		31	No
+ECOCF0151_4744 (Source)	ECOCF0151 (Source)	18	4744	Yes	Other	Exacerbation (no treatment)	No	Yes		30	No
+ECOCF0151_4786 (Source)	ECOCF0151 (Source)	19	4786	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		38	No
+ECOCF0151_4826 (Source)	ECOCF0151 (Source)	20	4826	Yes	Other	Exacerbation (treatment with antibiotics)	No	Yes		29	No
+ECOCF0151_4856 (Source)	ECOCF0151 (Source)	21	4856	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		37	No
+ECOCF0152_5504 (Source)	ECOCF0152 (Source)	1	5504	Yes	Other	Baseline	No	Yes	3.14	74	Yes
+ECOCF0152_5606 (Source)	ECOCF0152 (Source)	2	5606	Yes	Other	Baseline	No	Yes	2.86	67	Yes
+ECOCF0152_5721 (Source)	ECOCF0152 (Source)	3	5721	Yes	Other	Exacerbation (no treatment)	No	Yes	1.25	47	Yes
+ECOCF0152_6061 (Source)	ECOCF0152 (Source)	4	6061	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		74	Yes
+ECOCF0152_6127 (Source)	ECOCF0152 (Source)	5	6127	Yes	Other	Baseline	No	Yes		69	Yes
+ECOCF0152_6165 (Source)	ECOCF0152 (Source)	6	6165	Yes	Other	Exacerbation (no treatment)	No	Yes		69	Yes
+ECOCF0152_6189 (Source)	ECOCF0152 (Source)	7	6189	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		79	Yes
+ECOCF0152_6266 (Source)	ECOCF0152 (Source)	8	6266	Yes	Other	Exacerbation (no treatment)	No	Yes		72	Yes
+ECOCF0152_6302 (Source)	ECOCF0152 (Source)	9	6302	Yes	Other	Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0152_6342 (Source)	ECOCF0152 (Source)	10	6342	Yes	Other	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0152_6456 (Source)	ECOCF0152 (Source)	11	6456	Yes	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	Yes		73	Yes
+ECOCF0153_355 (Source)	ECOCF0153 (Source)	1	355	No	Other	Exacerbation (treatment with antibiotics)	No	No			No
+ECOCF0153_559 (Source)	ECOCF0153 (Source)	2	559	No	Other	Baseline	No	No			No
+ECOCF0154_1106 (Source)	ECOCF0154 (Source)	5	1106	No	Homozygous	Exacerbation (no treatment)	No	No			Yes
+ECOCF0154_262 (Source)	ECOCF0154 (Source)	1	262	No	Homozygous	Baseline	No	No			Yes
+ECOCF0154_724 (Source)	ECOCF0154 (Source)	2	724	No	Homozygous	Exacerbation (no treatment)	No	No			Yes
+ECOCF0154_774 (Source)	ECOCF0154 (Source)	3	774	No	Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	No			Yes
+ECOCF0154_934 (Source)	ECOCF0154 (Source)	4	934	No	Homozygous	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	No			Yes
+ECOCF0155_6216 (Source)	ECOCF0155 (Source)	1	6216	No	Other	Exacerbation (no treatment)	No	Yes			Yes
+ECOCF0155_6243 (Source)	ECOCF0155 (Source)	2	6243	No	Other	Exacerbation (treatment with antibiotics)	No	Yes			Yes
+ECOCF0155_6324 (Source)	ECOCF0155 (Source)	3	6324	No	Other	Exacerbation (no treatment)	No	Yes	1.8	59	No
+ECOCF0155_6381 (Source)	ECOCF0155 (Source)	4	6381	No	Other	Baseline	No	Yes	2.38	77	No
+ECOCF0155_6794 (Source)	ECOCF0155 (Source)	5	6794		Other	Baseline				80	
+ECOCF0155_6850 (Source)	ECOCF0155 (Source)	6	6850		Other	Exacerbation (no treatment)				79	
+ECOCF0156_1177 (Source)	ECOCF0156 (Source)	5	1177		Homozygous	Exacerbation (no treatment)					
+ECOCF0156_281 (Source)	ECOCF0156 (Source)	1	281	No	Homozygous	Baseline	No	No			No
+ECOCF0156_285 (Source)	ECOCF0156 (Source)	2	285		Homozygous						
+ECOCF0156_960 (Source)	ECOCF0156 (Source)	3	960		Homozygous	Baseline					
+ECOCF0156_981 (Source)	ECOCF0156 (Source)	4	981		Homozygous	Exacerbation (no treatment)					
+ECOCF0157_2487 (Source)	ECOCF0157 (Source)	1	2487	No	Other	Baseline	No	No			No
+ECOCF0157_3032 (Source)	ECOCF0157 (Source)	2	3032	No	Other	Recovery (within 1 month after stopping antibiotics for exacerbation)	No	No		95	No
+ECOCF0157_3096 (Source)	ECOCF0157 (Source)	3	3096	No	Other	Baseline	No	No		94	No
+ECOCF0157_3208 (Source)	ECOCF0157 (Source)	4	3208	No	Other	Baseline	No	No		99	No
+ECOCF0159_6096 (Source)	ECOCF0159 (Source)	1	6096	No	Heterozygous	Baseline	No	Yes	4.52	111	No
+ECOCF0159_6561 (Source)	ECOCF0159 (Source)	2	6561	No	Heterozygous	Exacerbation (no treatment)	No	Yes		98	No
+ECOCF0159_6729 (Source)	ECOCF0159 (Source)	3	6729	No	Heterozygous	Baseline	No	Yes			No
+ECOCF0160_240 (Source)	ECOCF0160 (Source)	1	240	No	Other	Baseline	No	No			No
+ECOCF0160_292 (Source)	ECOCF0160 (Source)	2	292	No	Other	Baseline	No	No			No
+ECOCF0160_4228 (Source)	ECOCF0160 (Source)	3	4228	No	Other	Baseline	No	No			No
+ECOCF0161_3835 (Source)	ECOCF0161 (Source)	1	3835	No	Heterozygous		No	Yes			No
+ECOCF0161_4212 (Source)	ECOCF0161 (Source)	2	4212	No	Heterozygous	Baseline	No	Yes		92	No
+ECOCF0161_4339 (Source)	ECOCF0161 (Source)	3	4339	No	Heterozygous	Baseline	No	Yes		106	No
+ECOCF0161_4402 (Source)	ECOCF0161 (Source)	4	4402	No	Heterozygous	Baseline	No	Yes		87	No
+ECOCF0161_4493 (Source)	ECOCF0161 (Source)	5	4493	No	Heterozygous	Baseline	No	Yes		102	No
+ECOCF0162_1326 (Source)	ECOCF0162 (Source)	2	1326	No	Homozygous	Baseline	No	No			No
+ECOCF0162_784 (Source)	ECOCF0162 (Source)	1	784	No	Homozygous	Baseline	No	No			No
+ECOCF0165_3948 (Source)	ECOCF0165 (Source)	1	3948		Other	Recovery (within 1 month after stopping antibiotics for exacerbation)				77	
+ECOCF0165_4055 (Source)	ECOCF0165 (Source)	2	4055		Other	Exacerbation (no treatment)				59	
+ECOCF0165_4067 (Source)	ECOCF0165 (Source)	3	4067		Other	Exacerbation (no treatment)					
+ECOCF0165_4144 (Source)	ECOCF0165 (Source)	4	4144		Other	Exacerbation (no treatment)				64	
+ECOCF0165_4237 (Source)	ECOCF0165 (Source)	6	4237		Other	Baseline				64	
+ECOCF0165_4323 (Source)	ECOCF0165 (Source)	8	4323		Other	Baseline				63	
+ECOCF0165_4382 (Source)	ECOCF0165 (Source)	9	4382		Other	Recovery (within 1 month after stopping antibiotics for exacerbation)				64	
+ECOCF0166_4634 (Source)	ECOCF0166 (Source)	1	4634			Baseline				71	
+ECOCF0166_4773 (Source)	ECOCF0166 (Source)	2	4773			Baseline				65	
+ECOCF0167_3959 (Source)	ECOCF0167 (Source)	1	3959			Baseline				93	
+ECOCF0167_4051 (Source)	ECOCF0167 (Source)	2	4051			Baseline				86	
+ECOCF0167_4205 (Source)	ECOCF0167 (Source)	3	4205			Baseline					
+ECOCF0167_4247 (Source)	ECOCF0167 (Source)	4	4247			Baseline				92	
+ECOCF0169_5718 (Source)	ECOCF0169 (Source)	1	5718			Baseline				89	
+ECOCF0169_5803 (Source)	ECOCF0169 (Source)	2	5803			Baseline				81	
+ECOCF0171_6206 (Source)	ECOCF0171 (Source)	1	6206			Baseline				84	
+ECOCF0171_6326 (Source)	ECOCF0171 (Source)	2	6326			Recovery (within 1 month after stopping antibiotics for exacerbation)				75	
+ECOCF0171_6334 (Source)	ECOCF0171 (Source)	3	6334			Exacerbation (treatment with antibiotics)					
+ECOCF0171_6381 (Source)	ECOCF0171 (Source)	4	6381			Baseline				83	
+ECOCF0171_6465 (Source)	ECOCF0171 (Source)	5	6465			Baseline				85	
+ECOCF0172_2569 (Source)	ECOCF0172 (Source)	1	2569			Baseline				116	
+ECOCF0172_2786 (Source)	ECOCF0172 (Source)	2	2786			Exacerbation (treatment with antibiotics)				110	
+ECOCF0173_6077 (Source)	ECOCF0173 (Source)	1	6077			Exacerbation (no treatment)				49	
+ECOCF0173_6081 (Source)	ECOCF0173 (Source)	2	6081			Exacerbation (treatment with antibiotics)					
+ECOCF0173_6189 (Source)	ECOCF0173 (Source)	3	6189			Exacerbation (no treatment)				67	
+ECOCF0173_6258 (Source)	ECOCF0173 (Source)	4	6258			Baseline				64	
+ECOCF0173_6304 (Source)	ECOCF0173 (Source)	5	6304			Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0173_6389 (Source)	ECOCF0173 (Source)	6	6389			Exacerbation (treatment with antibiotics)					
+ECOCF0173_6424 (Source)	ECOCF0173 (Source)	7	6424			Exacerbation (treatment with antibiotics)				61	
+ECOCF0174_321 (Source)	ECOCF0174 (Source)	1	321			Baseline					
+ECOCF0175_1198 (Source)	ECOCF0175 (Source)	1	1198			Exacerbation (no treatment)					
+ECOCF0175_1212 (Source)	ECOCF0175 (Source)	2	1212			Exacerbation (treatment with antibiotics)					
+ECOCF0175_1352 (Source)	ECOCF0175 (Source)	3	1352			Exacerbation (no treatment)					
+ECOCF0175_1415 (Source)	ECOCF0175 (Source)	4	1415			Baseline					
+ECOCF0175_1492 (Source)	ECOCF0175 (Source)	5	1492			Exacerbation (no treatment)					
+ECOCF0176_4778 (Source)	ECOCF0176 (Source)	1	4778			Recovery (within 1 month after stopping antibiotics for exacerbation)				128	
+ECOCF0177_307 (Source)	ECOCF0177 (Source)	2	307			Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0177_376 (Source)	ECOCF0177 (Source)	3	376			Baseline					
+ECOCF0177_96 (Source)	ECOCF0177 (Source)	1	96			Recovery (within 1 month after stopping antibiotics for exacerbation)					
+ECOCF0178_252 (Source)	ECOCF0178 (Source)	1	252			Baseline					
+ECOCF0179_6061 (Source)	ECOCF0179 (Source)	1	6061			Recovery (within 1 month after stopping antibiotics for exacerbation)				76	
+ECOCF0179_6072 (Source)	ECOCF0179 (Source)	2	6072			Baseline					
+ECOCF0179_6097 (Source)	ECOCF0179 (Source)	3	6097			Baseline				79	
+ECOCF0179_6167 (Source)	ECOCF0179 (Source)	4	6167			Baseline				87	
+ECOCF0179_6258 (Source)	ECOCF0179 (Source)	5	6258			Baseline					
+ECOCF0179_6321 (Source)	ECOCF0179 (Source)	6	6321			Baseline				73	
+ECOCF0180_2090 (Source)	ECOCF0180 (Source)	1	2090			Baseline					
+ECOCF0180_2235 (Source)	ECOCF0180 (Source)	2	2235			Recovery (within 1 month after stopping antibiotics for exacerbation)				88	
+ECOCF0180_2298 (Source)	ECOCF0180 (Source)	3	2298			Exacerbation (treatment with antibiotics)					
+ECOCF0181_320 (Source)	ECOCF0181 (Source)	1	320			Exacerbation (treatment with antibiotics)					
+ECOCF0182_5079 (Source)	ECOCF0182 (Source)	1	5079			Baseline					
+ECOCF0182_5273 (Source)	ECOCF0182 (Source)	2	5273			Baseline					
+ECOCF0183_1064 (Source)	ECOCF0183 (Source)	2	1064			Exacerbation (no treatment)					
+ECOCF0183_904 (Source)	ECOCF0183 (Source)	1	904			Baseline					
+ECOCF0184_118 (Source)	ECOCF0184 (Source)	1	118			Exacerbation (no treatment)					
+ECOCF0185_2857 (Source)	ECOCF0185 (Source)	1	2857			Baseline				108	
+ECOCF0186_4195 (Source)	ECOCF0186 (Source)	1	4195			Baseline				93	
+ECOCF0187_6892 (Source)	ECOCF0187 (Source)	1	6892			Recovery (within 1 month after stopping antibiotics for exacerbation)					

@@ -1,0 +1,170 @@
+Participant_Id	Aztreonam [CHEBI_161680]	CFTR mutation (allele 1) [EUPATH_0009092]	CFTR mutation (allele 2) [EUPATH_0009032]	Country [ENVO_00000009]	Sex [PATO_0000047]
+ECOCF0001 (Source)	No			United States of America	Female
+ECOCF0002 (Source)	No	G85E	I1234V	United States of America	Male
+ECOCF0003 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0004 (Source)	No	F508del	Other	United States of America	Female
+ECOCF0005 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0006 (Source)	No	F508del	I507del	United States of America	Female
+ECOCF0007 (Source)	No	R709X	Other	United States of America	Female
+ECOCF0008 (Source)	No	S912L	W1282X	United States of America	Male
+ECOCF0009 (Source)	No	F508del		United States of America	Male
+ECOCF0011 (Source)	No	G542X	R117H	United States of America	Male
+ECOCF0012 (Source)	Yes	F508del	G85E	United States of America	Male
+ECOCF0013 (Source)	No	W1282X	W1282X	United States of America	Female
+ECOCF0014 (Source)	No	F508del	1717-1G->A	United States of America	Female
+ECOCF0015 (Source)	No	F508del	N1303K	United States of America	Female
+ECOCF0016 (Source)	No	F508del	1717-1G->A	United States of America	Male
+ECOCF0017 (Source)	No	F508del	G542X	United States of America	Male
+ECOCF0018 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0019 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0020 (Source)	No	W1282X	W1282X	United States of America	Female
+ECOCF0021 (Source)	No	R31C	F508del	United States of America	Female
+ECOCF0022 (Source)	No	F508del	3849+10kbC->T	United States of America	Male
+ECOCF0023 (Source)	No	F508del	R117C	United States of America	Male
+ECOCF0024 (Source)	No	W1282X	W1282X	United States of America	Male
+ECOCF0026 (Source)	No			United States of America	Female
+ECOCF0027 (Source)	No	R334W		United States of America	Male
+ECOCF0028 (Source)	No			United States of America	Female
+ECOCF0029 (Source)	No	F508del	Other	United States of America	Male
+ECOCF0030 (Source)	No	F508del	R553X	United States of America	Male
+ECOCF0031 (Source)	No	F508del	V520F	United States of America	Female
+ECOCF0032 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0033 (Source)	No	F508del	1585-8G>A	United States of America	Female
+ECOCF0035 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0036 (Source)	No	F508del	W1282X	United States of America	Male
+ECOCF0037 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0038 (Source)	Yes	F508del	H609R	United States of America	Male
+ECOCF0039 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0040 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0041 (Source)	No	W1282X	W1282X	United States of America	Female
+ECOCF0042 (Source)	No			United States of America	Female
+ECOCF0043 (Source)	No			United States of America	Male
+ECOCF0044 (Source)	No	F508del	N1303K	United States of America	Female
+ECOCF0045 (Source)	No	F508del		United States of America	Female
+ECOCF0046 (Source)	No	F508del	R117H	United States of America	Male
+ECOCF0047 (Source)	No	F508del	G542X	United States of America	Male
+ECOCF0048 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0049 (Source)	No	F508del	7T9T variant	United States of America	Female
+ECOCF0050 (Source)	No	F508del	A455E	United States of America	Male
+ECOCF0051 (Source)	No	R560T	N1303K	United States of America	Male
+ECOCF0052 (Source)	No	F508del	R347H	United States of America	Male
+ECOCF0053 (Source)	No	W1282X	L127dup	United States of America	Male
+ECOCF0054 (Source)	No	F508del	R347H	United States of America	Female
+ECOCF0055 (Source)	No	F508del	R347H	United States of America	Female
+ECOCF0056 (Source)	No			United States of America	Male
+ECOCF0057 (Source)	Yes	F508del	R553X	United States of America	Female
+ECOCF0058 (Source)	No	F508del		United States of America	Female
+ECOCF0059 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0060 (Source)	Yes	F508del	M470V	United States of America	Female
+ECOCF0061 (Source)	No	F508del		United States of America	Male
+ECOCF0062 (Source)	No	F508del	R553X	United States of America	Female
+ECOCF0063 (Source)	No	p.5466x	p.Q1042x	United States of America	Female
+ECOCF0064 (Source)	No	F508del	R74W	United States of America	Female
+ECOCF0065 (Source)	No	F508del		United States of America	Female
+ECOCF0066 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0067 (Source)	No	I507del	F508del	United States of America	Female
+ECOCF0068 (Source)	No	F508del	1161delC	United States of America	Male
+ECOCF0069 (Source)	No	F508del	G542X	United States of America	Female
+ECOCF0070 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0071 (Source)	No	R560T	1717-1G->A	United States of America	Male
+ECOCF0072 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0073 (Source)	No			United States of America	Female
+ECOCF0074 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0075 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0076 (Source)	No	3849+10kbC->T	W1282X	United States of America	Female
+ECOCF0077 (Source)	No	F508del	D1152H	United States of America	Male
+ECOCF0078 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0079 (Source)	No	F508del	Q359K/T360K	United States of America	Male
+ECOCF0080 (Source)	No	F508del	D1152H	United States of America	Female
+ECOCF0081 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0082 (Source)	No			United States of America	Female
+ECOCF0083 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0085 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0086 (Source)	No	F508del	Q493X	United States of America	Male
+ECOCF0087 (Source)	No	F508del	G551D	United States of America	Male
+ECOCF0088 (Source)	No	1717-1G->A	5T	United States of America	Male
+ECOCF0090 (Source)	No	F508del		United States of America	Male
+ECOCF0091 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0093 (Source)	No	F508del	Other	United States of America	Female
+ECOCF0094 (Source)	No	F508del		United States of America	Male
+ECOCF0095 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0096 (Source)	No	F508del	R560T	United States of America	Male
+ECOCF0097 (Source)	No	2184IrsA+	G1244E	United States of America	Male
+ECOCF0098 (Source)	No			United States of America	Female
+ECOCF0100 (Source)	No	G542X	S1235R	United States of America	Male
+ECOCF0101 (Source)	No	W1282X	F508del	United States of America	Female
+ECOCF0102 (Source)	No	W1282X	G542X	United States of America	Male
+ECOCF0103 (Source)	No	F508del	unknown	United States of America	Female
+ECOCF0104 (Source)	No	F508del	Other	United States of America	Male
+ECOCF0105 (Source)	No	F508del	Other	United States of America	Male
+ECOCF0106 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0107 (Source)	No			United States of America	Female
+ECOCF0108 (Source)	No	F508del	A559T	United States of America	Female
+ECOCF0109 (Source)	No	F508del	W1282X	United States of America	Male
+ECOCF0110 (Source)	No	F508del	Other	United States of America	Female
+ECOCF0111 (Source)	No	F508del	G542X	United States of America	Male
+ECOCF0112 (Source)	No	F508del	3120+1G->A	United States of America	Female
+ECOCF0113 (Source)	No	F508del	R560T	United States of America	Female
+ECOCF0114 (Source)	No	p.R553x	unknown	United States of America	Male
+ECOCF0115 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0116 (Source)	No	W1282X	W1282X	United States of America	Female
+ECOCF0117 (Source)	No	F508del	W1282X	United States of America	Female
+ECOCF0118 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0119 (Source)	No	F508del	4016insT	United States of America	Male
+ECOCF0120 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0121 (Source)	No	F508del	3120+1G->A	United States of America	Male
+ECOCF0122 (Source)	No	F508del	N1303K	United States of America	Female
+ECOCF0123 (Source)	No	Other		United States of America	Male
+ECOCF0124 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0125 (Source)	No	W1282X		United States of America	Female
+ECOCF0127 (Source)	No	3849+10kbC->T	3849+10kbC->T	United States of America	Female
+ECOCF0128 (Source)	No	I507del	A559T	United States of America	Female
+ECOCF0129 (Source)	No	F508del	1898+1G->A	United States of America	Female
+ECOCF0130 (Source)	No	F508del	I502T	United States of America	Female
+ECOCF0131 (Source)	No	621+1G->T	Other	United States of America	Female
+ECOCF0132 (Source)	No	F508del	R553X	United States of America	Male
+ECOCF0133 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0134 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0135 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0137 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0138 (Source)	Yes	F508del	F508del	United States of America	Male
+ECOCF0140 (Source)	No	F508del	W1282X	United States of America	Male
+ECOCF0143 (Source)	No	4374+1G->T	Other	United States of America	Female
+ECOCF0144 (Source)	No	1540A>G	1716+63ins11	United States of America	Female
+ECOCF0145 (Source)	No	unknown		United States of America	Female
+ECOCF0146 (Source)	No	F508del	R117H	United States of America	Male
+ECOCF0147 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0149 (Source)	No	M1V	F508del	United States of America	Male
+ECOCF0150 (Source)	No	W1282x	5T Variant	United States of America	Male
+ECOCF0151 (Source)	Yes	3120+1G->A	3120+1G->A	United States of America	Female
+ECOCF0152 (Source)	No	3120+1G->A	3120+1G->A	United States of America	Male
+ECOCF0153 (Source)	No	p.Gln98Arg	p.Gln98Arg	United States of America	Male
+ECOCF0154 (Source)	No	F508del	F508del	United States of America	Male
+ECOCF0155 (Source)	No	R1158X	3849+10kbC>T	United States of America	Female
+ECOCF0156 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0157 (Source)	No	W1063X	F1099L	United States of America	Female
+ECOCF0159 (Source)	No	F508del		United States of America	Male
+ECOCF0160 (Source)	No	c.262_263delTT	c.[220C>T; 3808G>A]	United States of America	Male
+ECOCF0161 (Source)	No	F508del	L206W	United States of America	Male
+ECOCF0162 (Source)	No	F508del	F508del	United States of America	Female
+ECOCF0165 (Source)		G542X	N1303K	United States of America	Male
+ECOCF0166 (Source)				United States of America	Female
+ECOCF0167 (Source)				United States of America	Male
+ECOCF0169 (Source)				United States of America	Male
+ECOCF0171 (Source)				United States of America	Female
+ECOCF0172 (Source)				United States of America	Male
+ECOCF0173 (Source)				United States of America	Female
+ECOCF0174 (Source)				United States of America	Male
+ECOCF0175 (Source)				United States of America	Female
+ECOCF0176 (Source)				United States of America	Male
+ECOCF0177 (Source)				United States of America	Female
+ECOCF0178 (Source)				United States of America	Female
+ECOCF0179 (Source)				United States of America	Male
+ECOCF0180 (Source)				United States of America	Male
+ECOCF0181 (Source)				United States of America	Female
+ECOCF0182 (Source)				United States of America	Female
+ECOCF0183 (Source)				United States of America	Male
+ECOCF0184 (Source)				United States of America	Male
+ECOCF0185 (Source)				United States of America	Male
+ECOCF0186 (Source)				United States of America	Male
+ECOCF0187 (Source)				United States of America	Male
