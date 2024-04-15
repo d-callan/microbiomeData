@@ -1,0 +1,179 @@
+Participant_Id	City, village, or region [ENVO_00000856]	Country [ENVO_00000009]	Host life stage [UBERON_0000105]	Insecticide resistance [OMIT_0008430]	Pyrethroid insecticide exposure [ECTO_9002101]	Study group [EUPATH_0000639]	Subject common name [OBI_0003074]
+SRS4060783.SRR8216242 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
+SRS4060784.SRR8216241 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
+SRS4060785.SRR8216240 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+SRS4060788.SRR8216237 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
+SRS4060789.SRR8216236 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+SRS4060796.SRR8216229 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
+SRS4060797.SRR8216228 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
+			Non-gravid adult female, 2-5 days old				
+SRS4060799.SRR8216226 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
+SRS4060800.SRR8216225 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+SRS4060815.SRR8216210 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
+SRS4060816.SRR8216209 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+SRS4060863.SRR8216162 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
+SRS4060864.SRR8216161 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
+SRS4060865.SRR8216159 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
+SRS4060866.SRR8216160 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
+			Non-gravid adult female, 2-5 days old				
+SRS4060868.SRR8216156 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
+			Non-gravid adult female, 2-5 days old				
+SRS4060870.SRR8216155 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+SRS4060892.SRR8216133 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
+SRS4060893.SRR8216132 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
+SRS4060894.SRR8216131 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
+SRS4060895.SRR8216130 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
+SRS4060896.SRR8216129 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
+SRS4060897.SRR8216128 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+SRS4060936.SRR8216089 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
+SRS4060937.SRR8216088 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
+SRS4060938.SRR8216087 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
+SRS4060939.SRR8216086 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
+SRS4060940.SRR8216085 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
+SRS4060941.SRR8216084 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+			Larva, L3-L4 stage				
+SRS4060952.SRR8216073 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
+SRS4060953.SRR8216072 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
+SRS4060954.SRR8216071 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
+SRS4060955.SRR8216070 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
+SRS4060956.SRR8216069 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
+SRS4060957.SRR8216068 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
+			Non-gravid adult female, 2-5 days old				
+			Larva, L3-L4 stage				
+SRS4060960.SRR8216065 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
