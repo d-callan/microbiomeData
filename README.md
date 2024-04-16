@@ -4,7 +4,7 @@
 
 
 # microbiomeData
-An R package containing some (eventually all!) of the curated datasets from MicrobiomeDB.org and various helper functions for conveniently using that data in R.
+An R package containing all of the curated datasets from MicrobiomeDB.org and a helper function to list which datasets are available.
 
 ## Installation
 
@@ -15,7 +15,7 @@ remotes::install_github('microbiomeDB/microbiomeData')
 ```
 
 ## Usage
-This package contains all of the curated datasets from MicrobiomeDB.org. It is an extension to the [MicrobiomeDB R package](https://github.com/microbiomeDB/MicrobiomeDB) which can be used to analyze and visualize these data.
+This package contains all of the curated datasets from MicrobiomeDB.org. It is an extension to the [MicrobiomeDB R package](https://github.com/microbiomeDB/MicrobiomeDB) which can be used to analyze and visualize these data. That package is installed and attached with this one.
 
 ### Direct Usage
 You can get a list of all curated datasets available within this package by doing the following:
@@ -29,7 +29,7 @@ Once you have your favorite dataset as `myData`, you can ask for specific collec
 
 ```R
 getCollectionNames(myData) # will print the names of collections
-myCollection <- getCollection(myData, '16S Species')
+myCollection <- getCollection(myData, '16S (V4) Species')
 
 ```
 
