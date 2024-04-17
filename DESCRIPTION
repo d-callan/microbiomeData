@@ -1,6 +1,6 @@
 Package: microbiomeData
 Title: Curated Data from MicrobiomeDB.org
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     c(person(given = "Danielle",
            family = "Callan",
