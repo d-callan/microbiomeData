@@ -1,0 +1,2416 @@
+prm_Id	Participant_Id	Age (months) [OBI_0001169]	Height-for-age z-score [EUPATH_0011894]	Weight-for-age z-score [EUPATH_0000733]	Weight-for-height z-score [EUPATH_0011895]
+					
+					
+Bgsng7018_11 (Source)	Bgsng7018	10.2			
+Bgsng7018_12 (Source)	Bgsng7018	11.4			
+					
+Bgsng7018_14 (Source)	Bgsng7018	13.2			
+Bgsng7018_15 (Source)	Bgsng7018	14.1			
+					
+Bgsng7018_17 (Source)	Bgsng7018	16.2			
+Bgsng7018_18 (Source)	Bgsng7018	17.1			
+					
+Bgsng7018_2 (Source)	Bgsng7018	1.5			
+Bgsng7018_20 (Source)	Bgsng7018	19			
+Bgsng7018_24 (Source)	Bgsng7018	23.3			
+					
+Bgsng7018_26 (Source)	Bgsng7018	25.3			
+Bgsng7018_27 (Source)	Bgsng7018	26.3			
+					
+Bgsng7018_29 (Source)	Bgsng7018	28.6			
+Bgsng7018_3 (Source)	Bgsng7018	2.4			
+Bgsng7018_30 (Source)	Bgsng7018	29.1			
+					
+Bgsng7018_33 (Source)	Bgsng7018	32.3			
+					
+Bgsng7018_35 (Source)	Bgsng7018	34.1			
+Bgsng7018_36 (Source)	Bgsng7018	35.1			
+					
+Bgsng7018_38 (Source)	Bgsng7018	37.3			
+Bgsng7018_39 (Source)	Bgsng7018	38.1			
+					
+					
+Bgsng7018_41 (Source)	Bgsng7018	40.3			
+					
+Bgsng7018_44 (Source)	Bgsng7018	43.2			
+Bgsng7018_5 (Source)	Bgsng7018	3.8			
+Bgsng7018_6 (Source)	Bgsng7018	5.1			
+					
+Bgsng7018_8 (Source)	Bgsng7018	7.3			
+Bgsng7018_9 (Source)	Bgsng7018	8.1			
+					
+					
+Bgsng7035_11 (Source)	Bgsng7035	10.2			
+Bgsng7035_12 (Source)	Bgsng7035	11.2			
+					
+Bgsng7035_14 (Source)	Bgsng7035	13.3			
+Bgsng7035_15 (Source)	Bgsng7035	14.2			
+					
+Bgsng7035_17 (Source)	Bgsng7035	16			
+					
+Bgsng7035_2 (Source)	Bgsng7035	1.2			
+Bgsng7035_20 (Source)	Bgsng7035	19.3			
+Bgsng7035_21 (Source)	Bgsng7035	20.1			
+					
+Bgsng7035_23 (Source)	Bgsng7035	22.3			
+Bgsng7035_24 (Source)	Bgsng7035	23			
+					
+Bgsng7035_26 (Source)	Bgsng7035	25.2			
+Bgsng7035_27 (Source)	Bgsng7035	26.1			
+					
+Bgsng7035_29 (Source)	Bgsng7035	28.1			
+Bgsng7035_3 (Source)	Bgsng7035	1.9			
+Bgsng7035_30 (Source)	Bgsng7035	29.1			
+					
+Bgsng7035_32 (Source)	Bgsng7035	31.1			
+Bgsng7035_33 (Source)	Bgsng7035	32.1			
+					
+Bgsng7035_35 (Source)	Bgsng7035	34.1			
+					
+Bgsng7035_38 (Source)	Bgsng7035	37.2			
+Bgsng7035_39 (Source)	Bgsng7035	37.9			
+					
+					
+Bgsng7035_41 (Source)	Bgsng7035	39.9			
+Bgsng7035_42 (Source)	Bgsng7035	41			
+					
+Bgsng7035_44 (Source)	Bgsng7035	43.5			
+Bgsng7035_45 (Source)	Bgsng7035	44			
+					
+Bgsng7035_47 (Source)	Bgsng7035	46.1			
+					
+Bgsng7035_5 (Source)	Bgsng7035	3.6			
+Bgsng7035_50 (Source)	Bgsng7035	49.1			
+Bgsng7035_51 (Source)	Bgsng7035	50.2			
+					
+Bgsng7035_53 (Source)	Bgsng7035	51.9			
+Bgsng7035_54 (Source)	Bgsng7035	53			
+					
+Bgsng7035_56 (Source)	Bgsng7035	55			
+Bgsng7035_57 (Source)	Bgsng7035	56.1			
+					
+Bgsng7035_59 (Source)	Bgsng7035	58.2			
+Bgsng7035_6 (Source)	Bgsng7035	5.2			
+					
+					
+Bgsng7035_8 (Source)	Bgsng7035	7.2			
+Bgsng7035_9 (Source)	Bgsng7035	8.6			
+					
+					
+Bgsng7052_11 (Source)	Bgsng7052	10.3			
+					
+Bgsng7052_14 (Source)	Bgsng7052	13.1			
+Bgsng7052_15 (Source)	Bgsng7052	14.6			
+					
+Bgsng7052_17 (Source)	Bgsng7052	16.1			
+Bgsng7052_18 (Source)	Bgsng7052	17.2			
+					
+Bgsng7052_2 (Source)	Bgsng7052	1.3			
+Bgsng7052_20 (Source)	Bgsng7052	19.5			
+Bgsng7052_24 (Source)	Bgsng7052	23.5			
+					
+Bgsng7052_26 (Source)	Bgsng7052	26.1			
+Bgsng7052_27 (Source)	Bgsng7052	26.7			
+					
+Bgsng7052_29 (Source)	Bgsng7052	28.3			
+Bgsng7052_3 (Source)	Bgsng7052	2.2			
+Bgsng7052_30 (Source)	Bgsng7052	29.1			
+					
+Bgsng7052_32 (Source)	Bgsng7052	31.2			
+Bgsng7052_33 (Source)	Bgsng7052	32			
+					
+Bgsng7052_35 (Source)	Bgsng7052	34			
+Bgsng7052_36 (Source)	Bgsng7052	35.1			
+					
+Bgsng7052_38 (Source)	Bgsng7052	36.9			
+Bgsng7052_39 (Source)	Bgsng7052	38.1			
+					
+					
+Bgsng7052_41 (Source)	Bgsng7052	40			
+Bgsng7052_42 (Source)	Bgsng7052	41.2			
+					
+Bgsng7052_44 (Source)	Bgsng7052	43.3			
+Bgsng7052_45 (Source)	Bgsng7052	44.2			
+					
+Bgsng7052_47 (Source)	Bgsng7052	45.9			
+Bgsng7052_48 (Source)	Bgsng7052	47.1			
+					
+Bgsng7052_5 (Source)	Bgsng7052	4.3			
+Bgsng7052_50 (Source)	Bgsng7052	49			
+Bgsng7052_51 (Source)	Bgsng7052	50.3			
+					
+Bgsng7052_53 (Source)	Bgsng7052	51.9			
+Bgsng7052_54 (Source)	Bgsng7052	53.1			
+					
+Bgsng7052_56 (Source)	Bgsng7052	55.2			
+Bgsng7052_57 (Source)	Bgsng7052	56			
+					
+Bgsng7052_59 (Source)	Bgsng7052	58.1			
+Bgsng7052_6 (Source)	Bgsng7052	5.2			
+					
+					
+Bgsng7052_8 (Source)	Bgsng7052	7.3			
+Bgsng7052_9 (Source)	Bgsng7052	8.2			
+					
+					
+Bgsng7063_11 (Source)	Bgsng7063	10.3			
+					
+Bgsng7063_15 (Source)	Bgsng7063	14			
+					
+Bgsng7063_17 (Source)	Bgsng7063	16.1			
+Bgsng7063_18 (Source)	Bgsng7063	17			
+					
+Bgsng7063_2 (Source)	Bgsng7063	1.6			
+Bgsng7063_20 (Source)	Bgsng7063	19.2			
+Bgsng7063_21 (Source)	Bgsng7063	20			
+					
+Bgsng7063_24 (Source)	Bgsng7063	23			
+					
+Bgsng7063_26 (Source)	Bgsng7063	25			
+Bgsng7063_27 (Source)	Bgsng7063	26			
+Bgsng7063_28 (Source)	Bgsng7063	27			
+Bgsng7063_29 (Source)	Bgsng7063	28.1			
+Bgsng7063_3 (Source)	Bgsng7063	2.1			
+Bgsng7063_30 (Source)	Bgsng7063	28.9			
+					
+Bgsng7063_32 (Source)	Bgsng7063	30.9			
+Bgsng7063_33 (Source)	Bgsng7063	32			
+					
+Bgsng7063_35 (Source)	Bgsng7063	34			
+Bgsng7063_36 (Source)	Bgsng7063	35			
+					
+Bgsng7063_38 (Source)	Bgsng7063	37			
+Bgsng7063_39 (Source)	Bgsng7063	37.9			
+					
+					
+Bgsng7063_41 (Source)	Bgsng7063	39.9			
+Bgsng7063_42 (Source)	Bgsng7063	40.9			
+					
+Bgsng7063_44 (Source)	Bgsng7063	42.9			
+Bgsng7063_45 (Source)	Bgsng7063	43.9			
+					
+Bgsng7063_47 (Source)	Bgsng7063	45.9			
+Bgsng7063_48 (Source)	Bgsng7063	46.9			
+					
+Bgsng7063_5 (Source)	Bgsng7063	4.2			
+Bgsng7063_50 (Source)	Bgsng7063	49			
+					
+Bgsng7063_53 (Source)	Bgsng7063	51.9			
+Bgsng7063_54 (Source)	Bgsng7063	52.9			
+					
+Bgsng7063_56 (Source)	Bgsng7063	55.1			
+Bgsng7063_57 (Source)	Bgsng7063	56			
+					
+Bgsng7063_59 (Source)	Bgsng7063	58			
+Bgsng7063_6 (Source)	Bgsng7063	5.2			
+					
+					
+Bgsng7063_8 (Source)	Bgsng7063	7.3			
+					
+					
+					
+Bgsng7071_14 (Source)	Bgsng7071	13			
+Bgsng7071_15 (Source)	Bgsng7071	14.2			
+					
+Bgsng7071_18 (Source)	Bgsng7071	17.1			
+					
+Bgsng7071_2 (Source)	Bgsng7071	2.1			
+Bgsng7071_20 (Source)	Bgsng7071	19.4			
+					
+Bgsng7071_23 (Source)	Bgsng7071	22.1			
+Bgsng7071_24 (Source)	Bgsng7071	23.1			
+					
+Bgsng7071_26 (Source)	Bgsng7071	25.2			
+Bgsng7071_27 (Source)	Bgsng7071	26.2			
+					
+Bgsng7071_29 (Source)	Bgsng7071	28.4			
+Bgsng7071_30 (Source)	Bgsng7071	29.4			
+					
+Bgsng7071_32 (Source)	Bgsng7071	31.1			
+Bgsng7071_33 (Source)	Bgsng7071	32.1			
+					
+Bgsng7071_35 (Source)	Bgsng7071	34.1			
+Bgsng7071_36 (Source)	Bgsng7071	35.1			
+					
+Bgsng7071_38 (Source)	Bgsng7071	37.2			
+Bgsng7071_39 (Source)	Bgsng7071	38			
+					
+					
+Bgsng7071_41 (Source)	Bgsng7071	40.1			
+Bgsng7071_42 (Source)	Bgsng7071	41.3			
+					
+Bgsng7071_44 (Source)	Bgsng7071	43.5			
+Bgsng7071_45 (Source)	Bgsng7071	44			
+					
+Bgsng7071_47 (Source)	Bgsng7071	46.1			
+Bgsng7071_48 (Source)	Bgsng7071	47			
+					
+Bgsng7071_5 (Source)	Bgsng7071	4.4			
+Bgsng7071_50 (Source)	Bgsng7071	49.3			
+					
+Bgsng7071_53 (Source)	Bgsng7071	52			
+Bgsng7071_54 (Source)	Bgsng7071	53			
+					
+Bgsng7071_56 (Source)	Bgsng7071	55.1			
+Bgsng7071_57 (Source)	Bgsng7071	56.2			
+					
+Bgsng7071_59 (Source)	Bgsng7071	58.1			
+Bgsng7071_6 (Source)	Bgsng7071	5.2			
+					
+					
+Bgsng7071_9 (Source)	Bgsng7071	8.4			
+					
+					
+Bgsng7082_11 (Source)	Bgsng7082	11.7			
+					
+Bgsng7082_15 (Source)	Bgsng7082	14.1			
+					
+Bgsng7082_18 (Source)	Bgsng7082	17.3			
+					
+Bgsng7082_2 (Source)	Bgsng7082	1.3			
+Bgsng7082_20 (Source)	Bgsng7082	19.2			
+Bgsng7082_24 (Source)	Bgsng7082	23.8			
+					
+Bgsng7082_26 (Source)	Bgsng7082	25.3			
+Bgsng7082_27 (Source)	Bgsng7082	26.1			
+Bgsng7082_28 (Source)	Bgsng7082	27.1			
+Bgsng7082_29 (Source)	Bgsng7082	28.1			
+Bgsng7082_3 (Source)	Bgsng7082	2			
+Bgsng7082_30 (Source)	Bgsng7082	29.1			
+					
+Bgsng7082_32 (Source)	Bgsng7082	31.1			
+Bgsng7082_33 (Source)	Bgsng7082	32.3			
+					
+Bgsng7082_35 (Source)	Bgsng7082	34.6			
+Bgsng7082_36 (Source)	Bgsng7082	35.3			
+Bgsng7082_37 (Source)	Bgsng7082	36.2			
+Bgsng7082_38 (Source)	Bgsng7082	37.2			
+Bgsng7082_39 (Source)	Bgsng7082	38			
+					
+					
+Bgsng7082_41 (Source)	Bgsng7082	40.2			
+Bgsng7082_42 (Source)	Bgsng7082	41.1			
+					
+Bgsng7082_44 (Source)	Bgsng7082	43.6			
+Bgsng7082_45 (Source)	Bgsng7082	44.1			
+Bgsng7082_5 (Source)	Bgsng7082	4.4			
+Bgsng7082_6 (Source)	Bgsng7082	5.8			
+					
+Bgsng7082_8 (Source)	Bgsng7082	7.2			
+Bgsng7082_9 (Source)	Bgsng7082	8.3			
+					
+					
+Bgsng7090_11 (Source)	Bgsng7090	10.9			
+Bgsng7090_12 (Source)	Bgsng7090	11.6			
+					
+Bgsng7090_14 (Source)	Bgsng7090	13.3			
+Bgsng7090_15 (Source)	Bgsng7090	14.1			
+					
+Bgsng7090_17 (Source)	Bgsng7090	16.2			
+Bgsng7090_18 (Source)	Bgsng7090	17.2			
+					
+Bgsng7090_2 (Source)	Bgsng7090	1.1			
+Bgsng7090_20 (Source)	Bgsng7090	19.2			
+					
+Bgsng7090_23 (Source)	Bgsng7090	22.1			
+Bgsng7090_24 (Source)	Bgsng7090	23.1			
+					
+Bgsng7090_26 (Source)	Bgsng7090	25.2			
+Bgsng7090_27 (Source)	Bgsng7090	26.1			
+Bgsng7090_28 (Source)	Bgsng7090	27.1			
+Bgsng7090_29 (Source)	Bgsng7090	28			
+Bgsng7090_3 (Source)	Bgsng7090	1.9			
+Bgsng7090_30 (Source)	Bgsng7090	29.3			
+					
+Bgsng7090_32 (Source)	Bgsng7090	31.2			
+Bgsng7090_33 (Source)	Bgsng7090	32.8			
+					
+Bgsng7090_35 (Source)	Bgsng7090	34.1			
+Bgsng7090_36 (Source)	Bgsng7090	35.1			
+					
+Bgsng7090_38 (Source)	Bgsng7090	37			
+Bgsng7090_39 (Source)	Bgsng7090	38.1			
+					
+					
+Bgsng7090_41 (Source)	Bgsng7090	40			
+Bgsng7090_42 (Source)	Bgsng7090	41.1			
+					
+Bgsng7090_44 (Source)	Bgsng7090	43.1			
+Bgsng7090_45 (Source)	Bgsng7090	44.1			
+					
+Bgsng7090_47 (Source)	Bgsng7090	46.1			
+Bgsng7090_48 (Source)	Bgsng7090	47			
+					
+Bgsng7090_5 (Source)	Bgsng7090	4.7			
+Bgsng7090_50 (Source)	Bgsng7090	49.1			
+Bgsng7090_51 (Source)	Bgsng7090	50.1			
+					
+Bgsng7090_53 (Source)	Bgsng7090	52.1			
+Bgsng7090_54 (Source)	Bgsng7090	53			
+					
+Bgsng7090_56 (Source)	Bgsng7090	55.6			
+Bgsng7090_57 (Source)	Bgsng7090	56.1			
+					
+Bgsng7090_6 (Source)	Bgsng7090	5.5			
+					
+Bgsng7090_8 (Source)	Bgsng7090	7.3			
+Bgsng7090_9 (Source)	Bgsng7090	8.2			
+					
+					
+Bgsng7096_11 (Source)	Bgsng7096	10			
+Bgsng7096_12 (Source)	Bgsng7096	11.2			
+					
+Bgsng7096_14 (Source)	Bgsng7096	13.3			
+Bgsng7096_15 (Source)	Bgsng7096	14.2			
+					
+Bgsng7096_17 (Source)	Bgsng7096	16.1			
+					
+Bgsng7096_2 (Source)	Bgsng7096	1.1			
+Bgsng7096_20 (Source)	Bgsng7096	19.3			
+Bgsng7096_21 (Source)	Bgsng7096	20.2			
+					
+Bgsng7096_23 (Source)	Bgsng7096	22.3			
+Bgsng7096_24 (Source)	Bgsng7096	23.2			
+					
+Bgsng7096_26 (Source)	Bgsng7096	25.2			
+Bgsng7096_27 (Source)	Bgsng7096	26			
+					
+Bgsng7096_29 (Source)	Bgsng7096	28.1			
+Bgsng7096_3 (Source)	Bgsng7096	1.8			
+Bgsng7096_30 (Source)	Bgsng7096	29.2			
+					
+Bgsng7096_32 (Source)	Bgsng7096	31			
+Bgsng7096_33 (Source)	Bgsng7096	32.2			
+					
+Bgsng7096_35 (Source)	Bgsng7096	34.2			
+Bgsng7096_36 (Source)	Bgsng7096	35.2			
+					
+Bgsng7096_38 (Source)	Bgsng7096	37			
+Bgsng7096_39 (Source)	Bgsng7096	38			
+					
+					
+Bgsng7096_41 (Source)	Bgsng7096	40.1			
+Bgsng7096_42 (Source)	Bgsng7096	41.1			
+					
+Bgsng7096_44 (Source)	Bgsng7096	43.2			
+Bgsng7096_45 (Source)	Bgsng7096	44.2			
+					
+Bgsng7096_47 (Source)	Bgsng7096	46.1			
+Bgsng7096_48 (Source)	Bgsng7096	47.1			
+					
+Bgsng7096_5 (Source)	Bgsng7096	4.1			
+Bgsng7096_50 (Source)	Bgsng7096	49.2			
+Bgsng7096_51 (Source)	Bgsng7096	50.3			
+					
+Bgsng7096_53 (Source)	Bgsng7096	52.1			
+Bgsng7096_54 (Source)	Bgsng7096	53.3			
+					
+Bgsng7096_56 (Source)	Bgsng7096	55.2			
+Bgsng7096_57 (Source)	Bgsng7096	56.1			
+					
+Bgsng7096_59 (Source)	Bgsng7096	58.1			
+Bgsng7096_6 (Source)	Bgsng7096	5			
+					
+					
+Bgsng7096_8 (Source)	Bgsng7096	7.2			
+Bgsng7096_9 (Source)	Bgsng7096	8.2			
+					
+					
+Bgsng7106_11 (Source)	Bgsng7106	10.6			
+					
+					
+Bgsng7106_16 (Source)	Bgsng7106	16.4			
+					
+Bgsng7106_19 (Source)	Bgsng7106	19.1			
+Bgsng7106_2 (Source)	Bgsng7106	1.2			
+Bgsng7106_20 (Source)	Bgsng7106	20.3			
+					
+Bgsng7106_22 (Source)	Bgsng7106	22.2			
+Bgsng7106_23 (Source)	Bgsng7106	23.3			
+					
+Bgsng7106_25 (Source)	Bgsng7106	25.3			
+Bgsng7106_26 (Source)	Bgsng7106	26.1			
+					
+Bgsng7106_28 (Source)	Bgsng7106	28.4			
+Bgsng7106_29 (Source)	Bgsng7106	29.6			
+Bgsng7106_3 (Source)	Bgsng7106	2.4			
+					
+Bgsng7106_31 (Source)	Bgsng7106	31.1			
+Bgsng7106_32 (Source)	Bgsng7106	32.5			
+					
+Bgsng7106_34 (Source)	Bgsng7106	34.1			
+Bgsng7106_35 (Source)	Bgsng7106	35			
+					
+Bgsng7106_37 (Source)	Bgsng7106	37.1			
+Bgsng7106_38 (Source)	Bgsng7106	38			
+					
+					
+Bgsng7106_40 (Source)	Bgsng7106	40			
+Bgsng7106_41 (Source)	Bgsng7106	41.4			
+					
+Bgsng7106_43 (Source)	Bgsng7106	43.1			
+Bgsng7106_44 (Source)	Bgsng7106	44			
+					
+Bgsng7106_46 (Source)	Bgsng7106	46.1			
+Bgsng7106_47 (Source)	Bgsng7106	47.2			
+					
+Bgsng7106_49 (Source)	Bgsng7106	49.3			
+Bgsng7106_5 (Source)	Bgsng7106	4.4			
+Bgsng7106_50 (Source)	Bgsng7106	50.2			
+					
+Bgsng7106_52 (Source)	Bgsng7106	52.3			
+Bgsng7106_53 (Source)	Bgsng7106	53.2			
+					
+Bgsng7106_56 (Source)	Bgsng7106	56.2			
+					
+Bgsng7106_58 (Source)	Bgsng7106	58.2			
+Bgsng7106_59 (Source)	Bgsng7106	59			
+					
+					
+Bgsng7106_9 (Source)	Bgsng7106	8.6			
+					
+					
+Bgsng7114_11 (Source)	Bgsng7114	10.2			
+Bgsng7114_12 (Source)	Bgsng7114	11			
+					
+					
+Bgsng7114_17 (Source)	Bgsng7114	16			
+					
+Bgsng7114_2 (Source)	Bgsng7114	1.2			
+Bgsng7114_20 (Source)	Bgsng7114	19			
+					
+Bgsng7114_24 (Source)	Bgsng7114	23.1			
+					
+Bgsng7114_26 (Source)	Bgsng7114	24.9			
+Bgsng7114_27 (Source)	Bgsng7114	26.3			
+					
+Bgsng7114_29 (Source)	Bgsng7114	28.4			
+Bgsng7114_3 (Source)	Bgsng7114	2.1			
+Bgsng7114_30 (Source)	Bgsng7114	29.7			
+					
+Bgsng7114_32 (Source)	Bgsng7114	31.8			
+Bgsng7114_33 (Source)	Bgsng7114	32.5			
+					
+Bgsng7114_35 (Source)	Bgsng7114	34.1			
+Bgsng7114_36 (Source)	Bgsng7114	35.1			
+					
+Bgsng7114_38 (Source)	Bgsng7114	37.6			
+Bgsng7114_39 (Source)	Bgsng7114	38.5			
+					
+					
+Bgsng7114_41 (Source)	Bgsng7114	40.1			
+Bgsng7114_42 (Source)	Bgsng7114	41.8			
+					
+Bgsng7114_44 (Source)	Bgsng7114	43.3			
+Bgsng7114_45 (Source)	Bgsng7114	44			
+					
+Bgsng7114_47 (Source)	Bgsng7114	46.2			
+Bgsng7114_48 (Source)	Bgsng7114	47.1			
+					
+Bgsng7114_5 (Source)	Bgsng7114	4.3			
+Bgsng7114_50 (Source)	Bgsng7114	49.2			
+Bgsng7114_51 (Source)	Bgsng7114	50			
+					
+Bgsng7114_53 (Source)	Bgsng7114	52.2			
+Bgsng7114_54 (Source)	Bgsng7114	53.1			
+					
+Bgsng7114_56 (Source)	Bgsng7114	55.1			
+Bgsng7114_57 (Source)	Bgsng7114	56.2			
+					
+Bgsng7114_59 (Source)	Bgsng7114	58.5			
+Bgsng7114_6 (Source)	Bgsng7114	5.2			
+					
+					
+Bgsng7114_8 (Source)	Bgsng7114	7.2			
+					
+					
+Bgsng7115_11 (Source)	Bgsng7115	10.6			
+Bgsng7115_12 (Source)	Bgsng7115	11.5			
+					
+Bgsng7115_14 (Source)	Bgsng7115	13.1			
+Bgsng7115_15 (Source)	Bgsng7115	14			
+					
+Bgsng7115_17 (Source)	Bgsng7115	16.1			
+Bgsng7115_18 (Source)	Bgsng7115	17			
+Bgsng7115_2 (Source)	Bgsng7115	0.9			
+					
+					
+Bgsng7115_24 (Source)	Bgsng7115	23.2			
+					
+Bgsng7115_26 (Source)	Bgsng7115	25.3			
+Bgsng7115_27 (Source)	Bgsng7115	26.3			
+					
+Bgsng7115_29 (Source)	Bgsng7115	28.1			
+Bgsng7115_3 (Source)	Bgsng7115	2.5			
+Bgsng7115_30 (Source)	Bgsng7115	29.5			
+					
+Bgsng7115_32 (Source)	Bgsng7115	31.2			
+Bgsng7115_33 (Source)	Bgsng7115	32			
+					
+Bgsng7115_35 (Source)	Bgsng7115	34			
+Bgsng7115_36 (Source)	Bgsng7115	35			
+					
+Bgsng7115_38 (Source)	Bgsng7115	37.3			
+Bgsng7115_39 (Source)	Bgsng7115	37.9			
+					
+					
+Bgsng7115_41 (Source)	Bgsng7115	40.1			
+Bgsng7115_42 (Source)	Bgsng7115	41.1			
+					
+Bgsng7115_44 (Source)	Bgsng7115	43.2			
+					
+Bgsng7115_47 (Source)	Bgsng7115	46.2			
+Bgsng7115_48 (Source)	Bgsng7115	47.4			
+					
+Bgsng7115_5 (Source)	Bgsng7115	4.4			
+Bgsng7115_50 (Source)	Bgsng7115	49			
+Bgsng7115_51 (Source)	Bgsng7115	50.4			
+					
+Bgsng7115_53 (Source)	Bgsng7115	52			
+Bgsng7115_54 (Source)	Bgsng7115	52.9			
+					
+Bgsng7115_56 (Source)	Bgsng7115	55.2			
+Bgsng7115_57 (Source)	Bgsng7115	55.9			
+					
+Bgsng7115_59 (Source)	Bgsng7115	58.3			
+Bgsng7115_6 (Source)	Bgsng7115	5.5			
+Bgsng7115_60 (Source)	Bgsng7115	58.9			
+					
+Bgsng7115_8 (Source)	Bgsng7115	7.4			
+Bgsng7115_9 (Source)	Bgsng7115	8.3			
+					
+					
+Bgsng7128_11 (Source)	Bgsng7128	10.5			
+Bgsng7128_12 (Source)	Bgsng7128	10.9			
+					
+Bgsng7128_14 (Source)	Bgsng7128	13.2			
+					
+Bgsng7128_17 (Source)	Bgsng7128	16.2			
+Bgsng7128_18 (Source)	Bgsng7128	17.3			
+					
+Bgsng7128_2 (Source)	Bgsng7128	0.8			
+Bgsng7128_20 (Source)	Bgsng7128	19			
+Bgsng7128_21 (Source)	Bgsng7128	20.1			
+					
+Bgsng7128_23 (Source)	Bgsng7128	22.3			
+					
+Bgsng7128_25 (Source)	Bgsng7128	24.7			
+Bgsng7128_26 (Source)	Bgsng7128	25.4			
+Bgsng7128_27 (Source)	Bgsng7128	26.1			
+					
+Bgsng7128_29 (Source)	Bgsng7128	28.1			
+Bgsng7128_3 (Source)	Bgsng7128	2.1			
+Bgsng7128_30 (Source)	Bgsng7128	29			
+					
+Bgsng7128_32 (Source)	Bgsng7128	31.1			
+Bgsng7128_33 (Source)	Bgsng7128	32.2			
+					
+Bgsng7128_35 (Source)	Bgsng7128	34.2			
+Bgsng7128_36 (Source)	Bgsng7128	35			
+					
+Bgsng7128_38 (Source)	Bgsng7128	36.9			
+Bgsng7128_39 (Source)	Bgsng7128	37.9			
+					
+					
+Bgsng7128_41 (Source)	Bgsng7128	40.1			
+Bgsng7128_42 (Source)	Bgsng7128	40.9			
+					
+Bgsng7128_44 (Source)	Bgsng7128	42.9			
+Bgsng7128_45 (Source)	Bgsng7128	44			
+					
+Bgsng7128_47 (Source)	Bgsng7128	46			
+Bgsng7128_48 (Source)	Bgsng7128	47			
+					
+Bgsng7128_5 (Source)	Bgsng7128	4			
+Bgsng7128_50 (Source)	Bgsng7128	49			
+Bgsng7128_51 (Source)	Bgsng7128	50.1			
+					
+Bgsng7128_54 (Source)	Bgsng7128	53			
+					
+Bgsng7128_56 (Source)	Bgsng7128	55			
+Bgsng7128_57 (Source)	Bgsng7128	56.1			
+					
+Bgsng7128_59 (Source)	Bgsng7128	58			
+Bgsng7128_6 (Source)	Bgsng7128	5.1			
+Bgsng7128_60 (Source)	Bgsng7128	59			
+					
+Bgsng7128_8 (Source)	Bgsng7128	7.4			
+Bgsng7128_9 (Source)	Bgsng7128	8.1			
+Bgsng7131_12 (Source)	Bgsng7131	11			
+					
+Bgsng7131_26 (Source)	Bgsng7131	25.2			
+Bgsng7131_27 (Source)	Bgsng7131	26.1			
+					
+Bgsng7131_29 (Source)	Bgsng7131	28			
+Bgsng7131_30 (Source)	Bgsng7131	29.3			
+					
+Bgsng7131_32 (Source)	Bgsng7131	31.3			
+Bgsng7131_33 (Source)	Bgsng7131	32.1			
+					
+Bgsng7131_35 (Source)	Bgsng7131	34.2			
+Bgsng7131_36 (Source)	Bgsng7131	35.1			
+					
+Bgsng7131_38 (Source)	Bgsng7131	37			
+Bgsng7131_39 (Source)	Bgsng7131	38			
+					
+Bgsng7131_42 (Source)	Bgsng7131	41			
+					
+Bgsng7131_44 (Source)	Bgsng7131	43.1			
+Bgsng7131_45 (Source)	Bgsng7131	44.1			
+					
+Bgsng7131_47 (Source)	Bgsng7131	46.1			
+Bgsng7131_48 (Source)	Bgsng7131	47.3			
+					
+Bgsng7131_51 (Source)	Bgsng7131	50			
+					
+Bgsng7131_53 (Source)	Bgsng7131	52.3			
+Bgsng7131_54 (Source)	Bgsng7131	53.1			
+					
+Bgsng7131_56 (Source)	Bgsng7131	55			
+Bgsng7131_57 (Source)	Bgsng7131	56.1			
+					
+Bgsng7131_59 (Source)	Bgsng7131	58.3			
+					
+					
+Bgsng7142_11 (Source)	Bgsng7142	10.1			
+Bgsng7142_12 (Source)	Bgsng7142	12.1			
+					
+Bgsng7142_14 (Source)	Bgsng7142	13.3			
+Bgsng7142_15 (Source)	Bgsng7142	14.4			
+					
+Bgsng7142_17 (Source)	Bgsng7142	16.6			
+					
+Bgsng7142_2 (Source)	Bgsng7142	1.5			
+Bgsng7142_20 (Source)	Bgsng7142	19.3			
+Bgsng7142_21 (Source)	Bgsng7142	20.2			
+					
+Bgsng7142_23 (Source)	Bgsng7142	22.3			
+Bgsng7142_24 (Source)	Bgsng7142	23.9			
+					
+Bgsng7142_26 (Source)	Bgsng7142	25.3			
+Bgsng7142_27 (Source)	Bgsng7142	26.2			
+					
+Bgsng7142_29 (Source)	Bgsng7142	28.9			
+Bgsng7142_3 (Source)	Bgsng7142	2.7			
+Bgsng7142_30 (Source)	Bgsng7142	29.4			
+					
+Bgsng7142_32 (Source)	Bgsng7142	31.4			
+					
+Bgsng7142_35 (Source)	Bgsng7142	34.2			
+Bgsng7142_36 (Source)	Bgsng7142	35.4			
+					
+Bgsng7142_38 (Source)	Bgsng7142	37.5			
+Bgsng7142_39 (Source)	Bgsng7142	38.3			
+					
+					
+Bgsng7142_41 (Source)	Bgsng7142	40.4			
+Bgsng7142_42 (Source)	Bgsng7142	41.3			
+					
+Bgsng7142_44 (Source)	Bgsng7142	43.3			
+					
+Bgsng7142_46 (Source)	Bgsng7142	46			
+Bgsng7142_47 (Source)	Bgsng7142	47.1			
+					
+Bgsng7142_49 (Source)	Bgsng7142	48.5			
+Bgsng7142_5 (Source)	Bgsng7142	4.6			
+Bgsng7142_50 (Source)	Bgsng7142	49.2			
+Bgsng7142_51 (Source)	Bgsng7142	50.4			
+					
+Bgsng7142_53 (Source)	Bgsng7142	52.2			
+					
+Bgsng7142_56 (Source)	Bgsng7142	55.1			
+Bgsng7142_57 (Source)	Bgsng7142	56.3			
+					
+Bgsng7142_6 (Source)	Bgsng7142	5.5			
+					
+Bgsng7142_8 (Source)	Bgsng7142	7.8			
+					
+					
+					
+Bgsng7149_11 (Source)	Bgsng7149	10.2			
+Bgsng7149_12 (Source)	Bgsng7149	11.1			
+					
+Bgsng7149_14 (Source)	Bgsng7149	13.1			
+Bgsng7149_15 (Source)	Bgsng7149	14.2			
+					
+Bgsng7149_17 (Source)	Bgsng7149	16.1			
+Bgsng7149_18 (Source)	Bgsng7149	17.3			
+					
+Bgsng7149_2 (Source)	Bgsng7149	1.4			
+Bgsng7149_21 (Source)	Bgsng7149	20.2			
+					
+Bgsng7149_24 (Source)	Bgsng7149	23.1			
+					
+Bgsng7149_26 (Source)	Bgsng7149	25.3			
+Bgsng7149_27 (Source)	Bgsng7149	26.4			
+					
+Bgsng7149_29 (Source)	Bgsng7149	28.7			
+Bgsng7149_3 (Source)	Bgsng7149	2.3			
+Bgsng7149_30 (Source)	Bgsng7149	29.4			
+					
+Bgsng7149_32 (Source)	Bgsng7149	31			
+Bgsng7149_33 (Source)	Bgsng7149	32.2			
+					
+Bgsng7149_36 (Source)	Bgsng7149	35.5			
+					
+Bgsng7149_38 (Source)	Bgsng7149	37.3			
+Bgsng7149_39 (Source)	Bgsng7149	38			
+					
+					
+Bgsng7149_41 (Source)	Bgsng7149	40.9			
+Bgsng7149_42 (Source)	Bgsng7149	41.6			
+					
+Bgsng7149_44 (Source)	Bgsng7149	43			
+Bgsng7149_45 (Source)	Bgsng7149	44.1			
+					
+Bgsng7149_47 (Source)	Bgsng7149	46.2			
+Bgsng7149_48 (Source)	Bgsng7149	47.1			
+					
+Bgsng7149_5 (Source)	Bgsng7149	5.1			
+Bgsng7149_50 (Source)	Bgsng7149	49.1			
+Bgsng7149_51 (Source)	Bgsng7149	50.3			
+					
+Bgsng7149_53 (Source)	Bgsng7149	52.3			
+Bgsng7149_54 (Source)	Bgsng7149	53.1			
+					
+Bgsng7149_56 (Source)	Bgsng7149	55.1			
+Bgsng7149_57 (Source)	Bgsng7149	56			
+					
+Bgsng7149_59 (Source)	Bgsng7149	58.2			
+Bgsng7149_6 (Source)	Bgsng7149	5.7			
+					
+					
+Bgsng7149_8 (Source)	Bgsng7149	7.5			
+Bgsng7149_9 (Source)	Bgsng7149	8.6			
+					
+Bgsng7150_20 (Source)	Bgsng7150	20.4			
+					
+Bgsng7150_24 (Source)	Bgsng7150	23			
+					
+Bgsng7150_26 (Source)	Bgsng7150	25			
+Bgsng7150_27 (Source)	Bgsng7150	26.2			
+Bgsng7150_29 (Source)	Bgsng7150	28.9			
+					
+Bgsng7150_31 (Source)	Bgsng7150	31.1			
+Bgsng7150_32 (Source)	Bgsng7150	31.7			
+Bgsng7150_33 (Source)	Bgsng7150	32.3			
+					
+Bgsng7150_35 (Source)	Bgsng7150	34.6			
+Bgsng7150_36 (Source)	Bgsng7150	36.4			
+					
+Bgsng7150_38 (Source)	Bgsng7150	37.8			
+Bgsng7150_39 (Source)	Bgsng7150	38.5			
+					
+Bgsng7150_41 (Source)	Bgsng7150	40.1			
+Bgsng7150_42 (Source)	Bgsng7150	41			
+					
+Bgsng7150_44 (Source)	Bgsng7150	43.1			
+Bgsng7150_45 (Source)	Bgsng7150	44.5			
+					
+					
+					
+					
+Bgsng7155_11 (Source)	Bgsng7155	10.1			
+Bgsng7155_12 (Source)	Bgsng7155	11.2			
+					
+Bgsng7155_14 (Source)	Bgsng7155	13			
+Bgsng7155_15 (Source)	Bgsng7155	14			
+					
+Bgsng7155_17 (Source)	Bgsng7155	16.3			
+Bgsng7155_18 (Source)	Bgsng7155	17			
+					
+Bgsng7155_2 (Source)	Bgsng7155	1.2			
+Bgsng7155_20 (Source)	Bgsng7155	19			
+Bgsng7155_21 (Source)	Bgsng7155	20			
+					
+Bgsng7155_23 (Source)	Bgsng7155	22			
+Bgsng7155_24 (Source)	Bgsng7155	23			
+					
+Bgsng7155_26 (Source)	Bgsng7155	25			
+Bgsng7155_27 (Source)	Bgsng7155	26.2			
+					
+Bgsng7155_29 (Source)	Bgsng7155	28.6			
+Bgsng7155_3 (Source)	Bgsng7155	2.6			
+Bgsng7155_30 (Source)	Bgsng7155	29.4			
+					
+Bgsng7155_32 (Source)	Bgsng7155	31.3			
+Bgsng7155_33 (Source)	Bgsng7155	32.1			
+					
+Bgsng7155_35 (Source)	Bgsng7155	34.2			
+Bgsng7155_36 (Source)	Bgsng7155	35.4			
+					
+Bgsng7155_38 (Source)	Bgsng7155	37.1			
+Bgsng7155_39 (Source)	Bgsng7155	38.2			
+					
+					
+Bgsng7155_41 (Source)	Bgsng7155	40.9			
+					
+Bgsng7155_44 (Source)	Bgsng7155	43.6			
+Bgsng7155_45 (Source)	Bgsng7155	44.4			
+					
+Bgsng7155_47 (Source)	Bgsng7155	46.4			
+Bgsng7155_48 (Source)	Bgsng7155	47			
+					
+Bgsng7155_5 (Source)	Bgsng7155	4.3			
+Bgsng7155_50 (Source)	Bgsng7155	49.2			
+Bgsng7155_51 (Source)	Bgsng7155	50.1			
+					
+Bgsng7155_53 (Source)	Bgsng7155	52.1			
+Bgsng7155_54 (Source)	Bgsng7155	53.6			
+					
+Bgsng7155_56 (Source)	Bgsng7155	55.1			
+Bgsng7155_57 (Source)	Bgsng7155	56.1			
+					
+Bgsng7155_59 (Source)	Bgsng7155	58.4			
+Bgsng7155_6 (Source)	Bgsng7155	5.5			
+Bgsng7155_60 (Source)	Bgsng7155	59			
+					
+Bgsng7155_8 (Source)	Bgsng7155	7.5			
+Bgsng7155_9 (Source)	Bgsng7155	8.2			
+					
+					
+Bgsng7173_11 (Source)	Bgsng7173	10.5			
+Bgsng7173_12 (Source)	Bgsng7173	11.1			
+					
+Bgsng7173_14 (Source)	Bgsng7173	13.3			
+Bgsng7173_15 (Source)	Bgsng7173	14.1			
+					
+Bgsng7173_17 (Source)	Bgsng7173	16.1			
+Bgsng7173_18 (Source)	Bgsng7173	17.1			
+					
+Bgsng7173_2 (Source)	Bgsng7173	1.6			
+Bgsng7173_20 (Source)	Bgsng7173	19.3			
+Bgsng7173_21 (Source)	Bgsng7173	20.3			
+					
+Bgsng7173_23 (Source)	Bgsng7173	22.1			
+Bgsng7173_24 (Source)	Bgsng7173	23.1			
+					
+Bgsng7173_26 (Source)	Bgsng7173	25.2			
+Bgsng7173_27 (Source)	Bgsng7173	26.1			
+					
+Bgsng7173_29 (Source)	Bgsng7173	28.1			
+					
+Bgsng7173_30 (Source)	Bgsng7173	29.1			
+					
+Bgsng7173_32 (Source)	Bgsng7173	31.1			
+Bgsng7173_33 (Source)	Bgsng7173	32.3			
+					
+Bgsng7173_35 (Source)	Bgsng7173	34.1			
+Bgsng7173_36 (Source)	Bgsng7173	35.1			
+					
+Bgsng7173_38 (Source)	Bgsng7173	37.2			
+Bgsng7173_39 (Source)	Bgsng7173	38.2			
+Bgsng7173_4 (Source)	Bgsng7173	4			
+					
+Bgsng7173_41 (Source)	Bgsng7173	40			
+Bgsng7173_42 (Source)	Bgsng7173	41			
+					
+Bgsng7173_44 (Source)	Bgsng7173	43.1			
+Bgsng7173_45 (Source)	Bgsng7173	44.1			
+					
+Bgsng7173_47 (Source)	Bgsng7173	46.2			
+Bgsng7173_48 (Source)	Bgsng7173	47.1			
+					
+Bgsng7173_5 (Source)	Bgsng7173	4.4			
+Bgsng7173_50 (Source)	Bgsng7173	49.1			
+Bgsng7173_51 (Source)	Bgsng7173	50			
+					
+Bgsng7173_53 (Source)	Bgsng7173	52.1			
+Bgsng7173_54 (Source)	Bgsng7173	53			
+					
+Bgsng7173_56 (Source)	Bgsng7173	55.1			
+Bgsng7173_57 (Source)	Bgsng7173	56.1			
+					
+Bgsng7173_59 (Source)	Bgsng7173	58.2			
+					
+					
+Bgsng7173_7 (Source)	Bgsng7173	6.8			
+Bgsng7173_8 (Source)	Bgsng7173	7.4			
+Bgsng7173_9 (Source)	Bgsng7173	8.4			
+					
+Bgsng7177_11 (Source)	Bgsng7177	10.3			
+Bgsng7177_12 (Source)	Bgsng7177	11			
+					
+Bgsng7177_14 (Source)	Bgsng7177	13.1			
+Bgsng7177_15 (Source)	Bgsng7177	14.4			
+					
+Bgsng7177_17 (Source)	Bgsng7177	16.1			
+Bgsng7177_18 (Source)	Bgsng7177	17			
+					
+Bgsng7177_2 (Source)	Bgsng7177	1.3			
+Bgsng7177_20 (Source)	Bgsng7177	19.1			
+Bgsng7177_21 (Source)	Bgsng7177	20.2			
+					
+Bgsng7177_23 (Source)	Bgsng7177	22.3			
+Bgsng7177_24 (Source)	Bgsng7177	23			
+					
+Bgsng7177_26 (Source)	Bgsng7177	25.3			
+Bgsng7177_27 (Source)	Bgsng7177	26.2			
+					
+Bgsng7177_29 (Source)	Bgsng7177	28.7			
+Bgsng7177_3 (Source)	Bgsng7177	2.5			
+Bgsng7177_30 (Source)	Bgsng7177	29.4			
+					
+Bgsng7177_32 (Source)	Bgsng7177	31.3			
+Bgsng7177_33 (Source)	Bgsng7177	32.5			
+Bgsng7177_34 (Source)	Bgsng7177	33.1			
+Bgsng7177_35 (Source)	Bgsng7177	34.2			
+Bgsng7177_36 (Source)	Bgsng7177	35.4			
+Bgsng7177_37 (Source)	Bgsng7177	36.1			
+Bgsng7177_38 (Source)	Bgsng7177	37.2			
+Bgsng7177_39 (Source)	Bgsng7177	38.4			
+					
+					
+Bgsng7177_41 (Source)	Bgsng7177	40.2			
+					
+Bgsng7177_44 (Source)	Bgsng7177	43.3			
+					
+Bgsng7177_47 (Source)	Bgsng7177	46.8			
+Bgsng7177_48 (Source)	Bgsng7177	47.4			
+					
+Bgsng7177_5 (Source)	Bgsng7177	4.3			
+					
+Bgsng7177_53 (Source)	Bgsng7177	52.2			
+Bgsng7177_54 (Source)	Bgsng7177	53.4			
+					
+Bgsng7177_56 (Source)	Bgsng7177	55.4			
+Bgsng7177_57 (Source)	Bgsng7177	56.3			
+					
+Bgsng7177_59 (Source)	Bgsng7177	58.2			
+Bgsng7177_6 (Source)	Bgsng7177	5.3			
+					
+					
+Bgsng7177_8 (Source)	Bgsng7177	7.3			
+					
+					
+					
+Bgsng7178_11 (Source)	Bgsng7178	10.4			
+Bgsng7178_12 (Source)	Bgsng7178	11.1			
+					
+Bgsng7178_14 (Source)	Bgsng7178	13			
+Bgsng7178_15 (Source)	Bgsng7178	14.1			
+					
+Bgsng7178_17 (Source)	Bgsng7178	16.4			
+Bgsng7178_18 (Source)	Bgsng7178	17.3			
+					
+Bgsng7178_2 (Source)	Bgsng7178	1.4			
+Bgsng7178_20 (Source)	Bgsng7178	19.2			
+Bgsng7178_21 (Source)	Bgsng7178	20.1			
+					
+Bgsng7178_23 (Source)	Bgsng7178	22.1			
+Bgsng7178_24 (Source)	Bgsng7178	23			
+					
+Bgsng7178_26 (Source)	Bgsng7178	25.1			
+Bgsng7178_27 (Source)	Bgsng7178	26.1			
+					
+Bgsng7178_29 (Source)	Bgsng7178	28.1			
+Bgsng7178_3 (Source)	Bgsng7178	2.3			
+Bgsng7178_30 (Source)	Bgsng7178	29			
+					
+Bgsng7178_32 (Source)	Bgsng7178	31			
+Bgsng7178_33 (Source)	Bgsng7178	32.1			
+					
+Bgsng7178_35 (Source)	Bgsng7178	34.1			
+Bgsng7178_36 (Source)	Bgsng7178	35.1			
+					
+Bgsng7178_38 (Source)	Bgsng7178	36.9			
+Bgsng7178_39 (Source)	Bgsng7178	38.2			
+					
+					
+Bgsng7178_41 (Source)	Bgsng7178	40.1			
+Bgsng7178_42 (Source)	Bgsng7178	41			
+					
+Bgsng7178_44 (Source)	Bgsng7178	43			
+Bgsng7178_45 (Source)	Bgsng7178	44			
+					
+Bgsng7178_47 (Source)	Bgsng7178	46			
+Bgsng7178_48 (Source)	Bgsng7178	47			
+					
+Bgsng7178_5 (Source)	Bgsng7178	4.4			
+Bgsng7178_50 (Source)	Bgsng7178	49.1			
+Bgsng7178_51 (Source)	Bgsng7178	50.4			
+					
+Bgsng7178_53 (Source)	Bgsng7178	52			
+Bgsng7178_54 (Source)	Bgsng7178	53			
+					
+Bgsng7178_56 (Source)	Bgsng7178	55.3			
+Bgsng7178_57 (Source)	Bgsng7178	56.2			
+					
+Bgsng7178_59 (Source)	Bgsng7178	58.1			
+Bgsng7178_6 (Source)	Bgsng7178	5.3			
+					
+					
+Bgsng7178_8 (Source)	Bgsng7178	7.4			
+Bgsng7178_9 (Source)	Bgsng7178	8.1			
+					
+Bgsng7192_10 (Source)	Bgsng7192	10.2			
+Bgsng7192_11 (Source)	Bgsng7192	11.3			
+					
+Bgsng7192_13 (Source)	Bgsng7192	12.8			
+Bgsng7192_14 (Source)	Bgsng7192	13.5			
+Bgsng7192_15 (Source)	Bgsng7192	14.2			
+					
+Bgsng7192_17 (Source)	Bgsng7192	16.1			
+Bgsng7192_18 (Source)	Bgsng7192	17			
+					
+Bgsng7192_2 (Source)	Bgsng7192	1.2			
+Bgsng7192_20 (Source)	Bgsng7192	19.3			
+Bgsng7192_21 (Source)	Bgsng7192	20.3			
+					
+Bgsng7192_23 (Source)	Bgsng7192	22.3			
+Bgsng7192_24 (Source)	Bgsng7192	23.1			
+					
+Bgsng7192_26 (Source)	Bgsng7192	25.1			
+Bgsng7192_27 (Source)	Bgsng7192	26.5			
+					
+Bgsng7192_29 (Source)	Bgsng7192	28.3			
+Bgsng7192_3 (Source)	Bgsng7192	2.5			
+Bgsng7192_30 (Source)	Bgsng7192	29.1			
+					
+Bgsng7192_33 (Source)	Bgsng7192	32			
+					
+Bgsng7192_35 (Source)	Bgsng7192	34.1			
+Bgsng7192_36 (Source)	Bgsng7192	35.1			
+					
+Bgsng7192_38 (Source)	Bgsng7192	37.2			
+Bgsng7192_39 (Source)	Bgsng7192	38.2			
+					
+					
+Bgsng7192_41 (Source)	Bgsng7192	40.2			
+Bgsng7192_42 (Source)	Bgsng7192	41.2			
+					
+Bgsng7192_44 (Source)	Bgsng7192	43.1			
+Bgsng7192_45 (Source)	Bgsng7192	44.2			
+					
+Bgsng7192_48 (Source)	Bgsng7192	47.5			
+					
+Bgsng7192_5 (Source)	Bgsng7192	4.3			
+Bgsng7192_50 (Source)	Bgsng7192	49.7			
+Bgsng7192_51 (Source)	Bgsng7192	50.5			
+					
+Bgsng7192_55 (Source)	Bgsng7192	55.4			
+Bgsng7192_56 (Source)	Bgsng7192	55.9			
+Bgsng7192_57 (Source)	Bgsng7192	56.6			
+					
+Bgsng7192_59 (Source)	Bgsng7192	58.1			
+Bgsng7192_6 (Source)	Bgsng7192	5.4			
+Bgsng7192_60 (Source)	Bgsng7192	59.2			
+					
+Bgsng7192_8 (Source)	Bgsng7192	7.5			
+					
+					
+					
+Bgsng7202_11 (Source)	Bgsng7202	10.7			
+Bgsng7202_12 (Source)	Bgsng7202	11.3			
+					
+Bgsng7202_14 (Source)	Bgsng7202	13.2			
+Bgsng7202_15 (Source)	Bgsng7202	14.3			
+					
+Bgsng7202_17 (Source)	Bgsng7202	16			
+					
+Bgsng7202_2 (Source)	Bgsng7202	1.3			
+Bgsng7202_20 (Source)	Bgsng7202	19.6			
+Bgsng7202_21 (Source)	Bgsng7202	20.7			
+					
+Bgsng7202_23 (Source)	Bgsng7202	22.3			
+Bgsng7202_24 (Source)	Bgsng7202	23.5			
+					
+Bgsng7202_26 (Source)	Bgsng7202	25.3			
+Bgsng7202_27 (Source)	Bgsng7202	26.3			
+					
+Bgsng7202_29 (Source)	Bgsng7202	28.2			
+Bgsng7202_3 (Source)	Bgsng7202	2.3			
+Bgsng7202_30 (Source)	Bgsng7202	29.5			
+					
+Bgsng7202_32 (Source)	Bgsng7202	31.3			
+Bgsng7202_33 (Source)	Bgsng7202	32.3			
+					
+Bgsng7202_35 (Source)	Bgsng7202	34			
+Bgsng7202_36 (Source)	Bgsng7202	35.3			
+					
+Bgsng7202_38 (Source)	Bgsng7202	37.3			
+Bgsng7202_39 (Source)	Bgsng7202	38.3			
+					
+					
+Bgsng7202_41 (Source)	Bgsng7202	40			
+Bgsng7202_42 (Source)	Bgsng7202	41.5			
+					
+Bgsng7202_44 (Source)	Bgsng7202	43.1			
+Bgsng7202_45 (Source)	Bgsng7202	44.1			
+					
+Bgsng7202_47 (Source)	Bgsng7202	46.5			
+Bgsng7202_48 (Source)	Bgsng7202	47.1			
+					
+Bgsng7202_5 (Source)	Bgsng7202	4.3			
+Bgsng7202_50 (Source)	Bgsng7202	49.3			
+Bgsng7202_51 (Source)	Bgsng7202	50.2			
+					
+Bgsng7202_53 (Source)	Bgsng7202	52			
+					
+Bgsng7202_56 (Source)	Bgsng7202	55.5			
+Bgsng7202_57 (Source)	Bgsng7202	56.4			
+					
+Bgsng7202_59 (Source)	Bgsng7202	58.3			
+Bgsng7202_6 (Source)	Bgsng7202	5.4			
+Bgsng7202_60 (Source)	Bgsng7202	59.1			
+					
+Bgsng7202_8 (Source)	Bgsng7202	7.1			
+Bgsng7202_9 (Source)	Bgsng7202	8.1			
+					
+					
+Bgsng7204_11 (Source)	Bgsng7204	10.1			
+Bgsng7204_12 (Source)	Bgsng7204	11.1			
+					
+Bgsng7204_14 (Source)	Bgsng7204	13			
+Bgsng7204_15 (Source)	Bgsng7204	14.4			
+					
+Bgsng7204_17 (Source)	Bgsng7204	16.1			
+Bgsng7204_18 (Source)	Bgsng7204	17			
+					
+Bgsng7204_2 (Source)	Bgsng7204	1.3			
+Bgsng7204_20 (Source)	Bgsng7204	19.2			
+Bgsng7204_21 (Source)	Bgsng7204	20			
+					
+Bgsng7204_23 (Source)	Bgsng7204	22.3			
+Bgsng7204_24 (Source)	Bgsng7204	23.3			
+					
+Bgsng7204_26 (Source)	Bgsng7204	25			
+Bgsng7204_27 (Source)	Bgsng7204	26.2			
+					
+Bgsng7204_29 (Source)	Bgsng7204	28.1			
+Bgsng7204_3 (Source)	Bgsng7204	2.2			
+					
+Bgsng7204_31 (Source)	Bgsng7204	31			
+Bgsng7204_32 (Source)	Bgsng7204	31.7			
+Bgsng7204_33 (Source)	Bgsng7204	32.6			
+					
+Bgsng7204_35 (Source)	Bgsng7204	34.1			
+Bgsng7204_36 (Source)	Bgsng7204	35.1			
+					
+Bgsng7204_38 (Source)	Bgsng7204	37			
+Bgsng7204_39 (Source)	Bgsng7204	38			
+					
+					
+Bgsng7204_41 (Source)	Bgsng7204	40			
+Bgsng7204_42 (Source)	Bgsng7204	41.2			
+					
+Bgsng7204_44 (Source)	Bgsng7204	43.2			
+Bgsng7204_45 (Source)	Bgsng7204	44.6			
+					
+Bgsng7204_47 (Source)	Bgsng7204	46.2			
+Bgsng7204_48 (Source)	Bgsng7204	47.4			
+					
+Bgsng7204_5 (Source)	Bgsng7204	4.5			
+Bgsng7204_50 (Source)	Bgsng7204	49.4			
+Bgsng7204_51 (Source)	Bgsng7204	50.2			
+					
+Bgsng7204_53 (Source)	Bgsng7204	52.2			
+Bgsng7204_54 (Source)	Bgsng7204	53.2			
+					
+Bgsng7204_56 (Source)	Bgsng7204	55.1			
+Bgsng7204_57 (Source)	Bgsng7204	56			
+					
+Bgsng7204_59 (Source)	Bgsng7204	58.2			
+Bgsng7204_6 (Source)	Bgsng7204	5.9			
+Bgsng7204_60 (Source)	Bgsng7204	59.1			
+					
+Bgsng7204_8 (Source)	Bgsng7204	7.1			
+Bgsng7204_9 (Source)	Bgsng7204	7.9			
+					
+Bgsng8024_38 (Source)	Bgsng8024	37			
+Bgsng8024_39 (Source)	Bgsng8024	38			
+					
+Bgsng8024_41 (Source)	Bgsng8024	40.1			
+Bgsng8024_42 (Source)	Bgsng8024	41.2			
+					
+Bgsng8024_44 (Source)	Bgsng8024	43			
+Bgsng8024_45 (Source)	Bgsng8024	44			
+					
+Bgsng8024_47 (Source)	Bgsng8024	46			
+Bgsng8024_48 (Source)	Bgsng8024	47.2			
+					
+Bgsng8024_50 (Source)	Bgsng8024	49			
+Bgsng8024_51 (Source)	Bgsng8024	50.2			
+					
+Bgsng8024_53 (Source)	Bgsng8024	52			
+Bgsng8024_54 (Source)	Bgsng8024	52.9			
+					
+Bgsng8024_56 (Source)	Bgsng8024	55			
+Bgsng8024_57 (Source)	Bgsng8024	56.4			
+					
+Bgsng8024_59 (Source)	Bgsng8024	58			
+					
+					
+Bgsng8031_11 (Source)	Bgsng8031	10			
+Bgsng8031_12 (Source)	Bgsng8031	11			
+					
+Bgsng8031_15 (Source)	Bgsng8031	14.1			
+					
+Bgsng8031_17 (Source)	Bgsng8031	16.1			
+Bgsng8031_18 (Source)	Bgsng8031	17.1			
+					
+Bgsng8031_2 (Source)	Bgsng8031	1.1			
+Bgsng8031_20 (Source)	Bgsng8031	19.1			
+Bgsng8031_21 (Source)	Bgsng8031	20			
+					
+Bgsng8031_23 (Source)	Bgsng8031	23			
+					
+Bgsng8031_26 (Source)	Bgsng8031	25.2			
+Bgsng8031_27 (Source)	Bgsng8031	26.1			
+					
+Bgsng8031_3 (Source)	Bgsng8031	2.2			
+Bgsng8031_30 (Source)	Bgsng8031	29.1			
+Bgsng8031_31 (Source)	Bgsng8031	30			
+					
+Bgsng8031_33 (Source)	Bgsng8031	32.1			
+Bgsng8031_34 (Source)	Bgsng8031	33			
+					
+Bgsng8031_36 (Source)	Bgsng8031	35			
+Bgsng8031_37 (Source)	Bgsng8031	36.1			
+					
+Bgsng8031_39 (Source)	Bgsng8031	38.2			
+					
+Bgsng8031_40 (Source)	Bgsng8031	39			
+					
+Bgsng8031_42 (Source)	Bgsng8031	41			
+Bgsng8031_43 (Source)	Bgsng8031	42.1			
+					
+Bgsng8031_45 (Source)	Bgsng8031	44			
+Bgsng8031_46 (Source)	Bgsng8031	44.9			
+					
+Bgsng8031_48 (Source)	Bgsng8031	47			
+Bgsng8031_49 (Source)	Bgsng8031	48.2			
+Bgsng8031_5 (Source)	Bgsng8031	4.1			
+					
+Bgsng8031_51 (Source)	Bgsng8031	50.2			
+Bgsng8031_52 (Source)	Bgsng8031	51.1			
+					
+Bgsng8031_54 (Source)	Bgsng8031	53.2			
+Bgsng8031_55 (Source)	Bgsng8031	54			
+					
+Bgsng8031_57 (Source)	Bgsng8031	56.2			
+Bgsng8031_58 (Source)	Bgsng8031	57.1			
+					
+					
+Bgsng8031_60 (Source)	Bgsng8031	59.1			
+					
+					
+Bgsng8033_10 (Source)	Bgsng8033	10.1			
+					
+Bgsng8033_14 (Source)	Bgsng8033	14.1			
+					
+Bgsng8033_16 (Source)	Bgsng8033	16.2			
+					
+Bgsng8033_2 (Source)	Bgsng8033	1.6			
+					
+Bgsng8033_22 (Source)	Bgsng8033	22			
+					
+					
+Bgsng8033_3 (Source)	Bgsng8033	2.3			
+Bgsng8033_31 (Source)	Bgsng8033	31			
+Bgsng8033_32 (Source)	Bgsng8033	32			
+					
+					
+Bgsng8033_38 (Source)	Bgsng8033	38			
+					
+					
+Bgsng8033_40 (Source)	Bgsng8033	40.1			
+					
+Bgsng8033_43 (Source)	Bgsng8033	43.3			
+Bgsng8033_44 (Source)	Bgsng8033	44			
+					
+Bgsng8033_46 (Source)	Bgsng8033	46			
+Bgsng8033_47 (Source)	Bgsng8033	47			
+					
+Bgsng8033_49 (Source)	Bgsng8033	49.1			
+Bgsng8033_50 (Source)	Bgsng8033	50.2			
+					
+Bgsng8033_52 (Source)	Bgsng8033	52			
+Bgsng8033_53 (Source)	Bgsng8033	53.2			
+					
+Bgsng8033_55 (Source)	Bgsng8033	55			
+Bgsng8033_56 (Source)	Bgsng8033	56.2			
+					
+Bgsng8033_58 (Source)	Bgsng8033	58.7			
+Bgsng8033_59 (Source)	Bgsng8033	59.3			
+					
+					
+Bgsng8033_8 (Source)	Bgsng8033	8			
+					
+					
+					
+Bgsng8048_11 (Source)	Bgsng8048	10.4			
+					
+Bgsng8048_14 (Source)	Bgsng8048	13.2			
+Bgsng8048_15 (Source)	Bgsng8048	14.1			
+					
+Bgsng8048_17 (Source)	Bgsng8048	15.9			
+Bgsng8048_18 (Source)	Bgsng8048	17.2			
+					
+Bgsng8048_2 (Source)	Bgsng8048	1.2			
+Bgsng8048_20 (Source)	Bgsng8048	18.9			
+Bgsng8048_21 (Source)	Bgsng8048	20			
+					
+Bgsng8048_3 (Source)	Bgsng8048	2.3			
+					
+Bgsng8048_38 (Source)	Bgsng8048	37.2			
+Bgsng8048_39 (Source)	Bgsng8048	38			
+					
+					
+Bgsng8048_41 (Source)	Bgsng8048	40.8			
+Bgsng8048_42 (Source)	Bgsng8048	41.5			
+					
+Bgsng8048_44 (Source)	Bgsng8048	43.3			
+Bgsng8048_45 (Source)	Bgsng8048	44.4			
+					
+Bgsng8048_47 (Source)	Bgsng8048	46.3			
+Bgsng8048_48 (Source)	Bgsng8048	47			
+					
+Bgsng8048_5 (Source)	Bgsng8048	4			
+Bgsng8048_50 (Source)	Bgsng8048	49.1			
+Bgsng8048_51 (Source)	Bgsng8048	50			
+					
+Bgsng8048_53 (Source)	Bgsng8048	52.2			
+Bgsng8048_54 (Source)	Bgsng8048	53.2			
+					
+Bgsng8048_56 (Source)	Bgsng8048	55			
+Bgsng8048_57 (Source)	Bgsng8048	56			
+					
+Bgsng8048_59 (Source)	Bgsng8048	58.4			
+					
+					
+Bgsng8048_9 (Source)	Bgsng8048	8.1			
+					
+Bgsng8061_38 (Source)	Bgsng8061	38.1			
+					
+Bgsng8061_40 (Source)	Bgsng8061	40.1			
+Bgsng8061_41 (Source)	Bgsng8061	41.1			
+					
+Bgsng8061_43 (Source)	Bgsng8061	43			
+Bgsng8061_44 (Source)	Bgsng8061	44.2			
+					
+Bgsng8061_46 (Source)	Bgsng8061	46.2			
+Bgsng8061_47 (Source)	Bgsng8061	47.3			
+					
+Bgsng8061_49 (Source)	Bgsng8061	49.1			
+Bgsng8061_50 (Source)	Bgsng8061	50.3			
+					
+Bgsng8061_52 (Source)	Bgsng8061	51.9			
+Bgsng8061_53 (Source)	Bgsng8061	53.3			
+					
+Bgsng8061_55 (Source)	Bgsng8061	55.2			
+Bgsng8061_56 (Source)	Bgsng8061	56.1			
+					
+Bgsng8061_58 (Source)	Bgsng8061	58.3			
+Bgsng8061_59 (Source)	Bgsng8061	59.2			
+					
+					
+					
+Bgsng8064_11 (Source)	Bgsng8064	10.1			
+Bgsng8064_12 (Source)	Bgsng8064	11			
+					
+Bgsng8064_14 (Source)	Bgsng8064	13.1			
+Bgsng8064_15 (Source)	Bgsng8064	14			
+					
+Bgsng8064_17 (Source)	Bgsng8064	16.2			
+Bgsng8064_18 (Source)	Bgsng8064	17			
+					
+Bgsng8064_2 (Source)	Bgsng8064	1.3			
+Bgsng8064_20 (Source)	Bgsng8064	19.1			
+Bgsng8064_21 (Source)	Bgsng8064	20.1			
+					
+Bgsng8064_23 (Source)	Bgsng8064	22.1			
+Bgsng8064_24 (Source)	Bgsng8064	23			
+					
+Bgsng8064_26 (Source)	Bgsng8064	25.3			
+Bgsng8064_27 (Source)	Bgsng8064	26.2			
+					
+Bgsng8064_29 (Source)	Bgsng8064	28.1			
+Bgsng8064_3 (Source)	Bgsng8064	2.3			
+Bgsng8064_30 (Source)	Bgsng8064	29.1			
+					
+Bgsng8064_32 (Source)	Bgsng8064	31			
+Bgsng8064_33 (Source)	Bgsng8064	32.3			
+					
+Bgsng8064_35 (Source)	Bgsng8064	34.3			
+Bgsng8064_36 (Source)	Bgsng8064	35			
+					
+Bgsng8064_38 (Source)	Bgsng8064	37.1			
+					
+Bgsng8064_5 (Source)	Bgsng8064	4			
+Bgsng8064_6 (Source)	Bgsng8064	5.1			
+					
+Bgsng8064_8 (Source)	Bgsng8064	7.1			
+Bgsng8064_9 (Source)	Bgsng8064	8			
+					
+Bgsng8067_38 (Source)	Bgsng8067	37.2			
+					
+Bgsng8067_41 (Source)	Bgsng8067	40.4			
+Bgsng8067_42 (Source)	Bgsng8067	41.1			
+					
+Bgsng8067_44 (Source)	Bgsng8067	43.2			
+Bgsng8067_45 (Source)	Bgsng8067	44			
+					
+Bgsng8067_47 (Source)	Bgsng8067	46.1			
+Bgsng8067_48 (Source)	Bgsng8067	47			
+					
+Bgsng8067_50 (Source)	Bgsng8067	49.2			
+Bgsng8067_51 (Source)	Bgsng8067	50.1			
+					
+Bgsng8067_53 (Source)	Bgsng8067	52			
+Bgsng8067_54 (Source)	Bgsng8067	53.1			
+					
+Bgsng8067_56 (Source)	Bgsng8067	55.1			
+Bgsng8067_57 (Source)	Bgsng8067	56			
+					
+Bgsng8067_59 (Source)	Bgsng8067	58.1			
+					
+					
+Bgsng8119_14 (Source)	Bgsng8119	13.1			
+Bgsng8119_15 (Source)	Bgsng8119	14.2			
+					
+Bgsng8119_18 (Source)	Bgsng8119	17.1			
+Bgsng8119_20 (Source)	Bgsng8119	19.7			
+					
+Bgsng8119_23 (Source)	Bgsng8119	22.3			
+Bgsng8119_27 (Source)	Bgsng8119	26.2			
+					
+Bgsng8119_29 (Source)	Bgsng8119	28			
+					
+Bgsng8119_31 (Source)	Bgsng8119	30.3			
+Bgsng8119_32 (Source)	Bgsng8119	31.1			
+Bgsng8119_33 (Source)	Bgsng8119	32.2			
+					
+Bgsng8119_35 (Source)	Bgsng8119	34			
+					
+Bgsng8119_38 (Source)	Bgsng8119	37.2			
+Bgsng8119_39 (Source)	Bgsng8119	38.1			
+					
+Bgsng8119_41 (Source)	Bgsng8119	40			
+Bgsng8119_42 (Source)	Bgsng8119	41.4			
+					
+Bgsng8119_44 (Source)	Bgsng8119	43			
+Bgsng8119_45 (Source)	Bgsng8119	44.1			
+					
+Bgsng8119_47 (Source)	Bgsng8119	46.1			
+Bgsng8119_48 (Source)	Bgsng8119	47			
+					
+Bgsng8119_50 (Source)	Bgsng8119	49.2			
+Bgsng8119_51 (Source)	Bgsng8119	50			
+					
+Bgsng8119_53 (Source)	Bgsng8119	52			
+Bgsng8119_54 (Source)	Bgsng8119	53			
+					
+Bgsng8119_56 (Source)	Bgsng8119	55.2			
+Bgsng8119_57 (Source)	Bgsng8119	56.1			
+					
+Bgsng8119_59 (Source)	Bgsng8119	58.2			
+					
+					
+Bgsng8145_11 (Source)	Bgsng8145	10.5			
+Bgsng8145_12 (Source)	Bgsng8145	11.2			
+					
+Bgsng8145_14 (Source)	Bgsng8145	13.1			
+Bgsng8145_15 (Source)	Bgsng8145	14.1			
+					
+Bgsng8145_17 (Source)	Bgsng8145	16.6			
+Bgsng8145_18 (Source)	Bgsng8145	17.2			
+					
+Bgsng8145_2 (Source)	Bgsng8145	1.6			
+Bgsng8145_20 (Source)	Bgsng8145	19.1			
+Bgsng8145_21 (Source)	Bgsng8145	20.2			
+					
+Bgsng8145_24 (Source)	Bgsng8145	23			
+					
+Bgsng8145_26 (Source)	Bgsng8145	25			
+					
+Bgsng8145_29 (Source)	Bgsng8145	28			
+					
+					
+Bgsng8145_32 (Source)	Bgsng8145	31			
+					
+					
+Bgsng8145_38 (Source)	Bgsng8145	37.3			
+Bgsng8145_39 (Source)	Bgsng8145	38			
+Bgsng8145_4 (Source)	Bgsng8145	3.9			
+					
+Bgsng8145_41 (Source)	Bgsng8145	40.1			
+Bgsng8145_42 (Source)	Bgsng8145	41.2			
+					
+Bgsng8145_44 (Source)	Bgsng8145	43			
+Bgsng8145_45 (Source)	Bgsng8145	44.5			
+					
+Bgsng8145_47 (Source)	Bgsng8145	46			
+Bgsng8145_48 (Source)	Bgsng8145	47			
+					
+Bgsng8145_5 (Source)	Bgsng8145	4.5			
+Bgsng8145_50 (Source)	Bgsng8145	49.2			
+Bgsng8145_51 (Source)	Bgsng8145	50.1			
+					
+Bgsng8145_53 (Source)	Bgsng8145	52.1			
+Bgsng8145_54 (Source)	Bgsng8145	53.2			
+					
+Bgsng8145_56 (Source)	Bgsng8145	55.2			
+Bgsng8145_57 (Source)	Bgsng8145	56.2			
+					
+Bgsng8145_59 (Source)	Bgsng8145	58			
+Bgsng8145_6 (Source)	Bgsng8145	5			
+					
+					
+Bgsng8145_8 (Source)	Bgsng8145	7.4			
+					
+					
+Bgsng8153_38 (Source)	Bgsng8153	37.1			
+					
+Bgsng8153_40 (Source)	Bgsng8153	39.7			
+Bgsng8153_41 (Source)	Bgsng8153	40.4			
+Bgsng8153_42 (Source)	Bgsng8153	41.3			
+					
+Bgsng8153_44 (Source)	Bgsng8153	43.1			
+Bgsng8153_45 (Source)	Bgsng8153	44.3			
+					
+Bgsng8153_47 (Source)	Bgsng8153	46.3			
+Bgsng8153_48 (Source)	Bgsng8153	47.5			
+					
+Bgsng8153_50 (Source)	Bgsng8153	49.3			
+Bgsng8153_51 (Source)	Bgsng8153	50.2			
+					
+Bgsng8153_53 (Source)	Bgsng8153	52.3			
+Bgsng8153_54 (Source)	Bgsng8153	53.2			
+					
+Bgsng8153_56 (Source)	Bgsng8153	55.5			
+					
+Bgsng8153_58 (Source)	Bgsng8153	57.4			
+Bgsng8153_59 (Source)	Bgsng8153	58.1			
+					
+					
+					
+					
+Bgsng8161_11 (Source)	Bgsng8161	10.2			
+Bgsng8161_12 (Source)	Bgsng8161	11.2			
+					
+Bgsng8161_14 (Source)	Bgsng8161	13			
+Bgsng8161_15 (Source)	Bgsng8161	14.4			
+					
+Bgsng8161_17 (Source)	Bgsng8161	16.7			
+					
+Bgsng8161_2 (Source)	Bgsng8161	1.2			
+Bgsng8161_20 (Source)	Bgsng8161	19.2			
+Bgsng8161_21 (Source)	Bgsng8161	20.1			
+					
+Bgsng8161_23 (Source)	Bgsng8161	22			
+Bgsng8161_24 (Source)	Bgsng8161	23.1			
+					
+Bgsng8161_26 (Source)	Bgsng8161	25.4			
+Bgsng8161_27 (Source)	Bgsng8161	26.2			
+					
+Bgsng8161_29 (Source)	Bgsng8161	28.2			
+					
+Bgsng8161_30 (Source)	Bgsng8161	29.3			
+					
+Bgsng8161_32 (Source)	Bgsng8161	31.4			
+Bgsng8161_33 (Source)	Bgsng8161	32.8			
+					
+Bgsng8161_35 (Source)	Bgsng8161	34.2			
+					
+Bgsng8161_38 (Source)	Bgsng8161	37.7			
+Bgsng8161_39 (Source)	Bgsng8161	38.3			
+Bgsng8161_4 (Source)	Bgsng8161	3.7			
+					
+Bgsng8161_41 (Source)	Bgsng8161	40.2			
+Bgsng8161_42 (Source)	Bgsng8161	41.2			
+					
+Bgsng8161_44 (Source)	Bgsng8161	43.2			
+Bgsng8161_45 (Source)	Bgsng8161	44.3			
+					
+Bgsng8161_47 (Source)	Bgsng8161	46			
+Bgsng8161_48 (Source)	Bgsng8161	47.3			
+					
+Bgsng8161_5 (Source)	Bgsng8161	4.3			
+Bgsng8161_50 (Source)	Bgsng8161	49.3			
+Bgsng8161_51 (Source)	Bgsng8161	50			
+					
+Bgsng8161_53 (Source)	Bgsng8161	52.1			
+Bgsng8161_54 (Source)	Bgsng8161	53.5			
+					
+Bgsng8161_56 (Source)	Bgsng8161	56			
+					
+Bgsng8161_59 (Source)	Bgsng8161	59			
+Bgsng8161_6 (Source)	Bgsng8161	5.2			
+					
+					
+Bgsng8161_8 (Source)	Bgsng8161	7.2			
+Bgsng8161_9 (Source)	Bgsng8161	8.2			
+					
+Bgsng8168_10 (Source)	Bgsng8168	10			
+Bgsng8168_11 (Source)	Bgsng8168	10.4			
+Bgsng8168_12 (Source)	Bgsng8168	11.1			
+					
+Bgsng8168_14 (Source)	Bgsng8168	13.2			
+					
+Bgsng8168_17 (Source)	Bgsng8168	16.1			
+Bgsng8168_18 (Source)	Bgsng8168	17			
+					
+Bgsng8168_2 (Source)	Bgsng8168	1.5			
+Bgsng8168_20 (Source)	Bgsng8168	19.2			
+Bgsng8168_21 (Source)	Bgsng8168	20.2			
+					
+Bgsng8168_23 (Source)	Bgsng8168	22			
+					
+					
+Bgsng8168_27 (Source)	Bgsng8168	27.3			
+					
+Bgsng8168_3 (Source)	Bgsng8168	2.1			
+					
+Bgsng8168_31 (Source)	Bgsng8168	31.1			
+Bgsng8168_33 (Source)	Bgsng8168	32.6			
+					
+Bgsng8168_35 (Source)	Bgsng8168	34.1			
+					
+Bgsng8168_38 (Source)	Bgsng8168	37.2			
+Bgsng8168_39 (Source)	Bgsng8168	38			
+					
+					
+Bgsng8168_41 (Source)	Bgsng8168	40.3			
+Bgsng8168_42 (Source)	Bgsng8168	41.1			
+					
+Bgsng8168_44 (Source)	Bgsng8168	43.1			
+Bgsng8168_45 (Source)	Bgsng8168	44.1			
+					
+Bgsng8168_47 (Source)	Bgsng8168	46.2			
+Bgsng8168_48 (Source)	Bgsng8168	47.2			
+					
+Bgsng8168_5 (Source)	Bgsng8168	4.5			
+Bgsng8168_50 (Source)	Bgsng8168	49.1			
+Bgsng8168_51 (Source)	Bgsng8168	50			
+					
+Bgsng8168_53 (Source)	Bgsng8168	52.1			
+Bgsng8168_54 (Source)	Bgsng8168	53.5			
+					
+Bgsng8168_56 (Source)	Bgsng8168	55.1			
+Bgsng8168_57 (Source)	Bgsng8168	56.5			
+					
+Bgsng8168_59 (Source)	Bgsng8168	58.5			
+					
+					
+Bgsng8168_7 (Source)	Bgsng8168	7.1			
+Bgsng8168_8 (Source)	Bgsng8168	8.2			
+					
+					
+Bgsng8169_10 (Source)	Bgsng8169	10.2			
+Bgsng8169_11 (Source)	Bgsng8169	11.3			
+					
+Bgsng8169_13 (Source)	Bgsng8169	13.8			
+Bgsng8169_14 (Source)	Bgsng8169	14.5			
+					
+Bgsng8169_16 (Source)	Bgsng8169	16.1			
+Bgsng8169_17 (Source)	Bgsng8169	17.3			
+					
+Bgsng8169_19 (Source)	Bgsng8169	19.1			
+Bgsng8169_20 (Source)	Bgsng8169	20.1			
+					
+Bgsng8169_22 (Source)	Bgsng8169	22.1			
+Bgsng8169_23 (Source)	Bgsng8169	23.1			
+					
+Bgsng8169_25 (Source)	Bgsng8169	25.6			
+Bgsng8169_26 (Source)	Bgsng8169	26.4			
+					
+Bgsng8169_28 (Source)	Bgsng8169	28.3			
+Bgsng8169_29 (Source)	Bgsng8169	29			
+					
+					
+Bgsng8169_31 (Source)	Bgsng8169	31.4			
+Bgsng8169_32 (Source)	Bgsng8169	32.1			
+					
+Bgsng8169_34 (Source)	Bgsng8169	34.2			
+Bgsng8169_35 (Source)	Bgsng8169	35.2			
+					
+Bgsng8169_37 (Source)	Bgsng8169	37.1			
+Bgsng8169_38 (Source)	Bgsng8169	38			
+					
+Bgsng8169_40 (Source)	Bgsng8169	40.1			
+Bgsng8169_41 (Source)	Bgsng8169	41.4			
+					
+Bgsng8169_43 (Source)	Bgsng8169	43.1			
+Bgsng8169_44 (Source)	Bgsng8169	44			
+					
+Bgsng8169_46 (Source)	Bgsng8169	46			
+Bgsng8169_47 (Source)	Bgsng8169	47.1			
+					
+Bgsng8169_49 (Source)	Bgsng8169	49.3			
+					
+Bgsng8169_50 (Source)	Bgsng8169	50.1			
+					
+Bgsng8169_52 (Source)	Bgsng8169	52.2			
+Bgsng8169_53 (Source)	Bgsng8169	53.4			
+					
+Bgsng8169_55 (Source)	Bgsng8169	55.3			
+Bgsng8169_56 (Source)	Bgsng8169	56.1			
+					
+Bgsng8169_58 (Source)	Bgsng8169	58.3			
+Bgsng8169_59 (Source)	Bgsng8169	59.3			
+Bgsng8169_6 (Source)	Bgsng8169	7.2			
+					
+Bgsng8169_7 (Source)	Bgsng8169	8.1			
+					
+Bgsng8169_9 (Source)	Bgsng8169	9.5			
+					
+					
+Bgsng8178_11 (Source)	Bgsng8178	10			
+Bgsng8178_12 (Source)	Bgsng8178	11.1			
+					
+Bgsng8178_14 (Source)	Bgsng8178	13.4			
+Bgsng8178_15 (Source)	Bgsng8178	14.2			
+					
+Bgsng8178_17 (Source)	Bgsng8178	16.2			
+Bgsng8178_18 (Source)	Bgsng8178	17.3			
+					
+Bgsng8178_2 (Source)	Bgsng8178	1.6			
+Bgsng8178_20 (Source)	Bgsng8178	19			
+					
+Bgsng8178_23 (Source)	Bgsng8178	22.1			
+					
+Bgsng8178_27 (Source)	Bgsng8178	26.1			
+					
+Bgsng8178_29 (Source)	Bgsng8178	28.1			
+Bgsng8178_3 (Source)	Bgsng8178	2.2			
+					
+Bgsng8178_33 (Source)	Bgsng8178	32.3			
+					
+Bgsng8178_35 (Source)	Bgsng8178	34.2			
+					
+Bgsng8178_38 (Source)	Bgsng8178	37.2			
+Bgsng8178_39 (Source)	Bgsng8178	38.1			
+					
+					
+Bgsng8178_41 (Source)	Bgsng8178	40.1			
+Bgsng8178_42 (Source)	Bgsng8178	41.3			
+					
+Bgsng8178_45 (Source)	Bgsng8178	44.2			
+					
+Bgsng8178_47 (Source)	Bgsng8178	46.3			
+Bgsng8178_48 (Source)	Bgsng8178	47			
+					
+Bgsng8178_5 (Source)	Bgsng8178	4.4			
+Bgsng8178_50 (Source)	Bgsng8178	49.1			
+Bgsng8178_51 (Source)	Bgsng8178	50.4			
+					
+Bgsng8178_53 (Source)	Bgsng8178	52.3			
+Bgsng8178_54 (Source)	Bgsng8178	53.2			
+					
+Bgsng8178_56 (Source)	Bgsng8178	55.3			
+Bgsng8178_57 (Source)	Bgsng8178	56.2			
+					
+Bgsng8178_59 (Source)	Bgsng8178	58.3			
+Bgsng8178_6 (Source)	Bgsng8178	5.1			
+					
+					
+Bgsng8178_8 (Source)	Bgsng8178	7.2			
+Bgsng8178_9 (Source)	Bgsng8178	8.1			
+					
+					
+Bgsng8224_11 (Source)	Bgsng8224	10.3			
+Bgsng8224_12 (Source)	Bgsng8224	11			
+					
+Bgsng8224_15 (Source)	Bgsng8224	14			
+					
+Bgsng8224_17 (Source)	Bgsng8224	16			
+Bgsng8224_18 (Source)	Bgsng8224	17			
+Bgsng8224_2 (Source)	Bgsng8224	1.1			
+					
+Bgsng8224_21 (Source)	Bgsng8224	20			
+					
+Bgsng8224_23 (Source)	Bgsng8224	22			
+Bgsng8224_24 (Source)	Bgsng8224	22.9			
+					
+Bgsng8224_27 (Source)	Bgsng8224	26			
+					
+Bgsng8224_3 (Source)	Bgsng8224	2.2			
+Bgsng8224_30 (Source)	Bgsng8224	29			
+					
+Bgsng8224_32 (Source)	Bgsng8224	31			
+					
+Bgsng8224_36 (Source)	Bgsng8224	35			
+					
+Bgsng8224_38 (Source)	Bgsng8224	37			
+Bgsng8224_39 (Source)	Bgsng8224	38			
+					
+					
+Bgsng8224_41 (Source)	Bgsng8224	40.3			
+Bgsng8224_42 (Source)	Bgsng8224	41			
+					
+Bgsng8224_44 (Source)	Bgsng8224	43			
+Bgsng8224_45 (Source)	Bgsng8224	44			
+					
+Bgsng8224_47 (Source)	Bgsng8224	46			
+Bgsng8224_48 (Source)	Bgsng8224	47.2			
+					
+Bgsng8224_5 (Source)	Bgsng8224	4.2			
+Bgsng8224_50 (Source)	Bgsng8224	49.1			
+Bgsng8224_51 (Source)	Bgsng8224	50.4			
+					
+Bgsng8224_53 (Source)	Bgsng8224	52.1			
+Bgsng8224_54 (Source)	Bgsng8224	53			
+					
+Bgsng8224_56 (Source)	Bgsng8224	55.2			
+Bgsng8224_57 (Source)	Bgsng8224	56.3			
+					
+Bgsng8224_59 (Source)	Bgsng8224	58			
+Bgsng8224_6 (Source)	Bgsng8224	5.1			
+					
+					
+Bgsng8224_9 (Source)	Bgsng8224	8			
+					
+Bgsng8233_11 (Source)	Bgsng8233	10			
+Bgsng8233_12 (Source)	Bgsng8233	11.1			
+					
+Bgsng8233_14 (Source)	Bgsng8233	13.2			
+Bgsng8233_15 (Source)	Bgsng8233	14.2			
+					
+Bgsng8233_17 (Source)	Bgsng8233	16			
+					
+Bgsng8233_20 (Source)	Bgsng8233	19.3			
+Bgsng8233_21 (Source)	Bgsng8233	20.1			
+					
+Bgsng8233_23 (Source)	Bgsng8233	22.3			
+					
+Bgsng8233_26 (Source)	Bgsng8233	25			
+					
+Bgsng8233_28 (Source)	Bgsng8233	27.6			
+Bgsng8233_29 (Source)	Bgsng8233	28.5			
+Bgsng8233_3 (Source)	Bgsng8233	2.4			
+					
+Bgsng8233_32 (Source)	Bgsng8233	30.9			
+Bgsng8233_33 (Source)	Bgsng8233	32.4			
+					
+Bgsng8233_35 (Source)	Bgsng8233	34.2			
+Bgsng8233_36 (Source)	Bgsng8233	35.5			
+					
+Bgsng8233_38 (Source)	Bgsng8233	38.1			
+					
+					
+Bgsng8233_40 (Source)	Bgsng8233	39.9			
+Bgsng8233_41 (Source)	Bgsng8233	28.8			
+Bgsng8233_42 (Source)	Bgsng8233	29.3			
+					
+Bgsng8233_44 (Source)	Bgsng8233	44			
+					
+Bgsng8233_46 (Source)	Bgsng8233	46			
+Bgsng8233_47 (Source)	Bgsng8233	46.8			
+Bgsng8233_48 (Source)	Bgsng8233	47.6			
+					
+Bgsng8233_5 (Source)	Bgsng8233	4.2			
+Bgsng8233_50 (Source)	Bgsng8233	49.5			
+Bgsng8233_51 (Source)	Bgsng8233	50.5			
+					
+Bgsng8233_53 (Source)	Bgsng8233	52.1			
+Bgsng8233_54 (Source)	Bgsng8233	53.5			
+					
+Bgsng8233_57 (Source)	Bgsng8233	56			
+					
+Bgsng8233_59 (Source)	Bgsng8233	58			
+Bgsng8233_6 (Source)	Bgsng8233	5			
+					
+					
+Bgsng8233_8 (Source)	Bgsng8233	7.3			
+Bgsng8233_9 (Source)	Bgsng8233	8			
+					
+					
+Bgsng8234_11 (Source)	Bgsng8234	10.4			
+Bgsng8234_12 (Source)	Bgsng8234	11.1			
+					
+Bgsng8234_14 (Source)	Bgsng8234	13			
+Bgsng8234_15 (Source)	Bgsng8234	14.3			
+					
+Bgsng8234_17 (Source)	Bgsng8234	15.9			
+					
+Bgsng8234_2 (Source)	Bgsng8234	1.9			
+Bgsng8234_20 (Source)	Bgsng8234	19.2			
+Bgsng8234_21 (Source)	Bgsng8234	20			
+					
+Bgsng8234_23 (Source)	Bgsng8234	22.8			
+					
+Bgsng8234_26 (Source)	Bgsng8234	25.2			
+Bgsng8234_27 (Source)	Bgsng8234	26.3			
+					
+Bgsng8234_29 (Source)	Bgsng8234	28			
+Bgsng8234_3 (Source)	Bgsng8234	2.3			
+					
+Bgsng8234_32 (Source)	Bgsng8234	31.3			
+Bgsng8234_33 (Source)	Bgsng8234	32			
+					
+					
+Bgsng8234_38 (Source)	Bgsng8234	37.1			
+Bgsng8234_39 (Source)	Bgsng8234	38.3			
+					
+					
+Bgsng8234_41 (Source)	Bgsng8234	40.1			
+Bgsng8234_42 (Source)	Bgsng8234	29.1			
+					
+Bgsng8234_44 (Source)	Bgsng8234	43.1			
+Bgsng8234_45 (Source)	Bgsng8234	44			
+					
+Bgsng8234_47 (Source)	Bgsng8234	46.3			
+Bgsng8234_48 (Source)	Bgsng8234	47			
+					
+Bgsng8234_5 (Source)	Bgsng8234	4			
+Bgsng8234_50 (Source)	Bgsng8234	49.1			
+Bgsng8234_51 (Source)	Bgsng8234	50.1			
+					
+Bgsng8234_53 (Source)	Bgsng8234	52			
+Bgsng8234_54 (Source)	Bgsng8234	53			
+					
+Bgsng8234_56 (Source)	Bgsng8234	55.1			
+Bgsng8234_57 (Source)	Bgsng8234	56.2			
+					
+Bgsng8234_59 (Source)	Bgsng8234	58.1			
+Bgsng8234_6 (Source)	Bgsng8234	5.1			
+					
+Bgsng8234_9 (Source)	Bgsng8234	8			
+					
+Bgsng8241_10 (Source)	Bgsng8241	10			
+					
+Bgsng8241_14 (Source)	Bgsng8241	14.1			
+					
+Bgsng8241_16 (Source)	Bgsng8241	16.1			
+					
+Bgsng8241_2 (Source)	Bgsng8241	2.1			
+Bgsng8241_20 (Source)	Bgsng8241	20			
+					
+Bgsng8241_22 (Source)	Bgsng8241	22.1			
+					
+Bgsng8241_25 (Source)	Bgsng8241	25.1			
+Bgsng8241_26 (Source)	Bgsng8241	26			
+					
+Bgsng8241_28 (Source)	Bgsng8241	28			
+Bgsng8241_29 (Source)	Bgsng8241	29			
+					
+					
+Bgsng8241_32 (Source)	Bgsng8241	32			
+					
+Bgsng8241_34 (Source)	Bgsng8241	34.1			
+Bgsng8241_35 (Source)	Bgsng8241	35			
+					
+Bgsng8241_37 (Source)	Bgsng8241	37			
+Bgsng8241_38 (Source)	Bgsng8241	38.2			
+					
+Bgsng8241_4 (Source)	Bgsng8241	4.2			
+Bgsng8241_40 (Source)	Bgsng8241	39.9			
+Bgsng8241_41 (Source)	Bgsng8241	41			
+					
+Bgsng8241_43 (Source)	Bgsng8241	43			
+Bgsng8241_44 (Source)	Bgsng8241	44			
+					
+Bgsng8241_46 (Source)	Bgsng8241	46.1			
+Bgsng8241_47 (Source)	Bgsng8241	47.1			
+					
+Bgsng8241_49 (Source)	Bgsng8241	49			
+Bgsng8241_5 (Source)	Bgsng8241	5.1			
+Bgsng8241_50 (Source)	Bgsng8241	50			
+					
+Bgsng8241_52 (Source)	Bgsng8241	52			
+Bgsng8241_53 (Source)	Bgsng8241	53			
+					
+Bgsng8241_55 (Source)	Bgsng8241	55			
+					
+Bgsng8241_58 (Source)	Bgsng8241	58			
+					
+Bgsng8241_7 (Source)	Bgsng8241	7			
+Bgsng8241_8 (Source)	Bgsng8241	8			
+					
+					
+Bgsng8245_10 (Source)	Bgsng8245	10			
+Bgsng8245_11 (Source)	Bgsng8245	11.1			
+					
+Bgsng8245_13 (Source)	Bgsng8245	13			
+Bgsng8245_14 (Source)	Bgsng8245	14			
+					
+Bgsng8245_16 (Source)	Bgsng8245	16			
+Bgsng8245_17 (Source)	Bgsng8245	17.1			
+					
+Bgsng8245_19 (Source)	Bgsng8245	19			
+Bgsng8245_2 (Source)	Bgsng8245	2			
+Bgsng8245_20 (Source)	Bgsng8245	20.3			
+Bgsng8245_21 (Source)	Bgsng8245	20.8			
+Bgsng8245_25 (Source)	Bgsng8245	26.3			
+					
+Bgsng8245_27 (Source)	Bgsng8245	27.4			
+Bgsng8245_28 (Source)	Bgsng8245	28.1			
+					
+					
+Bgsng8245_30 (Source)	Bgsng8245	30.2			
+Bgsng8245_31 (Source)	Bgsng8245	30.9			
+Bgsng8245_32 (Source)	Bgsng8245	32			
+					
+Bgsng8245_34 (Source)	Bgsng8245	33.9			
+Bgsng8245_35 (Source)	Bgsng8245	35.3			
+					
+Bgsng8245_37 (Source)	Bgsng8245	37			
+Bgsng8245_38 (Source)	Bgsng8245	38.4			
+Bgsng8245_39 (Source)	Bgsng8245	39.2			
+Bgsng8245_4 (Source)	Bgsng8245	4			
+Bgsng8245_40 (Source)	Bgsng8245	40.1			
+Bgsng8245_41 (Source)	Bgsng8245	41			
+					
+Bgsng8245_43 (Source)	Bgsng8245	43.1			
+Bgsng8245_44 (Source)	Bgsng8245	44.1			
+					
+Bgsng8245_46 (Source)	Bgsng8245	46.2			
+Bgsng8245_47 (Source)	Bgsng8245	47			
+					
+Bgsng8245_49 (Source)	Bgsng8245	49.1			
+Bgsng8245_5 (Source)	Bgsng8245	4.9			
+					
+Bgsng8245_51 (Source)	Bgsng8245	52			
+Bgsng8245_52 (Source)	Bgsng8245	53			
+Bgsng8245_53 (Source)	Bgsng8245	53.6			
+					
+Bgsng8245_55 (Source)	Bgsng8245	55			
+Bgsng8245_56 (Source)	Bgsng8245	56.4			
+					
+Bgsng8245_58 (Source)	Bgsng8245	58.1			
+Bgsng8245_59 (Source)	Bgsng8245	59.1			
+					
+					
+Bgsng8245_7 (Source)	Bgsng8245	7			
+Bgsng8245_8 (Source)	Bgsng8245	8.1			
+					
+					
+					
+Bgsng8248_11 (Source)	Bgsng8248	10.1			
+Bgsng8248_12 (Source)	Bgsng8248	11			
+					
+Bgsng8248_14 (Source)	Bgsng8248	13.3			
+Bgsng8248_15 (Source)	Bgsng8248	14			
+					
+Bgsng8248_17 (Source)	Bgsng8248	16			
+					
+Bgsng8248_2 (Source)	Bgsng8248	1.1			
+Bgsng8248_20 (Source)	Bgsng8248	19.1			
+					
+Bgsng8248_23 (Source)	Bgsng8248	22.5			
+					
+Bgsng8248_26 (Source)	Bgsng8248	25.1			
+Bgsng8248_27 (Source)	Bgsng8248	26.3			
+					
+Bgsng8248_29 (Source)	Bgsng8248	28.1			
+Bgsng8248_3 (Source)	Bgsng8248	2			
+Bgsng8248_30 (Source)	Bgsng8248	29			
+					
+Bgsng8248_32 (Source)	Bgsng8248	31.2			
+					
+Bgsng8248_35 (Source)	Bgsng8248	34.9			
+Bgsng8248_36 (Source)	Bgsng8248	35.5			
+					
+Bgsng8248_38 (Source)	Bgsng8248	37.2			
+Bgsng8248_39 (Source)	Bgsng8248	38.2			
+					
+					
+Bgsng8248_41 (Source)	Bgsng8248	40			
+Bgsng8248_42 (Source)	Bgsng8248	41.1			
+					
+Bgsng8248_44 (Source)	Bgsng8248	43.2			
+Bgsng8248_45 (Source)	Bgsng8248	44.2			
+					
+Bgsng8248_47 (Source)	Bgsng8248	46.4			
+Bgsng8248_48 (Source)	Bgsng8248	47.2			
+					
+Bgsng8248_5 (Source)	Bgsng8248	5.7			
+Bgsng8248_51 (Source)	Bgsng8248	50.2			
+					
+Bgsng8248_53 (Source)	Bgsng8248	52.1			
+					
+Bgsng8248_56 (Source)	Bgsng8248	55			
+					
+Bgsng8248_59 (Source)	Bgsng8248	58.2			
+					
+					
+Bgsng8248_7 (Source)	Bgsng8248	6.7			
+Bgsng8248_8 (Source)	Bgsng8248	7.3			
+Bgsng8248_9 (Source)	Bgsng8248	8			
+					
+Bgsng8260_11 (Source)	Bgsng8260	10.4			
+					
+Bgsng8260_14 (Source)	Bgsng8260	13.1			
+Bgsng8260_15 (Source)	Bgsng8260	14.1			
+					
+Bgsng8260_17 (Source)	Bgsng8260	16.3			
+					
+Bgsng8260_2 (Source)	Bgsng8260	1.1			
+Bgsng8260_20 (Source)	Bgsng8260	19			
+Bgsng8260_21 (Source)	Bgsng8260	20.3			
+					
+Bgsng8260_23 (Source)	Bgsng8260	22.1			
+Bgsng8260_24 (Source)	Bgsng8260	23.1			
+					
+Bgsng8260_26 (Source)	Bgsng8260	24.9			
+					
+Bgsng8260_29 (Source)	Bgsng8260	28			
+Bgsng8260_3 (Source)	Bgsng8260	2.2			
+Bgsng8260_35 (Source)	Bgsng8260	34.2			
+Bgsng8260_36 (Source)	Bgsng8260	35.5			
+					
+Bgsng8260_38 (Source)	Bgsng8260	37.2			
+Bgsng8260_39 (Source)	Bgsng8260	38.1			
+					
+					
+Bgsng8260_41 (Source)	Bgsng8260	40.3			
+Bgsng8260_42 (Source)	Bgsng8260	41.1			
+					
+Bgsng8260_44 (Source)	Bgsng8260	43.1			
+Bgsng8260_45 (Source)	Bgsng8260	44.3			
+					
+Bgsng8260_47 (Source)	Bgsng8260	46.1			
+Bgsng8260_48 (Source)	Bgsng8260	47.2			
+					
+Bgsng8260_5 (Source)	Bgsng8260	4			
+Bgsng8260_50 (Source)	Bgsng8260	49.1			
+Bgsng8260_51 (Source)	Bgsng8260	50.5			
+					
+Bgsng8260_53 (Source)	Bgsng8260	52.1			
+Bgsng8260_54 (Source)	Bgsng8260	53.7			
+					
+Bgsng8260_56 (Source)	Bgsng8260	55.5			
+Bgsng8260_57 (Source)	Bgsng8260	56.2			
+					
+Bgsng8260_59 (Source)	Bgsng8260	58.4			
+Bgsng8260_6 (Source)	Bgsng8260	5.1			
+					
+Bgsng8260_8 (Source)	Bgsng8260	7.8			
+					
+					
+Bgsng8261_38 (Source)	Bgsng8261	37.2			
+Bgsng8261_39 (Source)	Bgsng8261	38.3			
+Bgsng8261_40 (Source)	Bgsng8261	39			
+Bgsng8261_41 (Source)	Bgsng8261	40.1			
+Bgsng8261_42 (Source)	Bgsng8261	41.1			
+					
+Bgsng8261_44 (Source)	Bgsng8261	43			
+Bgsng8261_45 (Source)	Bgsng8261	44.1			
+					
+Bgsng8261_47 (Source)	Bgsng8261	46.2			
+Bgsng8261_48 (Source)	Bgsng8261	47.1			
+					
+Bgsng8261_50 (Source)	Bgsng8261	49.1			
+Bgsng8261_51 (Source)	Bgsng8261	50.1			
+					
+Bgsng8261_53 (Source)	Bgsng8261	52.1			
+Bgsng8261_54 (Source)	Bgsng8261	53.1			
+					
+Bgsng8261_56 (Source)	Bgsng8261	55.6			
+Bgsng8261_57 (Source)	Bgsng8261	56.2			
+					
+Bgsng8261_59 (Source)	Bgsng8261	58			
+					
+					
+Bgsng8267_38 (Source)	Bgsng8267	38.1			
+					
+Bgsng8267_40 (Source)	Bgsng8267	40			
+Bgsng8267_41 (Source)	Bgsng8267	41.1			
+					
+Bgsng8267_43 (Source)	Bgsng8267	43.2			
+Bgsng8267_44 (Source)	Bgsng8267	44.1			
+					
+Bgsng8267_46 (Source)	Bgsng8267	46.2			
+					
+Bgsng8267_48 (Source)	Bgsng8267	48.8			
+Bgsng8267_49 (Source)	Bgsng8267	49.9			
+Bgsng8267_50 (Source)	Bgsng8267	50.6			
+					
+Bgsng8267_52 (Source)	Bgsng8267	52			
+Bgsng8267_53 (Source)	Bgsng8267	53.2			
+					
+Bgsng8267_55 (Source)	Bgsng8267	55.1			
+					
+Bgsng8267_58 (Source)	Bgsng8267	58.1			
+Bgsng8267_59 (Source)	Bgsng8267	59.1			
+					
+					
+					
+Bgsng8270_11 (Source)	Bgsng8270	10.1			
+Bgsng8270_12 (Source)	Bgsng8270	11.2			
+					
+Bgsng8270_14 (Source)	Bgsng8270	13			
+Bgsng8270_15 (Source)	Bgsng8270	14			
+					
+Bgsng8270_17 (Source)	Bgsng8270	16			
+Bgsng8270_18 (Source)	Bgsng8270	16.9			
+					
+Bgsng8270_2 (Source)	Bgsng8270	1.3			
+Bgsng8270_20 (Source)	Bgsng8270	19.2			
+Bgsng8270_21 (Source)	Bgsng8270	20.3			
+					
+Bgsng8270_23 (Source)	Bgsng8270	22.2			
+					
+Bgsng8270_26 (Source)	Bgsng8270	25			
+Bgsng8270_27 (Source)	Bgsng8270	26			
+Bgsng8270_3 (Source)	Bgsng8270	2			
+					
+					
+					
+Bgsng8270_38 (Source)	Bgsng8270	37			
+Bgsng8270_39 (Source)	Bgsng8270	37.9			
+					
+					
+Bgsng8270_41 (Source)	Bgsng8270	40.1			
+Bgsng8270_42 (Source)	Bgsng8270	41.3			
+					
+Bgsng8270_44 (Source)	Bgsng8270	43.4			
+Bgsng8270_45 (Source)	Bgsng8270	44.3			
+					
+Bgsng8270_47 (Source)	Bgsng8270	46			
+Bgsng8270_48 (Source)	Bgsng8270	47.1			
+					
+Bgsng8270_5 (Source)	Bgsng8270	4			
+Bgsng8270_50 (Source)	Bgsng8270	49.1			
+Bgsng8270_51 (Source)	Bgsng8270	49.9			
+					
+Bgsng8270_53 (Source)	Bgsng8270	51.9			
+Bgsng8270_54 (Source)	Bgsng8270	53			
+					
+Bgsng8270_56 (Source)	Bgsng8270	55			
+					
+Bgsng8270_6 (Source)	Bgsng8270	5			
+					
+Bgsng8270_8 (Source)	Bgsng8270	7.1			
+					
+Bgsng8285_38 (Source)	Bgsng8285	37.8			
+					
+Bgsng8285_40 (Source)	Bgsng8285	39.6			
+Bgsng8285_41 (Source)	Bgsng8285	40.3			
+					
+					
+Bgsng8285_45 (Source)	Bgsng8285	45.2			
+Bgsng8285_46 (Source)	Bgsng8285	45.9			
+Bgsng8285_47 (Source)	Bgsng8285	46.7			
+					
+Bgsng8285_50 (Source)	Bgsng8285	49.6			
+					
+Bgsng8285_52 (Source)	Bgsng8285	51.9			
+Bgsng8285_53 (Source)	Bgsng8285	52.6			
+Bgsng8285_56 (Source)	Bgsng8285	55.2			
+					
+Bgsng8285_58 (Source)	Bgsng8285	58.4			
+Bgsng8285_59 (Source)	Bgsng8285	58.2			
+					
+					
+Bgsng8303_38 (Source)	Bgsng8303	37.2			
+Bgsng8303_39 (Source)	Bgsng8303	38.1			
+					
+Bgsng8303_41 (Source)	Bgsng8303	40.2			
+Bgsng8303_42 (Source)	Bgsng8303	41.3			
+					
+Bgsng8303_44 (Source)	Bgsng8303	43.1			
+Bgsng8303_45 (Source)	Bgsng8303	44.1			
+					
+Bgsng8303_47 (Source)	Bgsng8303	46.1			
+Bgsng8303_48 (Source)	Bgsng8303	47.2			
+					
+Bgsng8303_50 (Source)	Bgsng8303	49			
+Bgsng8303_51 (Source)	Bgsng8303	50			
+					
+Bgsng8303_53 (Source)	Bgsng8303	52.3			
+Bgsng8303_54 (Source)	Bgsng8303	53			
+					
+Bgsng8303_56 (Source)	Bgsng8303	55.3			
+Bgsng8303_57 (Source)	Bgsng8303	56.4			
+					
+Bgsng8303_59 (Source)	Bgsng8303	58.3			
+					
+					
+Bgsng8308_38 (Source)	Bgsng8308	37.2			
+Bgsng8308_39 (Source)	Bgsng8308	38.1			
+					
+Bgsng8308_41 (Source)	Bgsng8308	40.1			
+Bgsng8308_42 (Source)	Bgsng8308	41.4			
+					
+Bgsng8308_44 (Source)	Bgsng8308	43.6			
+Bgsng8308_45 (Source)	Bgsng8308	44.3			
+					
+Bgsng8308_47 (Source)	Bgsng8308	46.2			
+Bgsng8308_48 (Source)	Bgsng8308	47.2			
+					
+Bgsng8308_51 (Source)	Bgsng8308	50.1			
+					
+Bgsng8308_53 (Source)	Bgsng8308	53			
+					
+Bgsng8308_56 (Source)	Bgsng8308	55.1			
+Bgsng8308_57 (Source)	Bgsng8308	56.2			
+					
+Bgsng8308_59 (Source)	Bgsng8308	58.1			
+					
+					
+Bgsng8323_38 (Source)	Bgsng8323	37.4			
+Bgsng8323_39 (Source)	Bgsng8323	38.4			
+					
+Bgsng8323_41 (Source)	Bgsng8323	40.4			
+Bgsng8323_42 (Source)	Bgsng8323	41.3			
+					
+Bgsng8323_44 (Source)	Bgsng8323	43.3			
+Bgsng8323_45 (Source)	Bgsng8323	44.1			
+					
+Bgsng8323_47 (Source)	Bgsng8323	46.2			
+Bgsng8323_48 (Source)	Bgsng8323	47.1			
+					
+Bgsng8323_50 (Source)	Bgsng8323	49.2			
+					
+Bgsng8323_53 (Source)	Bgsng8323	52.1			
+Bgsng8323_54 (Source)	Bgsng8323	53.1			
+					
+Bgsng8323_56 (Source)	Bgsng8323	55.2			
+Bgsng8323_57 (Source)	Bgsng8323	56.1			
+					
+					
+Bgsng8331_38 (Source)	Bgsng8331	37.2			
+Bgsng8331_39 (Source)	Bgsng8331	38.1			
+					
+Bgsng8331_41 (Source)	Bgsng8331	40.1			
+Bgsng8331_42 (Source)	Bgsng8331	41.1			
+					
+Bgsng8331_44 (Source)	Bgsng8331	43.3			
+Bgsng8331_45 (Source)	Bgsng8331	44.1			
+					
+Bgsng8331_47 (Source)	Bgsng8331	46.7			
+					
+Bgsng8331_50 (Source)	Bgsng8331	49.2			
+Bgsng8331_51 (Source)	Bgsng8331	50			
+					
+Bgsng8331_53 (Source)	Bgsng8331	52.1			
+					
+Bgsng8331_56 (Source)	Bgsng8331	55.1			
+Bgsng8331_57 (Source)	Bgsng8331	56.1			
+					
+					
+Bgsng8347_38 (Source)	Bgsng8347	37.2			
+Bgsng8347_39 (Source)	Bgsng8347	38			
+					
+Bgsng8347_41 (Source)	Bgsng8347	40.2			
+					
+Bgsng8347_43 (Source)	Bgsng8347	43.7			
+Bgsng8347_44 (Source)	Bgsng8347	44.5			
+					
+Bgsng8347_46 (Source)	Bgsng8347	46.3			
+Bgsng8347_47 (Source)	Bgsng8347	47.2			
+					
+Bgsng8347_49 (Source)	Bgsng8347	49.6			
+					
+Bgsng8347_52 (Source)	Bgsng8347	52.8			
+					
+Bgsng8351_38 (Source)	Bgsng8351	37.1			
+Bgsng8351_39 (Source)	Bgsng8351	38			
+					
+Bgsng8351_41 (Source)	Bgsng8351	40.3			
+Bgsng8351_42 (Source)	Bgsng8351	41.1			
+					
+Bgsng8351_44 (Source)	Bgsng8351	43.3			
+Bgsng8351_45 (Source)	Bgsng8351	44			
+					
+Bgsng8351_47 (Source)	Bgsng8351	46.1			
+Bgsng8351_48 (Source)	Bgsng8351	47			
+					
+Bgsng8351_50 (Source)	Bgsng8351	49			
+Bgsng8351_51 (Source)	Bgsng8351	49.9			
+					
+Bgsng8351_53 (Source)	Bgsng8351	52.4			
+Bgsng8351_54 (Source)	Bgsng8351	53			
+					

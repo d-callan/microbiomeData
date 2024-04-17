@@ -1,0 +1,56 @@
+Participant_Id	Age at discharge (days) [EUPATH_0009190]	Bacterial culture in blood [EUPATH_0009242]	Bacterial culture in tracheal [EUPATH_0009270]	Bacterial culture in urine [EUPATH_0009243]	Bacterial culture, other [EUPATH_0009271]	Birth weight (g) [EFO_0004344]	Chorioamnionitis [EUPATH_0009175]	Delivery mode [EUPATH_0000581]	Gestational age at birth (days) [EUPATH_0009095]	Group B Streptococcus infection [EUPATH_0009172]	Maternal age at birth (months) [EUPATH_0009034]	Maternal antibiotics administered [EUPATH_0009272]	Necrotizing enterocolitis [EUPATH_0009177]	Oral diet at 2 months of age [EUPATH_0009273]	Sex [PATO_0000047]	Study group [EUPATH_0000639]	Total antibiotic administered (days) [EUPATH_0009137]
+N001 (Source)	90	No	No	No	No	830	No	Cesarean	186	Unknown	26	Ancef (cefazolin)	No	Breastmilk	Male	Early and subsequent antibiotics antibiotics	20
+N002 (Source)	74	No	No	No	No	1000	No	Cesarean	183	Unknown	32	Penicillin G	No	Breastmilk and formula	Male	Early and subsequent antibiotics antibiotics	23
+N003 (Source)	73	Yes	No	No	No	800	No	Cesarean	189	Unknown	22	None	No	Breastmilk and formula	Female	Early and subsequent antibiotics antibiotics	15
+N004 (Source)	80	No	No	Yes	No	830	No	Cesarean	201	Unknown	26	Ancef (cefazolin)	No	Breastmilk and formula	Female	Early and subsequent antibiotics antibiotics	18
+N005 (Source)	64	No	No	No	No	1120	No	Vaginal	194	Positive	23	Penicillin G	No	Breastmilk and formula	Female	Early and subsequent antibiotics antibiotics	5
+N007 (Source)	126	No	No	No	No	400	No	Cesarean	162	Unknown	24	Ancef (cefazolin)	No	Breastmilk	Female	Early and subsequent antibiotics antibiotics	27
+N008 (Source)	134	Yes	No	Yes	No	920	No	Cesarean	200	Unknown	20	Ancef (cefazolin)	Yes	Breastmilk	Male	Early and subsequent antibiotics antibiotics	74
+N009 (Source)	108	Yes	No	Yes	No	800	No	Cesarean	178	Unknown	31	Ancef (cefazolin)	No	Breastmilk	Male	Early and subsequent antibiotics antibiotics	41
+N010 (Source)	87	No	No	Yes	No	930	No	Vaginal	180	Negative	22	Penicillin G	No	Breastmilk and formula	Male	Early and subsequent antibiotics antibiotics	25
+N011 (Source)	114	No	Yes	No	Yes	810	No	Cesarean	185	Negative	26	Ancef (cefazolin)	No	Breastmilk	Male	Early and subsequent antibiotics antibiotics	34
+N012 (Source)	114	No	No	No	No	630	No	Cesarean	185	Negative	26	Ancef (cefazolin)	No	Breastmilk	Female	Early and subsequent antibiotics antibiotics	39
+N013 (Source)	148	Yes	No	No	No	810	No	Cesarean	173	Positive	24	Ancef (cefazolin)	Yes	Breastmilk	Male	Early and subsequent antibiotics antibiotics	96
+N014 (Source)	101	No	No	No	No	740	No	Cesarean	182	Negative	37	Retrovirals for HIV (AZT, HAART)	No	Breastmilk and formula	Female	Early and subsequent antibiotics antibiotics	72
+N015 (Source)	103	No	No	Yes	No	1000	No	Cesarean	187	Positive	36	Penicillin G	No	Breastmilk	Female	Early and subsequent antibiotics antibiotics	4
+N016 (Source)	151	Yes	Yes	Yes	Yes	510	No	Cesarean	167	Unknown	28	Ancef (cefazolin)	No	Breastmilk	Female	Early and subsequent antibiotics antibiotics	35
+N018 (Source)	275	Yes	Yes	No	No	680	No	Vaginal	172	Positive	19	Penicillin G	No	Breastmilk	Female	Early and subsequent antibiotics antibiotics	37
+N019 (Source)	65	No	No	No	No	1030	No	Cesarean	192	Negative	32	Ancef (cefazolin)	No	Breastmilk and formula	Male	Early and subsequent antibiotics antibiotics	18
+N020 (Source)	101	Yes	No	No	Yes	805	No	Cesarean	196	Negative	33	Ancef (cefazolin)	Yes	Breastmilk and formula	Female	Early and subsequent antibiotics antibiotics	78
+N021 (Source)	109	Yes	Yes	Yes	Yes	840	No	Cesarean	172	Negative	21	Penicillin G	No	Breastmilk	Male	Early and subsequent antibiotics antibiotics	90
+N022 (Source)	80	No	No	No	No	700	No	Cesarean	173	Unknown	43	Ancef (cefazolin)	No	Breastmilk and formula	Female	Early and subsequent antibiotics antibiotics	6
+N023 (Source)	162	No	Yes	Yes	Yes	580	No	Cesarean	164	Negative	32	Ampicillin	No	Breastmilk	Male	Early and subsequent antibiotics antibiotics	58
+N024 (Source)	140	Yes	Yes	Yes	No	880	No	Vaginal	173	Negative	33	Penicillin G	Yes	Breastmilk	Male	Early and subsequent antibiotics antibiotics	85
+N025 (Source)	139	No	Yes	No	No	1010	No	Cesarean	195	Positive	27	Ancef (cefazolin)	No	Breastmilk and formula	Male	Early and subsequent antibiotics antibiotics	32
+N026 (Source)	180	Yes	Yes	No	Yes	860	No	Vaginal	181	Positive	23	Amoxicillin	Yes	Breastmilk	Male	Early and subsequent antibiotics antibiotics	113
+N027 (Source)	89	No	Yes	No	No	890	No	Vaginal	175	Unknown	21	None	No	Breastmilk and formula	Female	Early and subsequent antibiotics antibiotics	30
+N028 (Source)	77	Yes	No	Yes	No	695	No	Cesarean	171	Negative	21	Ancef (cefazolin)	No	Breastmilk and formula	Male	Early and subsequent antibiotics antibiotics	21
+N029 (Source)	87	No	No	No	Yes	960	Yes	Cesarean	185	Negative	24	Clindamycin	No	Breastmilk	Female	Early and subsequent antibiotics antibiotics	14
+N030 (Source)	91	No	No	No	Yes	830	No	Cesarean	181	Unknown	34	Clindamycin	No	Breastmilk	Female	Early and subsequent antibiotics antibiotics	30
+N031 (Source)	135	No	No	Yes	No	570	No	Cesarean	180	Negative	29	Ancef (cefazolin)	Yes	Breastmilk	Male	Early and subsequent antibiotics antibiotics	77
+N032 (Source)	141	Yes	Yes	No	No	580	No	Cesarean	173	Unknown	20	Ancef (cefazolin)	Yes	Breastmilk	Female	Early and subsequent antibiotics antibiotics	128
+N033 (Source)	86	No	No	No	Yes	1300	No	Cesarean	189	Unknown	19	Penicillin G	No	Breastmilk and formula	Male	Early only antibiotics	6
+N035 (Source)	93	No	No	No	No	1180	No	Cesarean	194	Negative	27	Ancef (cefazolin)	No	Breastmilk and formula	Female	Early only antibiotics	15
+N036 (Source)	105	No	No	No	No	880	No	Cesarean	187	Positive	36	Penicillin G	No	Breastmilk	Male	Early only antibiotics	3
+N037 (Source)	90	No	No	No	No	850	No	Vaginal	186	Negative	25	Ancef (cefazolin)	No	Breastmilk	Female	Early only antibiotics	13
+N038 (Source)	103	No	No	No	No	920	No	Cesarean	188	Negative	25	Ancef (cefazolin)	No	Breastmilk and formula	Male	Early only antibiotics	10
+N039 (Source)	59	No	No	No	No	1340	Yes	Vaginal	197	Negative	29	Ampicillin	No	Breastmilk	Male	Early only antibiotics	10
+N040 (Source)	87	No	No	No	No	1080	No	Vaginal	195	Negative	36	Ampicillin	No	Breastmilk	Female	Early only antibiotics	4
+N041 (Source)	107	No	No	No	No	770	No	Cesarean	187	Unknown	40	None	No	Breastmilk	Female	Early only antibiotics	3
+T0101B (Source)	11	No	No	No	No	2329	No	Cesarean	243	Unknown	33	Unasyn (ampicillin/sulbactam)	No	Breastmilk and formula	Male	Term	0
+T0108A (Source)	8	No	No	No	No	2600	No	Vaginal	254	Negative	24	Ancef (cefazolin)	No	Formula	Male	Term	0
+T0108B (Source)	9	No	No	No	No	2380	No	Cesarean	254	Negative	24	Ancef (cefazolin)	No	Formula	Male	Term	0
+T0122A (Source)	4	No	No	No	No	2274	No	Cesarean	255	Negative	29	Ancef (cefazolin)	No	Formula	Male	Term	0
+T0122B (Source)	4	No	No	No	No	2421	No	Cesarean	255	Negative	29	Ancef (cefazolin)	No	Formula	Male	Term	0
+T0132A (Source)	3	No	No	No	No	3060	No	Cesarean	261	Negative	34	Ancef (cefazolin)	No	Breastmilk and formula	Male	Term	0
+T0132B (Source)	3	No	No	No	No	3030	No	Cesarean	261	Negative	34	Ancef (cefazolin)	No	Breastmilk and formula	Male	Term	0
+T0143A (Source)	4	No	No	No	No	3115	No	Cesarean	264	Negative	36	Clindamycin	No	Breastmilk and formula	Female	Term	0
+T0160B (Source)	4	No	No	No	No	2340	No	Cesarean	254	Negative	28	Ancef (cefazolin)	No	Breastmilk and formula	Male	Term	0
+T0168A (Source)	2	No	No	No	No	2735	No	Vaginal	257	Negative	29	None	No	Formula	Male	Term	0
+T0171A (Source)	3	No	No	No	No	2520	No	Cesarean	255	Unknown	36	Ancef (cefazolin)	No	Breastmilk and formula	Female	Term	0
+T0171B (Source)	3	No	No	No	No	2490	No	Cesarean	255	Unknown	36	Ancef (cefazolin)	No	Breastmilk and formula	Female	Term	0
+T0180A (Source)	3	No	No	No	No	3210	No	Cesarean	263	Negative	31	Ancef (cefazolin)	No	Formula	Male	Term	0
+T0180B (Source)	3	No	No	No	No	2940	No	Cesarean	263	Negative	31	Ancef (cefazolin)	No	Formula	Male	Term	0
+T0181A (Source)	4	No	No	No	No	2799	No	Cesarean	260	Unknown	26	Ancef (cefazolin)	No	Formula	Male	Term	0
+T0181B (Source)	4	No	No	No	No	2583	No	Cesarean	260	Unknown	26	Ancef (cefazolin)	No	Formula	Male	Term	0
+T0185A (Source)	4	No	No	No	No	2721	No	Cesarean	263	Positive	32	Penicillin G	No	Formula	Female	Term	0

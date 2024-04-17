@@ -1,0 +1,179 @@
+Sample_Id	Participant_Id	Habitat [ENVO_01000739]	Host body habitat [UBERON_0000466]	Host body site [UBERON_0000061]	Region of 16S rRNA sequenced [SO_0001000]	Sample type [OBI_0100051]
+SRS4060783.SRR8216242	SRS4060783.SRR8216242 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060784.SRR8216241	SRS4060784.SRR8216241 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060785.SRR8216240	SRS4060785.SRR8216240 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060786.SRR8216239	SRS4060786.SRR8216239 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060787.SRR8216238	SRS4060787.SRR8216238 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060788.SRR8216237	SRS4060788.SRR8216237 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060789.SRR8216236	SRS4060789.SRR8216236 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060790.SRR8216235	SRS4060790.SRR8216235 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060791.SRR8216234	SRS4060791.SRR8216234 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060792.SRR8216233	SRS4060792.SRR8216233 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060793.SRR8216231	SRS4060793.SRR8216231 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060794.SRR8216232	SRS4060794.SRR8216232 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060795.SRR8216230	SRS4060795.SRR8216230 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060796.SRR8216229	SRS4060796.SRR8216229 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060797.SRR8216228	SRS4060797.SRR8216228 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060798.SRR8216227	SRS4060798.SRR8216227 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060799.SRR8216226	SRS4060799.SRR8216226 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060800.SRR8216225	SRS4060800.SRR8216225 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060801.SRR8216224	SRS4060801.SRR8216224 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060802.SRR8216223	SRS4060802.SRR8216223 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060803.SRR8216221	SRS4060803.SRR8216221 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060804.SRR8216222	SRS4060804.SRR8216222 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060805.SRR8216220	SRS4060805.SRR8216220 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060806.SRR8216219	SRS4060806.SRR8216219 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060807.SRR8216218	SRS4060807.SRR8216218 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060808.SRR8216217	SRS4060808.SRR8216217 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060809.SRR8216216	SRS4060809.SRR8216216 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060810.SRR8216215	SRS4060810.SRR8216215 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060811.SRR8216214	SRS4060811.SRR8216214 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060812.SRR8216213	SRS4060812.SRR8216213 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060813.SRR8216212	SRS4060813.SRR8216212 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060814.SRR8216211	SRS4060814.SRR8216211 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060815.SRR8216210	SRS4060815.SRR8216210 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060816.SRR8216209	SRS4060816.SRR8216209 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060817.SRR8216208	SRS4060817.SRR8216208 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060818.SRR8216207	SRS4060818.SRR8216207 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060819.SRR8216206	SRS4060819.SRR8216206 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060820.SRR8216205	SRS4060820.SRR8216205 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060821.SRR8216204	SRS4060821.SRR8216204 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060822.SRR8216203	SRS4060822.SRR8216203 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060823.SRR8216202	SRS4060823.SRR8216202 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060824.SRR8216201	SRS4060824.SRR8216201 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060825.SRR8216200	SRS4060825.SRR8216200 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060826.SRR8216199	SRS4060826.SRR8216199 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060827.SRR8216198	SRS4060827.SRR8216198 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060828.SRR8216197	SRS4060828.SRR8216197 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060829.SRR8216196	SRS4060829.SRR8216196 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060830.SRR8216195	SRS4060830.SRR8216195 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060831.SRR8216194	SRS4060831.SRR8216194 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060832.SRR8216193	SRS4060832.SRR8216193 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060833.SRR8216192	SRS4060833.SRR8216192 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060834.SRR8216191	SRS4060834.SRR8216191 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060835.SRR8216190	SRS4060835.SRR8216190 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060836.SRR8216189	SRS4060836.SRR8216189 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060837.SRR8216188	SRS4060837.SRR8216188 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060838.SRR8216187	SRS4060838.SRR8216187 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060839.SRR8216186	SRS4060839.SRR8216186 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060840.SRR8216185	SRS4060840.SRR8216185 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060841.SRR8216184	SRS4060841.SRR8216184 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060842.SRR8216183	SRS4060842.SRR8216183 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060843.SRR8216180	SRS4060843.SRR8216180 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060844.SRR8216181	SRS4060844.SRR8216181 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060845.SRR8216182	SRS4060845.SRR8216182 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060846.SRR8216179	SRS4060846.SRR8216179 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060847.SRR8216177	SRS4060847.SRR8216177 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060848.SRR8216178	SRS4060848.SRR8216178 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060849.SRR8216176	SRS4060849.SRR8216176 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060850.SRR8216175	SRS4060850.SRR8216175 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060851.SRR8216174	SRS4060851.SRR8216174 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060852.SRR8216173	SRS4060852.SRR8216173 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060853.SRR8216171	SRS4060853.SRR8216171 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060854.SRR8216172	SRS4060854.SRR8216172 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060855.SRR8216170	SRS4060855.SRR8216170 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060856.SRR8216169	SRS4060856.SRR8216169 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060857.SRR8216168	SRS4060857.SRR8216168 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060858.SRR8216167	SRS4060858.SRR8216167 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060859.SRR8216165	SRS4060859.SRR8216165 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060860.SRR8216166	SRS4060860.SRR8216166 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060861.SRR8216164	SRS4060861.SRR8216164 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060862.SRR8216163	SRS4060862.SRR8216163 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060863.SRR8216162	SRS4060863.SRR8216162 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060864.SRR8216161	SRS4060864.SRR8216161 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060865.SRR8216159	SRS4060865.SRR8216159 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060866.SRR8216160	SRS4060866.SRR8216160 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060867.SRR8216158	SRS4060867.SRR8216158 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060868.SRR8216156	SRS4060868.SRR8216156 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060869.SRR8216157	SRS4060869.SRR8216157 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060870.SRR8216155	SRS4060870.SRR8216155 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060871.SRR8216154	SRS4060871.SRR8216154 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060872.SRR8216153	SRS4060872.SRR8216153 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060873.SRR8216152	SRS4060873.SRR8216152 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060874.SRR8216151	SRS4060874.SRR8216151 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060875.SRR8216150	SRS4060875.SRR8216150 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060876.SRR8216149	SRS4060876.SRR8216149 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060877.SRR8216148	SRS4060877.SRR8216148 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060878.SRR8216147	SRS4060878.SRR8216147 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060879.SRR8216146	SRS4060879.SRR8216146 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060880.SRR8216145	SRS4060880.SRR8216145 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060881.SRR8216144	SRS4060881.SRR8216144 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060882.SRR8216143	SRS4060882.SRR8216143 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060883.SRR8216142	SRS4060883.SRR8216142 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060884.SRR8216141	SRS4060884.SRR8216141 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060885.SRR8216140	SRS4060885.SRR8216140 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060886.SRR8216139	SRS4060886.SRR8216139 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060887.SRR8216138	SRS4060887.SRR8216138 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060888.SRR8216137	SRS4060888.SRR8216137 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060889.SRR8216136	SRS4060889.SRR8216136 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060890.SRR8216134	SRS4060890.SRR8216134 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060891.SRR8216135	SRS4060891.SRR8216135 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060892.SRR8216133	SRS4060892.SRR8216133 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060893.SRR8216132	SRS4060893.SRR8216132 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060894.SRR8216131	SRS4060894.SRR8216131 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060895.SRR8216130	SRS4060895.SRR8216130 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060896.SRR8216129	SRS4060896.SRR8216129 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060897.SRR8216128	SRS4060897.SRR8216128 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060898.SRR8216127	SRS4060898.SRR8216127 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060899.SRR8216126	SRS4060899.SRR8216126 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060900.SRR8216125	SRS4060900.SRR8216125 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060901.SRR8216124	SRS4060901.SRR8216124 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060902.SRR8216123	SRS4060902.SRR8216123 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060903.SRR8216122	SRS4060903.SRR8216122 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060904.SRR8216121	SRS4060904.SRR8216121 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060905.SRR8216120	SRS4060905.SRR8216120 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060906.SRR8216119	SRS4060906.SRR8216119 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060907.SRR8216118	SRS4060907.SRR8216118 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060908.SRR8216117	SRS4060908.SRR8216117 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060909.SRR8216116	SRS4060909.SRR8216116 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060910.SRR8216115	SRS4060910.SRR8216115 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060911.SRR8216114	SRS4060911.SRR8216114 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060912.SRR8216113	SRS4060912.SRR8216113 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060913.SRR8216112	SRS4060913.SRR8216112 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060914.SRR8216111	SRS4060914.SRR8216111 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060915.SRR8216110	SRS4060915.SRR8216110 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060916.SRR8216109	SRS4060916.SRR8216109 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060917.SRR8216108	SRS4060917.SRR8216108 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060918.SRR8216107	SRS4060918.SRR8216107 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060919.SRR8216106	SRS4060919.SRR8216106 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060920.SRR8216105	SRS4060920.SRR8216105 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060921.SRR8216104	SRS4060921.SRR8216104 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060922.SRR8216103	SRS4060922.SRR8216103 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060923.SRR8216102	SRS4060923.SRR8216102 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060924.SRR8216101	SRS4060924.SRR8216101 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060925.SRR8216100	SRS4060925.SRR8216100 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060926.SRR8216099	SRS4060926.SRR8216099 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060927.SRR8216098	SRS4060927.SRR8216098 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060928.SRR8216096	SRS4060928.SRR8216096 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060929.SRR8216097	SRS4060929.SRR8216097 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060930.SRR8216095	SRS4060930.SRR8216095 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060931.SRR8216094	SRS4060931.SRR8216094 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060932.SRR8216093	SRS4060932.SRR8216093 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060933.SRR8216092	SRS4060933.SRR8216092 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060934.SRR8216091	SRS4060934.SRR8216091 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060935.SRR8216090	SRS4060935.SRR8216090 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060936.SRR8216089	SRS4060936.SRR8216089 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060937.SRR8216088	SRS4060937.SRR8216088 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060938.SRR8216087	SRS4060938.SRR8216087 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060939.SRR8216086	SRS4060939.SRR8216086 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060940.SRR8216085	SRS4060940.SRR8216085 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060941.SRR8216084	SRS4060941.SRR8216084 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060942.SRR8216083	SRS4060942.SRR8216083 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060943.SRR8216082	SRS4060943.SRR8216082 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060944.SRR8216081	SRS4060944.SRR8216081 (Source)	Insect	internal organs	internal organs	V3-V4	Adult internal
+SRS4060945.SRR8216080	SRS4060945.SRR8216080 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060946.SRR8216079	SRS4060946.SRR8216079 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060947.SRR8216078	SRS4060947.SRR8216078 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060948.SRR8216077	SRS4060948.SRR8216077 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060949.SRR8216076	SRS4060949.SRR8216076 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060950.SRR8216075	SRS4060950.SRR8216075 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060951.SRR8216074	SRS4060951.SRR8216074 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060952.SRR8216073	SRS4060952.SRR8216073 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060953.SRR8216072	SRS4060953.SRR8216072 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060954.SRR8216071	SRS4060954.SRR8216071 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060955.SRR8216070	SRS4060955.SRR8216070 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060956.SRR8216069	SRS4060956.SRR8216069 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060957.SRR8216068	SRS4060957.SRR8216068 (Source)	Insect	internal organs	internal organs	V3-V4	Larvae internal
+SRS4060958.SRR8216067	SRS4060958.SRR8216067 (Source)	Insect	cuticle	cuticle	V3-V4	Adult cuticle
+SRS4060959.SRR8216066	SRS4060959.SRR8216066 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle
+SRS4060960.SRR8216065	SRS4060960.SRR8216065 (Source)	Insect	cuticle	cuticle	V3-V4	Larvae cuticle

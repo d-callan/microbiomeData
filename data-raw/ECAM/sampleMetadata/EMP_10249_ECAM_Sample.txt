@@ -1,0 +1,1217 @@
+Sample_Id	prm_Id	Participant_Id	Host body habitat [UBERON_0000466]	Host body product [UBERON_0000463]	Host body site [UBERON_0000061]	Region of 16S rRNA sequenced [SO_0001000]	Sample collection date [OBI_0001619]	Sample type [OBI_0100051]	Sequencing batch [EUPATH_0000604]
+ERS1212512	1_36 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-04-20	Stool stabilizer	SeqRun1
+ERS1212513	1_42 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-04-26	Stool stabilizer	SeqRun1
+ERS1212514	1_57 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-05-11	Stool stabilizer	SeqRun1
+ERS1212515	1_61 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-05-15	Stool stabilizer	SeqRun1
+ERS1212516	1_92 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-06-15	Stool stabilizer	SeqRun1
+ERS1212517	1_122 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-07-15	Stool stabilizer	SeqRun1
+ERS1212518	1_153 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-08-15	Stool stabilizer	SeqRun1
+ERS1212519	1_183 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-09-14	Stool stabilizer	SeqRun1
+ERS1212520	1_214 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-10-15	Stool stabilizer	SeqRun1
+ERS1212521	1_244 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-11-14	Stool stabilizer	SeqRun1
+ERS1212522	1_273 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-12-13	Stool stabilizer	SeqRun1
+ERS1212523	1_294 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-01-03	Stool stabilizer	SeqRun1
+ERS1212524	1_300 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-01-09	Stool stabilizer	SeqRun1
+ERS1212525	1_307 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-01-16	Stool stabilizer	SeqRun1
+ERS1212526	1_337 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-02-15	Stool stabilizer	SeqRun1
+ERS1212527	1_367 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-03-17	Stool stabilizer	SeqRun1
+ERS1212528	1_375 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-03-25	Stool stabilizer	SeqRun1
+ERS1212529	1_378 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-03-28	Stool stabilizer	SeqRun1
+ERS1212530	1_387 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-04-06	Stool stabilizer	SeqRun1
+ERS1212531	1_393 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-04-12	Stool stabilizer	SeqRun1
+ERS1212532	1_398 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-04-17	Stool stabilizer	SeqRun1
+ERS1212533	1_406 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-04-25	Stool stabilizer	SeqRun1
+ERS1212534	1_411 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-04-30	Stool stabilizer	SeqRun1
+ERS1212535	1_427 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-05-16	Stool stabilizer	SeqRun1
+ERS1212536	1_435 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-05-24	Stool stabilizer	SeqRun1
+ERS1212537	1_447 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-06-05	Stool stabilizer	SeqRun1
+ERS1212538	2_0 days (Source)	2 (Source)				V4	2012-03-25		SeqRun1
+ERS1212539	2_32 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-04-26	Stool stabilizer	SeqRun1
+ERS1212540	2_53 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-05-17	Stool stabilizer	SeqRun1
+ERS1212541	2_60 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-05-24	Stool stabilizer	SeqRun1
+ERS1212542	2_89 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-06-22	Stool stabilizer	SeqRun1
+ERS1212543	2_123 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-07-26	Stool stabilizer	SeqRun1
+ERS1212544	2_158 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-08-30	Stool stabilizer	SeqRun1
+ERS1212545	2_190 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-10-01	Stool stabilizer	SeqRun1
+ERS1212546	2_249 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-11-29	Stool stabilizer	SeqRun1
+ERS1212547	2_284 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2013-01-03	Stool stabilizer	SeqRun1
+ERS1212548	2_315 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2013-02-03	Stool stabilizer	SeqRun1
+ERS1212549	2_338 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2013-02-26	Stool stabilizer	SeqRun1
+ERS1212550	2_369 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2013-03-29	Stool stabilizer	SeqRun1
+ERS1212551	4_0 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2012-05-04	Stool stabilizer	SeqRun1
+ERS1212552	4_31 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2012-06-04	Stool stabilizer	SeqRun1
+ERS1212553	4_55 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2012-06-28	Stool stabilizer	SeqRun1
+ERS1212554	4_91 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2012-08-03	Stool stabilizer	SeqRun1
+ERS1212555	4_124 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2012-09-05	Stool stabilizer	SeqRun1
+ERS1212556	4_154 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2012-10-05	Stool stabilizer	SeqRun1
+ERS1212557	4_186 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2012-11-06	Stool stabilizer	SeqRun1
+ERS1212558	4_214 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2012-12-04	Stool stabilizer	SeqRun1
+ERS1212559	4_245 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2013-01-04	Stool stabilizer	SeqRun1
+ERS1212560	4_257 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2013-01-16	Stool stabilizer	SeqRun1
+ERS1212561	4_266 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2013-01-25	Stool stabilizer	SeqRun1
+ERS1212562	4_278 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2013-02-06	Stool stabilizer	SeqRun1
+ERS1212563	4_308 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2013-03-08	Stool stabilizer	SeqRun1
+ERS1212564	4_340 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2013-04-09	Stool stabilizer	SeqRun1
+ERS1212565	4_366 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2013-05-05	Stool stabilizer	SeqRun1
+ERS1212566	5_1 days (Source)	5 (Source)				V4	2012-06-05		SeqRun1
+ERS1212567	5_29 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2012-07-03	Stool stabilizer	SeqRun1
+ERS1212568	5_43 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2012-07-17	Stool stabilizer	SeqRun1
+ERS1212569	5_63 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2012-08-06	Stool stabilizer	SeqRun1
+ERS1212570	5_93 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2012-09-05	Stool stabilizer	SeqRun1
+ERS1212571	5_155 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2012-11-06	Stool stabilizer	SeqRun1
+ERS1212572	5_183 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2012-12-04	Stool stabilizer	SeqRun1
+ERS1212573	5_213 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2013-01-03	Stool stabilizer	SeqRun1
+ERS1212574	5_245 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2013-02-04	Stool stabilizer	SeqRun1
+ERS1212575	5_276 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2013-03-07	Stool stabilizer	SeqRun1
+ERS1212576	5_304 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2013-04-04	Stool stabilizer	SeqRun1
+ERS1212577	5_332 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2013-05-02	Stool stabilizer	SeqRun1
+ERS1212578	5_367 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2013-06-06	Stool stabilizer	SeqRun1
+ERS1212579	7_30 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2012-08-02	Stool stabilizer	SeqRun1
+ERS1212580	7_49 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2012-08-21	Stool stabilizer	SeqRun1
+ERS1212581	7_66 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2012-09-07	Stool stabilizer	SeqRun1
+ERS1212582	7_93 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2012-10-04	Stool stabilizer	SeqRun1
+ERS1212583	7_127 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2012-11-07	Stool stabilizer	SeqRun1
+ERS1212584	7_155 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2012-12-05	Stool stabilizer	SeqRun1
+ERS1212585	7_183 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-01-02	Stool stabilizer	SeqRun1
+ERS1212586	7_214 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-02-02	Stool stabilizer	SeqRun1
+ERS1212587	7_219 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-02-07	Stool stabilizer	SeqRun1
+ERS1212588	7_243 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-03-03	Stool stabilizer	SeqRun1
+ERS1212589	7_258 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-03-18	Stool stabilizer	SeqRun1
+ERS1212590	7_266 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-03-26	Stool stabilizer	SeqRun1
+ERS1212591	7_303 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-05-02	Stool stabilizer	SeqRun1
+ERS1212592	7_334 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-06-02	Stool stabilizer	SeqRun1
+ERS1212593	8_1 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2012-07-31	Stool stabilizer	SeqRun1
+ERS1212594	8_31 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2012-08-30	Stool stabilizer	SeqRun1
+ERS1212595	8_126 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2012-12-03	Stool stabilizer	SeqRun1
+ERS1212596	8_159 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-01-05	Stool stabilizer	SeqRun1
+ERS1212597	8_189 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-02-04	Stool stabilizer	SeqRun1
+ERS1212598	8_194 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-02-09	Stool stabilizer	SeqRun1
+ERS1212599	8_212 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-02-27	Stool stabilizer	SeqRun1
+ERS1212600	8_250 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-04-06	Stool stabilizer	SeqRun1
+ERS1212601	8_273 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-04-29	Stool stabilizer	SeqRun1
+ERS1212602	8_308 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-06-03	Stool stabilizer	SeqRun1
+ERS1212603	9_31 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2012-07-12	Stool stabilizer	SeqRun1
+ERS1212604	9_64 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2012-08-14	Stool stabilizer	SeqRun1
+ERS1212605	9_94 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2012-09-13	Stool stabilizer	SeqRun1
+ERS1212606	9_122 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2012-10-11	Stool stabilizer	SeqRun1
+ERS1212607	9_155 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2012-11-13	Stool stabilizer	SeqRun1
+ERS1212608	9_185 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2012-12-13	Stool stabilizer	SeqRun1
+ERS1212609	9_214 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2013-01-11	Stool stabilizer	SeqRun1
+ERS1212610	9_246 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2013-02-12	Stool stabilizer	SeqRun1
+ERS1212611	9_273 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2013-03-11	Stool stabilizer	SeqRun1
+ERS1212612	9_305 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2013-04-12	Stool stabilizer	SeqRun1
+ERS1212613	9_339 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2013-05-16	Stool stabilizer	SeqRun1
+ERS1212614	9_366 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2013-06-12	Stool stabilizer	SeqRun1
+ERS1212615	10_2 days (Source)	10 (Source)				V4	2012-08-14		SeqRun1
+ERS1212616	10_30 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2012-09-11	Stool stabilizer	SeqRun1
+ERS1212617	10_39 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2012-09-20	Stool stabilizer	SeqRun1
+ERS1212618	10_43 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2012-09-24	Stool stabilizer	SeqRun1
+ERS1212619	10_60 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2012-10-11	Stool stabilizer	SeqRun1
+ERS1212620	10_93 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2012-11-13	Stool stabilizer	SeqRun1
+ERS1212621	10_123 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2012-12-13	Stool stabilizer	SeqRun1
+ERS1212622	10_152 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-01-11	Stool stabilizer	SeqRun1
+ERS1212623	10_183 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-02-11	Stool stabilizer	SeqRun1
+ERS1212624	10_219 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-03-19	Stool stabilizer	SeqRun1
+ERS1212625	10_246 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-04-15	Stool stabilizer	SeqRun1
+ERS1212626	10_275 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-05-14	Stool stabilizer	SeqRun1
+ERS1212627	11_36 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2012-09-12	Stool stabilizer	SeqRun1
+ERS1212628	11_65 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2012-10-11	Stool stabilizer	SeqRun1
+ERS1212629	11_120 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2012-12-05	Stool stabilizer	SeqRun1
+ERS1212630	11_156 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-01-10	Stool stabilizer	SeqRun1
+ERS1212631	11_187 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-02-10	Stool stabilizer	SeqRun1
+ERS1212632	11_210 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-03-05	Stool stabilizer	SeqRun1
+ERS1212633	11_247 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-04-11	Stool stabilizer	SeqRun1
+ERS1212634	11_273 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-05-07	Stool stabilizer	SeqRun1
+ERS1212635	11_303 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-06-06	Stool stabilizer	SeqRun1
+ERS1212636	12_2 days (Source)	12 (Source)				V4	2012-08-03		SeqRun1
+ERS1212637	12_29 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2012-08-30	Stool stabilizer	SeqRun1
+ERS1212638	12_62 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2012-10-02	Stool stabilizer	SeqRun1
+ERS1212639	12_99 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2012-11-08	Stool stabilizer	SeqRun1
+ERS1212640	12_123 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2012-12-02	Stool stabilizer	SeqRun1
+ERS1212641	12_146 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2012-12-25	Stool stabilizer	SeqRun1
+ERS1212642	12_154 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-01-02	Stool stabilizer	SeqRun1
+ERS1212643	12_188 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-02-05	Stool stabilizer	SeqRun1
+ERS1212644	12_215 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-03-04	Stool stabilizer	SeqRun1
+ERS1212645	12_244 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-04-02	Stool stabilizer	SeqRun1
+ERS1212646	12_272 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-04-30	Stool stabilizer	SeqRun1
+ERS1212647	12_305 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-06-02	Stool stabilizer	SeqRun1
+ERS1212648	14_1 days (Source)	14 (Source)				V4	2012-08-28		SeqRun1
+ERS1212649	14_31 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2012-09-27	Stool stabilizer	SeqRun1
+ERS1212650	14_71 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2012-10-27	Stool stabilizer	SeqRun1
+ERS1212651	14_92 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2012-11-27	Stool stabilizer	SeqRun1
+ERS1212652	14_121 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2012-12-26	Stool stabilizer	SeqRun1
+ERS1212653	14_154 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-01-28	Stool stabilizer	SeqRun1
+ERS1212654	14_184 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-02-27	Stool stabilizer	SeqRun1
+ERS1212655	14_211 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-03-26	Stool stabilizer	SeqRun1
+ERS1212656	14_239 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-04-23	Stool stabilizer	SeqRun1
+ERS1212657	14_276 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-05-30	Stool stabilizer	SeqRun1
+ERS1212658	16_31 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2012-10-04	Stool stabilizer	SeqRun1
+ERS1212659	16_45 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2012-10-18	Stool stabilizer	SeqRun1
+ERS1212660	16_64 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2012-11-06	Stool stabilizer	SeqRun1
+ERS1212661	16_92 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2012-12-04	Stool stabilizer	SeqRun1
+ERS1212662	16_152 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-02-02	Stool stabilizer	SeqRun1
+ERS1212663	16_180 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-03-02	Stool stabilizer	SeqRun1
+ERS1212664	16_213 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-04-04	Stool stabilizer	SeqRun1
+ERS1212665	16_242 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-05-03	Stool stabilizer	SeqRun1
+ERS1212666	16_272 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-06-02	Stool stabilizer	SeqRun1
+ERS1212667	17_0 days (Source)	17 (Source)				V4	2012-09-07		SeqRun1
+ERS1212668	17_2 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2012-09-09	Stool stabilizer	SeqRun1
+ERS1212669	17_2 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2012-09-09	Stool stabilizer	SeqRun1
+ERS1212670	17_32 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2012-10-09	Stool stabilizer	SeqRun1
+ERS1212671	17_45 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2012-10-22	Stool stabilizer	SeqRun1
+ERS1212672	17_63 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2012-11-09	Stool stabilizer	SeqRun1
+ERS1212673	17_91 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2012-12-07	Stool stabilizer	SeqRun1
+ERS1212674	17_123 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2013-01-08	Stool stabilizer	SeqRun1
+ERS1212675	17_152 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2013-02-06	Stool stabilizer	SeqRun1
+ERS1212676	17_216 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2013-04-11	Stool stabilizer	SeqRun1
+ERS1212677	17_247 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2013-05-12	Stool stabilizer	SeqRun1
+ERS1212678	18_2 days (Source)	18 (Source)				V4	2012-10-08		SeqRun1
+ERS1212679	18_33 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2012-11-08	Stool stabilizer	SeqRun1
+ERS1212680	18_90 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-01-04	Stool stabilizer	SeqRun1
+ERS1212681	18_125 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-02-08	Stool stabilizer	SeqRun1
+ERS1212682	18_154 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-03-09	Stool stabilizer	SeqRun1
+ERS1212683	18_189 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-04-13	Stool stabilizer	SeqRun1
+ERS1212684	18_214 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-05-08	Stool stabilizer	SeqRun1
+ERS1212685	18_244 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-06-07	Stool stabilizer	SeqRun1
+ERS1212686	20_0 days (Source)	20 (Source)				V4	2012-08-30		SeqRun1
+ERS1212687	20_9 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-09-08	Stool stabilizer	SeqRun1
+ERS1212688	20_11 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-09-10	Stool stabilizer	SeqRun1
+ERS1212689	20_13 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-09-12	Stool stabilizer	SeqRun1
+ERS1212690	20_33 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-10-02	Stool stabilizer	SeqRun1
+ERS1212691	20_69 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-11-07	Stool stabilizer	SeqRun1
+ERS1212692	20_95 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-12-03	Stool stabilizer	SeqRun1
+ERS1212693	20_123 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-12-31	Stool stabilizer	SeqRun1
+ERS1212694	20_153 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-01-30	Stool stabilizer	SeqRun1
+ERS1212695	20_180 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-02-26	Stool stabilizer	SeqRun1
+ERS1212696	20_211 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-03-29	Stool stabilizer	SeqRun1
+ERS1212697	20_243 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-04-30	Stool stabilizer	SeqRun1
+ERS1212698	20_273 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-05-30	Stool stabilizer	SeqRun1
+ERS1212699	21_2 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2012-09-21	Stool stabilizer	SeqRun1
+ERS1212700	21_37 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2012-10-26	Stool stabilizer	SeqRun1
+ERS1212701	21_94 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2012-12-22	Stool stabilizer	SeqRun1
+ERS1212702	21_161 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2013-02-27	Stool stabilizer	SeqRun1
+ERS1212703	21_188 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2013-03-26	Stool stabilizer	SeqRun1
+ERS1212704	21_245 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2013-05-22	Stool stabilizer	SeqRun1
+ERS1212705	22_0 days (Source)	22 (Source)				V4	2012-09-21		SeqRun1
+ERS1212706	22_32 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2012-10-23	Stool stabilizer	SeqRun1
+ERS1212707	22_63 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2012-11-23	Stool stabilizer	SeqRun1
+ERS1212708	22_96 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2012-12-26	Stool stabilizer	SeqRun1
+ERS1212709	22_122 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-01-21	Stool stabilizer	SeqRun1
+ERS1212710	22_153 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-02-21	Stool stabilizer	SeqRun1
+ERS1212711	22_182 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-03-22	Stool stabilizer	SeqRun1
+ERS1212712	22_217 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-04-26	Stool stabilizer	SeqRun1
+ERS1212713	22_243 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-05-22	Stool stabilizer	SeqRun1
+ERS1212714	22_273 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-06-21	Stool stabilizer	SeqRun1
+ERS1212715	23_1 days (Source)	23 (Source)				V4	2012-09-20		SeqRun1
+ERS1212716	24_0 days (Source)	24 (Source)				V4	2012-10-27		SeqRun1
+ERS1212717	24_33 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2012-11-29	Stool stabilizer	SeqRun1
+ERS1212718	24_43 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2012-12-09	Stool stabilizer	SeqRun1
+ERS1212719	24_61 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2012-12-27	Stool stabilizer	SeqRun1
+ERS1212720	24_75 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-01-10	Stool stabilizer	SeqRun1
+ERS1212721	24_86 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-01-21	Stool stabilizer	SeqRun1
+ERS1212722	24_129 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-03-05	Stool stabilizer	SeqRun1
+ERS1212723	24_150 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-03-26	Stool stabilizer	SeqRun1
+ERS1212724	24_182 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-04-27	Stool stabilizer	SeqRun1
+ERS1212725	24_213 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-05-28	Stool stabilizer	SeqRun1
+ERS1212726	25_1 days (Source)	25 (Source)				V4	2012-10-16		SeqRun1
+ERS1212727	25_30 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2012-11-14	Stool stabilizer	SeqRun1
+ERS1212728	25_60 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2012-12-14	Stool stabilizer	SeqRun1
+ERS1212729	25_94 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-01-17	Stool stabilizer	SeqRun1
+ERS1212730	25_124 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-02-16	Stool stabilizer	SeqRun1
+ERS1212731	25_158 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-03-22	Stool stabilizer	SeqRun1
+ERS1212732	25_183 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-04-16	Stool stabilizer	SeqRun1
+ERS1212733	25_211 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-05-14	Stool stabilizer	SeqRun1
+ERS1212734	25_240 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-06-12	Stool stabilizer	SeqRun1
+ERS1212735	27_1 days (Source)	27 (Source)				V4	2012-11-17		SeqRun1
+ERS1212736	27_35 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2012-12-19	Stool stabilizer	SeqRun1
+ERS1212737	27_69 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-01-22	Stool stabilizer	SeqRun1
+ERS1212738	27_91 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-02-13	Stool stabilizer	SeqRun1
+ERS1212739	27_119 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-03-13	Stool stabilizer	SeqRun1
+ERS1212740	27_155 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-04-18	Stool stabilizer	SeqRun1
+ERS1212741	27_181 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-05-14	Stool stabilizer	SeqRun1
+ERS1212742	27_211 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-06-13	Stool stabilizer	SeqRun1
+ERS1212743	30_0 days (Source)	30 (Source)				V4	2012-12-15		SeqRun1
+ERS1212744	30_34 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-01-18	Stool stabilizer	SeqRun1
+ERS1212745	30_44 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-01-28	Stool stabilizer	SeqRun1
+ERS1212746	30_61 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-02-14	Stool stabilizer	SeqRun1
+ERS1212747	30_90 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-03-15	Stool stabilizer	SeqRun1
+ERS1212748	30_122 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-04-16	Stool stabilizer	SeqRun1
+ERS1212749	30_150 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-05-14	Stool stabilizer	SeqRun1
+ERS1212750	30_183 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-06-16	Stool stabilizer	SeqRun1
+ERS1212751	31_0 days (Source)	31 (Source)				V4	2012-12-28		SeqRun1
+ERS1212752	31_32 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-01-29	Stool stabilizer	SeqRun1
+ERS1212753	31_41 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-02-07	Stool stabilizer	SeqRun1
+ERS1212754	31_54 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-02-20	Stool stabilizer	SeqRun1
+ERS1212755	31_89 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-03-27	Stool stabilizer	SeqRun1
+ERS1212756	31_119 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-04-26	Stool stabilizer	SeqRun1
+ERS1212757	31_152 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-05-29	Stool stabilizer	SeqRun1
+ERS1212758	31_184 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-06-30	Stool stabilizer	SeqRun1
+ERS1212759	32_31 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-02-01	Stool stabilizer	SeqRun1
+ERS1212760	32_52 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-02-22	Stool stabilizer	SeqRun1
+ERS1212761	32_59 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-03-01	Stool stabilizer	SeqRun1
+ERS1212762	32_118 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-04-29	Stool stabilizer	SeqRun1
+ERS1212763	32_153 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-06-03	Stool stabilizer	SeqRun1
+ERS1212764	33_0 days (Source)	33 (Source)				V4	2013-01-10		SeqRun1
+ERS1212765	33_32 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-02-11	Stool stabilizer	SeqRun1
+ERS1212766	33_61 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-03-12	Stool stabilizer	SeqRun1
+ERS1212767	33_119 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-05-09	Stool stabilizer	SeqRun1
+ERS1212768	33_147 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-06-06	Stool stabilizer	SeqRun1
+ERS1212769	34_34 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-02-20	Stool stabilizer	SeqRun1
+ERS1212770	34_45 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-03-03	Stool stabilizer	SeqRun1
+ERS1212771	34_63 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-03-21	Stool stabilizer	SeqRun1
+ERS1212772	34_90 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-04-17	Stool stabilizer	SeqRun1
+ERS1212773	34_119 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-05-16	Stool stabilizer	SeqRun1
+ERS1212774	35_0 days (Source)	35 (Source)				V4	2013-04-19		SeqRun1
+ERS1212775	35_31 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-05-20	Stool stabilizer	SeqRun1
+ERS1212776	35_61 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-06-19	Stool stabilizer	SeqRun1
+ERS1212777	36_0 days (Source)	36 (Source)				V4	2013-04-03		SeqRun1
+ERS1212778	36_42 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2013-05-15	Stool stabilizer	SeqRun1
+ERS1212779	36_65 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2013-06-07	Stool stabilizer	SeqRun1
+ERS1212780	37_1 days (Source)	37 (Source)				V4	2013-04-06		SeqRun1
+ERS1212781	37_33 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2013-05-08	Stool stabilizer	SeqRun1
+ERS1212782	38_2 days (Source)	38 (Source)				V4	2013-05-11		SeqRun1
+ERS1212783	38_33 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-06-11	Stool stabilizer	SeqRun1
+ERS1212784	41_0 days (Source)	41 (Source)				V4	2013-05-05		SeqRun1
+ERS1212785	41_32 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-06-06	Stool stabilizer	SeqRun1
+ERS1212786	42_0 days (Source)	42 (Source)				V4	2013-04-28		SeqRun1
+ERS1212787	42_31 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-05-29	Stool stabilizer	SeqRun1
+ERS1212788	43_0 days (Source)	43 (Source)				V4	2013-06-05		SeqRun1
+ERS1213546	1_49 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-05-03	Stool stabilizer	SeqRun2
+ERS1213547	12_40 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2012-09-10	Stool stabilizer	SeqRun2
+ERS1213548	16_124 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-01-05	Stool stabilizer	SeqRun2
+ERS1213549	17_179 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2013-03-05	Stool stabilizer	SeqRun2
+ERS1213550	20_7 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-09-06	Stool stabilizer	SeqRun2
+ERS1213551	25_42 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2012-11-26	Stool stabilizer	SeqRun2
+ERS1213552	27_338 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-10-18	Stool stabilizer	SeqRun2
+ERS1213553	27_370 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-11-19	Stool stabilizer	SeqRun2
+ERS1213554	30_303 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-10-14	Stool stabilizer	SeqRun2
+ERS1213555	30_334 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-11-14	Stool stabilizer	SeqRun2
+ERS1213556	31_275 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-09-29	Stool stabilizer	SeqRun2
+ERS1213557	31_307 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-10-31	Stool stabilizer	SeqRun2
+ERS1213558	31_341 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-12-04	Stool stabilizer	SeqRun2
+ERS1213559	32_304 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-11-01	Dry stool	SeqRun2
+ERS1213560	32_337 days (Source)	32 (Source)	Colon	Feces	Colon	V4		Stool stabilizer	SeqRun2
+ERS1213561	32_342 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-12-09	Stool stabilizer	SeqRun2
+ERS1213562	33_272 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-10-09	Stool stabilizer	SeqRun2
+ERS1213563	33_305 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-11-11	Stool stabilizer	SeqRun2
+ERS1213564	34_273 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-10-17	Stool stabilizer	SeqRun2
+ERS1213565	34_308 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-11-21	Stool stabilizer	SeqRun2
+ERS1213566	35_182 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-10-18	Stool stabilizer	SeqRun2
+ERS1213567	35_214 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-11-19	Stool stabilizer	SeqRun2
+ERS1213568	36_216 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2013-11-05	Stool stabilizer	SeqRun2
+ERS1213569	36_243 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2013-12-02	Stool stabilizer	SeqRun2
+ERS1213570	37_199 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2013-10-21	Stool stabilizer	SeqRun2
+ERS1213571	37_215 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2013-11-06	Stool stabilizer	SeqRun2
+ERS1213572	38_153 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-10-09	Stool stabilizer	SeqRun2
+ERS1213573	38_187 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-11-12	Stool stabilizer	SeqRun2
+ERS1213574	38_215 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-12-10	Stool stabilizer	SeqRun2
+ERS1213575	41_157 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-10-09	Stool stabilizer	SeqRun2
+ERS1213576	41_186 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-11-07	Stool stabilizer	SeqRun2
+ERS1213577	41_214 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-12-05	Stool stabilizer	SeqRun2
+ERS1213578	42_154 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-09-29	Stool stabilizer	SeqRun2
+ERS1213579	42_182 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-10-27	Stool stabilizer	SeqRun2
+ERS1213580	42_216 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-11-30	Stool stabilizer	SeqRun2
+ERS1213581	43_61 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-08-05	Stool stabilizer	SeqRun2
+ERS1213582	43_126 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-10-09	Stool stabilizer	SeqRun2
+ERS1213583	43_154 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-11-06	Stool stabilizer	SeqRun2
+ERS1213584	43_189 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-12-11	Stool stabilizer	SeqRun2
+ERS1213585	44_62 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2013-08-01	Stool stabilizer	SeqRun2
+ERS1213586	44_127 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2013-10-05	Stool stabilizer	SeqRun2
+ERS1213587	44_155 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2013-11-02	Stool stabilizer	SeqRun2
+ERS1213588	44_186 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2013-12-03	Stool stabilizer	SeqRun2
+ERS1213589	45_0 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2013-11-21	Stool stabilizer	SeqRun2
+ERS1213590	46_1 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2013-10-30	Stool stabilizer	SeqRun2
+ERS1213591	46_31 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2013-11-29	Stool stabilizer	SeqRun2
+ERS1213592	1_-21 days (Source)	1 (Source)	Rectum	Feces	Rectum	V4	2012-02-23	Rectal swab	SeqRun2
+ERS1213593	1_5 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-03-20	Stool stabilizer	SeqRun2
+ERS1213594	1_-21 days (Source)	1 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-02-23	Vaginal swab	SeqRun2
+ERS1213595	1_18 days (Source)	1 (Source)	Rectum	Feces	Rectum	V4	2012-04-02	Rectal swab	SeqRun2
+ERS1213596	1_18 days (Source)	1 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-04-02	Vaginal swab	SeqRun2
+ERS1213597	2_52 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-05-16	Stool stabilizer	SeqRun2
+ERS1213598	2_-20 days (Source)	2 (Source)	Rectum	Feces	Rectum	V4	2012-03-05	Rectal swab	SeqRun2
+ERS1213599	2_-20 days (Source)	2 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-03-05	Vaginal swab	SeqRun2
+ERS1213600	2_53 days (Source)	2 (Source)	Rectum	Feces	Rectum	V4	2012-05-17	Rectal swab	SeqRun2
+ERS1213601	4_-70 days (Source)	4 (Source)	Rectum	Feces	Rectum	V4	2012-02-24	Rectal swab	SeqRun2
+ERS1213602	4_31 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2012-06-04	Stool stabilizer	SeqRun2
+ERS1213603	4_-21 days (Source)	4 (Source)	Rectum	Feces	Rectum	V4	2012-04-13	Rectal swab	SeqRun2
+ERS1213604	4_-21 days (Source)	4 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-04-13	Vaginal swab	SeqRun2
+ERS1213605	4_31 days (Source)	4 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-06-04	Vaginal swab	SeqRun2
+ERS1213606	5_-80 days (Source)	5 (Source)	Rectum	Feces	Rectum	V4	2012-03-16	Rectal swab	SeqRun2
+ERS1213607	5_9 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2012-06-13	Stool stabilizer	SeqRun2
+ERS1213608	5_-80 days (Source)	5 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-03-16	Vaginal swab	SeqRun2
+ERS1213609	5_-24 days (Source)	5 (Source)	Rectum	Feces	Rectum	V4	2012-05-11	Rectal swab	SeqRun2
+ERS1213610	5_-24 days (Source)	5 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-11	Vaginal swab	SeqRun2
+ERS1213611	5_43 days (Source)	5 (Source)	Rectum	Feces	Rectum	V4	2012-07-17	Rectal swab	SeqRun2
+ERS1213612	6_-36 days (Source)	6 (Source)	Rectum	Feces	Rectum	V4	2012-05-07	Rectal swab	SeqRun2
+ERS1213613	6_-36 days (Source)	6 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-07	Vaginal swab	SeqRun2
+ERS1213614	7_-82 days (Source)	7 (Source)	Rectum	Feces	Rectum	V4	2012-04-12	Rectal swab	SeqRun2
+ERS1213615	7_9 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2012-07-12	Stool stabilizer	SeqRun2
+ERS1213616	7_-82 days (Source)	7 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-04-12	Vaginal swab	SeqRun2
+ERS1213617	7_-19 days (Source)	7 (Source)	Rectum	Feces	Rectum	V4	2012-06-14	Rectal swab	SeqRun2
+ERS1213618	7_-19 days (Source)	7 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-06-14	Vaginal swab	SeqRun2
+ERS1213619	7_49 days (Source)	7 (Source)	Rectum	Feces	Rectum	V4	2012-08-21	Rectal swab	SeqRun2
+ERS1213620	7_49 days (Source)	7 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-08-21	Vaginal swab	SeqRun2
+ERS1213621	8_-89 days (Source)	8 (Source)	Rectum	Feces	Rectum	V4	2012-05-02	Rectal swab	SeqRun2
+ERS1213622	8_30 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2012-08-29	Stool stabilizer	SeqRun2
+ERS1213623	8_-89 days (Source)	8 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-02	Vaginal swab	SeqRun2
+ERS1213624	8_-27 days (Source)	8 (Source)	Rectum	Feces	Rectum	V4	2012-07-03	Rectal swab	SeqRun2
+ERS1213625	8_43 days (Source)	8 (Source)	Rectum	Feces	Rectum	V4	2012-09-11	Rectal swab	SeqRun2
+ERS1213626	8_43 days (Source)	8 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-11	Vaginal swab	SeqRun2
+ERS1213627	9_-42 days (Source)	9 (Source)	Rectum	Feces	Rectum	V4	2012-04-30	Rectal swab	SeqRun2
+ERS1213628	9_-42 days (Source)	9 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-04-30	Vaginal swab	SeqRun2
+ERS1213629	9_-13 days (Source)	9 (Source)	Rectum	Feces	Rectum	V4	2012-05-29	Rectal swab	SeqRun2
+ERS1213630	9_-13 days (Source)	9 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-29	Vaginal swab	SeqRun2
+ERS1213631	9_42 days (Source)	9 (Source)	Rectum	Feces	Rectum	V4	2012-07-23	Rectal swab	SeqRun2
+ERS1213632	9_42 days (Source)	9 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-07-23	Vaginal swab	SeqRun2
+ERS1213633	10_-97 days (Source)	10 (Source)	Rectum	Feces	Rectum	V4	2012-05-07	Rectal swab	SeqRun2
+ERS1213634	10_2 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2012-08-14	Stool stabilizer	SeqRun2
+ERS1213635	10_-97 days (Source)	10 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-07	Vaginal swab	SeqRun2
+ERS1213636	10_-23 days (Source)	10 (Source)	Rectum	Feces	Rectum	V4	2012-07-20	Rectal swab	SeqRun2
+ERS1213637	10_-23 days (Source)	10 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-07-20	Vaginal swab	SeqRun2
+ERS1213638	10_43 days (Source)	10 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-24	Vaginal swab	SeqRun2
+ERS1213639	11_-91 days (Source)	11 (Source)	Rectum	Feces	Rectum	V4	2012-05-08	Rectal swab	SeqRun2
+ERS1213640	11_36 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2012-09-12	Stool stabilizer	SeqRun2
+ERS1213641	11_-91 days (Source)	11 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-08	Vaginal swab	SeqRun2
+ERS1213642	11_-21 days (Source)	11 (Source)	Rectum	Feces	Rectum	V4	2012-07-17	Rectal swab	SeqRun2
+ERS1213643	11_-21 days (Source)	11 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-07-17	Vaginal swab	SeqRun2
+ERS1213644	11_37 days (Source)	11 (Source)	Rectum	Feces	Rectum	V4	2012-09-13	Rectal swab	SeqRun2
+ERS1213645	11_37 days (Source)	11 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-13	Vaginal swab	SeqRun2
+ERS1213646	12_-71 days (Source)	12 (Source)	Rectum	Feces	Rectum	V4	2012-05-22	Rectal swab	SeqRun2
+ERS1213647	12_29 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2012-08-30	Stool stabilizer	SeqRun2
+ERS1213648	12_-71 days (Source)	12 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-22	Vaginal swab	SeqRun2
+ERS1213649	12_-15 days (Source)	12 (Source)	Rectum	Feces	Rectum	V4	2012-07-17	Rectal swab	SeqRun2
+ERS1213650	12_-15 days (Source)	12 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-07-17	Vaginal swab	SeqRun2
+ERS1213651	12_41 days (Source)	12 (Source)	Rectum	Feces	Rectum	V4	2012-09-11	Rectal swab	SeqRun2
+ERS1213652	12_41 days (Source)	12 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-11	Vaginal swab	SeqRun2
+ERS1213653	14_-101 days (Source)	14 (Source)	Rectum	Feces	Rectum	V4	2012-05-18	Rectal swab	SeqRun2
+ERS1213654	14_3 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2012-08-30	Stool stabilizer	SeqRun2
+ERS1213655	14_-101 days (Source)	14 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-18	Vaginal swab	SeqRun2
+ERS1213656	14_-32 days (Source)	14 (Source)	Rectum	Feces	Rectum	V4	2012-07-26	Rectal swab	SeqRun2
+ERS1213657	14_-32 days (Source)	14 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-07-26	Vaginal swab	SeqRun2
+ERS1213658	14_43 days (Source)	14 (Source)	Rectum	Feces	Rectum	V4	2012-10-09	Rectal swab	SeqRun2
+ERS1213659	15_ (Source)	15 (Source)	Rectum	Feces	Rectum	V4	2012-05-22	Rectal swab	SeqRun2
+ERS1213660	15_ (Source)	15 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-22	Vaginal swab	SeqRun2
+ERS1213661	16_-104 days (Source)	16 (Source)	Rectum	Feces	Rectum	V4	2012-05-22	Rectal swab	SeqRun2
+ERS1213662	16_3 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2012-09-06	Stool stabilizer	SeqRun2
+ERS1213663	16_-104 days (Source)	16 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-05-22	Vaginal swab	SeqRun2
+ERS1213664	16_-32 days (Source)	16 (Source)	Rectum	Feces	Rectum	V4	2012-08-02	Rectal swab	SeqRun2
+ERS1213665	16_-32 days (Source)	16 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-08-02	Vaginal swab	SeqRun2
+ERS1213666	16_45 days (Source)	16 (Source)	Rectum	Feces	Rectum	V4	2012-10-18	Rectal swab	SeqRun2
+ERS1213667	16_45 days (Source)	16 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-10-18	Vaginal swab	SeqRun2
+ERS1213668	17_-80 days (Source)	17 (Source)	Rectum	Feces	Rectum	V4	2012-06-19	Rectal swab	SeqRun2
+ERS1213669	17_4 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2012-09-11	Stool stabilizer	SeqRun2
+ERS1213670	17_-80 days (Source)	17 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-06-19	Vaginal swab	SeqRun2
+ERS1213671	17_-21 days (Source)	17 (Source)	Rectum	Feces	Rectum	V4	2012-08-17	Rectal swab	SeqRun2
+ERS1213672	17_-21 days (Source)	17 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-08-17	Vaginal swab	SeqRun2
+ERS1213673	17_45 days (Source)	17 (Source)	Rectum	Feces	Rectum	V4	2012-10-22	Rectal swab	SeqRun2
+ERS1213674	17_45 days (Source)	17 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-10-22	Vaginal swab	SeqRun2
+ERS1213675	18_-110 days (Source)	18 (Source)	Rectum	Feces	Rectum	V4	2012-06-18	Rectal swab	SeqRun2
+ERS1213676	18_5 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2012-10-11	Stool stabilizer	SeqRun2
+ERS1213677	18_-110 days (Source)	18 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-06-18	Vaginal swab	SeqRun2
+ERS1213678	18_-24 days (Source)	18 (Source)	Rectum	Feces	Rectum	V4	2012-09-12	Rectal swab	SeqRun2
+ERS1213679	18_-24 days (Source)	18 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-12	Vaginal swab	SeqRun2
+ERS1213680	18_90 days (Source)	18 (Source)	Rectum	Feces	Rectum	V4	2013-01-04	Rectal swab	SeqRun2
+ERS1213681	18_90 days (Source)	18 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-01-04	Vaginal swab	SeqRun2
+ERS1213682	19_ (Source)	19 (Source)	Rectum	Feces	Rectum	V4	2012-07-12	Rectal swab	SeqRun2
+ERS1213683	19_ (Source)	19 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-07-12	Vaginal swab	SeqRun2
+ERS1213684	19_ (Source)	19 (Source)	Rectum	Feces	Rectum	V4	2012-08-30	Rectal swab	SeqRun2
+ERS1213685	19_ (Source)	19 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-08-30	Vaginal swab	SeqRun2
+ERS1213686	20_-71 days (Source)	20 (Source)	Rectum	Feces	Rectum	V4	2012-06-20	Rectal swab	SeqRun2
+ERS1213687	20_5 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-09-04	Stool stabilizer	SeqRun2
+ERS1213688	20_-71 days (Source)	20 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-06-20	Vaginal swab	SeqRun2
+ERS1213689	20_-23 days (Source)	20 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-08-07	Vaginal swab	SeqRun2
+ERS1213690	20_34 days (Source)	20 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-10-03	Vaginal swab	SeqRun2
+ERS1213691	21_-83 days (Source)	21 (Source)	Rectum	Feces	Rectum	V4	2012-06-28	Rectal swab	SeqRun2
+ERS1213692	21_8 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2012-09-27	Stool stabilizer	SeqRun2
+ERS1213693	21_-83 days (Source)	21 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-06-28	Vaginal swab	SeqRun2
+ERS1213694	21_-6 days (Source)	21 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-13	Vaginal swab	SeqRun2
+ERS1213695	21_188 days (Source)	21 (Source)	Rectum	Feces	Rectum	V4	2013-03-26	Rectal swab	SeqRun2
+ERS1213696	21_188 days (Source)	21 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-03-26	Vaginal swab	SeqRun2
+ERS1213697	22_-22 days (Source)	22 (Source)	Rectum	Feces	Rectum	V4	2012-08-30	Rectal swab	SeqRun2
+ERS1213698	22_2 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2012-09-23	Stool stabilizer	SeqRun2
+ERS1213699	22_-22 days (Source)	22 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-08-30	Vaginal swab	SeqRun2
+ERS1213700	22_67 days (Source)	22 (Source)	Rectum	Feces	Rectum	V4	2012-11-27	Rectal swab	SeqRun2
+ERS1213701	22_67 days (Source)	22 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-11-27	Vaginal swab	SeqRun2
+ERS1213702	23_-82 days (Source)	23 (Source)	Rectum	Feces	Rectum	V4	2012-06-29	Rectal swab	SeqRun2
+ERS1213703	23_-82 days (Source)	23 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-06-29	Vaginal swab	SeqRun2
+ERS1213704	23_-5 days (Source)	23 (Source)	Rectum	Feces	Rectum	V4	2012-09-14	Rectal swab	SeqRun2
+ERS1213705	23_-5 days (Source)	23 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-14	Vaginal swab	SeqRun2
+ERS1213706	24_-102 days (Source)	24 (Source)	Rectum	Feces	Rectum	V4	2012-07-17	Rectal swab	SeqRun2
+ERS1213707	24_10 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2012-11-06	Stool stabilizer	SeqRun2
+ERS1213708	24_-102 days (Source)	24 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-07-17	Vaginal swab	SeqRun2
+ERS1213709	24_-15 days (Source)	24 (Source)	Rectum	Feces	Rectum	V4	2012-10-12	Rectal swab	SeqRun2
+ERS1213710	24_-15 days (Source)	24 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-10-12	Vaginal swab	SeqRun2
+ERS1213711	24_45 days (Source)	24 (Source)	Rectum	Feces	Rectum	V4	2012-12-11	Rectal swab	SeqRun2
+ERS1213712	24_45 days (Source)	24 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-12-11	Vaginal swab	SeqRun2
+ERS1213713	25_-88 days (Source)	25 (Source)	Rectum	Feces	Rectum	V4	2012-07-19	Rectal swab	SeqRun2
+ERS1213714	25_-88 days (Source)	25 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-07-19	Vaginal swab	SeqRun2
+ERS1213715	25_-4 days (Source)	25 (Source)	Rectum	Feces	Rectum	V4	2012-10-11	Rectal swab	SeqRun2
+ERS1213716	25_-4 days (Source)	25 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-10-11	Vaginal swab	SeqRun2
+ERS1213717	25_43 days (Source)	25 (Source)	Rectum	Feces	Rectum	V4	2012-11-27	Rectal swab	SeqRun2
+ERS1213718	25_43 days (Source)	25 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-11-27	Vaginal swab	SeqRun2
+ERS1213719	26_ (Source)	26 (Source)	Rectum	Feces	Rectum	V4	2012-07-19	Rectal swab	SeqRun2
+ERS1213720	26_ (Source)	26 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-07-19	Vaginal swab	SeqRun2
+ERS1213721	26_ (Source)	26 (Source)	Rectum	Feces	Rectum	V4	2012-10-05	Rectal swab	SeqRun2
+ERS1213722	26_ (Source)	26 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-10-05	Vaginal swab	SeqRun2
+ERS1213723	27_-86 days (Source)	27 (Source)	Rectum	Feces	Rectum	V4	2012-08-20	Rectal swab	SeqRun2
+ERS1213724	27_3 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2012-11-17	Stool stabilizer	SeqRun2
+ERS1213725	27_-86 days (Source)	27 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-08-20	Vaginal swab	SeqRun2
+ERS1213726	27_42 days (Source)	27 (Source)	Rectum	Feces	Rectum	V4	2012-12-26	Rectal swab	SeqRun2
+ERS1213727	27_42 days (Source)	27 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-12-26	Vaginal swab	SeqRun2
+ERS1213728	29_ (Source)	29 (Source)	Rectum	Feces	Rectum	V4	2012-10-09	Rectal swab	SeqRun2
+ERS1213729	29_ (Source)	29 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-10-09	Vaginal swab	SeqRun2
+ERS1213730	29_ (Source)	29 (Source)	Rectum	Feces	Rectum	V4	2012-11-12	Rectal swab	SeqRun2
+ERS1213731	29_ (Source)	29 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-11-12	Vaginal swab	SeqRun2
+ERS1213732	30_-92 days (Source)	30 (Source)	Rectum	Feces	Rectum	V4	2012-09-14	Rectal swab	SeqRun2
+ERS1213733	30_1 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2012-12-16	Stool stabilizer	SeqRun2
+ERS1213734	30_-92 days (Source)	30 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-14	Vaginal swab	SeqRun2
+ERS1213735	30_-29 days (Source)	30 (Source)	Rectum	Feces	Rectum	V4	2012-11-16	Rectal swab	SeqRun2
+ERS1213736	30_-29 days (Source)	30 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-11-16	Vaginal swab	SeqRun2
+ERS1213737	30_44 days (Source)	30 (Source)	Rectum	Feces	Rectum	V4	2013-01-28	Rectal swab	SeqRun2
+ERS1213738	30_44 days (Source)	30 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-01-28	Vaginal swab	SeqRun2
+ERS1213739	31_-94 days (Source)	31 (Source)	Rectum	Feces	Rectum	V4	2012-09-25	Rectal swab	SeqRun2
+ERS1213740	31_2 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2012-12-30	Stool stabilizer	SeqRun2
+ERS1213741	31_-94 days (Source)	31 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-25	Vaginal swab	SeqRun2
+ERS1213742	31_-28 days (Source)	31 (Source)	Rectum	Feces	Rectum	V4	2012-11-30	Rectal swab	SeqRun2
+ERS1213743	31_39 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-02-05	Stool stabilizer	SeqRun2
+ERS1213744	31_-28 days (Source)	31 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-11-30	Vaginal swab	SeqRun2
+ERS1213745	32_-98 days (Source)	32 (Source)	Rectum	Feces	Rectum	V4	2012-09-25	Rectal swab	SeqRun2
+ERS1213746	32_3 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-01-04	Stool stabilizer	SeqRun2
+ERS1213747	32_-98 days (Source)	32 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-09-25	Vaginal swab	SeqRun2
+ERS1213748	32_62 days (Source)	32 (Source)	Rectum	Feces	Rectum	V4	2013-03-04	Rectal swab	SeqRun2
+ERS1213749	33_-97 days (Source)	33 (Source)	Rectum	Feces	Rectum	V4	2012-10-05	Rectal swab	SeqRun2
+ERS1213750	33_1 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-01-11	Stool stabilizer	SeqRun2
+ERS1213751	33_-97 days (Source)	33 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-10-05	Vaginal swab	SeqRun2
+ERS1213752	33_-6 days (Source)	33 (Source)	Rectum	Feces	Rectum	V4	2013-01-04	Rectal swab	SeqRun2
+ERS1213753	33_-6 days (Source)	33 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-01-04	Vaginal swab	SeqRun2
+ERS1213754	33_47 days (Source)	33 (Source)	Rectum	Feces	Rectum	V4	2013-02-26	Rectal swab	SeqRun2
+ERS1213755	33_47 days (Source)	33 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-02-26	Vaginal swab	SeqRun2
+ERS1213756	34_-93 days (Source)	34 (Source)	Rectum	Feces	Rectum	V4	2012-10-16	Rectal swab	SeqRun2
+ERS1213757	34_-93 days (Source)	34 (Source)	Vagina	Mucus	Vaginal introitus	V4	2012-10-16	Vaginal swab	SeqRun2
+ERS1213758	34_-14 days (Source)	34 (Source)	Rectum	Feces	Rectum	V4	2013-01-03	Rectal swab	SeqRun2
+ERS1213759	34_-14 days (Source)	34 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-01-03	Vaginal swab	SeqRun2
+ERS1213760	34_42 days (Source)	34 (Source)	Rectum	Feces	Rectum	V4	2013-02-28	Rectal swab	SeqRun2
+ERS1213761	34_42 days (Source)	34 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-02-28	Vaginal swab	SeqRun2
+ERS1213762	35_-99 days (Source)	35 (Source)	Rectum	Feces	Rectum	V4	2013-01-10	Rectal swab	SeqRun2
+ERS1213763	35_4 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-04-23	Stool stabilizer	SeqRun2
+ERS1213764	35_-99 days (Source)	35 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-01-10	Vaginal swab	SeqRun2
+ERS1213765	35_-36 days (Source)	35 (Source)	Rectum	Feces	Rectum	V4	2013-03-14	Rectal swab	SeqRun2
+ERS1213766	35_-36 days (Source)	35 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-03-14	Vaginal swab	SeqRun2
+ERS1213767	36_-82 days (Source)	36 (Source)	Rectum	Feces	Rectum	V4	2013-01-11	Rectal swab	SeqRun2
+ERS1213768	36_3 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2013-04-06	Stool stabilizer	SeqRun2
+ERS1213769	36_-82 days (Source)	36 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-01-11	Vaginal swab	SeqRun2
+ERS1213770	36_-14 days (Source)	36 (Source)	Rectum	Feces	Rectum	V4	2013-03-20	Rectal swab	SeqRun2
+ERS1213771	36_41 days (Source)	36 (Source)	Rectum	Feces	Rectum	V4	2013-05-14	Rectal swab	SeqRun2
+ERS1213772	36_41 days (Source)	36 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-05-14	Vaginal swab	SeqRun2
+ERS1213773	37_-71 days (Source)	37 (Source)	Rectum	Feces	Rectum	V4	2013-01-24	Rectal swab	SeqRun2
+ERS1213774	37_5 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2013-04-10	Stool stabilizer	SeqRun2
+ERS1213775	37_-71 days (Source)	37 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-01-24	Vaginal swab	SeqRun2
+ERS1213776	37_-15 days (Source)	37 (Source)	Rectum	Feces	Rectum	V4	2013-03-21	Rectal swab	SeqRun2
+ERS1213777	37_-15 days (Source)	37 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-03-21	Vaginal swab	SeqRun2
+ERS1213778	37_55 days (Source)	37 (Source)	Rectum	Feces	Rectum	V4	2013-05-30	Rectal swab	SeqRun2
+ERS1213779	37_55 days (Source)	37 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-05-30	Vaginal swab	SeqRun2
+ERS1213780	38_-98 days (Source)	38 (Source)	Rectum	Feces	Rectum	V4	2013-01-31	Rectal swab	SeqRun2
+ERS1213781	38_3 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-05-12	Stool stabilizer	SeqRun2
+ERS1213782	38_-98 days (Source)	38 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-01-31	Vaginal swab	SeqRun2
+ERS1213783	38_-30 days (Source)	38 (Source)	Rectum	Feces	Rectum	V4	2013-04-09	Rectal swab	SeqRun2
+ERS1213784	38_-30 days (Source)	38 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-04-09	Vaginal swab	SeqRun2
+ERS1213785	39_ (Source)	39 (Source)	Rectum	Feces	Rectum	V4	2013-01-31	Rectal swab	SeqRun2
+ERS1213786	39_ (Source)	39 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-01-31	Vaginal swab	SeqRun2
+ERS1213787	41_-93 days (Source)	41 (Source)	Rectum	Feces	Rectum	V4	2013-02-01	Rectal swab	SeqRun2
+ERS1213788	41_3 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-05-08	Stool stabilizer	SeqRun2
+ERS1213789	41_-93 days (Source)	41 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-02-01	Vaginal swab	SeqRun2
+ERS1213790	41_-38 days (Source)	41 (Source)	Rectum	Feces	Rectum	V4	2013-03-28	Rectal swab	SeqRun2
+ERS1213791	41_-38 days (Source)	41 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-03-28	Vaginal swab	SeqRun2
+ERS1213792	42_-82 days (Source)	42 (Source)	Rectum	Feces	Rectum	V4	2013-02-05	Rectal swab	SeqRun2
+ERS1213793	42_1 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-04-29	Stool stabilizer	SeqRun2
+ERS1213794	42_-82 days (Source)	42 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-02-05	Vaginal swab	SeqRun2
+ERS1213795	42_-19 days (Source)	42 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-04-09	Vaginal swab	SeqRun2
+ERS1213796	42_44 days (Source)	42 (Source)	Rectum	Feces	Rectum	V4	2013-06-11	Rectal swab	SeqRun2
+ERS1213797	42_44 days (Source)	42 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-06-11	Vaginal swab	SeqRun2
+ERS1213798	43_-92 days (Source)	43 (Source)	Rectum	Feces	Rectum	V4	2013-03-05	Rectal swab	SeqRun2
+ERS1213799	43_1 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-06-06	Stool stabilizer	SeqRun2
+ERS1213800	43_-92 days (Source)	43 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-03-05	Vaginal swab	SeqRun2
+ERS1213801	43_-22 days (Source)	43 (Source)	Rectum	Feces	Rectum	V4	2013-05-14	Rectal swab	SeqRun2
+ERS1213802	43_-22 days (Source)	43 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-05-14	Vaginal swab	SeqRun2
+ERS1213803	43_36 days (Source)	43 (Source)	Rectum	Feces	Rectum	V4	2013-07-11	Rectal swab	SeqRun2
+ERS1213804	44_-52 days (Source)	44 (Source)	Rectum	Feces	Rectum	V4	2013-04-09	Rectal swab	SeqRun2
+ERS1213805	44_1 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2013-06-01	Stool stabilizer	SeqRun2
+ERS1213806	44_-24 days (Source)	44 (Source)	Rectum	Feces	Rectum	V4	2013-05-07	Rectal swab	SeqRun2
+ERS1213807	44_-24 days (Source)	44 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-05-07	Vaginal swab	SeqRun2
+ERS1213808	45_-71 days (Source)	45 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-09-11	Vaginal swab	SeqRun2
+ERS1213809	46_-60 days (Source)	46 (Source)	Rectum	Feces	Rectum	V4	2013-08-30	Rectal swab	SeqRun2
+ERS1213810	46_-60 days (Source)	46 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-08-30	Vaginal swab	SeqRun2
+ERS1213811	46_4 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2013-11-02	Stool stabilizer	SeqRun2
+ERS1213812	46_-15 days (Source)	46 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-10-14	Vaginal swab	SeqRun2
+ERS1213813	47_-110 days (Source)	47 (Source)	Rectum	Feces	Rectum	V4	2013-11-12	Rectal swab	SeqRun2
+ERS1213814	47_-110 days (Source)	47 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-11-12	Vaginal swab	SeqRun2
+ERS1215588	1_0 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2012-03-15	Stool stabilizer	SeqRun5
+ERS1215589	1_792 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-05-16	Stool stabilizer	SeqRun5
+ERS1215590	1_977 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-11-17	Stool stabilizer	SeqRun5
+ERS1215591	1_994 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-12-04	Stool stabilizer	SeqRun5
+ERS1215592	1_999 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-12-09	Stool stabilizer	SeqRun5
+ERS1215593	1_1003 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-12-13	Stool stabilizer	SeqRun5
+ERS1215594	1_1038 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2015-01-17	Stool stabilizer	SeqRun5
+ERS1215595	2_0 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2012-03-25	Stool stabilizer	SeqRun5
+ERS1215596	2_798 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2014-06-01	Stool stabilizer	SeqRun5
+ERS1215597	2_917 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2014-09-28	Stool stabilizer	SeqRun5
+ERS1215598	2_988 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2014-12-08	Stool stabilizer	SeqRun5
+ERS1215599	4_464 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2013-08-11	Stool stabilizer	SeqRun5
+ERS1215600	5_1 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2012-06-05	Stool stabilizer	SeqRun5
+ERS1215601	5_735 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2014-06-09	Stool stabilizer	SeqRun5
+ERS1215602	5_855 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2014-10-07	Stool stabilizer	SeqRun5
+ERS1215603	5_911 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2014-12-02	Stool stabilizer	SeqRun5
+ERS1215604	5_982 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2015-02-11	Stool stabilizer	SeqRun5
+ERS1215605	7_1 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2012-07-04	Stool stabilizer	SeqRun5
+ERS1215606	7_274 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-04-03	Stool stabilizer	SeqRun5
+ERS1215607	7_608 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-03-03	Stool stabilizer	SeqRun5
+ERS1215608	7_815 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-09-26	Stool stabilizer	SeqRun5
+ERS1215609	7_853 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-11-03	Stool stabilizer	SeqRun5
+ERS1215610	7_874 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-11-24	Stool stabilizer	SeqRun5
+ERS1215611	7_917 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2015-01-06	Stool stabilizer	SeqRun5
+ERS1215612	7_949 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2015-02-07	Stool stabilizer	SeqRun5
+ERS1215613	8_72 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2012-10-10	Stool stabilizer	SeqRun5
+ERS1215614	8_552 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2014-02-02	Stool stabilizer	SeqRun5
+ERS1215615	8_795 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2014-10-03	Stool stabilizer	SeqRun5
+ERS1215616	9_1 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2012-06-12	Stool stabilizer	SeqRun5
+ERS1215617	9_555 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2013-12-18	Stool stabilizer	SeqRun5
+ERS1215618	9_864 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2014-10-23	Stool stabilizer	SeqRun5
+ERS1215619	9_928 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2014-12-26	Stool stabilizer	SeqRun5
+ERS1215620	10_2 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2012-08-14	Stool stabilizer	SeqRun5
+ERS1215621	10_305 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-06-13	Stool stabilizer	SeqRun5
+ERS1215622	10_502 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-12-27	Stool stabilizer	SeqRun5
+ERS1215623	10_794 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2014-10-15	Stool stabilizer	SeqRun5
+ERS1215624	11_1 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2012-08-08	Stool stabilizer	SeqRun5
+ERS1215625	11_553 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2014-02-11	Stool stabilizer	SeqRun5
+ERS1215626	11_676 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2014-06-14	Stool stabilizer	SeqRun5
+ERS1215627	11_795 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2014-10-11	Stool stabilizer	SeqRun5
+ERS1215628	11_854 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2014-12-09	Stool stabilizer	SeqRun5
+ERS1215629	12_2 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2012-08-03	Stool stabilizer	SeqRun5
+ERS1215630	12_560 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2014-02-12	Stool stabilizer	SeqRun5
+ERS1215631	12_675 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2014-06-07	Stool stabilizer	SeqRun5
+ERS1215632	14_1 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2012-08-28	Stool stabilizer	SeqRun5
+ERS1215633	14_394 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-09-25	Stool stabilizer	SeqRun5
+ERS1215634	14_549 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2014-02-27	Stool stabilizer	SeqRun5
+ERS1215635	14_614 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2014-05-03	Stool stabilizer	SeqRun5
+ERS1215636	14_792 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2014-10-28	Stool stabilizer	SeqRun5
+ERS1215637	14_854 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2014-12-29	Stool stabilizer	SeqRun5
+ERS1215638	16_1 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2012-09-04	Stool stabilizer	SeqRun5
+ERS1215639	16_8 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2012-09-11	Stool stabilizer	SeqRun5
+ERS1215640	16_549 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2014-03-06	Stool stabilizer	SeqRun5
+ERS1215641	16_608 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2014-05-04	Stool stabilizer	SeqRun5
+ERS1215642	16_796 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2014-11-08	Stool stabilizer	SeqRun5
+ERS1215643	16_852 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2015-01-03	Stool stabilizer	SeqRun5
+ERS1215644	17_0 days (Source)	17 (Source)	Colon	Feces	Colon	V4	2012-09-07	Stool stabilizer	SeqRun5
+ERS1215645	18_2 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2012-10-08	Stool stabilizer	SeqRun5
+ERS1215646	18_548 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2014-04-07	Stool stabilizer	SeqRun5
+ERS1215647	18_606 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2014-06-04	Stool stabilizer	SeqRun5
+ERS1215648	18_732 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2014-10-08	Stool stabilizer	SeqRun5
+ERS1215649	18_790 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2014-12-05	Stool stabilizer	SeqRun5
+ERS1215650	18_853 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2015-02-06	Stool stabilizer	SeqRun5
+ERS1215651	20_0 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-08-30	Stool stabilizer	SeqRun5
+ERS1215652	20_15 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2012-09-14	Stool stabilizer	SeqRun5
+ERS1215653	20_551 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-03-04	Stool stabilizer	SeqRun5
+ERS1215654	20_791 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-10-30	Stool stabilizer	SeqRun5
+ERS1215655	20_856 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2015-01-03	Stool stabilizer	SeqRun5
+ERS1215656	21_1 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2012-09-20	Stool stabilizer	SeqRun5
+ERS1215657	21_559 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2014-04-01	Stool stabilizer	SeqRun5
+ERS1215658	21_746 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2014-10-05	Stool stabilizer	SeqRun5
+ERS1215659	21_872 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2015-02-08	Stool stabilizer	SeqRun5
+ERS1215660	22_0 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2012-09-21	Stool stabilizer	SeqRun5
+ERS1215661	22_551 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2014-03-26	Stool stabilizer	SeqRun5
+ERS1215662	22_737 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2014-09-28	Stool stabilizer	SeqRun5
+ERS1215663	22_791 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2014-11-21	Stool stabilizer	SeqRun5
+ERS1215664	22_856 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2015-01-25	Stool stabilizer	SeqRun5
+ERS1215665	23_1 days (Source)	23 (Source)	Colon	Feces	Colon	V4	2012-09-20	Stool stabilizer	SeqRun5
+ERS1215666	24_0 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2012-10-27	Stool stabilizer	SeqRun5
+ERS1215667	24_551 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2014-05-01	Stool stabilizer	SeqRun5
+ERS1215668	24_734 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2014-10-31	Stool stabilizer	SeqRun5
+ERS1215669	24_799 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2015-01-04	Stool stabilizer	SeqRun5
+ERS1215670	25_1 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2012-10-16	Stool stabilizer	SeqRun5
+ERS1215671	25_548 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2014-04-16	Stool stabilizer	SeqRun5
+ERS1215672	25_734 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2014-10-19	Stool stabilizer	SeqRun5
+ERS1215673	25_792 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2014-12-16	Stool stabilizer	SeqRun5
+ERS1215674	27_1 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2012-11-17	Stool stabilizer	SeqRun5
+ERS1215675	27_551 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2014-05-19	Stool stabilizer	SeqRun5
+ERS1215676	27_736 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2014-11-20	Stool stabilizer	SeqRun5
+ERS1215677	27_797 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2015-01-20	Stool stabilizer	SeqRun5
+ERS1215678	30_0 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2012-12-15	Stool stabilizer	SeqRun5
+ERS1215679	30_554 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2014-06-22	Stool stabilizer	SeqRun5
+ERS1215680	30_674 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2014-10-20	Stool stabilizer	SeqRun5
+ERS1215681	30_746 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2014-12-31	Stool stabilizer	SeqRun5
+ERS1215682	31_0 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2012-12-28	Stool stabilizer	SeqRun5
+ERS1215683	31_210 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-07-26	Stool stabilizer	SeqRun5
+ERS1215684	31_547 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2014-06-28	Stool stabilizer	SeqRun5
+ERS1215685	31_666 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2014-10-25	Stool stabilizer	SeqRun5
+ERS1215686	31_729 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2014-12-27	Stool stabilizer	SeqRun5
+ERS1215687	32_1 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-01-02	Stool stabilizer	SeqRun5
+ERS1215688	32_209 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-07-29	Stool stabilizer	SeqRun5
+ERS1215689	32_674 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2014-11-06	Stool stabilizer	SeqRun5
+ERS1215690	32_734 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2015-01-05	Stool stabilizer	SeqRun5
+ERS1215691	32_772 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2015-02-12	Stool stabilizer	SeqRun5
+ERS1215692	33_0 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-01-10	Stool stabilizer	SeqRun5
+ERS1215693	33_485 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2014-05-10	Stool stabilizer	SeqRun5
+ERS1215694	33_670 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2014-11-11	Stool stabilizer	SeqRun5
+ERS1215695	33_751 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2015-01-31	Stool stabilizer	SeqRun5
+ERS1215696	34_1 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-01-18	Stool stabilizer	SeqRun5
+ERS1215697	34_483 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2014-05-15	Stool stabilizer	SeqRun5
+ERS1215698	35_0 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-04-19	Stool stabilizer	SeqRun5
+ERS1215699	35_122 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-08-19	Stool stabilizer	SeqRun5
+ERS1215700	35_551 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-10-22	Stool stabilizer	SeqRun5
+ERS1215701	35_608 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-12-18	Stool stabilizer	SeqRun5
+ERS1215702	36_0 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2013-04-03	Stool stabilizer	SeqRun5
+ERS1215703	36_425 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2014-06-02	Stool stabilizer	SeqRun5
+ERS1215704	36_559 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2014-10-14	Stool stabilizer	SeqRun5
+ERS1215705	36_610 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2014-12-04	Stool stabilizer	SeqRun5
+ERS1215706	37_1 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2013-04-06	Stool stabilizer	SeqRun5
+ERS1215707	37_123 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2013-08-06	Stool stabilizer	SeqRun5
+ERS1215708	37_426 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-06-05	Stool stabilizer	SeqRun5
+ERS1215709	37_554 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-10-11	Stool stabilizer	SeqRun5
+ERS1215710	37_612 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-12-08	Stool stabilizer	SeqRun5
+ERS1215711	37_674 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2015-02-08	Stool stabilizer	SeqRun5
+ERS1215712	38_2 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-05-11	Stool stabilizer	SeqRun5
+ERS1215713	38_365 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-05-09	Stool stabilizer	SeqRun5
+ERS1215714	38_610 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2015-01-09	Stool stabilizer	SeqRun5
+ERS1215715	41_0 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-05-05	Stool stabilizer	SeqRun5
+ERS1215716	41_96 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-08-09	Stool stabilizer	SeqRun5
+ERS1215717	41_556 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-11-12	Stool stabilizer	SeqRun5
+ERS1215718	41_618 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2015-01-13	Stool stabilizer	SeqRun5
+ERS1215719	41_647 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2015-02-11	Stool stabilizer	SeqRun5
+ERS1215720	42_0 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-04-28	Stool stabilizer	SeqRun5
+ERS1215721	42_91 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-07-28	Stool stabilizer	SeqRun5
+ERS1215722	42_374 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-05-07	Stool stabilizer	SeqRun5
+ERS1215723	42_557 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-11-06	Stool stabilizer	SeqRun5
+ERS1215724	42_616 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2015-01-04	Stool stabilizer	SeqRun5
+ERS1215725	43_0 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-06-05	Stool stabilizer	SeqRun5
+ERS1215726	43_364 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-06-04	Stool stabilizer	SeqRun5
+ERS1215727	43_490 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-10-08	Stool stabilizer	SeqRun5
+ERS1215728	43_550 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-12-07	Stool stabilizer	SeqRun5
+ERS1215729	43_555 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-12-12	Stool stabilizer	SeqRun5
+ERS1215730	43_572 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-12-29	Stool stabilizer	SeqRun5
+ERS1215731	43_616 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2015-02-11	Stool stabilizer	SeqRun5
+ERS1215732	44_1 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2013-06-01	Stool stabilizer	SeqRun5
+ERS1215733	44_497 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-10-10	Stool stabilizer	SeqRun5
+ERS1215734	44_553 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-12-05	Stool stabilizer	SeqRun5
+ERS1215735	45_304 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-09-21	Stool stabilizer	SeqRun5
+ERS1215736	45_344 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-10-31	Stool stabilizer	SeqRun5
+ERS1215737	45_365 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-11-21	Stool stabilizer	SeqRun5
+ERS1215738	46_211 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-05-28	Stool stabilizer	SeqRun5
+ERS1215739	46_336 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-09-30	Stool stabilizer	SeqRun5
+ERS1215740	46_366 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-10-30	Stool stabilizer	SeqRun5
+ERS1215741	46_433 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2015-01-05	Stool stabilizer	SeqRun5
+ERS1215742	47_94 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-06-04	Stool stabilizer	SeqRun5
+ERS1215743	47_221 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-10-09	Stool stabilizer	SeqRun5
+ERS1215744	47_249 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-11-06	Stool stabilizer	SeqRun5
+ERS1215745	47_277 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-12-04	Stool stabilizer	SeqRun5
+ERS1215746	47_347 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2015-02-12	Stool stabilizer	SeqRun5
+ERS1215747	49_60 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-05-01	Stool stabilizer	SeqRun5
+ERS1215748	49_213 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-10-01	Stool stabilizer	SeqRun5
+ERS1215749	49_243 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-10-31	Stool stabilizer	SeqRun5
+ERS1215750	49_274 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-12-01	Stool stabilizer	SeqRun5
+ERS1215751	49_305 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2015-01-01	Stool stabilizer	SeqRun5
+ERS1215752	49_337 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2015-02-02	Stool stabilizer	SeqRun5
+ERS1215753	52_1 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-05-21	Stool stabilizer	SeqRun5
+ERS1215754	52_127 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-09-24	Stool stabilizer	SeqRun5
+ERS1215755	52_154 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-10-21	Stool stabilizer	SeqRun5
+ERS1215756	52_188 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-11-24	Stool stabilizer	SeqRun5
+ERS1215757	52_245 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2015-01-20	Stool stabilizer	SeqRun5
+ERS1215758	53_123 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-10-17	Stool stabilizer	SeqRun5
+ERS1215759	53_153 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-11-16	Stool stabilizer	SeqRun5
+ERS1215760	53_183 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-12-16	Stool stabilizer	SeqRun5
+ERS1215761	53_214 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2015-01-16	Stool stabilizer	SeqRun5
+ERS1215762	55_0 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-06-18	Stool stabilizer	SeqRun5
+ERS1215763	55_120 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-10-16	Stool stabilizer	SeqRun5
+ERS1215764	55_155 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-11-20	Stool stabilizer	SeqRun5
+ERS1215765	55_183 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-12-18	Stool stabilizer	SeqRun5
+ERS1215766	55_211 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2015-01-15	Stool stabilizer	SeqRun5
+ERS1215767	56_93 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-10-08	Stool stabilizer	SeqRun5
+ERS1215768	56_122 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-11-06	Stool stabilizer	SeqRun5
+ERS1215769	56_153 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-12-07	Stool stabilizer	SeqRun5
+ERS1215770	56_184 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2015-01-07	Stool stabilizer	SeqRun5
+ERS1215771	56_215 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2015-02-07	Stool stabilizer	SeqRun5
+ERS1215772	57_31 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-05-24	Stool stabilizer	SeqRun5
+ERS1215773	57_157 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-09-27	Stool stabilizer	SeqRun5
+ERS1215774	57_215 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-11-24	Stool stabilizer	SeqRun5
+ERS1215775	57_238 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-12-17	Stool stabilizer	SeqRun5
+ERS1215776	57_244 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-12-23	Stool stabilizer	SeqRun5
+ERS1215777	57_277 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2015-01-25	Stool stabilizer	SeqRun5
+ERS1215778	1_42 days (Source)	1 (Source)	Rectum	Feces	Rectum	V4	2012-04-26	Rectal swab	SeqRun5
+ERS1215779	4_55 days (Source)	4 (Source)	Rectum	Feces	Rectum	V4	2012-06-28	Rectal swab	SeqRun5
+ERS1215780	31_42 days (Source)	31 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-02-08	Vaginal swab	SeqRun5
+ERS1215781	35_34 days (Source)	35 (Source)	Rectum	Feces	Rectum	V4	2013-05-23	Rectal swab	SeqRun5
+ERS1215782	38_62 days (Source)	38 (Source)	Rectum	Feces	Rectum	V4	2013-07-10	Rectal swab	SeqRun5
+ERS1215783	38_62 days (Source)	38 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-07-10	Vaginal swab	SeqRun5
+ERS1215784	41_64 days (Source)	41 (Source)	Rectum	Feces	Rectum	V4	2013-07-08	Rectal swab	SeqRun5
+ERS1215785	43_36 days (Source)	43 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-07-11	Vaginal swab	SeqRun5
+ERS1215786	44_41 days (Source)	44 (Source)	Rectum	Feces	Rectum	V4	2013-07-11	Rectal swab	SeqRun5
+ERS1215787	44_41 days (Source)	44 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-07-11	Vaginal swab	SeqRun5
+ERS1215788	49_-39 days (Source)	49 (Source)	Rectum	Feces	Rectum	V4	2014-01-22	Rectal swab	SeqRun5
+ERS1215789	49_64 days (Source)	49 (Source)	Rectum	Feces	Rectum	V4	2014-05-05	Rectal swab	SeqRun5
+ERS1215790	49_64 days (Source)	49 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-05-05	Vaginal swab	SeqRun5
+ERS1215791	50_4 days (Source)	50 (Source)	Colon	Feces	Colon	V4	2014-05-20	Stool stabilizer	SeqRun5
+ERS1215792	50_-32 days (Source)	50 (Source)	Rectum	Feces	Rectum	V4	2014-04-14	Rectal swab	SeqRun5
+ERS1215793	51_-21 days (Source)	51 (Source)	Rectum	Feces	Rectum	V4	2014-05-05	Rectal swab	SeqRun5
+ERS1215794	51_-21 days (Source)	51 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-05-05	Vaginal swab	SeqRun5
+ERS1215795	52_3 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-05-23	Stool stabilizer	SeqRun5
+ERS1215796	52_-14 days (Source)	52 (Source)	Rectum	Feces	Rectum	V4	2014-05-06	Rectal swab	SeqRun5
+ERS1215797	52_-14 days (Source)	52 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-05-06	Vaginal swab	SeqRun5
+ERS1215798	53_-105 days (Source)	53 (Source)	Rectum	Feces	Rectum	V4	2014-03-03	Rectal swab	SeqRun5
+ERS1215799	53_-105 days (Source)	53 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-03-03	Vaginal swab	SeqRun5
+ERS1215800	53_-18 days (Source)	53 (Source)	Rectum	Feces	Rectum	V4	2014-05-29	Rectal swab	SeqRun5
+ERS1215801	53_-18 days (Source)	53 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-05-29	Vaginal swab	SeqRun5
+ERS1215802	55_-8 days (Source)	55 (Source)	Rectum	Feces	Rectum	V4	2014-06-10	Rectal swab	SeqRun5
+ERS1215803	55_-8 days (Source)	55 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-06-10	Vaginal swab	SeqRun5
+ERS1215804	56_-20 days (Source)	56 (Source)	Rectum	Feces	Rectum	V4	2014-06-17	Rectal swab	SeqRun5
+ERS1215805	56_-20 days (Source)	56 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-06-17	Vaginal swab	SeqRun5
+ERS1215806	57_48 days (Source)	57 (Source)	Rectum	Feces	Rectum	V4	2014-06-10	Rectal swab	SeqRun5
+ERS1215807	57_48 days (Source)	57 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-06-10	Vaginal swab	SeqRun5
+ERS1215808	1_677 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-01-21	Stool stabilizer	SeqRun4
+ERS1215809	1_733 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-03-18	Dry stool	SeqRun4
+ERS1215810	1_733 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-03-18	Stool stabilizer	SeqRun4
+ERS1215811	1_855 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-07-18	Dry stool	SeqRun4
+ERS1215812	1_855 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-07-18	Stool stabilizer	SeqRun4
+ERS1215813	1_917 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-09-18	Dry stool	SeqRun4
+ERS1215814	1_917 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2014-09-18	Stool stabilizer	SeqRun4
+ERS1215815	2_630 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2013-12-15	Stool stabilizer	SeqRun4
+ERS1215816	2_678 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2014-02-01	Stool stabilizer	SeqRun4
+ERS1215817	2_731 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2014-03-26	Dry stool	SeqRun4
+ERS1215818	2_731 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2014-03-26	Stool stabilizer	SeqRun4
+ERS1215819	2_856 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2014-07-29	Dry stool	SeqRun4
+ERS1215820	2_856 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2014-07-29	Stool stabilizer	SeqRun4
+ERS1215821	4_464 days (Source)	4 (Source)	Colon	Feces	Colon	V4	2013-08-11	Dry stool	SeqRun4
+ERS1215822	5_612 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2014-02-06	Stool stabilizer	SeqRun4
+ERS1215823	5_667 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2014-04-02	Dry stool	SeqRun4
+ERS1215824	5_667 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2014-04-02	Stool stabilizer	SeqRun4
+ERS1215825	5_793 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2014-08-06	Dry stool	SeqRun4
+ERS1215826	5_793 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2014-08-06	Stool stabilizer	SeqRun4
+ERS1215827	7_551 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-01-05	Stool stabilizer	SeqRun4
+ERS1215828	7_669 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-05-03	Dry stool	SeqRun4
+ERS1215829	7_669 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-05-03	Stool stabilizer	SeqRun4
+ERS1215830	7_729 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-07-02	Dry stool	SeqRun4
+ERS1215831	7_729 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-07-02	Stool stabilizer	SeqRun4
+ERS1215832	7_793 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-09-04	Dry stool	SeqRun4
+ERS1215833	7_793 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2014-09-04	Stool stabilizer	SeqRun4
+ERS1215834	8_615 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2014-04-06	Dry stool	SeqRun4
+ERS1215835	8_615 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2014-04-06	Stool stabilizer	SeqRun4
+ERS1215836	8_759 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2014-08-28	Dry stool	SeqRun4
+ERS1215837	8_759 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2014-08-28	Stool stabilizer	SeqRun4
+ERS1215838	9_613 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2014-02-14	Stool stabilizer	SeqRun4
+ERS1215839	9_681 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2014-04-23	Dry stool	SeqRun4
+ERS1215840	9_681 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2014-04-23	Stool stabilizer	SeqRun4
+ERS1215841	9_739 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2014-06-20	Stool stabilizer	SeqRun4
+ERS1215842	9_800 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2014-08-20	Dry stool	SeqRun4
+ERS1215843	9_800 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2014-08-20	Stool stabilizer	SeqRun4
+ERS1215844	10_613 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2014-04-17	Dry stool	SeqRun4
+ERS1215845	10_613 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2014-04-17	Stool stabilizer	SeqRun4
+ERS1215846	10_677 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2014-06-20	Stool stabilizer	SeqRun4
+ERS1215847	10_737 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2014-08-19	Dry stool	SeqRun4
+ERS1215848	10_737 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2014-08-19	Stool stabilizer	SeqRun4
+ERS1215849	11_431 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-10-12	Dry stool	SeqRun4
+ERS1215850	11_509 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-12-29	Stool stabilizer	SeqRun4
+ERS1215851	11_610 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2014-04-09	Dry stool	SeqRun4
+ERS1215852	11_610 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2014-04-09	Stool stabilizer	SeqRun4
+ERS1215853	11_737 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2014-08-14	Dry stool	SeqRun4
+ERS1215854	11_737 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2014-08-14	Stool stabilizer	SeqRun4
+ERS1215855	12_609 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2014-04-02	Dry stool	SeqRun4
+ERS1215856	12_609 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2014-04-02	Stool stabilizer	SeqRun4
+ERS1215857	12_732 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2014-08-03	Dry stool	SeqRun4
+ERS1215858	12_732 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2014-08-03	Stool stabilizer	SeqRun4
+ERS1215859	12_739 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2014-08-10	Dry stool	SeqRun4
+ERS1215860	12_739 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2014-08-10	Stool stabilizer	SeqRun4
+ERS1215861	14_486 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-12-26	Stool stabilizer	SeqRun4
+ERS1215862	14_675 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2014-07-03	Dry stool	SeqRun4
+ERS1215863	14_675 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2014-07-03	Stool stabilizer	SeqRun4
+ERS1215864	14_737 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2014-09-03	Dry stool	SeqRun4
+ERS1215865	14_737 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2014-09-03	Stool stabilizer	SeqRun4
+ERS1215866	16_395 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-10-03	Dry stool	SeqRun4
+ERS1215867	16_489 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2014-01-05	Stool stabilizer	SeqRun4
+ERS1215868	16_672 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2014-07-07	Dry stool	SeqRun4
+ERS1215869	16_672 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2014-07-07	Stool stabilizer	SeqRun4
+ERS1215870	16_733 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2014-09-06	Dry stool	SeqRun4
+ERS1215871	16_733 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2014-09-06	Stool stabilizer	SeqRun4
+ERS1215872	18_336 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-09-07	Dry stool	SeqRun4
+ERS1215873	18_373 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-10-14	Dry stool	SeqRun4
+ERS1215874	18_489 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2014-02-07	Stool stabilizer	SeqRun4
+ERS1215875	20_487 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-12-30	Stool stabilizer	SeqRun4
+ERS1215876	20_593 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-04-15	Dry stool	SeqRun4
+ERS1215877	20_593 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-04-15	Stool stabilizer	SeqRun4
+ERS1215878	20_594 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-04-16	Dry stool	SeqRun4
+ERS1215879	20_594 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-04-16	Stool stabilizer	SeqRun4
+ERS1215880	20_599 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-04-21	Dry stool	SeqRun4
+ERS1215881	20_599 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-04-21	Stool stabilizer	SeqRun4
+ERS1215882	20_604 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-04-26	Dry stool	SeqRun4
+ERS1215883	20_604 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-04-26	Stool stabilizer	SeqRun4
+ERS1215884	20_670 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-07-01	Dry stool	SeqRun4
+ERS1215885	20_670 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-07-01	Stool stabilizer	SeqRun4
+ERS1215886	20_745 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-09-14	Dry stool	SeqRun4
+ERS1215887	20_745 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2014-09-14	Stool stabilizer	SeqRun4
+ERS1215888	21_499 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2014-01-31	Stool stabilizer	SeqRun4
+ERS1215889	22_489 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2014-01-23	Stool stabilizer	SeqRun4
+ERS1215890	22_671 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2014-07-24	Dry stool	SeqRun4
+ERS1215891	22_671 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2014-07-24	Stool stabilizer	SeqRun4
+ERS1215892	24_416 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-12-17	Stool stabilizer	SeqRun4
+ERS1215893	24_490 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2014-03-01	Stool stabilizer	SeqRun4
+ERS1215894	24_611 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2014-06-30	Dry stool	SeqRun4
+ERS1215895	24_611 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2014-06-30	Stool stabilizer	SeqRun4
+ERS1215896	24_673 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2014-08-31	Dry stool	SeqRun4
+ERS1215897	24_673 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2014-08-31	Stool stabilizer	SeqRun4
+ERS1215898	25_337 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-09-17	Dry stool	SeqRun4
+ERS1215899	25_365 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-10-15	Dry stool	SeqRun4
+ERS1215900	25_428 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-12-17	Stool stabilizer	SeqRun4
+ERS1215901	25_489 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2014-02-16	Stool stabilizer	SeqRun4
+ERS1215902	25_615 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2014-06-22	Stool stabilizer	SeqRun4
+ERS1215903	25_666 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2014-08-12	Dry stool	SeqRun4
+ERS1215904	25_666 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2014-08-12	Stool stabilizer	SeqRun4
+ERS1215905	27_278 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-08-19	Dry stool	SeqRun4
+ERS1215906	27_289 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-08-30	Dry stool	SeqRun4
+ERS1215907	27_429 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2014-01-17	Stool stabilizer	SeqRun4
+ERS1215908	27_489 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2014-03-18	Dry stool	SeqRun4
+ERS1215909	27_489 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2014-03-18	Stool stabilizer	SeqRun4
+ERS1215910	27_607 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2014-07-14	Dry stool	SeqRun4
+ERS1215911	27_607 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2014-07-14	Stool stabilizer	SeqRun4
+ERS1215912	27_673 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2014-09-18	Dry stool	SeqRun4
+ERS1215913	27_673 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2014-09-18	Stool stabilizer	SeqRun4
+ERS1215914	30_276 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-09-17	Dry stool	SeqRun4
+ERS1215915	30_365 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-12-15	Stool stabilizer	SeqRun4
+ERS1215916	30_400 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2014-01-19	Stool stabilizer	SeqRun4
+ERS1215917	30_429 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2014-02-17	Stool stabilizer	SeqRun4
+ERS1215918	30_495 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2014-04-24	Dry stool	SeqRun4
+ERS1215919	30_495 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2014-04-24	Stool stabilizer	SeqRun4
+ERS1215920	30_606 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2014-08-13	Dry stool	SeqRun4
+ERS1215921	30_606 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2014-08-13	Stool stabilizer	SeqRun4
+ERS1215922	31_275 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-09-29	Dry stool	SeqRun4
+ERS1215923	31_365 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-12-28	Stool stabilizer	SeqRun4
+ERS1215924	31_396 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2014-01-28	Stool stabilizer	SeqRun4
+ERS1215925	31_428 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2014-03-01	Stool stabilizer	SeqRun4
+ERS1215926	31_491 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2014-05-03	Dry stool	SeqRun4
+ERS1215927	31_491 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2014-05-03	Stool stabilizer	SeqRun4
+ERS1215928	31_618 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2014-09-07	Dry stool	SeqRun4
+ERS1215929	31_618 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2014-09-07	Stool stabilizer	SeqRun4
+ERS1215930	32_91 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-04-02	Stool stabilizer	SeqRun4
+ERS1215931	32_272 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-09-30	Dry stool	SeqRun4
+ERS1215932	32_370 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2014-01-06	Stool stabilizer	SeqRun4
+ERS1215933	32_422 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2014-02-27	Stool stabilizer	SeqRun4
+ERS1215934	32_485 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2014-05-01	Stool stabilizer	SeqRun4
+ERS1215935	32_555 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2014-07-10	Dry stool	SeqRun4
+ERS1215936	32_555 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2014-07-10	Stool stabilizer	SeqRun4
+ERS1215937	32_609 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2014-09-02	Dry stool	SeqRun4
+ERS1215938	32_609 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2014-09-02	Stool stabilizer	SeqRun4
+ERS1215939	33_180 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-07-09	Stool stabilizer	SeqRun4
+ERS1215940	33_236 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-09-03	Dry stool	SeqRun4
+ERS1215941	33_240 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-09-07	Dry stool	SeqRun4
+ERS1215942	33_272 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-10-09	Dry stool	SeqRun4
+ERS1215943	33_340 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-12-16	Stool stabilizer	SeqRun4
+ERS1215944	33_365 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2014-01-10	Stool stabilizer	SeqRun4
+ERS1215945	33_427 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2014-03-13	Stool stabilizer	SeqRun4
+ERS1215946	33_547 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2014-07-11	Dry stool	SeqRun4
+ERS1215947	33_547 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2014-07-11	Stool stabilizer	SeqRun4
+ERS1215948	33_608 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2014-09-10	Dry stool	SeqRun4
+ERS1215949	33_608 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2014-09-10	Stool stabilizer	SeqRun4
+ERS1215950	34_335 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-12-18	Stool stabilizer	SeqRun4
+ERS1215951	34_369 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2014-01-21	Stool stabilizer	SeqRun4
+ERS1215952	34_424 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2014-03-17	Dry stool	SeqRun4
+ERS1215953	34_424 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2014-03-17	Stool stabilizer	SeqRun4
+ERS1215954	34_539 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2014-07-10	Dry stool	SeqRun4
+ERS1215955	34_539 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2014-07-10	Stool stabilizer	SeqRun4
+ERS1215956	35_153 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-09-19	Dry stool	SeqRun4
+ERS1215957	35_182 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-10-18	Dry stool	SeqRun4
+ERS1215958	35_244 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-12-19	Stool stabilizer	SeqRun4
+ERS1215959	35_277 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-01-21	Stool stabilizer	SeqRun4
+ERS1215960	35_307 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-02-20	Stool stabilizer	SeqRun4
+ERS1215961	35_334 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-03-19	Dry stool	SeqRun4
+ERS1215962	35_334 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-03-19	Stool stabilizer	SeqRun4
+ERS1215963	35_367 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-04-21	Dry stool	SeqRun4
+ERS1215964	35_367 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-04-21	Stool stabilizer	SeqRun4
+ERS1215965	35_427 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-06-20	Dry stool	SeqRun4
+ERS1215966	35_427 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-06-20	Stool stabilizer	SeqRun4
+ERS1215967	35_488 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-08-20	Dry stool	SeqRun4
+ERS1215968	35_488 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2014-08-20	Stool stabilizer	SeqRun4
+ERS1215969	36_162 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2013-09-12	Dry stool	SeqRun4
+ERS1215970	36_276 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2014-01-04	Stool stabilizer	SeqRun4
+ERS1215971	36_308 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2014-02-05	Stool stabilizer	SeqRun4
+ERS1215972	36_334 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2014-03-03	Stool stabilizer	SeqRun4
+ERS1215973	36_364 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2014-04-02	Stool stabilizer	SeqRun4
+ERS1215974	36_490 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2014-08-06	Dry stool	SeqRun4
+ERS1215975	36_490 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2014-08-06	Stool stabilizer	SeqRun4
+ERS1215976	37_253 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2013-12-14	Stool stabilizer	SeqRun4
+ERS1215977	37_274 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-01-04	Stool stabilizer	SeqRun4
+ERS1215978	37_307 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-02-06	Stool stabilizer	SeqRun4
+ERS1215979	37_335 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-03-06	Dry stool	SeqRun4
+ERS1215980	37_335 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-03-06	Stool stabilizer	SeqRun4
+ERS1215981	37_375 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-04-15	Dry stool	SeqRun4
+ERS1215982	37_375 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-04-15	Stool stabilizer	SeqRun4
+ERS1215983	37_497 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2014-08-15	Stool stabilizer	SeqRun4
+ERS1215984	38_98 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-08-15	Dry stool	SeqRun4
+ERS1215985	38_123 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-09-09	Dry stool	SeqRun4
+ERS1215986	38_153 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-10-09	Dry stool	SeqRun4
+ERS1215987	38_250 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-01-14	Stool stabilizer	SeqRun4
+ERS1215988	38_278 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-02-11	Stool stabilizer	SeqRun4
+ERS1215989	38_305 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-03-10	Dry stool	SeqRun4
+ERS1215990	38_305 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-03-10	Stool stabilizer	SeqRun4
+ERS1215991	38_334 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-04-08	Dry stool	SeqRun4
+ERS1215992	38_334 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-04-08	Stool stabilizer	SeqRun4
+ERS1215993	38_428 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-07-11	Dry stool	SeqRun4
+ERS1215994	38_428 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-07-11	Stool stabilizer	SeqRun4
+ERS1215995	38_487 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-09-08	Dry stool	SeqRun4
+ERS1215996	38_487 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2014-09-08	Stool stabilizer	SeqRun4
+ERS1215997	41_126 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-09-08	Dry stool	SeqRun4
+ERS1215998	41_157 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-10-09	Dry stool	SeqRun4
+ERS1215999	41_232 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-12-23	Stool stabilizer	SeqRun4
+ERS1216000	41_246 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-01-06	Stool stabilizer	SeqRun4
+ERS1216001	41_278 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-02-07	Stool stabilizer	SeqRun4
+ERS1216002	41_310 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-03-11	Dry stool	SeqRun4
+ERS1216003	41_310 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-03-11	Stool stabilizer	SeqRun4
+ERS1216004	41_339 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-04-09	Dry stool	SeqRun4
+ERS1216005	41_339 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-04-09	Stool stabilizer	SeqRun4
+ERS1216006	41_424 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-07-03	Dry stool	SeqRun4
+ERS1216007	41_424 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-07-03	Stool stabilizer	SeqRun4
+ERS1216008	41_488 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-09-05	Dry stool	SeqRun4
+ERS1216009	41_488 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2014-09-05	Stool stabilizer	SeqRun4
+ERS1216010	42_154 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-09-29	Dry stool	SeqRun4
+ERS1216011	42_247 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-12-31	Stool stabilizer	SeqRun4
+ERS1216012	42_277 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-01-30	Stool stabilizer	SeqRun4
+ERS1216013	42_310 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-03-04	Dry stool	SeqRun4
+ERS1216014	42_310 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-03-04	Stool stabilizer	SeqRun4
+ERS1216015	42_337 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-03-31	Stool stabilizer	SeqRun4
+ERS1216016	42_438 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-07-10	Dry stool	SeqRun4
+ERS1216017	42_438 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-07-10	Stool stabilizer	SeqRun4
+ERS1216018	42_493 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-09-03	Dry stool	SeqRun4
+ERS1216019	42_493 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2014-09-03	Stool stabilizer	SeqRun4
+ERS1216020	43_96 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-09-09	Dry stool	SeqRun4
+ERS1216021	43_126 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-10-09	Dry stool	SeqRun4
+ERS1216022	43_217 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-01-08	Stool stabilizer	SeqRun4
+ERS1216023	43_245 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-02-05	Stool stabilizer	SeqRun4
+ERS1216024	43_275 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-03-07	Dry stool	SeqRun4
+ERS1216025	43_275 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-03-07	Stool stabilizer	SeqRun4
+ERS1216026	43_306 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-04-07	Dry stool	SeqRun4
+ERS1216027	43_306 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-04-07	Stool stabilizer	SeqRun4
+ERS1216028	43_312 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-04-13	Dry stool	SeqRun4
+ERS1216029	43_312 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-04-13	Stool stabilizer	SeqRun4
+ERS1216030	43_428 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-08-07	Dry stool	SeqRun4
+ERS1216031	43_428 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2014-08-07	Stool stabilizer	SeqRun4
+ERS1216032	44_222 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-01-08	Stool stabilizer	SeqRun4
+ERS1216033	44_244 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-01-30	Stool stabilizer	SeqRun4
+ERS1216034	44_276 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-03-03	Stool stabilizer	SeqRun4
+ERS1216035	44_307 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-04-03	Dry stool	SeqRun4
+ERS1216036	44_307 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-04-03	Stool stabilizer	SeqRun4
+ERS1216037	44_334 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-04-30	Dry stool	SeqRun4
+ERS1216038	44_334 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-04-30	Stool stabilizer	SeqRun4
+ERS1216039	44_424 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-07-29	Dry stool	SeqRun4
+ERS1216040	44_424 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2014-07-29	Stool stabilizer	SeqRun4
+ERS1216041	45_31 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2013-12-22	Stool stabilizer	SeqRun4
+ERS1216042	45_61 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-01-21	Stool stabilizer	SeqRun4
+ERS1216043	45_91 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-02-20	Stool stabilizer	SeqRun4
+ERS1216044	45_120 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-03-21	Dry stool	SeqRun4
+ERS1216045	45_120 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-03-21	Stool stabilizer	SeqRun4
+ERS1216046	45_154 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-04-24	Stool stabilizer	SeqRun4
+ERS1216047	45_213 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-06-22	Dry stool	SeqRun4
+ERS1216048	45_213 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-06-22	Stool stabilizer	SeqRun4
+ERS1216049	45_245 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-07-24	Dry stool	SeqRun4
+ERS1216050	45_245 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-07-24	Stool stabilizer	SeqRun4
+ERS1216051	45_276 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-08-24	Dry stool	SeqRun4
+ERS1216052	45_276 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-08-24	Stool stabilizer	SeqRun4
+ERS1216053	46_54 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2013-12-22	Stool stabilizer	SeqRun4
+ERS1216054	46_93 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-01-30	Stool stabilizer	SeqRun4
+ERS1216055	46_124 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-03-02	Stool stabilizer	SeqRun4
+ERS1216056	46_151 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-03-29	Dry stool	SeqRun4
+ERS1216057	46_151 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-03-29	Stool stabilizer	SeqRun4
+ERS1216058	46_184 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-05-01	Dry stool	SeqRun4
+ERS1216059	46_184 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-05-01	Stool stabilizer	SeqRun4
+ERS1216060	46_244 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-06-30	Dry stool	SeqRun4
+ERS1216061	46_244 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-06-30	Stool stabilizer	SeqRun4
+ERS1216062	46_274 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-07-30	Dry stool	SeqRun4
+ERS1216063	46_274 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-07-30	Stool stabilizer	SeqRun4
+ERS1216064	46_306 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-08-31	Dry stool	SeqRun4
+ERS1216065	46_306 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2014-08-31	Stool stabilizer	SeqRun4
+ERS1216066	47_32 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-04-03	Dry stool	SeqRun4
+ERS1216067	47_32 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-04-03	Stool stabilizer	SeqRun4
+ERS1216068	47_126 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-07-06	Dry stool	SeqRun4
+ERS1216069	47_126 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-07-06	Stool stabilizer	SeqRun4
+ERS1216070	47_156 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-08-05	Dry stool	SeqRun4
+ERS1216071	47_156 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-08-05	Stool stabilizer	SeqRun4
+ERS1216072	47_185 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-09-03	Dry stool	SeqRun4
+ERS1216073	47_185 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-09-03	Stool stabilizer	SeqRun4
+ERS1216074	49_4 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-03-06	Stool stabilizer	SeqRun4
+ERS1216075	49_5 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-03-07	Dry stool	SeqRun4
+ERS1216076	49_5 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-03-07	Stool stabilizer	SeqRun4
+ERS1216077	49_32 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-04-03	Dry stool	SeqRun4
+ERS1216078	49_32 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-04-03	Stool stabilizer	SeqRun4
+ERS1216079	49_124 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-07-04	Dry stool	SeqRun4
+ERS1216080	49_124 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-07-04	Stool stabilizer	SeqRun4
+ERS1216081	49_154 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-08-03	Dry stool	SeqRun4
+ERS1216082	49_154 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-08-03	Stool stabilizer	SeqRun4
+ERS1216083	49_181 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-08-30	Dry stool	SeqRun4
+ERS1216084	49_181 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-08-30	Stool stabilizer	SeqRun4
+ERS1216085	52_32 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-06-21	Dry stool	SeqRun4
+ERS1216086	52_32 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-06-21	Stool stabilizer	SeqRun4
+ERS1216087	52_62 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-07-21	Dry stool	SeqRun4
+ERS1216088	52_62 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-07-21	Stool stabilizer	SeqRun4
+ERS1216089	52_92 days (Source)	52 (Source)	Colon	Feces	Colon	V4	2014-08-20	Dry stool	SeqRun4
+ERS1216090	53_30 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-07-16	Dry stool	SeqRun4
+ERS1216091	53_30 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-07-16	Stool stabilizer	SeqRun4
+ERS1216092	53_45 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-07-31	Dry stool	SeqRun4
+ERS1216093	53_45 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-07-31	Stool stabilizer	SeqRun4
+ERS1216094	53_62 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-08-17	Dry stool	SeqRun4
+ERS1216095	53_62 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-08-17	Stool stabilizer	SeqRun4
+ERS1216096	53_95 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-09-19	Dry stool	SeqRun4
+ERS1216097	53_95 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-09-19	Stool stabilizer	SeqRun4
+ERS1216098	55_30 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-07-18	Dry stool	SeqRun4
+ERS1216099	55_30 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-07-18	Stool stabilizer	SeqRun4
+ERS1216100	55_41 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-07-29	Dry stool	SeqRun4
+ERS1216101	55_41 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-07-29	Stool stabilizer	SeqRun4
+ERS1216102	55_64 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-08-21	Dry stool	SeqRun4
+ERS1216103	55_64 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-08-21	Stool stabilizer	SeqRun4
+ERS1216104	55_91 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-09-17	Dry stool	SeqRun4
+ERS1216105	55_91 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-09-17	Stool stabilizer	SeqRun4
+ERS1216106	56_0 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-07-07	Stool stabilizer	SeqRun4
+ERS1216107	56_1 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-07-08	Stool stabilizer	SeqRun4
+ERS1216108	56_31 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-08-07	Dry stool	SeqRun4
+ERS1216109	56_31 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-08-07	Stool stabilizer	SeqRun4
+ERS1216110	56_31 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-08-07	Dry stool	SeqRun4
+ERS1216111	56_31 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-08-07	Stool stabilizer	SeqRun4
+ERS1216112	56_65 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-09-10	Dry stool	SeqRun4
+ERS1216113	56_65 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-09-10	Stool stabilizer	SeqRun4
+ERS1216114	57_62 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-06-24	Dry stool	SeqRun4
+ERS1216115	57_62 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-06-24	Stool stabilizer	SeqRun4
+ERS1216116	57_91 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-07-23	Dry stool	SeqRun4
+ERS1216117	57_91 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-07-23	Stool stabilizer	SeqRun4
+ERS1216118	57_125 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-08-26	Dry stool	SeqRun4
+ERS1216119	57_125 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-08-26	Stool stabilizer	SeqRun4
+ERS1216120	41_232 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-12-23	Stool stabilizer	SeqRun4
+ERS1216121	45_5 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2013-11-26	Stool stabilizer	SeqRun4
+ERS1216122	45_62 days (Source)	45 (Source)	Colon	Feces	Colon	V4	2014-01-22	Stool stabilizer	SeqRun4
+ERS1216123	45_62 days (Source)	45 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-01-22	Vaginal swab	SeqRun4
+ERS1216124	46_-16 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2013-10-13	Stool stabilizer	SeqRun4
+ERS1216125	46_53 days (Source)	46 (Source)	Colon	Feces	Colon	V4	2013-12-21	Stool stabilizer	SeqRun4
+ERS1216126	46_54 days (Source)	46 (Source)	Vagina	Mucus	Vaginal introitus	V4	2013-12-22	Vaginal swab	SeqRun4
+ERS1216127	47_32 days (Source)	47 (Source)	Colon	Feces	Colon	V4	2014-04-03	Dry stool	SeqRun4
+ERS1216128	47_-18 days (Source)	47 (Source)	Rectum	Feces	Rectum	V4	2014-02-12	Rectal swab	SeqRun4
+ERS1216129	47_-18 days (Source)	47 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-02-12	Vaginal swab	SeqRun4
+ERS1216130	47_51 days (Source)	47 (Source)	Rectum	Feces	Rectum	V4	2014-04-22	Rectal swab	SeqRun4
+ERS1216131	47_51 days (Source)	47 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-04-22	Vaginal swab	SeqRun4
+ERS1216132	49_1 days (Source)	49 (Source)	Colon	Feces	Colon	V4	2014-03-03	Stool stabilizer	SeqRun4
+ERS1216133	49_-39 days (Source)	49 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-01-22	Vaginal swab	SeqRun4
+ERS1216134	49_-17 days (Source)	49 (Source)	Rectum	Feces	Rectum	V4	2014-02-13	Rectal swab	SeqRun4
+ERS1216135	49_-17 days (Source)	49 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-02-13	Vaginal swab	SeqRun4
+ERS1216136	50_-94 days (Source)	50 (Source)	Rectum	Feces	Rectum	V4	2014-02-11	Rectal swab	SeqRun4
+ERS1216137	50_-94 days (Source)	50 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-02-11	Vaginal swab	SeqRun4
+ERS1216138	50_-32 days (Source)	50 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-04-14	Vaginal swab	SeqRun4
+ERS1216139	51_-97 days (Source)	51 (Source)	Rectum	Feces	Rectum	V4	2014-02-18	Rectal swab	SeqRun4
+ERS1216140	51_-97 days (Source)	51 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-02-18	Vaginal swab	SeqRun4
+ERS1216141	52_-90 days (Source)	52 (Source)	Rectum	Feces	Rectum	V4	2014-02-19	Rectal swab	SeqRun4
+ERS1216142	52_-90 days (Source)	52 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-02-19	Vaginal swab	SeqRun4
+ERS1216143	52_64 days (Source)	52 (Source)	Rectum	Feces	Rectum	V4	2014-07-23	Rectal swab	SeqRun4
+ERS1216144	52_64 days (Source)	52 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-07-23	Vaginal swab	SeqRun4
+ERS1216145	53_4 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-06-20	Dry stool	SeqRun4
+ERS1216146	53_4 days (Source)	53 (Source)	Colon	Feces	Colon	V4	2014-06-20	Stool stabilizer	SeqRun4
+ERS1216147	53_45 days (Source)	53 (Source)	Rectum	Feces	Rectum	V4	2014-07-31	Rectal swab	SeqRun4
+ERS1216148	53_45 days (Source)	53 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-07-31	Vaginal swab	SeqRun4
+ERS1216149	55_2 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-06-20	Dry stool	SeqRun4
+ERS1216150	55_2 days (Source)	55 (Source)	Colon	Feces	Colon	V4	2014-06-20	Stool stabilizer	SeqRun4
+ERS1216151	55_41 days (Source)	55 (Source)	Rectum	Feces	Rectum	V4	2014-07-29	Rectal swab	SeqRun4
+ERS1216152	55_41 days (Source)	55 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-07-29	Vaginal swab	SeqRun4
+ERS1216153	56_-103 days (Source)	56 (Source)	Rectum	Feces	Rectum	V4	2014-03-26	Rectal swab	SeqRun4
+ERS1216154	56_2 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-07-09	Dry stool	SeqRun4
+ERS1216155	56_2 days (Source)	56 (Source)	Colon	Feces	Colon	V4	2014-07-09	Stool stabilizer	SeqRun4
+ERS1216156	56_-103 days (Source)	56 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-03-26	Vaginal swab	SeqRun4
+ERS1216157	56_43 days (Source)	56 (Source)	Rectum	Feces	Rectum	V4	2014-08-19	Rectal swab	SeqRun4
+ERS1216158	56_43 days (Source)	56 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-08-19	Vaginal swab	SeqRun4
+ERS1216159	57_-20 days (Source)	57 (Source)	Rectum	Feces	Rectum	V4	2014-04-03	Rectal swab	SeqRun4
+ERS1216160	57_3 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-04-26	Dry stool	SeqRun4
+ERS1216161	57_3 days (Source)	57 (Source)	Colon	Feces	Colon	V4	2014-04-26	Stool stabilizer	SeqRun4
+ERS1216162	57_-20 days (Source)	57 (Source)	Vagina	Mucus	Vaginal introitus	V4	2014-04-03	Vaginal swab	SeqRun4
+ERS1216163	1_488 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-07-16	Stool stabilizer	SeqRun3
+ERS1216164	1_551 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-09-17	Stool stabilizer	SeqRun3
+ERS1216165	1_613 days (Source)	1 (Source)	Colon	Feces	Colon	V4	2013-11-18	Stool stabilizer	SeqRun3
+ERS1216166	2_460 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2013-06-28	Stool stabilizer	SeqRun3
+ERS1216167	2_488 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2013-07-26	Stool stabilizer	SeqRun3
+ERS1216168	2_555 days (Source)	2 (Source)	Colon	Feces	Colon	V4	2013-10-01	Stool stabilizer	SeqRun3
+ERS1216169	5_428 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2013-08-06	Stool stabilizer	SeqRun3
+ERS1216170	5_485 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2013-10-02	Stool stabilizer	SeqRun3
+ERS1216171	5_549 days (Source)	5 (Source)	Colon	Feces	Colon	V4	2013-12-05	Stool stabilizer	SeqRun3
+ERS1216172	7_364 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-07-02	Stool stabilizer	SeqRun3
+ERS1216173	7_427 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-09-03	Stool stabilizer	SeqRun3
+ERS1216174	7_490 days (Source)	7 (Source)	Colon	Feces	Colon	V4	2013-11-05	Stool stabilizer	SeqRun3
+ERS1216175	8_364 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-07-29	Stool stabilizer	SeqRun3
+ERS1216176	8_437 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-10-10	Stool stabilizer	SeqRun3
+ERS1216177	8_490 days (Source)	8 (Source)	Colon	Feces	Colon	V4	2013-12-02	Stool stabilizer	SeqRun3
+ERS1216178	9_429 days (Source)	9 (Source)	Colon	Feces	Colon	V4	2013-08-14	Stool stabilizer	SeqRun3
+ERS1216179	10_337 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-07-15	Stool stabilizer	SeqRun3
+ERS1216180	10_368 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-08-15	Stool stabilizer	SeqRun3
+ERS1216181	10_431 days (Source)	10 (Source)	Colon	Feces	Colon	V4	2013-10-17	Stool stabilizer	SeqRun3
+ERS1216182	11_338 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-07-11	Stool stabilizer	SeqRun3
+ERS1216183	11_373 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-08-15	Stool stabilizer	SeqRun3
+ERS1216184	11_486 days (Source)	11 (Source)	Colon	Feces	Colon	V4	2013-12-06	Stool stabilizer	SeqRun3
+ERS1216185	12_335 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-07-02	Stool stabilizer	SeqRun3
+ERS1216186	12_365 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-08-01	Stool stabilizer	SeqRun3
+ERS1216187	12_426 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-10-01	Stool stabilizer	SeqRun3
+ERS1216188	12_490 days (Source)	12 (Source)	Colon	Feces	Colon	V4	2013-12-04	Stool stabilizer	SeqRun3
+ERS1216189	14_333 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-07-26	Stool stabilizer	SeqRun3
+ERS1216190	14_368 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-08-30	Stool stabilizer	SeqRun3
+ERS1216191	14_426 days (Source)	14 (Source)	Colon	Feces	Colon	V4	2013-10-27	Stool stabilizer	SeqRun3
+ERS1216192	16_303 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-07-03	Stool stabilizer	SeqRun3
+ERS1216193	16_333 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-08-02	Stool stabilizer	SeqRun3
+ERS1216194	16_366 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-09-04	Stool stabilizer	SeqRun3
+ERS1216195	16_395 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-10-03	Stool stabilizer	SeqRun3
+ERS1216196	16_428 days (Source)	16 (Source)	Colon	Feces	Colon	V4	2013-11-05	Stool stabilizer	SeqRun3
+ERS1216197	18_282 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-07-15	Stool stabilizer	SeqRun3
+ERS1216198	18_312 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-08-14	Stool stabilizer	SeqRun3
+ERS1216199	18_336 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-09-07	Stool stabilizer	SeqRun3
+ERS1216200	18_373 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-10-14	Stool stabilizer	SeqRun3
+ERS1216201	18_425 days (Source)	18 (Source)	Colon	Feces	Colon	V4	2013-12-05	Stool stabilizer	SeqRun3
+ERS1216202	20_305 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-07-01	Stool stabilizer	SeqRun3
+ERS1216203	20_334 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-07-30	Stool stabilizer	SeqRun3
+ERS1216204	20_365 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-08-30	Stool stabilizer	SeqRun3
+ERS1216205	20_426 days (Source)	20 (Source)	Colon	Feces	Colon	V4	2013-10-30	Stool stabilizer	SeqRun3
+ERS1216206	21_306 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2013-07-22	Stool stabilizer	SeqRun3
+ERS1216207	21_347 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2013-09-01	Stool stabilizer	SeqRun3
+ERS1216208	21_351 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2013-09-05	Stool stabilizer	SeqRun3
+ERS1216209	21_383 days (Source)	21 (Source)	Colon	Feces	Colon	V4	2013-10-07	Stool stabilizer	SeqRun3
+ERS1216210	22_304 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-07-22	Stool stabilizer	SeqRun3
+ERS1216211	22_342 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-08-29	Stool stabilizer	SeqRun3
+ERS1216212	22_370 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-09-26	Stool stabilizer	SeqRun3
+ERS1216213	22_443 days (Source)	22 (Source)	Colon	Feces	Colon	V4	2013-12-08	Stool stabilizer	SeqRun3
+ERS1216214	24_272 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-07-26	Stool stabilizer	SeqRun3
+ERS1216215	24_310 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-09-02	Stool stabilizer	SeqRun3
+ERS1216216	24_337 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-09-29	Stool stabilizer	SeqRun3
+ERS1216217	24_373 days (Source)	24 (Source)	Colon	Feces	Colon	V4	2013-11-04	Stool stabilizer	SeqRun3
+ERS1216218	25_280 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-07-22	Stool stabilizer	SeqRun3
+ERS1216219	25_303 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-08-14	Stool stabilizer	SeqRun3
+ERS1216220	25_337 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-09-17	Stool stabilizer	SeqRun3
+ERS1216221	25_365 days (Source)	25 (Source)	Colon	Feces	Colon	V4	2013-10-15	Stool stabilizer	SeqRun3
+ERS1216222	27_243 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-07-15	Stool stabilizer	SeqRun3
+ERS1216223	27_275 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-08-16	Stool stabilizer	SeqRun3
+ERS1216224	27_289 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-08-30	Stool stabilizer	SeqRun3
+ERS1216225	27_306 days (Source)	27 (Source)	Colon	Feces	Colon	V4	2013-09-16	Stool stabilizer	SeqRun3
+ERS1216226	30_214 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-07-17	Stool stabilizer	SeqRun3
+ERS1216227	30_243 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-08-15	Stool stabilizer	SeqRun3
+ERS1216228	30_276 days (Source)	30 (Source)	Colon	Feces	Colon	V4	2013-09-17	Stool stabilizer	SeqRun3
+ERS1216229	31_243 days (Source)	31 (Source)	Colon	Feces	Colon	V4	2013-08-28	Stool stabilizer	SeqRun3
+ERS1216230	32_246 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-09-04	Stool stabilizer	SeqRun3
+ERS1216231	32_272 days (Source)	32 (Source)	Colon	Feces	Colon	V4	2013-09-30	Stool stabilizer	SeqRun3
+ERS1216232	33_211 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-08-09	Stool stabilizer	SeqRun3
+ERS1216233	33_230 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-08-28	Stool stabilizer	SeqRun3
+ERS1216234	33_236 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-09-03	Stool stabilizer	SeqRun3
+ERS1216235	33_240 days (Source)	33 (Source)	Colon	Feces	Colon	V4	2013-09-07	Stool stabilizer	SeqRun3
+ERS1216236	34_166 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-07-02	Stool stabilizer	SeqRun3
+ERS1216237	34_183 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-07-19	Stool stabilizer	SeqRun3
+ERS1216238	34_214 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-08-19	Stool stabilizer	SeqRun3
+ERS1216239	34_243 days (Source)	34 (Source)	Colon	Feces	Colon	V4	2013-09-17	Stool stabilizer	SeqRun3
+ERS1216240	35_91 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-07-19	Stool stabilizer	SeqRun3
+ERS1216241	35_153 days (Source)	35 (Source)	Colon	Feces	Colon	V4	2013-09-19	Stool stabilizer	SeqRun3
+ERS1216242	36_126 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2013-08-07	Stool stabilizer	SeqRun3
+ERS1216243	36_162 days (Source)	36 (Source)	Colon	Feces	Colon	V4	2013-09-12	Stool stabilizer	SeqRun3
+ERS1216244	37_92 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2013-07-06	Stool stabilizer	SeqRun3
+ERS1216245	37_156 days (Source)	37 (Source)	Colon	Feces	Colon	V4	2013-09-08	Stool stabilizer	SeqRun3
+ERS1216246	38_61 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-07-09	Stool stabilizer	SeqRun3
+ERS1216247	38_98 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-08-15	Stool stabilizer	SeqRun3
+ERS1216248	38_123 days (Source)	38 (Source)	Colon	Feces	Colon	V4	2013-09-09	Stool stabilizer	SeqRun3
+ERS1216249	41_64 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-07-08	Stool stabilizer	SeqRun3
+ERS1216250	41_126 days (Source)	41 (Source)	Colon	Feces	Colon	V4	2013-09-08	Stool stabilizer	SeqRun3
+ERS1216251	42_61 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-06-28	Stool stabilizer	SeqRun3
+ERS1216252	42_122 days (Source)	42 (Source)	Colon	Feces	Colon	V4	2013-08-28	Stool stabilizer	SeqRun3
+ERS1216253	43_35 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-07-10	Stool stabilizer	SeqRun3
+ERS1216254	43_96 days (Source)	43 (Source)	Colon	Feces	Colon	V4	2013-09-09	Stool stabilizer	SeqRun3
+ERS1216255	44_33 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2013-07-03	Stool stabilizer	SeqRun3
+ERS1216256	44_41 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2013-07-11	Stool stabilizer	SeqRun3
+ERS1216257	44_92 days (Source)	44 (Source)	Colon	Feces	Colon	V4	2013-08-31	Stool stabilizer	SeqRun3
