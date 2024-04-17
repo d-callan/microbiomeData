@@ -61,7 +61,7 @@
 <div class="section level1">
 <div class="page-header"><h1 id="microbiomedata">microbiomeData<a class="anchor" aria-label="anchor" href="#microbiomedata"></a>
 </h1></div>
-<p>An R package containing some (eventually all!) of the curated datasets from MicrobiomeDB.org and various helper functions for conveniently using that data in R.</p>
+<p>An R package containing all of the curated datasets from MicrobiomeDB.org and a helper function to list which datasets are available.</p>
 <div class="section level2">
 <h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
 </h2>
@@ -72,7 +72,7 @@
 <div class="section level2">
 <h2 id="usage">Usage<a class="anchor" aria-label="anchor" href="#usage"></a>
 </h2>
-<p>This package contains all of the curated datasets from MicrobiomeDB.org. It is an extension to the <a href="https://github.com/microbiomeDB/MicrobiomeDB" class="external-link">MicrobiomeDB R package</a> which can be used to analyze and visualize these data.</p>
+<p>This package contains all of the curated datasets from MicrobiomeDB.org. It is an extension to the <a href="https://github.com/microbiomeDB/MicrobiomeDB" class="external-link">MicrobiomeDB R package</a> which can be used to analyze and visualize these data. That package is installed and attached with this one.</p>
 <div class="section level3">
 <h3 id="direct-usage">Direct Usage<a class="anchor" aria-label="anchor" href="#direct-usage"></a>
 </h3>
@@ -83,7 +83,7 @@
 <p>Once you have your favorite dataset as <code>myData</code>, you can ask for specific collections from that dataset. A collection is any group of variables that represent a biologically coherent concept and are measured over a comparable range. Relative abundances at a specific taxonomic rank are an example. That might look something like:</p>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu">getCollectionNames</span><span class="op">(</span><span class="va">myData</span><span class="op">)</span> <span class="co"># will print the names of collections</span></span>
-<span><span class="va">myCollection</span> <span class="op">&lt;-</span> <span class="fu">getCollection</span><span class="op">(</span><span class="va">myData</span>, <span class="st">'16S Species'</span><span class="op">)</span></span></code></pre></div>
+<span><span class="va">myCollection</span> <span class="op">&lt;-</span> <span class="fu">getCollection</span><span class="op">(</span><span class="va">myData</span>, <span class="st">'16S (V4) Species'</span><span class="op">)</span></span></code></pre></div>
 </div>
 </div>
 <div class="section level2">
