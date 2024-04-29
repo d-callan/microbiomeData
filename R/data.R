@@ -30,17 +30,17 @@ getCuratedDatasetNames <- function() {
 #' "16S Class" \cr                                         
 #' "16S Phylum" \cr                                           
 #' "16S Kingdom" \cr                                          
-#' "WGS 4th level EC metagenome abundance data" \cr         
-#' "WGS Metagenome enzyme pathway abundance data" \cr          
-#' "WGS Metagenome enzyme pathway coverage data"  \cr        
-#' "WGS Genus" \cr        
-#' "WGS Species" \cr                                           
-#' "WGS Family" \cr                                         
-#' "WGS Order" \cr                                          
-#' "WGS Phylum" \cr                                           
-#' "WGS Class"  \cr                                          
-#' "WGS Kingdom"  \cr                                          
-#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "Shotgun metagenomics: 4th level EC metagenome abundance data" \cr         
+#' "Shotgun metagenomics: Metagenome enzyme pathway abundance data" \cr          
+#' "Shotgun metagenomics: Metagenome enzyme pathway coverage data"  \cr        
+#' "Shotgun metagenomics: Genus" \cr        
+#' "Shotgun metagenomics: Species" \cr                                           
+#' "Shotgun metagenomics: Family" \cr                                         
+#' "Shotgun metagenomics: Order" \cr                                          
+#' "Shotgun metagenomics: Phylum" \cr                                           
+#' "Shotgun metagenomics: Class"  \cr                                          
+#' "Shotgun metagenomics: Kingdom"  \cr                                          
+#' "Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_a2f8877e68/new/download>
 #' @name DiabImmune
 "DiabImmune"
@@ -57,17 +57,17 @@ getCuratedDatasetNames <- function() {
 #' A MbioDataset object with 17 metadata variables, 454 shotgun stool assays and 150 mass spec assays.
 #' It contains the following collections: \cr
 #' "Metabolomics Mass spectrometry assay"                    
-#' "WGS 4th level EC metagenome abundance data" \cr         
-#' "WGS Metagenome enzyme pathway abundance data" \cr          
-#' "WGS Metagenome enzyme pathway coverage data"  \cr        
-#' "WGS Genus" \cr        
-#' "WGS Species" \cr                                           
-#' "WGS Family" \cr                                         
-#' "WGS Order" \cr                                          
-#' "WGS Phylum" \cr                                           
-#' "WGS Class"  \cr                                          
-#' "WGS Kingdom"  \cr                                          
-#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "Shotgun metagenomics: 4th level EC metagenome abundance data" \cr         
+#' "Shotgun metagenomics: Metagenome enzyme pathway abundance data" \cr          
+#' "Shotgun metagenomics: Metagenome enzyme pathway coverage data"  \cr        
+#' "Shotgun metagenomics: Genus" \cr        
+#' "Shotgun metagenomics: Species" \cr                                           
+#' "Shotgun metagenomics: Family" \cr                                         
+#' "Shotgun metagenomics: Order" \cr                                          
+#' "Shotgun metagenomics: Phylum" \cr                                           
+#' "Shotgun metagenomics: Class"  \cr                                          
+#' "Shotgun metagenomics: Kingdom"  \cr                                          
+#' "Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_4dfda49064/new/download>
 #' @name FARMM
 "FARMM"
@@ -95,7 +95,7 @@ getCuratedDatasetNames <- function() {
 #' @name Bangladesh
 "Bangladesh"
 
-#' HMP Phase 1 WGS
+#' HMP Phase 1 Shotgun Metagenomics
 #'
 #' The Human Microbiome Project (HMP) profiled microbial communities across diverse habitats on the human body.
 #' 103 healthly adult volunteers sampled at up to 20 different body sites.
@@ -103,23 +103,23 @@ getCuratedDatasetNames <- function() {
 #' 
 #' Website Release 32. (2023 May 30)
 #'
-#' @format ## `HMP_WGS`
-#' A MbioDataset object with 14 metadata variables, 2145 WGS stool samples.
+#' @format ## `HMP_MGX`
+#' A MbioDataset object with 14 metadata variables, 2145 shotgun metagenomic stool samples.
 #' It contains the following collections: \cr
-#' "WGS 4th level EC metagenome abundance data" \cr         
-#' "WGS Metagenome enzyme pathway abundance data" \cr          
-#' "WGS Metagenome enzyme pathway coverage data"  \cr        
-#' "WGS Genus" \cr        
-#' "WGS Species" \cr                                           
-#' "WGS Family" \cr                                         
-#' "WGS Order" \cr                                          
-#' "WGS Phylum" \cr                                           
-#' "WGS Class"  \cr                                          
-#' "WGS Kingdom"  \cr                                          
-#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "Shotgun metagenomics: 4th level EC metagenome abundance data" \cr         
+#' "Shotgun metagenomics: Metagenome enzyme pathway abundance data" \cr          
+#' "Shotgun metagenomics: Metagenome enzyme pathway coverage data"  \cr        
+#' "Shotgun metagenomics: Genus" \cr        
+#' "Shotgun metagenomics: Species" \cr                                           
+#' "Shotgun metagenomics: Family" \cr                                         
+#' "Shotgun metagenomics: Order" \cr                                          
+#' "Shotgun metagenomics: Phylum" \cr                                           
+#' "Shotgun metagenomics: Class"  \cr                                          
+#' "Shotgun metagenomics: Kingdom"  \cr                                          
+#' "Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_898df5869d/new/download>
-#' @name HMP_WGS
-"HMP_WGS"
+#' @name HMP_MGX
+"HMP_MGX"
 
 #' BONUS-CF
 #'
@@ -131,19 +131,19 @@ getCuratedDatasetNames <- function() {
 #' Website Release 32. (2023 May 30)
 #'
 #' @format ## `BONUS`
-#' A MbioDataset object with 23 metadata variables, 1279 WGS stool samples.
+#' A MbioDataset object with 23 metadata variables, 1279 shotgun metagenomic stool samples.
 #' It contains the following collections: \cr
-#' "WGS 4th level EC metagenome abundance data" \cr         
-#' "WGS Metagenome enzyme pathway abundance data" \cr          
-#' "WGS Metagenome enzyme pathway coverage data"  \cr        
-#' "WGS Genus" \cr        
-#' "WGS Species" \cr                                           
-#' "WGS Family" \cr                                         
-#' "WGS Order" \cr                                          
-#' "WGS Phylum" \cr                                           
-#' "WGS Class"  \cr                                          
-#' "WGS Kingdom"  \cr                                          
-#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "Shotgun metagenomics: 4th level EC metagenome abundance data" \cr         
+#' "Shotgun metagenomics: Metagenome enzyme pathway abundance data" \cr          
+#' "Shotgun metagenomics: Metagenome enzyme pathway coverage data"  \cr        
+#' "Shotgun metagenomics: Genus" \cr        
+#' "Shotgun metagenomics: Species" \cr                                           
+#' "Shotgun metagenomics: Family" \cr                                         
+#' "Shotgun metagenomics: Order" \cr                                          
+#' "Shotgun metagenomics: Phylum" \cr                                           
+#' "Shotgun metagenomics: Class"  \cr                                          
+#' "Shotgun metagenomics: Kingdom"  \cr                                          
+#' "Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_b3b3ae9838/new/download>
 #' @name BONUS
 "BONUS"
@@ -158,19 +158,19 @@ getCuratedDatasetNames <- function() {
 #' Website Release 32. (2023 May 30)
 #'
 #' @format ## `NICU_NEC`
-#' A MbioDataset object with 46 metadata variables, 1118 WGS stool samples.
+#' A MbioDataset object with 46 metadata variables, 1118 shotgun metagenomic stool samples.
 #' It contains the following collections: \cr
-#' "WGS 4th level EC metagenome abundance data" \cr         
-#' "WGS Metagenome enzyme pathway abundance data" \cr          
-#' "WGS Metagenome enzyme pathway coverage data"  \cr        
-#' "WGS Genus" \cr        
-#' "WGS Species" \cr                                           
-#' "WGS Family" \cr                                         
-#' "WGS Order" \cr                                          
-#' "WGS Phylum" \cr                                           
-#' "WGS Class"  \cr                                          
-#' "WGS Kingdom"  \cr                                          
-#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "Shotgun metagenomics: 4th level EC metagenome abundance data" \cr         
+#' "Shotgun metagenomics: Metagenome enzyme pathway abundance data" \cr          
+#' "Shotgun metagenomics: Metagenome enzyme pathway coverage data"  \cr        
+#' "Shotgun metagenomics: Genus" \cr        
+#' "Shotgun metagenomics: Species" \cr                                           
+#' "Shotgun metagenomics: Family" \cr                                         
+#' "Shotgun metagenomics: Order" \cr                                          
+#' "Shotgun metagenomics: Phylum" \cr                                           
+#' "Shotgun metagenomics: Class"  \cr                                          
+#' "Shotgun metagenomics: Kingdom"  \cr                                          
+#' "Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_84fcb69f4e/new/download>
 #' @name NICU_NEC
 "NICU_NEC"
@@ -419,17 +419,17 @@ getCuratedDatasetNames <- function() {
 #' @format ## `Malaysia_helminth`
 #' A MbioDataset object with 28 metadata variables, 650 shotgun stool samples.
 #' It contains the following collections: \cr
-#' "WGS 4th level EC metagenome abundance data" \cr         
-#' "WGS Metagenome enzyme pathway abundance data" \cr          
-#' "WGS Metagenome enzyme pathway coverage data"  \cr        
-#' "WGS Genus" \cr        
-#' "WGS Species" \cr                                           
-#' "WGS Family" \cr                                         
-#' "WGS Order" \cr                                          
-#' "WGS Phylum" \cr                                           
-#' "WGS Class"  \cr                                          
-#' "WGS Kingdom"  \cr                                          
-#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "Shotgun metagenomics: 4th level EC metagenome abundance data" \cr         
+#' "Shotgun metagenomics: Metagenome enzyme pathway abundance data" \cr          
+#' "Shotgun metagenomics: Metagenome enzyme pathway coverage data"  \cr        
+#' "Shotgun metagenomics: Genus" \cr        
+#' "Shotgun metagenomics: Species" \cr                                           
+#' "Shotgun metagenomics: Family" \cr                                         
+#' "Shotgun metagenomics: Order" \cr                                          
+#' "Shotgun metagenomics: Phylum" \cr                                           
+#' "Shotgun metagenomics: Class"  \cr                                          
+#' "Shotgun metagenomics: Kingdom"  \cr                                          
+#' "Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_abcf1b1d90/new/download>
 #' @name Malaysia_helminth
 "Malaysia_helminth"
@@ -446,17 +446,17 @@ getCuratedDatasetNames <- function() {
 #' @format ## `MORDOR`
 #' A MbioDataset object with 10 metadata variables, 574 shotgun stool samples.
 #' It contains the following collections: \cr
-#' "WGS 4th level EC metagenome abundance data" \cr         
-#' "WGS Metagenome enzyme pathway abundance data" \cr          
-#' "WGS Metagenomeenzyme pathway coverage data"  \cr        
-#' "WGS Genus" \cr        
-#' "WGS Species" \cr                                           
-#' "WGS Family" \cr                                         
-#' "WGS Order" \cr                                          
-#' "WGS Phylum" \cr                                           
-#' "WGS Class"  \cr                                          
-#' "WGS Kingdom"  \cr                                          
-#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "Shotgun metagenomics: 4th level EC metagenome abundance data" \cr         
+#' "Shotgun metagenomics: Metagenome enzyme pathway abundance data" \cr          
+#' "Shotgun metagenomics: Metagenomeenzyme pathway coverage data"  \cr        
+#' "Shotgun metagenomics: Genus" \cr        
+#' "Shotgun metagenomics: Species" \cr                                           
+#' "Shotgun metagenomics: Family" \cr                                         
+#' "Shotgun metagenomics: Order" \cr                                          
+#' "Shotgun metagenomics: Phylum" \cr                                           
+#' "Shotgun metagenomics: Class"  \cr                                          
+#' "Shotgun metagenomics: Kingdom"  \cr                                          
+#' "Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_39d3629e79/new/download>
 #' @name MORDOR
 "MORDOR"
@@ -500,17 +500,17 @@ getCuratedDatasetNames <- function() {
 #' @format ## `PretermInfantResistome1`
 #' A MbioDataset object with 64 metadata variables, 399 shotgun stool samples, 103 16S stool samples.
 #' It contains the following collections: \cr
-#' "WGS 4th level EC metagenome abundance data" \cr         
-#' "WGS Metagenomeenzyme pathway abundance data" \cr          
-#' "WGS Metagenomeenzyme pathway coverage data"  \cr        
-#' "WGS Genus" \cr        
-#' "WGS Species" \cr                                           
-#' "WGS Family" \cr                                         
-#' "WGS Order" \cr                                          
-#' "WGS Phylum" \cr                                           
-#' "WGS Class"  \cr                                          
-#' "WGS Kingdom"  \cr                                          
-#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "Shotgun metagenomics: 4th level EC metagenome abundance data" \cr         
+#' "Shotgun metagenomics: Metagenomeenzyme pathway abundance data" \cr          
+#' "Shotgun metagenomics: Metagenomeenzyme pathway coverage data"  \cr        
+#' "Shotgun metagenomics: Genus" \cr        
+#' "Shotgun metagenomics: Species" \cr                                           
+#' "Shotgun metagenomics: Family" \cr                                         
+#' "Shotgun metagenomics: Order" \cr                                          
+#' "Shotgun metagenomics: Phylum" \cr                                           
+#' "Shotgun metagenomics: Class"  \cr                                          
+#' "Shotgun metagenomics: Kingdom"  \cr                                          
+#' "Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 #' "16S Order" \cr                
 #' "16S Genus" \cr                                           
 #' "16S Family" \cr                                        
@@ -524,7 +524,7 @@ getCuratedDatasetNames <- function() {
 
 #' Preterm Infant Resistome 1
 #' 
-#' The Preterm Infant Resistome II (WGS) study profiled the stool metagenome in preterm infants 
+#' The Preterm Infant Resistome II study profiled the stool metagenome in preterm infants 
 #' (born < 33 weeks gestational age) throughout the first 21 months of life.
 #'  Patients were stratified by antibiotic use during their hospitalization
 #' 41 preterm infants and 17 antibiotic-naive, healthy early term or late-preterm infants 
@@ -537,17 +537,17 @@ getCuratedDatasetNames <- function() {
 #' @format ## `PretermInfantResistome2`
 #' A MbioDataset object with 24 metadata variables, 427 shotgun stool samples.
 #' It contains the following collections: \cr
-#' "WGS 4th level EC metagenome abundance data" \cr         
-#' "WGS Metagenomeenzyme pathway abundance data" \cr          
-#' "WGS Metagenomeenzyme pathway coverage data"  \cr        
-#' "WGS Genus" \cr        
-#' "WGS Species" \cr                                           
-#' "WGS Family" \cr                                         
-#' "WGS Order" \cr                                          
-#' "WGS Phylum" \cr                                           
-#' "WGS Class"  \cr                                          
-#' "WGS Kingdom"  \cr                                          
-#' "WGS Normalized number of taxon-specific sequence matches" \cr
+#' "Shotgun metagenomics: 4th level EC metagenome abundance data" \cr         
+#' "Shotgun metagenomics: Metagenomeenzyme pathway abundance data" \cr          
+#' "Shotgun metagenomics: Metagenomeenzyme pathway coverage data"  \cr        
+#' "Shotgun metagenomics: Genus" \cr        
+#' "Shotgun metagenomics: Species" \cr                                           
+#' "Shotgun metagenomics: Family" \cr                                         
+#' "Shotgun metagenomics: Order" \cr                                          
+#' "Shotgun metagenomics: Phylum" \cr                                           
+#' "Shotgun metagenomics: Class"  \cr                                          
+#' "Shotgun metagenomics: Kingdom"  \cr                                          
+#' "Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 #' @source <https://microbiomedb.org/mbio/app/workspace/analyses/DS_b9dc726b20/new/download>
 #' @name PretermInfantResistome2
 "PretermInfantResistome2"
