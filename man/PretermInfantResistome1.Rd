@@ -9,17 +9,17 @@
 
 A MbioDataset object with 64 metadata variables, 399 shotgun stool samples, 103 16S stool samples.
 It contains the following collections: \cr
-"WGS 4th level EC metagenome abundance data" \cr
-"WGS Metagenomeenzyme pathway abundance data" \cr
-"WGS Metagenomeenzyme pathway coverage data"  \cr
-"WGS Genus" \cr
-"WGS Species" \cr
-"WGS Family" \cr
-"WGS Order" \cr
-"WGS Phylum" \cr
-"WGS Class"  \cr
-"WGS Kingdom"  \cr
-"WGS Normalized number of taxon-specific sequence matches" \cr
+"Shotgun metagenomics: 4th level EC metagenome abundance data" \cr
+"Shotgun metagenomics: Metagenomeenzyme pathway abundance data" \cr
+"Shotgun metagenomics: Metagenomeenzyme pathway coverage data"  \cr
+"Shotgun metagenomics: Genus" \cr
+"Shotgun metagenomics: Species" \cr
+"Shotgun metagenomics: Family" \cr
+"Shotgun metagenomics: Order" \cr
+"Shotgun metagenomics: Phylum" \cr
+"Shotgun metagenomics: Class"  \cr
+"Shotgun metagenomics: Kingdom"  \cr
+"Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 "16S Order" \cr
 "16S Genus" \cr
 "16S Family" \cr

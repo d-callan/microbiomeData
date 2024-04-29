@@ -9,17 +9,17 @@
 
 A MbioDataset object with 24 metadata variables, 427 shotgun stool samples.
 It contains the following collections: \cr
-"WGS 4th level EC metagenome abundance data" \cr
-"WGS Metagenomeenzyme pathway abundance data" \cr
-"WGS Metagenomeenzyme pathway coverage data"  \cr
-"WGS Genus" \cr
-"WGS Species" \cr
-"WGS Family" \cr
-"WGS Order" \cr
-"WGS Phylum" \cr
-"WGS Class"  \cr
-"WGS Kingdom"  \cr
-"WGS Normalized number of taxon-specific sequence matches" \cr
+"Shotgun metagenomics: 4th level EC metagenome abundance data" \cr
+"Shotgun metagenomics: Metagenomeenzyme pathway abundance data" \cr
+"Shotgun metagenomics: Metagenomeenzyme pathway coverage data"  \cr
+"Shotgun metagenomics: Genus" \cr
+"Shotgun metagenomics: Species" \cr
+"Shotgun metagenomics: Family" \cr
+"Shotgun metagenomics: Order" \cr
+"Shotgun metagenomics: Phylum" \cr
+"Shotgun metagenomics: Class"  \cr
+"Shotgun metagenomics: Kingdom"  \cr
+"Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 }
 }
 \source{
@@ -29,7 +29,7 @@ It contains the following collections: \cr
 PretermInfantResistome2
 }
 \description{
-The Preterm Infant Resistome II (WGS) study profiled the stool metagenome in preterm infants
+The Preterm Infant Resistome II study profiled the stool metagenome in preterm infants
 (born < 33 weeks gestational age) throughout the first 21 months of life.
 Patients were stratified by antibiotic use during their hospitalization
 41 preterm infants and 17 antibiotic-naive, healthy early term or late-preterm infants

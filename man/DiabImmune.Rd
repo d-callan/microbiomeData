@@ -16,17 +16,17 @@ It contains the following collections: \cr
 "16S Class" \cr
 "16S Phylum" \cr
 "16S Kingdom" \cr
-"WGS 4th level EC metagenome abundance data" \cr
-"WGS Metagenome enzyme pathway abundance data" \cr
-"WGS Metagenome enzyme pathway coverage data"  \cr
-"WGS Genus" \cr
-"WGS Species" \cr
-"WGS Family" \cr
-"WGS Order" \cr
-"WGS Phylum" \cr
-"WGS Class"  \cr
-"WGS Kingdom"  \cr
-"WGS Normalized number of taxon-specific sequence matches" \cr
+"Shotgun metagenomics: 4th level EC metagenome abundance data" \cr
+"Shotgun metagenomics: Metagenome enzyme pathway abundance data" \cr
+"Shotgun metagenomics: Metagenome enzyme pathway coverage data"  \cr
+"Shotgun metagenomics: Genus" \cr
+"Shotgun metagenomics: Species" \cr
+"Shotgun metagenomics: Family" \cr
+"Shotgun metagenomics: Order" \cr
+"Shotgun metagenomics: Phylum" \cr
+"Shotgun metagenomics: Class"  \cr
+"Shotgun metagenomics: Kingdom"  \cr
+"Shotgun metagenomics: Normalized number of taxon-specific sequence matches" \cr
 }
 }
 \source{
