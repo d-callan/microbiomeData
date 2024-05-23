@@ -16,7 +16,7 @@ Extends:
 Remotes:
     microbiomeDB/microbiomeComputations,
     microbiomeDB/MicrobiomeDB,
-    VEuPathDB/veupathUtils
+    microbiomeDB/veupathUtils
 URL: https://github.com/microbiomeDB/microbiomeData, https://microbiomedb.github.io/microbiomeData/
 BugReports: https://github.com/microbiomeDB/microbiomeData/issues
 Description: An R package containing all of the curated datasets from MicrobiomeDB.org.
