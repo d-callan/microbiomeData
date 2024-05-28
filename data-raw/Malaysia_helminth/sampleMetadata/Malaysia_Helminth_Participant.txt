@@ -1,408 +1,408 @@
-Participant_Id	Age (years) [OBI_0001169]	Boiled water [EUPATH_0009342]	City, village, or region [ENVO_00000856]	Country [ENVO_00000009]	Diarrhea in past 3 months [EUPATH_0009345]	Education level [OMRSE_00002045]	Ethnicity [OMRSE_00000205]	Response to anthelminthic treatment [EUPATH_0009349]	Sex [PATO_0000047]	Taken antibiotics in past 3 months [EUPATH_0009343]	Taken probiotic food in past 3 months [EUPATH_0009344]	Undercooked meat [EUPATH_0009341]
-BK051A (Source)	50	NA	Bangkong, Selangor	Malaysia			Indigenous	Uninfected	Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Male			
-BK059A (Source)	50	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-BK059C (Source)	8	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-BK102A (Source)	35	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Male			
-									Female			
-									Female			
-BK11B (Source)	28	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Male			
-									Female			
-BK16A (Source)	34	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-BK16B (Source)	7	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-BK16C (Source)	12	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-BK16D (Source)	8	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-BK16E (Source)	37	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-BK18B (Source)	5	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-BK1A (Source)	7	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-BK1B (Source)	9	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Male			
-BK22A (Source)	37	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-BK29A (Source)	29	NA	Bangkong, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-BK29B (Source)	10	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-BK29C (Source)		NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-BK29E (Source)		NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-BK58A (Source)	64	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-BK62C (Source)	24	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Male			
-									Male			
-									Male			
-									Female			
-									Male			
-									Female			
-BK8C (Source)	9	NA	Bangkong, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-									Female			
-									Female			
-									Female			
-JH2A (Source)	28	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-JH2B (Source)	24	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-JK14A (Source)	34	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-JK1A (Source)	39	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-JK35B (Source)	53	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Male			
-									Male			
-									Female			
-									Female			
-									Female			
-									Female			
-									Male			
-JL6C (Source)	18	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-JQ12A (Source)	47	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-JQ12B (Source)	33	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous	Responder	Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-JQ4D (Source)	22	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-JQ4E (Source)	19	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-JQ9A (Source)	41	NA	Tanjung_Sepat, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Female			
-KR004E (Source)	8	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
-KR004F (Source)	4	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
-									Male			
-									Male			
-									Female			
-									Male			
-									Female			
-									Female			
-									Male			
-									Male			
-									Female			
-									Male			
-									Male			
-									Female			
-KR042C (Source)	33	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
-									Male			
-KR047A (Source)	48	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
-									Male			
-									Male			
-									Male			
-KR056A (Source)	48	NA	Rasau, Perak	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Female			
-									Male			
-									Male			
-									Female			
-									Male			
-									Female			
-									Male			
-									Male			
-									Male			
-									Female			
-									Male			
-									Female			
-KR069D (Source)	25	NA	Rasau, Perak	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Male			
-									Male			
-KR095A (Source)	37	Yes	Rasau, Perak	Malaysia	No		Indigenous		Male	:::UNDEFF:::	No	No
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Female			
-									Male			
-									Female			
-									Female			
-LL15A (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-LL16A (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-LL1A (Source)	36	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-LL1C (Source)	6	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Male			
-									Female			
-LL22B (Source)	19	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Male			
-LL25D (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Female			
-									Female			
-LL32D (Source)		Yes	Legong, Kedah	Malaysia	No		Indigenous		Male	:::UNDEFF:::	Yes	No
-LL33A (Source)	61	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-LL33B (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Male			
-									Male			
-									Male			
-LL47A (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Male			
-									Female			
-									Male			
-									Female			
-									Male			
-									Male			
-									Female			
-									Male			
-LL53C (Source)	9	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-LL55C (Source)	9	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Male			
-									Female			
-									Male			
-									Male			
-									Male			
-LL57B (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Male			
-									Female			
-									Male			
-									Female			
-									Female			
-									Female			
-									Female			
-									Male			
-									Male			
-									Female			
-									Male			
-									Male			
-									Female			
-									Female			
-									Male			
-									Female			
-									Female			
-LL65C (Source)	24	NA	Legong, Kedah	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-LL65D (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-LL66A (Source)	45	Yes	Legong, Kedah	Malaysia		No formal education	Indigenous		Female	:::UNDEFF:::	No	Yes
-									Female			
-									Female			
-LL6A (Source)	25	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Male			
-									Male			
-LL71C (Source)	18	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Male			
-									Male			
-									Female			
-									Female			
-									Female			
-									Female			
-LL8C (Source)	36	NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Male			
-									Female			
-LL9A (Source)		NA	Legong, Kedah	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Male			
-LL9D (Source)	6	Yes	Legong, Kedah	Malaysia	No		Indigenous		Male	No	No	No
-LL9E (Source)	6	Yes	Legong, Kedah	Malaysia	No		Indigenous		Male	No	No	No
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-									Female			
-SJ004C (Source)	9	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-SJ004D (Source)	6	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Male			
-									Female			
-									Male			
-									Male			
-SJ012A (Source)	21	NA	Judah, Selangor	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Female			
-									Male			
-									Female			
-SJ017B (Source)		Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous		Male	No	Yes	No
-									Female			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-SJ023A (Source)	36	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Male			
-									Female			
-									Female			
-									Male			
-									Male			
-									Female			
-									Male			
-									Male			
-									Female			
-									Female			
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Male			
-									Male			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Female			
-									Female			
-									Female			
-SJ053A (Source)	20	NA	Judah, Selangor	Malaysia			Indigenous	Responder	Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Male			
-SJ058B (Source)	12	NA	Judah, Selangor	Malaysia			Indigenous	Responder	Female	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Male			
-SJ062A (Source)	34	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Male			
-									Female			
-SJ067C (Source)	20	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-SJ067D (Source)	19	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Male			
-									Male			
-									Female			
-									Female			
-									Female			
-									Female			
-									Male			
-SJ072B (Source)	12	NA	Judah, Selangor	Malaysia			Indigenous	Responder	Male	:::UNDEFF:::		NA
-									Male			
-									Female			
-									Female			
-SJ076A (Source)	44	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-SJ076B (Source)	39	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-SJ076C (Source)	10	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-									Male			
-SJ087A (Source)		Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous		Male	No	No	Yes
-									Female			
-									Female			
-									Female			
-									Female			
-									Female			
-									Female			
-									Female			
-									Female			
-									Male			
-									Male			
-SJ092A (Source)	41	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Female			
-									Female			
-SJ095A (Source)	27	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-									Male			
-SJ095C (Source)	55	NA	Judah, Selangor	Malaysia			Indigenous		Female	:::UNDEFF:::		NA
-SJ095D (Source)	30	NA	Judah, Selangor	Malaysia			Indigenous		Male	:::UNDEFF:::		NA
-									Male			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Female			
-									Male			
-									Female			
-									Female			
-									Male			
-									Male			
-									Female			
-									Male			
-									Male			
-									Female			
-									Female			
-									Male			
-									Female			
-									Female			
-									Female			
-									Female			
-UC30 (Source)	40	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous		Male	:::UNDEFF:::		No
-									Female			
-									Female			
-									Male			
-									Male			
-									Female			
-									Female			
-									Female			
-									Female			
-UC44 (Source)	29	NA	Kuala Lumpur, Selangor	Malaysia			Non-indigenous		Female	:::UNDEFF:::		NA
-									Male			
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Female			
-									Female			
-									Male			
-									Female			
-									Male			
-									Female			
-									Male			
-									Male			
-									Female			
-									Male			
-									Male			
-									Male			
-									Female			
+Participant_Id	Age (year) [OBI_0001169]	Boiled water [EUPATH_0009342]	City, village, or region [ENVO_00000856]	Country [ENVO_00000009]	Diarrhea in past 3 months [EUPATH_0009345]	Education level [OMRSE_00002045]	Ethnicity [OMRSE_00000205]	Response to anthelminthic treatment [EUPATH_0009349]	Sex [PATO_0000047]	Taken antibiotics in past 3 months [EUPATH_0009343]	Taken probiotic food in past 3 months [EUPATH_0009344]	Undercooked meat [EUPATH_0009341]
+BK051A (Source)	50 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	Uninfected	Female	NA	NA	NA
+BK052A (Source)	67 years	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	No	Yes	No
+BK054A (Source)	37 years	Yes	Bangkong, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Female	No	Yes	Yes
+BK054C (Source)	33 years	No	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	NA	No	No
+BK057A (Source)	52 years	Yes	Bangkong, Selangor	Malaysia	Yes	Primary school	Indigenous	Uninfected	Male	No	No	No
+BK059A (Source)	50	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK059C (Source)	8 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK102A (Source)	35 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK105A (Source)	73	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Male	Yes	Yes	No
+BK10A (Source)	32 years	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	No	No	No
+BK11A (Source)	65	No	Bangkong, Selangor	Malaysia	Yes	Secondary school	Indigenous	Uninfected	Female	Yes	Yes	No
+BK11B (Source)	28 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK13A (Source)	60 years	Yes	Bangkong, Selangor	Malaysia	Yes	Primary school	Indigenous	Uninfected	Male	Yes	No	No
+BK14A (Source)	58 years	Yes	Bangkong, Selangor	Malaysia	Yes	Primary School	Indigenous	NA	Female	No	No	No
+BK16A (Source)	34 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK16B (Source)	7 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+BK16C (Source)	12 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+BK16D (Source)	8 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+BK16E (Source)	37 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+BK18A (Source)	29 years	Yes	Bangkong, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	No	No
+BK18B (Source)	5 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+BK1A (Source)	7 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+BK1B (Source)	9 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+BK1C (Source)	47 years	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	No	No	No
+BK21A (Source)	30 years	Yes	Bangkong, Selangor	Malaysia	Yes	Primary school	Indigenous	Uninfected	Male	NA	Yes	No
+BK22A (Source)	37 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK29A (Source)	29 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+BK29B (Source)	10 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK29C (Source)	NA years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK29E (Source)	NA years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK54B (Source)	60 years	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	No	No	No
+BK56A (Source)	55 years	Yes	Bangkong, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Female	No	Yes	No
+BK58A (Source)	64 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK5A (Source)	47 years	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	No	No	No
+BK5B (Source)	15 years	Yes	Bangkong, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Female	Yes	No	No
+BK60A (Source)	40 years	Yes	Bangkong, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	No	Yes	Yes
+BK61A (Source)	66 years	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	No	No	No
+BK62A (Source)	47	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Male	NA	No	No
+BK62B (Source)	44	No	Bangkong, Selangor	Malaysia	Yes	Primary school	Indigenous	Uninfected	Female	No	No	No
+BK62C (Source)	24	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+BK62D (Source)	12 years	No	Bangkong, Selangor	Malaysia	Yes	Primary school	Indigenous	Responder	Male	Yes	No	No
+BK63A (Source)	52	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Male	NA	No	No
+BK6A (Source)	62 years	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	No
+BK7A (Source)	63 years	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+BK8A (Source)	42 years	Yes	Bangkong, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Male	NA	Yes	No
+BK8B (Source)	39 years	Yes	Bangkong, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+BK8C (Source)	9 years	NA	Bangkong, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+JC23C (Source)	9	No	Tanjung_Sepat, Selangor	Malaysia	Yes	Primary school	Indigenous	Responder	Female	NA	No	No
+JC23E (Source)	5 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	No formal education	Indigenous	Non-responder	Female	NA	No	No
+JC3B (Source)	44 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	NA	Yes	No
+JC5A (Source)	40 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	Yes
+JC5B (Source)	41	Yes	Tanjung_Sepat, Selangor	Malaysia	Yes	Primary school	Indigenous	NA	Female	Yes	No	Yes
+JC6B (Source)	57	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Secondary school	Indigenous	Responder	Female	NA	Yes	No
+JH12B (Source)	51 years	No	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	No	Yes	No
+JH18B (Source)	24 years	Yes	Tanjung_Sepat, Selangor	Malaysia	Yes	Secondary school	Indigenous	NA	Female	Yes	Yes	No
+JH2A (Source)	28 years	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+JH2B (Source)	24 years	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+JH9B (Source)	53 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	No	Yes	No
+JJ3E (Source)	9 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	No formal education	Indigenous	NA	Female	NA	Yes	No
+JJ5A (Source)	60 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	NA	Male	No	Yes	No
+JJ5B (Source)	67 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	Yes	No	No
+JJ7A (Source)	53 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Male	No	No	Yes
+JK11D (Source)	9 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	NA	Yes	Yes
+JK14A (Source)	34	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+JK14C (Source)	6 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	No formal education	Indigenous	NA	Female	NA	Yes	No
+JK1A (Source)	39	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+JK35B (Source)	53	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+JK35C (Source)	35 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	NA	Male	Yes	Yes	Yes
+JL19A (Source)	57 years	Yes	Tanjung_Sepat, Selangor	Malaysia	Yes	Primary school	Indigenous	Uninfected	Male	No	No	No
+JL19B (Source)	56	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	No	No	No
+JL23A (Source)	71	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Secondary school	Indigenous	Responder	Female	No	No	No
+JL25B (Source)	51	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	No	Yes	Yes
+JL3B (Source)	40	No	Tanjung_Sepat, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Female	Yes	Yes	No
+JL3D (Source)	8	No	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	NA	Male	NA	Yes	No
+JL6C (Source)	18	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+JQ12A (Source)	47 years	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+JQ12B (Source)	33 years	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	Responder	Female	NA	NA	NA
+JQ19B (Source)	31	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	No	Yes	Yes
+JQ19C (Source)	10 years	No	Tanjung_Sepat, Selangor	Malaysia	Yes	Primary school	Indigenous	Uninfected	Female	Yes	Yes	No
+JQ2A (Source)	53 years	Yes	Tanjung_Sepat, Selangor	Malaysia	Yes	Tertiary education	Indigenous	Uninfected	Female	No	No	No
+JQ3B (Source)	56 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary School	Indigenous	Uninfected	Female	No	No	Yes
+JQ4A (Source)	53 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary School	Indigenous	Responder	Male	NA	No	No
+JQ4B (Source)	53 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	No	No	No
+JQ4D (Source)	22	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+JQ4E (Source)	19 years	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+JQ9A (Source)	41 years	NA	Tanjung_Sepat, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+JT4B (Source)	65 years	Yes	Tanjung_Sepat, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	Yes	No	No
+KR004B (Source)	43	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	Responder	Female		No	No
+KR004E (Source)	8 years	NA	Rasau, Perak	Malaysia	NA	NA	Indigenous	Responder	Male	NA	NA	NA
+KR004F (Source)	4	NA	Rasau, Perak	Malaysia	NA	NA	Indigenous	Responder	Male	NA	NA	NA
+KR005C (Source)	7 years	Yes	Rasau, Perak	Malaysia	No	Primary school	Indigenous	NA	Male	Yes	No	No
+KR026A (Source)	58	Yes	Rasau, Perak	Malaysia	Yes	Primary school	Indigenous		Male	Yes	No	No
+KR026D (Source)	36	Yes	Rasau, Perak	Malaysia	Yes	Secondary school	Indigenous	NA	Female	No	No	No
+KR026E (Source)	19	Yes	Rasau, Perak	Malaysia	Yes	Secondary school	Indigenous	NA	Male	No	No	No
+KR026F (Source)	28	Yes	Rasau, Perak	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	No	Yes
+KR030D (Source)	38 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Female	Yes	No	Yes
+KR032A (Source)	55	NA	Rasau, Perak	Malaysia	No	No formal education	Indigenous	Responder	Male	No	No	NA
+KR032C (Source)	27 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Male	Not sure	No	Yes
+KR033B (Source)	31 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Female	Yes	No	No
+KR033C (Source)	10 years	No	Rasau, Perak	Malaysia	Yes	Primary school	Indigenous	NA	Male	Not sure	No	No
+KR042A (Source)	56 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Male	Not sure	No	Yes
+KR042B (Source)	54 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Female	NA	No	Yes
+KR042C (Source)	33 years	NA	Rasau, Perak	Malaysia	NA	NA	Indigenous	Responder	Male	NA	NA	NA
+KR042E (Source)	12 years	Yes	Rasau, Perak	Malaysia	Yes	No formal education	Indigenous	NA	Male	No	No	Yes
+KR047A (Source)	48 years	NA	Rasau, Perak	Malaysia	NA	NA	Indigenous	Responder	Male	NA	NA	NA
+KR048B (Source)	24 years	Yes	Rasau, Perak	Malaysia	No	Primary school	Indigenous	Responder	Male	No	No	No
+KR048C (Source)	9 years	No	Rasau, Perak	Malaysia	Yes	NA	Indigenous	Responder	Male	Yes	No	No
+KR050D (Source)	10 years	Yes	Rasau, Perak	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	No
+KR056A (Source)	48	NA	Rasau, Perak	Malaysia	NA	NA	Indigenous	Responder	Male	NA	NA	NA
+KR057B (Source)	38 years	No	Rasau, Perak	Malaysia	Yes	No formal education	Indigenous	Uninfected	Female	NA	No	No
+KR059B (Source)	27 years	NA	Rasau, Perak	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	No	NA
+KR059C (Source)	4 years	Yes	Rasau, Perak	Malaysia	Yes	No formal education	Indigenous	NA	Female	Yes	No	Yes
+KR060B (Source)	25	NA	Rasau, Perak	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	NA
+KR060C (Source)	10 years	No	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Male	NA	No	No
+KR063A (Source)	48 years	No	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Male	No	No	No
+KR063C (Source)	9 years	No	Rasau, Perak	Malaysia	Yes	Primary school	Indigenous	NA	Female	NA	Yes	No
+KR067A (Source)	56 years	No	Rasau, Perak	Malaysia	No	No formal education	Indigenous	Responder	Male	No	No	No
+KR067B (Source)	50 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Female	NA	No	No
+KR067E (Source)	21 years	No	Rasau, Perak	Malaysia	Yes	No formal education	Indigenous	Non-responder	Male	NA	No	No
+KR067F (Source)	18 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	Responder	Male	NA	Yes	No
+KR067G (Source)	12 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	Responder	Male	NA	No	No
+KR067H (Source)	17 years	Yes	Rasau, Perak	Malaysia	No	Secondary school	Indigenous	Responder	Female	NA	No	No
+KR069A (Source)	52 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Male	No	No	No
+KR069B (Source)	47 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Female	Not sure	Not sure	No
+KR069D (Source)	25 years	NA	Rasau, Perak	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+KR069H (Source)	10 years	No	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Female	NA	No	NA
+KR070B (Source)	58 years	Yes	Rasau, Perak	Malaysia	Yes	No formal education	Indigenous	NA	Female	NA	No	No
+KR082B (Source)	27 years	Yes	Rasau, Perak	Malaysia	Yes	Secondary school	Indigenous	NA	Female	Yes	No	No
+KR091A (Source)	55 years	Yes	Rasau, Perak	Malaysia	Yes	No formal education	Indigenous	NA	Male	No	No	No
+KR091C (Source)	13	Yes	Rasau, Perak	Malaysia	No	Secondary school	Indigenous	NA	Male	NA	No	No
+KR095A (Source)	37 years	Yes	Rasau, Perak	Malaysia	No	NA	Indigenous	NA	Male	NA	No	No
+KR095B (Source)	35 years	Yes	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Female	NA	No	No
+KR099A (Source)	55 years	No	Rasau, Perak	Malaysia	No	No formal education	Indigenous	NA	Male	Not sure	No	No
+KR107C (Source)	9 years	Yes	Rasau, Perak	Malaysia	No	Primary school	Indigenous	NA	Female	NA	Yes	No
+KR107D (Source)	7 years	Yes	Rasau, Perak	Malaysia	No	Primary school	Indigenous	NA	Male	NA	Yes	No
+LL11A (Source)	55 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL11B (Source)	52 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	Yes	Yes	No
+LL12A (Source)	54	Yes	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Female	No	No	No
+LL12C (Source)	23 years	No	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	No	No
+LL13A (Source)	42 years	No	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	No	No	No
+LL13C (Source)	8 years	No	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	Yes	Yes	No
+LL14A (Source)	18 years	Yes	Legong, Kedah	Malaysia	Yes	No formal education	Indigenous	NA	Female	NA	No	No
+LL15A (Source)	NA years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL16A (Source)	NA years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL1A (Source)	36 years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL1B (Source)	9 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL1C (Source)	6 years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL21A (Source)	44 years	Yes	Legong, Kedah	Malaysia	Yes	No formal education	Indigenous	NA	Male	NA	No	No
+LL22A (Source)	24 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	No	No	No
+LL22B (Source)	19 years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+LL24A (Source)	8 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL24B (Source)	10 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL25A (Source)	31 years	No	Legong, Kedah	Malaysia	No	No formal education	Indigenous	NA	Female	NA	No	Yes
+LL25C (Source)	11 years	No	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	No
+LL25D (Source)	NA years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL26A (Source)	40 years	Yes	Legong, Kedah	Malaysia	No	Primary School	Indigenous	NA	Female	NA	No	Yes
+LL2B (Source)	12 years	No	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Female	No	No	No
+LL2C (Source)	8 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	Yes	No	No
+LL31A (Source)	40 years	Yes	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Male	Yes	No	Yes
+LL31B (Source)	39 years	Yes	Legong, Kedah	Malaysia	Yes	Primary School	Indigenous	NA	Female	No	Yes	No
+LL31D (Source)	14	No	Legong, Kedah	Malaysia	Yes	Secondary school	Indigenous	NA	Male	Not sure	Yes	No
+LL31E (Source)	12 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	Yes	Yes	No
+LL31F (Source)	9 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	No	Yes	No
+LL31G (Source)	5 years	Yes	Legong, Kedah	Malaysia	Yes	No formal education	Indigenous	NA	Female	NA	Yes	No
+LL32A (Source)	28 years	Yes	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	No	No
+LL32C (Source)	9 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	Yes	No
+LL32D (Source)	NA years	Yes	Legong, Kedah	Malaysia	No	NA	Indigenous	NA	Male	NA	Yes	No
+LL33A (Source)	61	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+LL33B (Source)	NA years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL34A (Source)	48 years	No	Legong, Kedah	Malaysia	Yes	No formal education	Indigenous	NA	Female	No	No	No
+LL41A (Source)	10 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL41B (Source)	7 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL42A (Source)	36 years	No	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Male	No	No	No
+LL42D (Source)	12 years	Yes	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Male	NA	No	No
+LL46A (Source)	18 years	No	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Male	NA	Yes	No
+LL47A (Source)	NA years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL48A (Source)	20 years	Yes	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Male	NA	No	No
+LL4B (Source)	30	No	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL4C (Source)	10	No	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	No
+LL4D (Source)	8 years	No	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL51C (Source)	64	Yes	Legong, Kedah	Malaysia	No	No formal education	Indigenous	NA	Male	NA	No	Yes
+LL51E (Source)	20 years	No	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Male	Yes	Yes	No
+LL53A (Source)	64 years	Yes	Legong, Kedah	Malaysia	No	No formal education	Indigenous	NA	Female	No	No	No
+LL53B (Source)	10 years	Yes	Legong, Kedah	Malaysia	No	No formal education	Indigenous	NA	Male	NA	No	No
+LL53C (Source)	9 years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+LL54B (Source)	9 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	Yes	No
+LL54D (Source)	11 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	No	Yes	No
+LL55C (Source)	9 years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+LL55F (Source)	11 years	Yes	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Male	NA	Yes	Yes
+LL56A (Source)	29 years	No	Legong, Kedah	Malaysia	No	No formal education	Indigenous	NA	Female	NA	No	No
+LL56B (Source)	11 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	Yes
+LL56C (Source)	7 years	Yes	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Male	Not sure	Yes	No
+LL57A (Source)	28 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	NA	Yes	No
+LL57B (Source)	NA years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+LL5A (Source)	42	Yes	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Male	NA	No	No
+LL5B (Source)	38 years	Yes	Legong, Kedah	Malaysia	Yes	Secondary school	Indigenous	NA	Female	No	No	No
+LL5D (Source)	12 years	Yes	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Male	Not sure	Yes	No
+LL61A (Source)	25 years	Yes	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Female	No	No	No
+LL61B (Source)	8 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL61D (Source)	6 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	Yes	No
+LL62A (Source)	33 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	Yes	No	Yes
+LL62B (Source)	12 years	No	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	No
+LL62C (Source)	7 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	No	No	No
+LL63A (Source)	11 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL63B (Source)	9 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	No
+LL64A (Source)	10 years	Yes	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Male	NA	No	No
+LL64B (Source)	10 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL64C (Source)	7 years	No	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL64D (Source)	37 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	No
+LL65A (Source)	24 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	Yes	Yes	Yes
+LL65B (Source)	16 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL65C (Source)	24 years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+LL65D (Source)	NA years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL66A (Source)	45 years	Yes	Legong, Kedah	Malaysia	NA	No formal education	Indigenous	NA	Female	NA	No	Yes
+LL66B (Source)	8 years	Yes	Legong, Kedah	Malaysia	No	Primary School	Indigenous	NA	Female	NA	Yes	No
+LL66C (Source)	5 years	Yes	Legong, Kedah	Malaysia	No	Primary School	Indigenous	NA	Female	NA	No	No
+LL6A (Source)	25 years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL6B (Source)	21 years	Yes	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	No	No
+LL6C (Source)	4 years	Yes	Legong, Kedah	Malaysia	Yes	No formal education	Indigenous	NA	Male	NA	Yes	No
+LL70B (Source)	12 years	Yes	Legong, Kedah	Malaysia	No	Primary School	Indigenous	NA	Male	NA	Yes	No
+LL71C (Source)	18 years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL71D (Source)	16 years	Yes	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Male	NA	Yes	No
+LL71E (Source)	15 years	Yes	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Male	NA	No	No
+LL72A (Source)	46	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	Not sure	No
+LL73D (Source)	10 years	Yes	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Female	NA	Yes	No
+LL75A (Source)	41 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+LL7B (Source)	22 years	Yes	Legong, Kedah	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	No	No
+LL8C (Source)	36 years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL8D (Source)	6 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Male	No	Yes	No
+LL8E (Source)	11 years	Yes	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Female	NA	Yes	No
+LL9A (Source)	NA years	NA	Legong, Kedah	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+LL9B (Source)	27 years	Yes	Legong, Kedah	Malaysia	No	Primary school	Indigenous	NA	Female	Yes	No	Yes
+LL9C (Source)	8 years	Yes	Legong, Kedah	Malaysia	Yes	Primary school	Indigenous	NA	Male	Yes	No	No
+LL9D (Source)	6 years	Yes	Legong, Kedah	Malaysia	No	NA	Indigenous	NA	Male	No	No	No
+LL9E (Source)	6 years	Yes	Legong, Kedah	Malaysia	No	NA	Indigenous	NA	Male	No	No	No
+SJ001B (Source)	63	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Female	No	No	Yes
+SJ002A (Source)	27 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	NA	Yes	No
+SJ003A (Source)	41 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Female	Not sure	No	No
+SJ003B (Source)	41 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Uninfected	Male	NA	No	No
+SJ003C (Source)	8 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	NA	Yes	No
+SJ003D (Source)	5 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Uninfected	Female	NA	Yes	No
+SJ004C (Source)	9 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+SJ004D (Source)	6 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+SJ010A (Source)	52 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	NA	Male	No	Yes	No
+SJ010B (Source)	37 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	Yes
+SJ010C (Source)	7 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	NA	Male	NA	Yes	No
+SJ011B (Source)	5 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Male	Yes	Yes	No
+SJ012A (Source)	21	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	Responder	Male	NA	NA	NA
+SJ013A (Source)	23	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	No	Yes	Yes
+SJ013B (Source)	33	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Responder	Male	Yes	No	No
+SJ016A (Source)	38	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Female	No	No	No
+SJ016B (Source)	35	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Male	NA	No	No
+SJ016C (Source)	5	Yes	Judah, Selangor	Malaysia	No	NA	Indigenous	Responder	Female	No	No	No
+SJ016D (Source)	6	Yes	Judah, Selangor	Malaysia	No	NA	Indigenous	Responder	Female	No	No	No
+SJ016E (Source)	11	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Male	No	No	No
+SJ017A (Source)	21 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	No	Yes	No
+SJ017B (Source)		Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	NA	Male	No	Yes	No
+SJ018A (Source)	7	No	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	Yes	Yes	No
+SJ018B (Source)	12	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	No	Yes	No
+SJ020A (Source)	66	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Male	NA	No	No
+SJ020B (Source)	60	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+SJ021A (Source)	37	Yes	Judah, Selangor	Malaysia	Yes	Primary school	Indigenous	Responder	Male	No	No	No
+SJ021B (Source)	35 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	Yes	No	Yes
+SJ023A (Source)	36 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+SJ023C (Source)	32	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	No	Not Sure	No
+SJ023D (Source)	7 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	Yes	No	No
+SJ024A (Source)	66 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Uninfected	Male	Yes	No	Yes
+SJ024B (Source)	67	Yes	Judah, Selangor	Malaysia	Yes	Primary school	Indigenous	Uninfected	Female	No	No	Yes
+SJ025B (Source)	27	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	NA	No	No
+SJ025C (Source)	4 years	Yes	Judah, Selangor	Malaysia	No	NA	Indigenous	Uninfected	Male	No	Yes	No
+SJ025D (Source)	9 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Male	No	Yes	No
+SJ025E (Source)	6 years	Yes	Judah, Selangor	Malaysia	Yes	Primary school	Indigenous	Uninfected	Female	No	Yes	No
+SJ027A (Source)	44 years	Yes	Judah, Selangor	Malaysia	Yes	Primary school	Indigenous	NA	Male	NA	Yes	No
+SJ030B (Source)	58 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Non-responder	Male	No	No	No
+SJ031A (Source)	30 years	Yes	Judah, Selangor	Malaysia	Yes	Primary school	Indigenous	Responder	Female	No	No	No
+SJ031C (Source)	7 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	Yes	Yes	No
+SJ031D (Source)	9 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	Yes	Yes	No
+SJ032A (Source)	32 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	No	Yes	No
+SJ032B (Source)	7 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	Yes	Yes	No
+SJ032C (Source)	6 years	Yes	Judah, Selangor	Malaysia	No	NA	Indigenous	Responder	Male	No	Yes	No
+SJ032D (Source)	10 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	No	Yes	No
+SJ032E (Source)	33 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Male	No	Yes	No
+SJ033A (Source)	50 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	NA	No	No
+SJ033C (Source)	5 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Male	Not sure	Yes	No
+SJ036A (Source)	51 years	Yes	Judah, Selangor	Malaysia	Yes	Secondary school	Indigenous	Uninfected	Male	NA	No	Yes
+SJ040A (Source)	63 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Female	Yes	No	No
+SJ043B (Source)	27 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Male	Yes	Yes	No
+SJ045A (Source)	35 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Uninfected	Female	NA	No	Yes
+SJ045C (Source)	12 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	NA	Male	NA	No	No
+SJ045D (Source)	11 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	NA	No	No
+SJ045E (Source)	NA years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Non-responder	Female	Not sure	No	No
+SJ047A (Source)	20 years	Yes	Judah, Selangor	Malaysia	Yes	Primary school	Indigenous	Responder	Female	No	No	No
+SJ048A (Source)	28 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	Yes	No	No
+SJ053A (Source)	20 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	Responder	Female	NA	NA	NA
+SJ054A (Source)	48 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Female	NA	No	No
+SJ054B (Source)	11 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	NA	No	No
+SJ054C (Source)	26	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	NA	No	Yes
+SJ058A (Source)	36 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Male	NA	Yes	Yes
+SJ058B (Source)	12 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	Responder	Female	NA	NA	NA
+SJ058C (Source)	34 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Uninfected	Female	NA	No	No
+SJ058D (Source)	67 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	NA	No	No
+SJ058E (Source)	9 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	NA	No	No
+SJ058F (Source)	5 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Male	NA	Yes	Yes
+SJ062A (Source)	34 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+SJ062B (Source)	20	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	Yes	Not sure	No
+SJ067A (Source)	58 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Male	No	No	Yes
+SJ067B (Source)	45 years	Yes	Judah, Selangor	Malaysia	Yes	Primary school	Indigenous	Uninfected	Female	Yes	No	Yes
+SJ067C (Source)	20 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+SJ067D (Source)	19 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+SJ067E (Source)	15	Yes	Judah, Selangor	Malaysia	Yes	Secondary school	Indigenous	Responder	Male	No	Yes	No
+SJ067F (Source)	12 years	Yes	Judah, Selangor	Malaysia	Yes	Primary school	Indigenous	Responder	Male	NA	Yes	No
+SJ067G (Source)	8 years	Yes	Judah, Selangor	Malaysia	Yes	Primary school	Indigenous	Responder	Female	Not sure	Not sure	No
+SJ068A (Source)	40 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	NA	No	No
+SJ068B (Source)	9 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	NA	No	No
+SJ069B (Source)	40 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Female	NA	Yes	Yes
+SJ069C (Source)	16	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Male	NA	No	No
+SJ072B (Source)	12 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	Responder	Male	NA	NA	NA
+SJ073A (Source)	47 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	NA	Male	No	No	No
+SJ073B (Source)	45	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+SJ074A (Source)	40 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	No	Yes	Yes
+SJ076A (Source)	44 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+SJ076B (Source)	39 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+SJ076C (Source)	10 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+SJ078B (Source)	44 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Responder	Female	NA	Yes	No
+SJ078C (Source)	16 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	Yes	No
+SJ082A (Source)	34 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	No	No
+SJ082C (Source)	8 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	NA	Female	NA	No	No
+SJ082D (Source)	4 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	NA	Male	NA	No	No
+SJ086A (Source)	24 years	No	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Uninfected	Female	NA	No	No
+SJ086B (Source)	6 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Uninfected	Male	No	No	No
+SJ087A (Source)	NA years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	NA	Male	No	No	Yes
+SJ087B (Source)	67 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	NA	Female	NA	No	No
+SJ088A (Source)	33 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Uninfected	Female	No	No	No
+SJ088B (Source)	4 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Female	NA	Not sure	No
+SJ089A (Source)	12 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	No	No	No
+SJ089B (Source)	9 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Female	No	No	No
+SJ091A (Source)	15 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	Responder	Female	NA	No	No
+SJ091B (Source)	5 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Non-responder	Female	NA	Yes	Yes
+SJ091C (Source)	38 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Female	Yes	No	No
+SJ091D (Source)	38 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Responder	Male	No	No	No
+SJ091E (Source)	11 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	NA	Male	NA	No	Yes
+SJ092A (Source)	41 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+SJ092B (Source)	34 years	Yes	Judah, Selangor	Malaysia	No	No formal education	Indigenous	Responder	Female	NA	No	No
+SJ093C (Source)	23 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	Yes	No
+SJ095A (Source)	27 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+SJ095B (Source)	48 years	Yes	Judah, Selangor	Malaysia	No	Primary school	Indigenous	Uninfected	Male	Yes	No	No
+SJ095C (Source)	55 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Female	NA	NA	NA
+SJ095D (Source)	30 years	NA	Judah, Selangor	Malaysia	NA	NA	Indigenous	NA	Male	NA	NA	NA
+SJ096A (Source)	42 years	Yes	Judah, Selangor	Malaysia	No	Primary School	Indigenous	NA	Male	NA	Yes	Yes
+SJ096B (Source)	16 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Female	NA	Yes	No
+SJ096C (Source)	20 years	Yes	Judah, Selangor	Malaysia	No	Secondary school	Indigenous	NA	Male	NA	No	No
+UC02 (Source)	20 years	Yes	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Female	NA	Yes	No
+UC03 (Source)	31 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	NA	Yes	No
+UC04 (Source)	40 years	Yes	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Female	No	Yes	No
+UC05 (Source)	29 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	Yes	No
+UC06 (Source)	31 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	NA	Yes	Yes
+UC08 (Source)	23 years	Yes	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Female	No	Yes	No
+UC09 (Source)	23 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	No	No	No
+UC11 (Source)	23 years	Yes	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Male	NA	Yes	No
+UC12 (Source)	23 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	No	Not sure	No
+UC16 (Source)	40 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC20 (Source)	21 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	No	No	Yes
+UC21 (Source)	24 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	NA	Yes	No
+UC22 (Source)	24 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC23 (Source)	24 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	Yes	Yes
+UC24 (Source)	60 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	NA	Yes	No
+UC25 (Source)	42 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	No	Yes	No
+UC26 (Source)	25 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	Yes	No
+UC27 (Source)	32 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC28 (Source)	33 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	Yes
+UC30 (Source)	40 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	NA	NA	No
+UC31 (Source)	22 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	Yes	No
+UC32 (Source)	22 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC35 (Source)	20 years	Yes	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Male	NA	Yes	No
+UC36 (Source)	25 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	NA	No	No
+UC40 (Source)	31 years	Yes	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC41 (Source)	32 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC42 (Source)	70	No	Kuala Lumpur, Selangor	Malaysia	Yes	Secondary school	Non-indigenous	NA	Female	NA	Yes	No
+UC43 (Source)	53 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC44 (Source)	29	NA	Kuala Lumpur, Selangor	Malaysia	NA	NA	Non-indigenous	NA	Female	NA	NA	NA
+UC45 (Source)	29 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	NA	No	No
+UC47 (Source)	31 years	Yes	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC48 (Source)	69	Yes	Kuala Lumpur, Selangor	Malaysia	No	Secondary school	Non-indigenous	NA	Female	No	Yes	No
+UC49 (Source)	39 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC50 (Source)	10 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Primary school	Non-indigenous	NA	Male	NA	No	No
+UC51 (Source)	8 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Primary school	Non-indigenous	NA	Female	NA	Yes	No
+UC52 (Source)	37 years	Yes	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Female	NA	Yes	No
+UC53 (Source)	54 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC54 (Source)	58 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	No	No	No
+UC55 (Source)	33 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	Yes	No
+UC57 (Source)	17	Yes	Kuala Lumpur, Selangor	Malaysia	No	Secondary school	Non-indigenous	NA	Male	NA	No	No
+UC58 (Source)	10 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Primary School	Non-indigenous	NA	Female	NA	Yes	No
+UC59 (Source)	5 years	No	Kuala Lumpur, Selangor	Malaysia	No	No formal education	Non-indigenous	NA	Male	NA	Yes	No
+UC60 (Source)	34 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	Yes	No
+UC61 (Source)	10 years	No	Kuala Lumpur, Selangor	Malaysia	No	Primary School	Non-indigenous	NA	Female	Yes	Yes	No
+UC62 (Source)	32 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	No
+UC63 (Source)	32 years	No	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	NA	No	No
+UC64 (Source)	62	Yes	Kuala Lumpur, Selangor	Malaysia	No	Secondary school	Non-indigenous	NA	Female	No	Yes	No
+UC65 (Source)	32 years	No	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Male	No	No	Yes
+UC66 (Source)	32 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	Yes	No
+UC67 (Source)	45 years	No	Kuala Lumpur, Selangor	Malaysia	No	Secondary school	Non-indigenous	NA	Male	Yes	No	No
+UC68 (Source)	57 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Secondary school	Non-indigenous	NA	Male	NA	No	No
+UC69 (Source)	32 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	Yes	No
+UC70 (Source)	37 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Male	NA	Yes	Yes
+UC71 (Source)	59	No	Kuala Lumpur, Selangor	Malaysia	Yes	Tertiary education	Non-indigenous	NA	Male	No	Yes	No
+UC72 (Source)	10 years	Yes	Kuala Lumpur, Selangor	Malaysia	Yes	Primary school	Non-indigenous	NA	Male	NA	No	No
+UC73 (Source)	55 years	Yes	Kuala Lumpur, Selangor	Malaysia	No	Tertiary education	Non-indigenous	NA	Female	NA	No	Yes

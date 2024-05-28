@@ -33,7 +33,7 @@ Sample_Id	Participant_Id	Cytomegalovirus, by PCR [EUPATH_0009107]	Habitat [ENVO_
 5033	5033 (Source)	Negative	Human	Vagina	Mucus	Vaginal orifice	Negative	Vaginal swab
 5034	5034 (Source)	Negative	Human	Vagina	Mucus	Vaginal orifice	Negative	Vaginal swab
 5035	5035 (Source)	Negative	Human	Vagina	Mucus	Vaginal orifice	Negative	Vaginal swab
-5036	5036 (Source)	Negative	Human	Vagina	Mucus	Vaginal orifice		Vaginal swab
+5036	5036 (Source)	Negative	Human	Vagina	Mucus	Vaginal orifice	NA	Vaginal swab
 5037	5037 (Source)	Positive	Human	Vagina	Mucus	Vaginal orifice	Negative	Vaginal swab
 5038	5038 (Source)	Negative	Human	Vagina	Mucus	Vaginal orifice	Negative	Vaginal swab
 5039	5039 (Source)	Negative	Human	Vagina	Mucus	Vaginal orifice	Negative	Vaginal swab

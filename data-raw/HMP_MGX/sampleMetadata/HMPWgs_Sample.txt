@@ -1,750 +1,750 @@
-Sample_Id	Participant_Id	Host body habitat [UBERON_0000466]	Host body product [UBERON_0000463]	Host body site [UBERON_0000061]	Sample type [OBI_0100051]
-SRS011061	158458797 (Source)	Colon	Feces	Colon	Stool
-SRS011084	158479027 (Source)	Colon	Feces	Colon	Stool
-SRS011086	158458797 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS011090	158458797 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS011098	158458797 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS011105	158458797 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS011111	158458797 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS011115	158479027 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS011126	158479027 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS011132	158479027 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS011134	158499257 (Source)	Colon	Feces	Colon	Stool
-SRS011140	158499257 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS011144	158499257 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS011152	158499257 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS011239	158742018 (Source)	Colon	Feces	Colon	Stool
-SRS011243	158742018 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS011247	158742018 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS011255	158742018 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS011263	158742018 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS011269	158742018 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS011271	158802708 (Source)	Colon	Feces	Colon	Stool
-SRS011302	158944319 (Source)	Colon	Feces	Colon	Stool
-SRS011306	158944319 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS011310	158944319 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS011343	158944319 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS011355	158944319 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS011397	158984779 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS011405	159247771 (Source)	Colon	Feces	Colon	Stool
-SRS011452	159146620 (Source)	Colon	Feces	Colon	Stool
-SRS011529	159166850 (Source)	Colon	Feces	Colon	Stool
-SRS011584	159247771 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS011586	159733294 (Source)	Colon	Feces	Colon	Stool
-SRS012273	158337416 (Source)	Colon	Feces	Colon	Stool
-SRS012279	158337416 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS012281	158337416 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS012285	158337416 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS012291	158337416 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS012294	158337416 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS012663	158398106 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS012902	158883629 (Source)	Colon	Feces	Colon	Stool
-SRS013155	159571453 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS013158	159369152 (Source)	Colon	Feces	Colon	Stool
-SRS013164	159369152 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS013170	159369152 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS013215	159591683 (Source)	Colon	Feces	Colon	Stool
-SRS013234	159591683 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS013239	159591683 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS013252	159591683 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS013258	159591683 (Source)	Skin crease	Sebum	Left external ear	Skin swab
-SRS013261	159591683 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS013269	159591683 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS013476	159207311 (Source)	Colon	Feces	Colon	Stool
-SRS013502	159207311 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS013506	159207311 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS013521	159227541 (Source)	Colon	Feces	Colon	Stool
-SRS013533	159227541 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS013542	159227541 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS013637	159207311 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS013687	159268001 (Source)	Colon	Feces	Colon	Stool
-SRS013705	159268001 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS013711	159268001 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS013723	159268001 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS013800	159571453 (Source)	Colon	Feces	Colon	Stool
-SRS013818	159571453 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS013825	159571453 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS013836	159571453 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS013876	763435843 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS013879	763435843 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS013881	763435843 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS013942	763496533 (Source)	Oral cavity	Mucus	Saliva	Saliva
-SRS013945	763496533 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS013946	763496533 (Source)	Oral cavity	Mucus	UBERON:gingiva	Oral swab
-SRS013947	763496533 (Source)	Oral cavity	Mucus	Palatine tonsil	Oral swab
-SRS013948	763496533 (Source)	Oral cavity	Mucus	Throat	Oral swab
-SRS013949	763496533 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS013950	763496533 (Source)	Oral cavity	Mucus	Subgingival dental plaque	Oral swab
-SRS013951	763496533 (Source)	Colon	Feces	Colon	Stool
-SRS013956	763496533 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS014107	763435843 (Source)	Oral cavity	Mucus	Subgingival dental plaque	Oral swab
-SRS014124	763820215 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS014126	763820215 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS014235	763678604 (Source)	Colon	Feces	Colon	Stool
-SRS014271	763536994 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS014287	763536994 (Source)	Colon	Feces	Colon	Stool
-SRS014313	763820215 (Source)	Colon	Feces	Colon	Stool
-SRS014343	763820215 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS014459	763577454 (Source)	Colon	Feces	Colon	Stool
-SRS014464	763577454 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS014465	763577454 (Source)	Vagina	Mucus	Vaginal introitus	Vaginal swab
-SRS014466	763577454 (Source)	Vagina	Mucus	Central vagina	Vaginal swab
-SRS014468	763577454 (Source)	Oral cavity	Mucus	Saliva	Saliva
-SRS014470	763577454 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS014472	763577454 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS014473	763577454 (Source)	Oral cavity	Mucus	UBERON:gingiva	Oral swab
-SRS014474	763577454 (Source)	Oral cavity	Mucus	Palatine tonsil	Oral swab
-SRS014475	763577454 (Source)	Oral cavity	Mucus	Throat	Oral swab
-SRS014476	763577454 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS014477	763577454 (Source)	Oral cavity	Mucus	Subgingival dental plaque	Oral swab
-SRS014494	763577454 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS014573	763840445 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS014575	763840445 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS014578	763840445 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS014613	763840445 (Source)	Colon	Feces	Colon	Stool
-SRS014629	763840445 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS014682	763961826 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS014683	763961826 (Source)	Colon	Feces	Colon	Stool
-SRS014684	763961826 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS014686	763961826 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS014687	763961826 (Source)	Oral cavity	Mucus	UBERON:gingiva	Oral swab
-SRS014689	763961826 (Source)	Oral cavity	Mucus	Throat	Oral swab
-SRS014690	763961826 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS014691	763961826 (Source)	Oral cavity	Mucus	Subgingival dental plaque	Oral swab
-SRS014692	763961826 (Source)	Oral cavity	Mucus	Saliva	Saliva
-SRS014888	763860675 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS014890	763860675 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS014894	763860675 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS014901	763860675 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS014923	763860675 (Source)	Colon	Feces	Colon	Stool
-SRS014979	764062976 (Source)	Colon	Feces	Colon	Stool
-SRS015038	763901136 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015040	763901136 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015044	763901136 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015051	763901136 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS015054	763901136 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS015055	763577454 (Source)	Oral cavity	Mucus	Saliva	Saliva
-SRS015057	763577454 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015059	763577454 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015060	763577454 (Source)	Oral cavity	Mucus	UBERON:gingiva	Oral swab
-SRS015061	763577454 (Source)	Oral cavity	Mucus	Palatine tonsil	Oral swab
-SRS015062	763577454 (Source)	Oral cavity	Mucus	Throat	Oral swab
-SRS015063	763577454 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015065	763577454 (Source)	Colon	Feces	Colon	Stool
-SRS015071	763577454 (Source)	Vagina	Mucus	Vaginal introitus	Vaginal swab
-SRS015072	763577454 (Source)	Vagina	Mucus	Central vagina	Vaginal swab
-SRS015073	763577454 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS015133	763901136 (Source)	Colon	Feces	Colon	Stool
-SRS015154	763759525 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015158	763759525 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015168	763759525 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS015190	763759525 (Source)	Colon	Feces	Colon	Stool
-SRS015209	764143897 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015215	764143897 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015217	764143897 (Source)	Colon	Feces	Colon	Stool
-SRS015225	764143897 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS015264	763982056 (Source)	Colon	Feces	Colon	Stool
-SRS015269	763982056 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS015272	763982056 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015274	763982056 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015278	763982056 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015369	764042746 (Source)	Colon	Feces	Colon	Stool
-SRS015374	764042746 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015378	764042746 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015381	764042746 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS015395	764042746 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015425	764042746 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS015430	764083206 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS015434	764083206 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015436	764083206 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015440	764083206 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015450	764083206 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS015470	764083206 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015537	764285508 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015574	764285508 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015578	764285508 (Source)	Colon	Feces	Colon	Stool
-SRS015640	764487809 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS015644	764487809 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015646	764487809 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015650	764487809 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015663	764487809 (Source)	Colon	Feces	Colon	Stool
-SRS015745	764224817 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015752	764224817 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS015755	764224817 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015762	764224817 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015782	764224817 (Source)	Colon	Feces	Colon	Stool
-SRS015793	763435843 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS015794	763435843 (Source)	Colon	Feces	Colon	Stool
-SRS015797	763435843 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015799	763435843 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015803	763435843 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015854	764002286 (Source)	Colon	Feces	Colon	Stool
-SRS015893	764305738 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015895	764305738 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015899	764305738 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015921	764305738 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015937	764325968 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS015941	764325968 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS015947	764325968 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015960	764325968 (Source)	Colon	Feces	Colon	Stool
-SRS015985	764447348 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS015989	764447348 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS015996	764447348 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016002	764447348 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016018	764447348 (Source)	Colon	Feces	Colon	Stool
-SRS016033	764508039 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016037	764508039 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016039	764508039 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS016043	764508039 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS016056	764508039 (Source)	Colon	Feces	Colon	Stool
-SRS016086	764588959 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016088	764588959 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS016092	764588959 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS016095	764588959 (Source)	Colon	Feces	Colon	Stool
-SRS016105	764588959 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016111	764588959 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS016188	764649650 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016191	764649650 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS016196	764649650 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS016200	764649650 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS016203	764649650 (Source)	Colon	Feces	Colon	Stool
-SRS016225	764649650 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016267	764669880 (Source)	Colon	Feces	Colon	Stool
-SRS016292	765074482 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016297	765074482 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS016319	765074482 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016331	765074482 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS016335	765074482 (Source)	Colon	Feces	Colon	Stool
-SRS016342	159632143 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016349	159632143 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS016360	159632143 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS016434	159672603 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016495	159753524 (Source)	Colon	Feces	Colon	Stool
-SRS016501	159753524 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016503	159753524 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS016513	159753524 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016516	159753524 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS016529	159753524 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016533	159753524 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS016541	159753524 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS016553	159753524 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016559	159753524 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS016569	159915365 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016575	159915365 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS016581	159915365 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016584	159915365 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS016585	159915365 (Source)	Colon	Feces	Colon	Stool
-SRS016600	159915365 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS016740	160421117 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS016746	160421117 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS016752	160421117 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS016753	160421117 (Source)	Colon	Feces	Colon	Stool
-SRS016944	159450072 (Source)	Skin crease	Sebum	Left external ear	Skin swab
-SRS016954	159611913 (Source)	Colon	Feces	Colon	Stool
-SRS016989	159490532 (Source)	Colon	Feces	Colon	Stool
-SRS017007	159490532 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS017013	159490532 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS017025	159490532 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS017044	159490532 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS017076	159611913 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS017080	159611913 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS017088	159611913 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS017103	159551223 (Source)	Colon	Feces	Colon	Stool
-SRS017120	159551223 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS017127	159551223 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS017139	159551223 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS017156	159551223 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS017191	159814214 (Source)	Colon	Feces	Colon	Stool
-SRS017209	159814214 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS017215	159814214 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS017227	159814214 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS017244	159814214 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS017247	159510762 (Source)	Colon	Feces	Colon	Stool
-SRS017304	159207311 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS017307	159632143 (Source)	Colon	Feces	Colon	Stool
-SRS017433	160319967 (Source)	Colon	Feces	Colon	Stool
-SRS017439	160319967 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS017441	160319967 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS017445	160319967 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS017451	160319967 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS017497	160319967 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS017511	160502038 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS017520	160502038 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS017521	160502038 (Source)	Colon	Feces	Colon	Stool
-SRS017533	160502038 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS017537	160502038 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS017687	160582958 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS017691	160582958 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS017697	160582958 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS017700	160582958 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS017701	160582958 (Source)	Colon	Feces	Colon	Stool
-SRS017713	160582958 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS017808	160603188 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS017810	160603188 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS017814	160603188 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS017820	160603188 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS017821	160603188 (Source)	Colon	Feces	Colon	Stool
-SRS017849	160603188 (Source)	Skin crease	Sebum	Left external ear	Skin swab
-SRS017851	160603188 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS018133	160158126 (Source)	Colon	Feces	Colon	Stool
-SRS018145	160158126 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS018149	160158126 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS018157	160158126 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS018300	160380657 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS018312	160380657 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS018313	160380657 (Source)	Colon	Feces	Colon	Stool
-SRS018329	160380657 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS018337	160380657 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS018351	160178356 (Source)	Colon	Feces	Colon	Stool
-SRS018357	160178356 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS018359	160178356 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS018369	160178356 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS018394	160178356 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS018427	160218816 (Source)	Colon	Feces	Colon	Stool
-SRS018439	160218816 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS018443	160218816 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS018463	160218816 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS018569	765094712 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS018573	765094712 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS018575	765094712 (Source)	Colon	Feces	Colon	Stool
-SRS018585	765094712 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS018591	765094712 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS018656	765013792 (Source)	Colon	Feces	Colon	Stool
-SRS018661	765013792 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS018665	765013792 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS018671	765013792 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS018739	765013792 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS018769	765013792 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS018778	765135172 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS018784	765135172 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS018791	765135172 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS018817	765135172 (Source)	Colon	Feces	Colon	Stool
-SRS018969	764305738 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS018971	764305738 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS018975	764305738 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS018978	764305738 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS018981	764305738 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019015	763961826 (Source)	Skin crease	Sebum	Left external ear	Skin swab
-SRS019016	763961826 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS019019	763961826 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019022	763961826 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019024	763961826 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS019025	763961826 (Source)	Oral cavity	Mucus	UBERON:gingiva	Oral swab
-SRS019026	763961826 (Source)	Oral cavity	Mucus	Palatine tonsil	Oral swab
-SRS019027	763961826 (Source)	Oral cavity	Mucus	Throat	Oral swab
-SRS019028	763961826 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS019029	763961826 (Source)	Oral cavity	Mucus	Subgingival dental plaque	Oral swab
-SRS019030	763961826 (Source)	Colon	Feces	Colon	Stool
-SRS019033	763961826 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS019039	763961826 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019045	763961826 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019063	764083206 (Source)	Skin crease	Sebum	Left external ear	Skin swab
-SRS019064	764083206 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS019067	764083206 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019071	764083206 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019073	764083206 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS019077	764083206 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS019081	764083206 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS019087	764083206 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019116	763496533 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS019119	763496533 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019120	763496533 (Source)	Oral cavity	Mucus	Saliva	Saliva
-SRS019122	763496533 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019124	763496533 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS019125	763496533 (Source)	Oral cavity	Mucus	UBERON:gingiva	Oral swab
-SRS019126	763496533 (Source)	Oral cavity	Mucus	Palatine tonsil	Oral swab
-SRS019127	763496533 (Source)	Oral cavity	Mucus	Throat	Oral swab
-SRS019128	763496533 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS019129	763496533 (Source)	Oral cavity	Mucus	Subgingival dental plaque	Oral swab
-SRS019161	763496533 (Source)	Colon	Feces	Colon	Stool
-SRS019215	765034022 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019219	765034022 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019221	765034022 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS019225	765034022 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS019267	765034022 (Source)	Colon	Feces	Colon	Stool
-SRS019327	765337473 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019329	765337473 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS019333	765337473 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS019339	765337473 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019379	765337473 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS019386	765560005 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019387	765560005 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS019389	765560005 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019391	765560005 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS019397	765560005 (Source)	Colon	Feces	Colon	Stool
-SRS019582	763597684 (Source)	Colon	Feces	Colon	Stool
-SRS019587	765620695 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS019591	765620695 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS019597	765620695 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019600	765620695 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS019601	765620695 (Source)	Colon	Feces	Colon	Stool
-SRS019607	765620695 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019685	763678604 (Source)	Colon	Feces	Colon	Stool
-SRS019787	764669880 (Source)	Colon	Feces	Colon	Stool
-SRS019867	764892411 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019872	764892411 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS019894	764892411 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019906	764892411 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS019910	764892411 (Source)	Colon	Feces	Colon	Stool
-SRS019968	160643649 (Source)	Colon	Feces	Colon	Stool
-SRS019974	160643649 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS019976	160643649 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS019980	160643649 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS019986	160643649 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS019989	160643649 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS020220	160400887 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS020222	160400887 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS020226	160400887 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS020232	160400887 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS020233	160400887 (Source)	Colon	Feces	Colon	Stool
-SRS020261	160400887 (Source)	Skin crease	Sebum	Left external ear	Skin swab
-SRS020263	160400887 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS020328	160704339 (Source)	Colon	Feces	Colon	Stool
-SRS020334	160704339 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS020336	160704339 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS020340	160704339 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS020349	160704339 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS020386	160704339 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS020856	160765029 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS020858	160765029 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS020862	160765029 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS020868	160765029 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS020869	160765029 (Source)	Colon	Feces	Colon	Stool
-SRS021473	158479027 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS021477	158479027 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS021483	158479027 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS021484	158479027 (Source)	Colon	Feces	Colon	Stool
-SRS021496	158479027 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS021948	158256496 (Source)	Colon	Feces	Colon	Stool
-SRS021954	158256496 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS021960	158256496 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS021969	158256496 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS021986	158256496 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS022006	158256496 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS022071	158337416 (Source)	Colon	Feces	Colon	Stool
-SRS022077	158337416 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS022079	158337416 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS022083	158337416 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS022092	158337416 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS022129	158337416 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS022137	638754422 (Source)	Colon	Feces	Colon	Stool
-SRS022143	638754422 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS022145	638754422 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS022149	638754422 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS022158	638754422 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS022524	809635352 (Source)	Colon	Feces	Colon	Stool
-SRS022530	809635352 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS022532	809635352 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS022536	809635352 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS022545	809635352 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS022602	158499257 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS022609	158499257 (Source)	Colon	Feces	Colon	Stool
-SRS022621	158499257 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS022625	158499257 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS022645	158499257 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS022713	370425937 (Source)	Colon	Feces	Colon	Stool
-SRS022719	370425937 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS022721	370425937 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS022725	370425937 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS022734	370425937 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS023212	158924089 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS023346	246515023 (Source)	Colon	Feces	Colon	Stool
-SRS023352	246515023 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS023354	246515023 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS023358	246515023 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS023468	246515023 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS023526	158802708 (Source)	Colon	Feces	Colon	Stool
-SRS023534	158802708 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS023538	158802708 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS023557	158802708 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS023583	159005010 (Source)	Colon	Feces	Colon	Stool
-SRS023591	159005010 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS023595	159005010 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS023604	159005010 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS023617	159005010 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS023829	158883629 (Source)	Colon	Feces	Colon	Stool
-SRS023835	158883629 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS023837	158883629 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS023841	158883629 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS023847	158883629 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS023850	158883629 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS023914	159268001 (Source)	Colon	Feces	Colon	Stool
-SRS023926	159268001 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS023930	159268001 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS023938	159268001 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS023958	159369152 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS023964	159369152 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS023970	159369152 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS023971	159369152 (Source)	Colon	Feces	Colon	Stool
-SRS023987	159369152 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS024009	159247771 (Source)	Colon	Feces	Colon	Stool
-SRS024015	159247771 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS024017	159247771 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS024021	159247771 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS024064	159247771 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS024068	159247771 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS024075	159510762 (Source)	Colon	Feces	Colon	Stool
-SRS024081	159510762 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS024087	159510762 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS024132	159207311 (Source)	Colon	Feces	Colon	Stool
-SRS024138	159207311 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS024140	159207311 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS024144	159207311 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS024265	158944319 (Source)	Colon	Feces	Colon	Stool
-SRS024277	158944319 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS024281	158944319 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS024289	158944319 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS024301	158944319 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS024310	158944319 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS024318	159551223 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS024331	159551223 (Source)	Colon	Feces	Colon	Stool
-SRS024347	159551223 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS024355	159551223 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS024375	159713063 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS024377	159713063 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS024381	159713063 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS024388	159713063 (Source)	Colon	Feces	Colon	Stool
-SRS024424	159713063 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS024428	159713063 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS024435	159571453 (Source)	Colon	Feces	Colon	Stool
-SRS024441	159571453 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS024447	159571453 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS024470	159571453 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS024482	159571453 (Source)	Skin crease	Sebum	Left external ear	Skin swab
-SRS024549	159591683 (Source)	Colon	Feces	Colon	Stool
-SRS024557	159591683 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS024561	159591683 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS024567	159591683 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS024580	159591683 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS024596	159591683 (Source)	Skin crease	Sebum	Left external ear	Skin swab
-SRS024598	159591683 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS024620	159611913 (Source)	Skin crease	Sebum	Left external ear	Skin swab
-SRS024625	159611913 (Source)	Colon	Feces	Colon	Stool
-SRS024637	159611913 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS024641	159611913 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS024649	159611913 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS024655	159611913 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS042131	764487809 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS042284	764811490 (Source)	Colon	Feces	Colon	Stool
-SRS042428	706846339 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS042457	686765762 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS042628	764447348 (Source)	Colon	Feces	Colon	Stool
-SRS042643	404239096 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS042858	159753524 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS042910	763820215 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS042984	638754422 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS043001	550534656 (Source)	Colon	Feces	Colon	Stool
-SRS043018	763759525 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS043239	675950834 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS043411	763759525 (Source)	Colon	Feces	Colon	Stool
-SRS043646	604812005 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS043663	686765762 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS043676	763820215 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS043701	159814214 (Source)	Colon	Feces	Colon	Stool
-SRS043755	404239096 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS043772	763982056 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS043803	765094712 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS044366	550534656 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS044373	550534656 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS044474	159490532 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS044486	763982056 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS044626	764325968 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS044662	370425937 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS044742	763759525 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS045004	604812005 (Source)	Colon	Feces	Colon	Stool
-SRS045049	404239096 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS045127	604812005 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS045197	765094712 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS045254	861967750 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS045262	706846339 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS045313	686765762 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS045606	338793263 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS045645	604812005 (Source)	Colon	Feces	Colon	Stool
-SRS045713	404239096 (Source)	Colon	Feces	Colon	Stool
-SRS045715	246515023 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS045978	763759525 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS046344	823052294 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS046623	604812005 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS046686	159490532 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS046688	764224817 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS046973	765701615 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS047014	765074482 (Source)	Colon	Feces	Colon	Stool
-SRS047044	764224817 (Source)	Colon	Feces	Colon	Stool
-SRS047100	764811490 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS047113	159814214 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS047210	763759525 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS047219	763536994 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS047225	159814214 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS047254	764447348 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS047265	764487809 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS047335	764143897 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS047634	160158126 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS047708	508703490 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS047824	737052003 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS047844	763982056 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS048164	861967750 (Source)	Colon	Feces	Colon	Stool
-SRS048411	764325968 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS048536	638754422 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS048719	823052294 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS048791	638754422 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS048870	764184357 (Source)	Colon	Feces	Colon	Stool
-SRS049147	159227541 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS049164	765074482 (Source)	Colon	Feces	Colon	Stool
-SRS049237	764811490 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS049268	604812005 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS049283	764325968 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS049318	246515023 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS049389	765701615 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS049712	823052294 (Source)	Colon	Feces	Colon	Stool
-SRS049744	764487809 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS049900	686765762 (Source)	Colon	Feces	Colon	Stool
-SRS049959	765701615 (Source)	Colon	Feces	Colon	Stool
-SRS049995	159227541 (Source)	Colon	Feces	Colon	Stool
-SRS050007	550534656 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS050025	404239096 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS050029	338793263 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS050184	508703490 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS050244	675950834 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS050299	763982056 (Source)	Colon	Feces	Colon	Stool
-SRS050422	763536994 (Source)	Colon	Feces	Colon	Stool
-SRS050484	764143897 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS050628	765701615 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS050669	159814214 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS050752	765640925 (Source)	Colon	Feces	Colon	Stool
-SRS050925	763860675 (Source)	Colon	Feces	Colon	Stool
-SRS051031	764487809 (Source)	Colon	Feces	Colon	Stool
-SRS051116	638754422 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS051244	861967750 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS051378	763820215 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS051505	338793263 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS051600	765094712 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS051613	861967750 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS051791	765094712 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS051882	764143897 (Source)	Colon	Feces	Colon	Stool
-SRS051930	764143897 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS051941	706846339 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS052027	159490532 (Source)	Colon	Feces	Colon	Stool
-SRS052227	338793263 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS052330	765640925 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS052590	737052003 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS052604	338793263 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS052620	370425937 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS052668	370425937 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS052697	706846339 (Source)	Colon	Feces	Colon	Stool
-SRS052756	159227541 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS052874	764811490 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS052876	737052003 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS052988	765094712 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS053214	159753524 (Source)	Colon	Feces	Colon	Stool
-SRS053335	508703490 (Source)	Colon	Feces	Colon	Stool
-SRS053398	675950834 (Source)	Colon	Feces	Colon	Stool
-SRS053437	765640925 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS053584	764224817 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS053603	764811490 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS053630	508703490 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS053854	508703490 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS053917	370425937 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS054061	338793263 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS054430	159490532 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS054569	160158126 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS054590	338793263 (Source)	Colon	Feces	Colon	Stool
-SRS054653	765640925 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS054687	706846339 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS054776	764224817 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS054956	737052003 (Source)	Colon	Feces	Colon	Stool
-SRS054962	763820215 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS055118	737052003 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS055298	246515023 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS055378	763860675 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS055401	675950834 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS055426	604812005 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS055450	764325968 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS055495	159490532 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS055982	638754422 (Source)	Colon	Feces	Colon	Stool
-SRS056157	159753524 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS056210	763759525 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS056259	764325968 (Source)	Colon	Feces	Colon	Stool
-SRS056323	765640925 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS056519	765094712 (Source)	Colon	Feces	Colon	Stool
-SRS056622	764143897 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS056695	737052003 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS056796	675950834 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS056892	764143897 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS057022	246515023 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS057083	764447348 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS057205	764224817 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS057290	764447348 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS057355	763860675 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS057478	370425937 (Source)	Colon	Feces	Colon	Stool
-SRS057539	861967750 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS057692	160158126 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS057717	246515023 (Source)	Colon	Feces	Colon	Stool
-SRS057791	823052294 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS057807	550534656 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS058053	604812005 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS058105	764487809 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS058182	159490532 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS058186	508703490 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS058213	706846339 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS058221	404239096 (Source)	Skin crease	Sebum	Right external ear	Skin swab
-SRS058336	764447348 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS058723	763820215 (Source)	Colon	Feces	Colon	Stool
-SRS058770	160158126 (Source)	Colon	Feces	Colon	Stool
-SRS058808	765701615 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS062427	763536994 (Source)	Colon	Feces	Colon	Stool
-SRS062520	764062976 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS062540	764042746 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS062544	763536994 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS062713	763840445 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS062752	764042746 (Source)	Vagina	Mucus	Vaginal introitus	Vaginal swab
-SRS062761	686765762 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS062878	765560005 (Source)	Oral cavity	Mucus	Hard palate	Oral swab
-SRS063035	159510762 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS063040	809635352 (Source)	Colon	Feces	Colon	Stool
-SRS063178	765560005 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS063193	763840445 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS063215	764042746 (Source)	Oral cavity	Mucus	Subgingival dental plaque	Oral swab
-SRS063272	764062976 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS063287	763536994 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS063288	809635352 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS063351	764042746 (Source)	Oral cavity	Mucus	Palatine tonsil	Oral swab
-SRS063417	763840445 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS063478	763840445 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS063603	763901136 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS063932	159510762 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS063985	763901136 (Source)	Colon	Feces	Colon	Stool
-SRS063999	763840445 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS064219	686765762 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS064276	763840445 (Source)	Colon	Feces	Colon	Stool
-SRS064329	159510762 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS064376	764042746 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS064423	763901136 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS064449	764062976 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS064493	763536994 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS064557	764042746 (Source)	Colon	Feces	Colon	Stool
-SRS064645	686765762 (Source)	Colon	Feces	Colon	Stool
-SRS064704	809635352 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS064774	764062976 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS064809	763901136 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS065099	809635352 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS065133	686765762 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS065142	764062976 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS065179	764042746 (Source)	Nasal cavity	Mucus	Nares	Nostril swab
-SRS065278	763901136 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS065310	764042746 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS065335	765560005 (Source)	Oral cavity	Mucus	Throat	Oral swab
-SRS065347	763901136 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS065431	809635352 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS065504	764062976 (Source)	Colon	Feces	Colon	Stool
-SRS075398	158883629 (Source)	Colon	Feces	Colon	Stool
-SRS075404	158883629 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS075406	158883629 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS075410	158883629 (Source)	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
-SRS075419	158883629 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS077730	159753524 (Source)	Colon	Feces	Colon	Stool
-SRS077736	159753524 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS077738	159753524 (Source)	Oral cavity	Mucus	Buccal mucosa	Oral swab
-SRS077751	159753524 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
-SRS078176	159227541 (Source)	Colon	Feces	Colon	Stool
-SRS078182	159227541 (Source)	Oral cavity	Mucus	Dorsum of tongue	Oral swab
-SRS078197	159227541 (Source)	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
+Sample_Id	Participant_Id	Habitat [ENVO_01000739]	Host body habitat [UBERON_0000466]	Host body product [UBERON_0000463]	Host body site [UBERON_0000061]	Sample type [OBI_0100051]
+SRS011061	158458797 (Source)	Human	Colon	Feces	Colon	Stool
+SRS011084	158479027 (Source)	Human	Colon	Feces	Colon	Stool
+SRS011086	158458797 (Source)	Human	Oral cavity	Mucus	Dorsum of tongue	Oral swab
+SRS011090	158458797 (Source)	Human	Oral cavity	Mucus	Buccal mucosa	Oral swab
+SRS011098	158458797 (Source)	Human	Oral cavity	Mucus	Supragingival dental plaque	Oral swab
+SRS011105	158458797 (Source)	Human	Nasal cavity	Mucus	Nares	Nostril swab
+SRS011111	158458797 (Source)	Human	Vagina	Mucus	Posterior fornix of vagina	Vaginal swab
+SRS011115	158479027 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS011126	158479027 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS011132	158479027 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS011134	158499257 (Source)	Human	Colon	Feces	Colon	Stool
+SRS011140	158499257 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS011144	158499257 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS011152	158499257 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS011239	158742018 (Source)	Human	Colon	Feces	Colon	Stool
+SRS011243	158742018 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS011247	158742018 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS011255	158742018 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS011263	158742018 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS011269	158742018 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS011271	158802708 (Source)	Human	Colon	Feces	Colon	Stool
+SRS011302	158944319 (Source)	Human	Colon	Feces	Colon	Stool
+SRS011306	158944319 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS011310	158944319 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS011343	158944319 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS011355	158944319 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS011397	158984779 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS011405	159247771 (Source)	Human	Colon	Feces	Colon	Stool
+SRS011452	159146620 (Source)	Human	Colon	Feces	Colon	Stool
+SRS011529	159166850 (Source)	Human	Colon	Feces	Colon	Stool
+SRS011584	159247771 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS011586	159733294 (Source)	Human	Colon	Feces	Colon	Stool
+SRS012273	158337416 (Source)	Human	Colon	Feces	Colon	Stool
+SRS012279	158337416 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS012281	158337416 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS012285	158337416 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS012291	158337416 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS012294	158337416 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS012663	158398106 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS012902	158883629 (Source)	Human	Colon	Feces	Colon	Stool
+SRS013155	159571453 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS013158	159369152 (Source)	Human	Colon	Feces	Colon	Stool
+SRS013164	159369152 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS013170	159369152 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS013215	159591683 (Source)	Human	Colon	Feces	Colon	Stool
+SRS013234	159591683 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS013239	159591683 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS013252	159591683 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS013258	159591683 (Source)	Human	Skin crease	Sebum	Left external ear	Skin swab
+SRS013261	159591683 (Source)	Human	UBERON:skin crease	Sebum	Right external ear	Skin swab
+SRS013269	159591683 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS013476	159207311 (Source)	Human	Colon	Feces	Colon	Stool
+SRS013502	159207311 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS013506	159207311 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS013521	159227541 (Source)	Human	Colon	Feces	Colon	Stool
+SRS013533	159227541 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS013542	159227541 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS013637	159207311 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS013687	159268001 (Source)	Human	Colon	Feces	Colon	Stool
+SRS013705	159268001 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS013711	159268001 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS013723	159268001 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS013800	159571453 (Source)	Human	Colon	Feces	Colon	Stool
+SRS013818	159571453 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS013825	159571453 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS013836	159571453 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS013876	763435843 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS013879	763435843 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS013881	763435843 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS013942	763496533 (Source)	Human	Oral cavity	Mucus	Saliva	Saliva
+SRS013945	763496533 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS013946	763496533 (Source)	Human	Oral cavity	Mucus	Gingiva	Oral swab
+SRS013947	763496533 (Source)	Human	Oral cavity	Mucus	Palatine tonsil	Oral swab
+SRS013948	763496533 (Source)	Human	Oral cavity	Mucus	Throat	Oral swab
+SRS013949	763496533 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS013950	763496533 (Source)	Human	Oral cavity	Mucus	Subgingival dental plaque	Oral swab
+SRS013951	763496533 (Source)	Human	Colon	Feces	Colon	Stool
+SRS013956	763496533 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS014107	763435843 (Source)	Human	Oral cavity	Mucus	UBERON:subgingival dental plaque	Oral swab
+SRS014124	763820215 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS014126	763820215 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS014235	763678604 (Source)	Human	Colon	Feces	Colon	Stool
+SRS014271	763536994 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS014287	763536994 (Source)	Human	Colon	Feces	Colon	Stool
+SRS014313	763820215 (Source)	Human	Colon	Feces	Colon	Stool
+SRS014343	763820215 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS014459	763577454 (Source)	Human	Colon	Feces	Colon	Stool
+SRS014464	763577454 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS014465	763577454 (Source)	Human	UBERON:vagina	Mucus	Vaginal introitus	Vaginal swab
+SRS014466	763577454 (Source)	Human	UBERON:vagina	Mucus	Central vagina	Vaginal swab
+SRS014468	763577454 (Source)	Human	Oral cavity	Mucus	Saliva	Saliva
+SRS014470	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS014472	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS014473	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:gingiva	Oral swab
+SRS014474	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:palatine tonsil	Oral swab
+SRS014475	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:throat	Oral swab
+SRS014476	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS014477	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:subgingival dental plaque	Oral swab
+SRS014494	763577454 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS014573	763840445 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS014575	763840445 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS014578	763840445 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS014613	763840445 (Source)	Human	Colon	Feces	Colon	Stool
+SRS014629	763840445 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS014682	763961826 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS014683	763961826 (Source)	Human	Colon	Feces	Colon	Stool
+SRS014684	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS014686	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS014687	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:gingiva	Oral swab
+SRS014689	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:throat	Oral swab
+SRS014690	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS014691	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:subgingival dental plaque	Oral swab
+SRS014692	763961826 (Source)	Human	Oral cavity	Mucus	Saliva	Saliva
+SRS014888	763860675 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS014890	763860675 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS014894	763860675 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS014901	763860675 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS014923	763860675 (Source)	Human	Colon	Feces	Colon	Stool
+SRS014979	764062976 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015038	763901136 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015040	763901136 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015044	763901136 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015051	763901136 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS015054	763901136 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS015055	763577454 (Source)	Human	Oral cavity	Mucus	Saliva	Saliva
+SRS015057	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015059	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015060	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:gingiva	Oral swab
+SRS015061	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:palatine tonsil	Oral swab
+SRS015062	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:throat	Oral swab
+SRS015063	763577454 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015065	763577454 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015071	763577454 (Source)	Human	UBERON:vagina	Mucus	UBERON:vaginal introitus	Vaginal swab
+SRS015072	763577454 (Source)	Human	UBERON:vagina	Mucus	UBERON:central vagina	Vaginal swab
+SRS015073	763577454 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS015133	763901136 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015154	763759525 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015158	763759525 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015168	763759525 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS015190	763759525 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015209	764143897 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015215	764143897 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015217	764143897 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015225	764143897 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS015264	763982056 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015269	763982056 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS015272	763982056 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015274	763982056 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015278	763982056 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015369	764042746 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015374	764042746 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015378	764042746 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015381	764042746 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS015395	764042746 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015425	764042746 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS015430	764083206 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS015434	764083206 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015436	764083206 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015440	764083206 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015450	764083206 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS015470	764083206 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015537	764285508 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015574	764285508 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015578	764285508 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015640	764487809 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS015644	764487809 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015646	764487809 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015650	764487809 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015663	764487809 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015745	764224817 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015752	764224817 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS015755	764224817 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015762	764224817 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015782	764224817 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015793	763435843 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS015794	763435843 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015797	763435843 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015799	763435843 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015803	763435843 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015854	764002286 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015893	764305738 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015895	764305738 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015899	764305738 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015921	764305738 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015937	764325968 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS015941	764325968 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS015947	764325968 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015960	764325968 (Source)	Human	Colon	Feces	Colon	Stool
+SRS015985	764447348 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS015989	764447348 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS015996	764447348 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016002	764447348 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016018	764447348 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016033	764508039 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016037	764508039 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016039	764508039 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS016043	764508039 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS016056	764508039 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016086	764588959 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016088	764588959 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS016092	764588959 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS016095	764588959 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016105	764588959 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016111	764588959 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS016188	764649650 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016191	764649650 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS016196	764649650 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS016200	764649650 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS016203	764649650 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016225	764649650 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016267	764669880 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016292	765074482 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016297	765074482 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS016319	765074482 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016331	765074482 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS016335	765074482 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016342	159632143 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016349	159632143 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS016360	159632143 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS016434	159672603 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016495	159753524 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016501	159753524 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016503	159753524 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS016513	159753524 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016516	159753524 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS016529	159753524 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016533	159753524 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS016541	159753524 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS016553	159753524 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016559	159753524 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS016569	159915365 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016575	159915365 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS016581	159915365 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016584	159915365 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS016585	159915365 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016600	159915365 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS016740	160421117 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS016746	160421117 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS016752	160421117 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS016753	160421117 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016944	159450072 (Source)	Human	UBERON:skin crease	Sebum	left external ear	Skin swab
+SRS016954	159611913 (Source)	Human	Colon	Feces	Colon	Stool
+SRS016989	159490532 (Source)	Human	Colon	Feces	Colon	Stool
+SRS017007	159490532 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS017013	159490532 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS017025	159490532 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS017044	159490532 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS017076	159611913 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS017080	159611913 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS017088	159611913 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS017103	159551223 (Source)	Human	Colon	Feces	Colon	Stool
+SRS017120	159551223 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS017127	159551223 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS017139	159551223 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS017156	159551223 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS017191	159814214 (Source)	Human	Colon	Feces	Colon	Stool
+SRS017209	159814214 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS017215	159814214 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS017227	159814214 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS017244	159814214 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS017247	159510762 (Source)	Human	Colon	Feces	Colon	Stool
+SRS017304	159207311 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS017307	159632143 (Source)	Human	Colon	Feces	Colon	Stool
+SRS017433	160319967 (Source)	Human	Colon	Feces	Colon	Stool
+SRS017439	160319967 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS017441	160319967 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS017445	160319967 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS017451	160319967 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS017497	160319967 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS017511	160502038 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS017520	160502038 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS017521	160502038 (Source)	Human	Colon	Feces	Colon	Stool
+SRS017533	160502038 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS017537	160502038 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS017687	160582958 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS017691	160582958 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS017697	160582958 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS017700	160582958 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS017701	160582958 (Source)	Human	Colon	Feces	Colon	Stool
+SRS017713	160582958 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS017808	160603188 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS017810	160603188 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS017814	160603188 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS017820	160603188 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS017821	160603188 (Source)	Human	Colon	Feces	Colon	Stool
+SRS017849	160603188 (Source)	Human	UBERON:skin crease	Sebum	left external ear	Skin swab
+SRS017851	160603188 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS018133	160158126 (Source)	Human	Colon	Feces	Colon	Stool
+SRS018145	160158126 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS018149	160158126 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS018157	160158126 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS018300	160380657 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS018312	160380657 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS018313	160380657 (Source)	Human	Colon	Feces	Colon	Stool
+SRS018329	160380657 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS018337	160380657 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS018351	160178356 (Source)	Human	Colon	Feces	Colon	Stool
+SRS018357	160178356 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS018359	160178356 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS018369	160178356 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS018394	160178356 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS018427	160218816 (Source)	Human	Colon	Feces	Colon	Stool
+SRS018439	160218816 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS018443	160218816 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS018463	160218816 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS018569	765094712 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS018573	765094712 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS018575	765094712 (Source)	Human	Colon	Feces	Colon	Stool
+SRS018585	765094712 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS018591	765094712 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS018656	765013792 (Source)	Human	Colon	Feces	Colon	Stool
+SRS018661	765013792 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS018665	765013792 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS018671	765013792 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS018739	765013792 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS018769	765013792 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS018778	765135172 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS018784	765135172 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS018791	765135172 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS018817	765135172 (Source)	Human	Colon	Feces	Colon	Stool
+SRS018969	764305738 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS018971	764305738 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS018975	764305738 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS018978	764305738 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS018981	764305738 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019015	763961826 (Source)	Human	UBERON:skin crease	Sebum	left external ear	Skin swab
+SRS019016	763961826 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS019019	763961826 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019022	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019024	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS019025	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:gingiva	Oral swab
+SRS019026	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:palatine tonsil	Oral swab
+SRS019027	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:throat	Oral swab
+SRS019028	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS019029	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:subgingival dental plaque	Oral swab
+SRS019030	763961826 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019033	763961826 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS019039	763961826 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019045	763961826 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019063	764083206 (Source)	Human	UBERON:skin crease	Sebum	left external ear	Skin swab
+SRS019064	764083206 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS019067	764083206 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019071	764083206 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019073	764083206 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS019077	764083206 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS019081	764083206 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS019087	764083206 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019116	763496533 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS019119	763496533 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019120	763496533 (Source)	Human	Oral cavity	Mucus	Saliva	Saliva
+SRS019122	763496533 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019124	763496533 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS019125	763496533 (Source)	Human	Oral cavity	Mucus	UBERON:gingiva	Oral swab
+SRS019126	763496533 (Source)	Human	Oral cavity	Mucus	UBERON:palatine tonsil	Oral swab
+SRS019127	763496533 (Source)	Human	Oral cavity	Mucus	UBERON:throat	Oral swab
+SRS019128	763496533 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS019129	763496533 (Source)	Human	Oral cavity	Mucus	UBERON:subgingival dental plaque	Oral swab
+SRS019161	763496533 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019215	765034022 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019219	765034022 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019221	765034022 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS019225	765034022 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS019267	765034022 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019327	765337473 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019329	765337473 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS019333	765337473 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS019339	765337473 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019379	765337473 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS019386	765560005 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019387	765560005 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS019389	765560005 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019391	765560005 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS019397	765560005 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019582	763597684 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019587	765620695 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS019591	765620695 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS019597	765620695 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019600	765620695 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS019601	765620695 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019607	765620695 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019685	763678604 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019787	764669880 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019867	764892411 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019872	764892411 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS019894	764892411 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019906	764892411 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS019910	764892411 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019968	160643649 (Source)	Human	Colon	Feces	Colon	Stool
+SRS019974	160643649 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS019976	160643649 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS019980	160643649 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS019986	160643649 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS019989	160643649 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS020220	160400887 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS020222	160400887 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS020226	160400887 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS020232	160400887 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS020233	160400887 (Source)	Human	Colon	Feces	Colon	Stool
+SRS020261	160400887 (Source)	Human	UBERON:skin crease	Sebum	left external ear	Skin swab
+SRS020263	160400887 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS020328	160704339 (Source)	Human	Colon	Feces	Colon	Stool
+SRS020334	160704339 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS020336	160704339 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS020340	160704339 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS020349	160704339 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS020386	160704339 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS020856	160765029 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS020858	160765029 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS020862	160765029 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS020868	160765029 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS020869	160765029 (Source)	Human	Colon	Feces	Colon	Stool
+SRS021473	158479027 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS021477	158479027 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS021483	158479027 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS021484	158479027 (Source)	Human	Colon	Feces	Colon	Stool
+SRS021496	158479027 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS021948	158256496 (Source)	Human	Colon	Feces	Colon	Stool
+SRS021954	158256496 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS021960	158256496 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS021969	158256496 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS021986	158256496 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS022006	158256496 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS022071	158337416 (Source)	Human	Colon	Feces	Colon	Stool
+SRS022077	158337416 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS022079	158337416 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS022083	158337416 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS022092	158337416 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS022129	158337416 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS022137	638754422 (Source)	Human	Colon	Feces	Colon	Stool
+SRS022143	638754422 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS022145	638754422 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS022149	638754422 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS022158	638754422 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS022524	809635352 (Source)	Human	Colon	Feces	Colon	Stool
+SRS022530	809635352 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS022532	809635352 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS022536	809635352 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS022545	809635352 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS022602	158499257 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS022609	158499257 (Source)	Human	Colon	Feces	Colon	Stool
+SRS022621	158499257 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS022625	158499257 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS022645	158499257 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS022713	370425937 (Source)	Human	Colon	Feces	Colon	Stool
+SRS022719	370425937 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS022721	370425937 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS022725	370425937 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS022734	370425937 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS023212	158924089 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS023346	246515023 (Source)	Human	Colon	Feces	Colon	Stool
+SRS023352	246515023 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS023354	246515023 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS023358	246515023 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS023468	246515023 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS023526	158802708 (Source)	Human	Colon	Feces	Colon	Stool
+SRS023534	158802708 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS023538	158802708 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS023557	158802708 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS023583	159005010 (Source)	Human	Colon	Feces	Colon	Stool
+SRS023591	159005010 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS023595	159005010 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS023604	159005010 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS023617	159005010 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS023829	158883629 (Source)	Human	Colon	Feces	Colon	Stool
+SRS023835	158883629 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS023837	158883629 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS023841	158883629 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS023847	158883629 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS023850	158883629 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS023914	159268001 (Source)	Human	Colon	Feces	Colon	Stool
+SRS023926	159268001 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS023930	159268001 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS023938	159268001 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS023958	159369152 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS023964	159369152 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS023970	159369152 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS023971	159369152 (Source)	Human	Colon	Feces	Colon	Stool
+SRS023987	159369152 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS024009	159247771 (Source)	Human	Colon	Feces	Colon	Stool
+SRS024015	159247771 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS024017	159247771 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS024021	159247771 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS024064	159247771 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS024068	159247771 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS024075	159510762 (Source)	Human	Colon	Feces	Colon	Stool
+SRS024081	159510762 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS024087	159510762 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS024132	159207311 (Source)	Human	Colon	Feces	Colon	Stool
+SRS024138	159207311 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS024140	159207311 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS024144	159207311 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS024265	158944319 (Source)	Human	Colon	Feces	Colon	Stool
+SRS024277	158944319 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS024281	158944319 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS024289	158944319 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS024301	158944319 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS024310	158944319 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS024318	159551223 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS024331	159551223 (Source)	Human	Colon	Feces	Colon	Stool
+SRS024347	159551223 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS024355	159551223 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS024375	159713063 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS024377	159713063 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS024381	159713063 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS024388	159713063 (Source)	Human	Colon	Feces	Colon	Stool
+SRS024424	159713063 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS024428	159713063 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS024435	159571453 (Source)	Human	Colon	Feces	Colon	Stool
+SRS024441	159571453 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS024447	159571453 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS024470	159571453 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS024482	159571453 (Source)	Human	UBERON:skin crease	Sebum	left external ear	Skin swab
+SRS024549	159591683 (Source)	Human	Colon	Feces	Colon	Stool
+SRS024557	159591683 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS024561	159591683 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS024567	159591683 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS024580	159591683 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS024596	159591683 (Source)	Human	UBERON:skin crease	Sebum	left external ear	Skin swab
+SRS024598	159591683 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS024620	159611913 (Source)	Human	UBERON:skin crease	Sebum	left external ear	Skin swab
+SRS024625	159611913 (Source)	Human	Colon	Feces	Colon	Stool
+SRS024637	159611913 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS024641	159611913 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS024649	159611913 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS024655	159611913 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS042131	764487809 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS042284	764811490 (Source)	Human	Colon	Feces	Colon	Stool
+SRS042428	706846339 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS042457	686765762 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS042628	764447348 (Source)	Human	Colon	Feces	Colon	Stool
+SRS042643	404239096 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS042858	159753524 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS042910	763820215 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS042984	638754422 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS043001	550534656 (Source)	Human	Colon	Feces	Colon	Stool
+SRS043018	763759525 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS043239	675950834 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS043411	763759525 (Source)	Human	Colon	Feces	Colon	Stool
+SRS043646	604812005 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS043663	686765762 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS043676	763820215 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS043701	159814214 (Source)	Human	Colon	Feces	Colon	Stool
+SRS043755	404239096 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS043772	763982056 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS043803	765094712 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS044366	550534656 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS044373	550534656 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS044474	159490532 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS044486	763982056 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS044626	764325968 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS044662	370425937 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS044742	763759525 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS045004	604812005 (Source)	Human	Colon	Feces	Colon	Stool
+SRS045049	404239096 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS045127	604812005 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS045197	765094712 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS045254	861967750 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS045262	706846339 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS045313	686765762 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS045606	338793263 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS045645	604812005 (Source)	Human	Colon	Feces	Colon	Stool
+SRS045713	404239096 (Source)	Human	Colon	Feces	Colon	Stool
+SRS045715	246515023 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS045978	763759525 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS046344	823052294 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS046623	604812005 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS046686	159490532 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS046688	764224817 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS046973	765701615 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS047014	765074482 (Source)	Human	Colon	Feces	Colon	Stool
+SRS047044	764224817 (Source)	Human	Colon	Feces	Colon	Stool
+SRS047100	764811490 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS047113	159814214 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS047210	763759525 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS047219	763536994 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS047225	159814214 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS047254	764447348 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS047265	764487809 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS047335	764143897 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS047634	160158126 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS047708	508703490 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS047824	737052003 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS047844	763982056 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS048164	861967750 (Source)	Human	Colon	Feces	Colon	Stool
+SRS048411	764325968 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS048536	638754422 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS048719	823052294 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS048791	638754422 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS048870	764184357 (Source)	Human	Colon	Feces	Colon	Stool
+SRS049147	159227541 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS049164	765074482 (Source)	Human	Colon	Feces	Colon	Stool
+SRS049237	764811490 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS049268	604812005 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS049283	764325968 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS049318	246515023 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS049389	765701615 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS049712	823052294 (Source)	Human	Colon	Feces	Colon	Stool
+SRS049744	764487809 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS049900	686765762 (Source)	Human	Colon	Feces	Colon	Stool
+SRS049959	765701615 (Source)	Human	Colon	Feces	Colon	Stool
+SRS049995	159227541 (Source)	Human	Colon	Feces	Colon	Stool
+SRS050007	550534656 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS050025	404239096 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS050029	338793263 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS050184	508703490 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS050244	675950834 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS050299	763982056 (Source)	Human	Colon	Feces	Colon	Stool
+SRS050422	763536994 (Source)	Human	Colon	Feces	Colon	Stool
+SRS050484	764143897 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS050628	765701615 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS050669	159814214 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS050752	765640925 (Source)	Human	Colon	Feces	Colon	Stool
+SRS050925	763860675 (Source)	Human	Colon	Feces	Colon	Stool
+SRS051031	764487809 (Source)	Human	Colon	Feces	Colon	Stool
+SRS051116	638754422 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS051244	861967750 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS051378	763820215 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS051505	338793263 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS051600	765094712 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS051613	861967750 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS051791	765094712 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS051882	764143897 (Source)	Human	Colon	Feces	Colon	Stool
+SRS051930	764143897 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS051941	706846339 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS052027	159490532 (Source)	Human	Colon	Feces	Colon	Stool
+SRS052227	338793263 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS052330	765640925 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS052590	737052003 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS052604	338793263 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS052620	370425937 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS052668	370425937 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS052697	706846339 (Source)	Human	Colon	Feces	Colon	Stool
+SRS052756	159227541 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS052874	764811490 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS052876	737052003 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS052988	765094712 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS053214	159753524 (Source)	Human	Colon	Feces	Colon	Stool
+SRS053335	508703490 (Source)	Human	Colon	Feces	Colon	Stool
+SRS053398	675950834 (Source)	Human	Colon	Feces	Colon	Stool
+SRS053437	765640925 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS053584	764224817 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS053603	764811490 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS053630	508703490 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS053854	508703490 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS053917	370425937 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS054061	338793263 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS054430	159490532 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS054569	160158126 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS054590	338793263 (Source)	Human	Colon	Feces	Colon	Stool
+SRS054653	765640925 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS054687	706846339 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS054776	764224817 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS054956	737052003 (Source)	Human	Colon	Feces	Colon	Stool
+SRS054962	763820215 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS055118	737052003 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS055298	246515023 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS055378	763860675 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS055401	675950834 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS055426	604812005 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS055450	764325968 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS055495	159490532 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS055982	638754422 (Source)	Human	Colon	Feces	Colon	Stool
+SRS056157	159753524 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS056210	763759525 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS056259	764325968 (Source)	Human	Colon	Feces	Colon	Stool
+SRS056323	765640925 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS056519	765094712 (Source)	Human	Colon	Feces	Colon	Stool
+SRS056622	764143897 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS056695	737052003 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS056796	675950834 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS056892	764143897 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS057022	246515023 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS057083	764447348 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS057205	764224817 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS057290	764447348 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS057355	763860675 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS057478	370425937 (Source)	Human	Colon	Feces	Colon	Stool
+SRS057539	861967750 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS057692	160158126 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS057717	246515023 (Source)	Human	Colon	Feces	Colon	Stool
+SRS057791	823052294 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS057807	550534656 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS058053	604812005 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS058105	764487809 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS058182	159490532 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS058186	508703490 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS058213	706846339 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS058221	404239096 (Source)	Human	UBERON:skin crease	Sebum	right external ear	Skin swab
+SRS058336	764447348 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS058723	763820215 (Source)	Human	Colon	Feces	Colon	Stool
+SRS058770	160158126 (Source)	Human	Colon	Feces	Colon	Stool
+SRS058808	765701615 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS062427	763536994 (Source)	Human	Colon	Feces	Colon	Stool
+SRS062520	764062976 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS062540	764042746 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS062544	763536994 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS062713	763840445 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS062752	764042746 (Source)	Human	UBERON:vagina	Mucus	UBERON:vaginal introitus	Vaginal swab
+SRS062761	686765762 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS062878	765560005 (Source)	Human	Oral cavity	Mucus	Hard palate	Oral swab
+SRS063035	159510762 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS063040	809635352 (Source)	Human	Colon	Feces	Colon	Stool
+SRS063178	765560005 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS063193	763840445 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS063215	764042746 (Source)	Human	Oral cavity	Mucus	UBERON:subgingival dental plaque	Oral swab
+SRS063272	764062976 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS063287	763536994 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS063288	809635352 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS063351	764042746 (Source)	Human	Oral cavity	Mucus	UBERON:palatine tonsil	Oral swab
+SRS063417	763840445 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS063478	763840445 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS063603	763901136 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS063932	159510762 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS063985	763901136 (Source)	Human	Colon	Feces	Colon	Stool
+SRS063999	763840445 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS064219	686765762 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS064276	763840445 (Source)	Human	Colon	Feces	Colon	Stool
+SRS064329	159510762 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS064376	764042746 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS064423	763901136 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS064449	764062976 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS064493	763536994 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS064557	764042746 (Source)	Human	Colon	Feces	Colon	Stool
+SRS064645	686765762 (Source)	Human	Colon	Feces	Colon	Stool
+SRS064704	809635352 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS064774	764062976 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS064809	763901136 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS065099	809635352 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS065133	686765762 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS065142	764062976 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS065179	764042746 (Source)	Human	UBERON:nasal cavity	Mucus	Nares	Nostril swab
+SRS065278	763901136 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS065310	764042746 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS065335	765560005 (Source)	Human	Oral cavity	Mucus	UBERON:throat	Oral swab
+SRS065347	763901136 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS065431	809635352 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS065504	764062976 (Source)	Human	Colon	Feces	Colon	Stool
+SRS075398	158883629 (Source)	Human	Colon	Feces	Colon	Stool
+SRS075404	158883629 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS075406	158883629 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS075410	158883629 (Source)	Human	Oral cavity	Mucus	UBERON:supragingival dental plaque	Oral swab
+SRS075419	158883629 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS077730	159753524 (Source)	Human	Colon	Feces	Colon	Stool
+SRS077736	159753524 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS077738	159753524 (Source)	Human	Oral cavity	Mucus	UBERON:buccal mucosa	Oral swab
+SRS077751	159753524 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab
+SRS078176	159227541 (Source)	Human	Colon	Feces	Colon	Stool
+SRS078182	159227541 (Source)	Human	Oral cavity	Mucus	UBERON:dorsum of tongue	Oral swab
+SRS078197	159227541 (Source)	Human	UBERON:vagina	Mucus	UBERON:posterior fornix of vagina	Vaginal swab

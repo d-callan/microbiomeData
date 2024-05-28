@@ -2,178 +2,178 @@ Participant_Id	City, village, or region [ENVO_00000856]	Country [ENVO_00000009]	
 SRS4060783.SRR8216242 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
 SRS4060784.SRR8216241 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
 SRS4060785.SRR8216240 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
+SRS4060786.SRR8216239 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060787.SRR8216238 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
 SRS4060788.SRR8216237 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
 SRS4060789.SRR8216236 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
+SRS4060790.SRR8216235 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060791.SRR8216234 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060792.SRR8216233 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060793.SRR8216231 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060794.SRR8216232 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060795.SRR8216230 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
 SRS4060796.SRR8216229 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
 SRS4060797.SRR8216228 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
-			Non-gravid adult female, 2-5 days old				
+SRS4060798.SRR8216227 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
 SRS4060799.SRR8216226 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
 SRS4060800.SRR8216225 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
+SRS4060801.SRR8216224 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060802.SRR8216223 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060803.SRR8216221 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060804.SRR8216222 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060805.SRR8216220 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060806.SRR8216219 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060807.SRR8216218 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060808.SRR8216217 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060809.SRR8216216 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060810.SRR8216215 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060811.SRR8216214 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060812.SRR8216213 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060813.SRR8216212 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060814.SRR8216211 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
 SRS4060815.SRR8216210 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
 SRS4060816.SRR8216209 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 4	Anopheles albimanus
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
+SRS4060817.SRR8216208 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060818.SRR8216207 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060819.SRR8216206 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060820.SRR8216205 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060821.SRR8216204 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060822.SRR8216203 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060823.SRR8216202 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060824.SRR8216201 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060825.SRR8216200 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060826.SRR8216199 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060827.SRR8216198 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060828.SRR8216197 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060829.SRR8216196 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060830.SRR8216195 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060831.SRR8216194 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060832.SRR8216193 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060833.SRR8216192 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060834.SRR8216191 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060835.SRR8216190 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060836.SRR8216189 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 3	Anopheles albimanus
+SRS4060837.SRR8216188 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060838.SRR8216187 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060839.SRR8216186 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060840.SRR8216185 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060841.SRR8216184 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060842.SRR8216183 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060843.SRR8216180 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060844.SRR8216181 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060845.SRR8216182 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060846.SRR8216179 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060847.SRR8216177 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060848.SRR8216178 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060849.SRR8216176 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060850.SRR8216175 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060851.SRR8216174 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060852.SRR8216173 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060853.SRR8216171 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060854.SRR8216172 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060855.SRR8216170 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060856.SRR8216169 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060857.SRR8216168 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060858.SRR8216167 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
+SRS4060859.SRR8216165 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
+SRS4060860.SRR8216166 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
+SRS4060861.SRR8216164 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
+SRS4060862.SRR8216163 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 4	Anopheles albimanus
 SRS4060863.SRR8216162 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
 SRS4060864.SRR8216161 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
 SRS4060865.SRR8216159 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
 SRS4060866.SRR8216160 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
-			Non-gravid adult female, 2-5 days old				
+SRS4060867.SRR8216158 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
 SRS4060868.SRR8216156 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
-			Non-gravid adult female, 2-5 days old				
+SRS4060869.SRR8216157 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
 SRS4060870.SRR8216155 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 3	Anopheles albimanus
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
+SRS4060871.SRR8216154 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
+SRS4060872.SRR8216153 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
+SRS4060873.SRR8216152 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060874.SRR8216151 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060875.SRR8216150 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060876.SRR8216149 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060877.SRR8216148 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060878.SRR8216147 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060879.SRR8216146 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060880.SRR8216145 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060881.SRR8216144 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060882.SRR8216143 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060883.SRR8216142 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060884.SRR8216141 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060885.SRR8216140 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060886.SRR8216139 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060887.SRR8216138 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060888.SRR8216137 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060889.SRR8216136 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060890.SRR8216134 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
+SRS4060891.SRR8216135 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 3	Anopheles albimanus
 SRS4060892.SRR8216133 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
 SRS4060893.SRR8216132 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
 SRS4060894.SRR8216131 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
 SRS4060895.SRR8216130 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
 SRS4060896.SRR8216129 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
 SRS4060897.SRR8216128 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		El Terrero	Anopheles albimanus
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
+SRS4060898.SRR8216127 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060899.SRR8216126 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060900.SRR8216125 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060901.SRR8216124 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	El Terrero	Anopheles albimanus
+SRS4060902.SRR8216123 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060903.SRR8216122 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060904.SRR8216121 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060905.SRR8216120 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060906.SRR8216119 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060907.SRR8216118 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060908.SRR8216117 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060909.SRR8216116 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060910.SRR8216115 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060911.SRR8216114 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060912.SRR8216113 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060913.SRR8216112 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060914.SRR8216111 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060915.SRR8216110 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060916.SRR8216109 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060917.SRR8216108 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060918.SRR8216107 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060919.SRR8216106 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060920.SRR8216105 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060921.SRR8216104 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060922.SRR8216103 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
+SRS4060923.SRR8216102 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
+SRS4060924.SRR8216101 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060925.SRR8216100 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060926.SRR8216099 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060927.SRR8216098 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060928.SRR8216096 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060929.SRR8216097 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060930.SRR8216095 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060931.SRR8216094 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060932.SRR8216093 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060933.SRR8216092 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060934.SRR8216091 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060935.SRR8216090 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
 SRS4060936.SRR8216089 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
 SRS4060937.SRR8216088 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
 SRS4060938.SRR8216087 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
 SRS4060939.SRR8216086 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
 SRS4060940.SRR8216085 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
 SRS4060941.SRR8216084 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	undetermined		Las Cruces 1	Anopheles albimanus
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
-			Larva, L3-L4 stage				
+SRS4060942.SRR8216083 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060943.SRR8216082 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 1	Anopheles albimanus
+SRS4060944.SRR8216081 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid susceptible	topical exposure to deltamethrin	Las Cruces 4	Anopheles albimanus
+SRS4060945.SRR8216080 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060946.SRR8216079 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to alphacypermethrin	Las Cruces 3	Anopheles albimanus
+SRS4060947.SRR8216078 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060948.SRR8216077 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
+SRS4060949.SRR8216076 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
+SRS4060950.SRR8216075 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060951.SRR8216074 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid susceptible	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
 SRS4060952.SRR8216073 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
 SRS4060953.SRR8216072 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
 SRS4060954.SRR8216071 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
 SRS4060955.SRR8216070 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
 SRS4060956.SRR8216069 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
 SRS4060957.SRR8216068 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 4	Anopheles albimanus
-			Non-gravid adult female, 2-5 days old				
-			Larva, L3-L4 stage				
+SRS4060958.SRR8216067 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Non-gravid adult female, 2-5 days old	pyrethroid resistant	topical exposure to permethrin	Las Cruces 4	Anopheles albimanus
+SRS4060959.SRR8216066 (Source)	Guatemala: El Terrero, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	pyrethroid resistant	topical exposure to deltamethrin	El Terrero	Anopheles albimanus
 SRS4060960.SRR8216065 (Source)	Guatemala: Las Cruces, La Gomera, Escuintla	Guatemala	Larva, L3-L4 stage	undetermined		Las Cruces 3	Anopheles albimanus

@@ -1,52 +1,52 @@
 Participant_Id	City, village, or region [ENVO_00000856]	Contents of diet [EUPATH_0050531]	Country [ENVO_00000009]	Delivery mode [EUPATH_0000581]	Elevation (feet) [ENVO_00000176]	Environment (biome) [ENVO_00000428]	Habitat [ENVO_01000739]	Mom's courses of delivery antibiotics [EUPATH_0000497]	Mother or child [EUPATH_0000594]	Prenatal antibiotics (yes/no) [EUPATH_0000599]	Prenatal antibotics (by class) [EUPATH_0000600]	Prenatal antibotics (by trimester) [EUPATH_0000601]	Sex [PATO_0000047]	Title [OBI_0001622]
 1 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-10 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-11 (Source)	New York City, NY	Formula-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-12 (Source)	New York City, NY	Breast milk-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-14 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-15 (Source)	New York City, NY		United States of America		33	Urban biome	Human-associated habitat	0	Mother	No				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-16 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-17 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-18 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-19 (Source)	New York City, NY		United States of America		33	Urban biome	Human-associated habitat	0	Mother	No				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-													Male	
-20 (Source)	New York City, NY	Breast milk-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-21 (Source)	New York City, NY	Formula-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-22 (Source)	New York City, NY	Formula-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-23 (Source)	New York City, NY	Breast milk-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-24 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-25 (Source)	New York City, NY	Breast milk-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-26 (Source)	New York City, NY		United States of America		33	Urban biome	Human-associated habitat	0	Mother	No				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-27 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-29 (Source)	New York City, NY		United States of America		33	Urban biome	Human-associated habitat	0	Mother	No				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-30 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-31 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-32 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-33 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-34 (Source)	New York City, NY	Formula-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-35 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-36 (Source)	New York City, NY	Formula-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-37 (Source)	New York City, NY	Formula-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-38 (Source)	New York City, NY	Formula-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-39 (Source)	New York City, NY		United States of America		33	Urban biome	Human-associated habitat	0	Mother	No				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-													Male	
-41 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-													Male	
-43 (Source)	New York City, NY	Formula-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-44 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-45 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-													Female	
-47 (Source)	New York City, NY	Breast milk-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-													Male	
-5 (Source)	New York City, NY	Formula-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-50 (Source)	New York City, NY		United States of America	Cesarean	33	Urban biome	Human-associated habitat	1	Mother	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-51 (Source)	New York City, NY		United States of America	Vaginal	33	Urban biome	Human-associated habitat	0	Mother	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-52 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-53 (Source)	New York City, NY	Breast milk-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-													Male	
-56 (Source)	New York City, NY	Breast milk-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-57 (Source)	New York City, NY	Breast milk-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-6 (Source)	New York City, NY		United States of America	Vaginal	33	Urban biome	Human-associated habitat	0	Mother	No				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-7 (Source)	New York City, NY	Breast milk-dominant	United States of America	Cesarean	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-8 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
-9 (Source)	New York City, NY	Breast milk-dominant	United States of America	Vaginal	33	Urban biome	Human-associated habitat		Child	No			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+10 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+11 (Source)	USA:NY:NYC	fd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+12 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+14 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+15 (Source)	USA:NY:NYC		USA		33	urban biome	human-associated habitat	0	M	FALSE				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+16 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+17 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+18 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+19 (Source)	USA:NY:NYC		USA		33	urban biome	human-associated habitat	0	M	FALSE				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+2 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	Yes	Nitrofuran	1	Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+20 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+21 (Source)	USA:NY:NYC	fd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+22 (Source)	USA:NY:NYC	fd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+23 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+24 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+25 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+26 (Source)	USA:NY:NYC		USA		33	urban biome	human-associated habitat	0	M	FALSE				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+27 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+29 (Source)	USA:NY:NYC		USA		33	urban biome	human-associated habitat	0	M	FALSE				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+30 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+31 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+32 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+33 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+34 (Source)	USA:NY:NYC	fd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+35 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+36 (Source)	USA:NY:NYC	fd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+37 (Source)	USA:NY:NYC	fd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+38 (Source)	USA:NY:NYC	fd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+39 (Source)	USA:NY:NYC		USA		33	urban biome	human-associated habitat	0	M	FALSE				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+4 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	TRUE	Beta-lactam	3	Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+41 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+42 (Source)	USA:NY:NYC	fd	USA	Vaginal	33	urban biome	human-associated habitat		C	TRUE	beta-lactam	1	Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+43 (Source)	USA:NY:NYC	fd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+44 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+45 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+46 (Source)	USA:NY:NYC	fd	USA	Cesarean	33	urban biome	human-associated habitat		C	TRUE	beta-lactam	1	Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+47 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+49 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	TRUE	Macrolide	1	Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+5 (Source)	USA:NY:NYC	Formula-dominant	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+50 (Source)	USA:NY:NYC		USA	Cesarean	33	urban biome	human-associated habitat	1	M	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+51 (Source)	USA:NY:NYC		USA	Vaginal	33	urban biome	human-associated habitat	0	M	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+52 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+53 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+55 (Source)	USA:NY:NYC	fd	USA	Cesarean	33	urban biome	human-associated habitat		C	TRUE	macrolide	2	Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+56 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+57 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Female	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+6 (Source)	USA:NY:NYC		USA	Vaginal	33	urban biome	human-associated habitat	0	M	FALSE				ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+7 (Source)	USA:NY:NYC	bd	USA	Cesarean	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+8 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life
+9 (Source)	USA:NY:NYC	bd	USA	Vaginal	33	urban biome	human-associated habitat		C	FALSE			Male	ECAM: Antibiotics, birth mode, and diet shape microbiome maturation during early life

@@ -1,1017 +1,1017 @@
 Participant_Id	Age (months) [OBI_0001169]	Age group at enrollment [EUPATH_0051008]	Case or control participant [EUPATH_0010375]	Country [ENVO_00000009]	Habitat [ENVO_01000739]
-1010044131 (Source)	40	24-60 months	Case	The Gambia	Human
-1010046691 (Source)	7	6-12 months	Case	The Gambia	Human
-1010054561 (Source)	14	12-18 months	Case	The Gambia	Human
-1010059251 (Source)	14	12-18 months	Case	The Gambia	Human
-1010066181 (Source)	21	18-24 months	Case	The Gambia	Human
-1010067311 (Source)	20	18-24 months	Case	The Gambia	Human
-1010079241 (Source)	9	6-12 months	Case	The Gambia	Human
-1010087021 (Source)	23	18-24 months	Case	The Gambia	Human
-1010094711 (Source)	26	24-60 months	Case	The Gambia	Human
-1010096581 (Source)	10	6-12 months	Case	The Gambia	Human
-1010097101 (Source)	10	6-12 months	Case	The Gambia	Human
-1010129541 (Source)	20	18-24 months	Case	The Gambia	Human
-1010133241 (Source)	15	12-18 months	Case	The Gambia	Human
-1010136971 (Source)	25	24-60 months	Case	The Gambia	Human
-1010151691 (Source)	7	6-12 months	Case	The Gambia	Human
-1010153751 (Source)	28	24-60 months	Case	The Gambia	Human
-1010156121 (Source)	21	18-24 months	Case	The Gambia	Human
-1010159731 (Source)	9	6-12 months	Case	The Gambia	Human
-1010161401 (Source)	13	12-18 months	Case	The Gambia	Human
-1010163861 (Source)	10	6-12 months	Case	The Gambia	Human
-1010166711 (Source)	8	6-12 months	Case	The Gambia	Human
-1010169461 (Source)	17	12-18 months	Case	The Gambia	Human
-1010170171 (Source)	12	12-18 months	Case	The Gambia	Human
-1010171221 (Source)	46	24-60 months	Case	The Gambia	Human
-1010173101 (Source)	8	6-12 months	Case	The Gambia	Human
-1010173551 (Source)	26	24-60 months	Case	The Gambia	Human
-1010174041 (Source)	4	0-6 months	Case	The Gambia	Human
-1010174341 (Source)	6	6-12 months	Case	The Gambia	Human
-1010175751 (Source)	9	6-12 months	Case	The Gambia	Human
-1010182091 (Source)	6	6-12 months	Case	The Gambia	Human
-1010183611 (Source)	22	18-24 months	Case	The Gambia	Human
-1010185871 (Source)	7	6-12 months	Case	The Gambia	Human
-1010186341 (Source)	9	6-12 months	Case	The Gambia	Human
-1010187231 (Source)	3	0-6 months	Case	The Gambia	Human
-1010188151 (Source)	15	12-18 months	Case	The Gambia	Human
-1010189061 (Source)	9	6-12 months	Case	The Gambia	Human
-1010189561 (Source)	28	24-60 months	Case	The Gambia	Human
-1010192001 (Source)	35	24-60 months	Case	The Gambia	Human
-1010195491 (Source)	21	18-24 months	Case	The Gambia	Human
-1010198861 (Source)	7	6-12 months	Case	The Gambia	Human
-1010202231 (Source)	16	12-18 months	Case	The Gambia	Human
-1010206231 (Source)	19	18-24 months	Case	The Gambia	Human
-1010206831 (Source)	7	6-12 months	Case	The Gambia	Human
-1010212971 (Source)	4	0-6 months	Case	The Gambia	Human
-1010214781 (Source)	19	18-24 months	Case	The Gambia	Human
-1010217481 (Source)	19	18-24 months	Case	The Gambia	Human
-1010218221 (Source)	8	6-12 months	Case	The Gambia	Human
-1010221771 (Source)	16	12-18 months	Case	The Gambia	Human
-1010222161 (Source)	17	12-18 months	Case	The Gambia	Human
-1010224511 (Source)	10	6-12 months	Case	The Gambia	Human
-1010225671 (Source)	22	18-24 months	Case	The Gambia	Human
-1010225821 (Source)	8	6-12 months	Case	The Gambia	Human
-1019006191 (Source)	58	24-60 months	Control	The Gambia	Human
-1019006601 (Source)	42	24-60 months	Control	The Gambia	Human
-1019008251 (Source)	17	12-18 months	Control	The Gambia	Human
-1019009471 (Source)	10	6-12 months	Control	The Gambia	Human
-1019010731 (Source)	19	18-24 months	Control	The Gambia	Human
-1019011371 (Source)	10	6-12 months	Control	The Gambia	Human
-1019011491 (Source)	10	6-12 months	Control	The Gambia	Human
+1010044131 (Source)	40	[24,60)	Case	The Gambia	Human
+1010046691 (Source)	7	[6,12)	Case	The Gambia	Human
+1010054561 (Source)	14	[12,18)	Case	The Gambia	Human
+1010059251 (Source)	14	[12,18)	Case	The Gambia	Human
+1010066181 (Source)	21	[18,24)	Case	The Gambia	Human
+1010067311 (Source)	20	[18,24)	Case	The Gambia	Human
+1010079241 (Source)	9	[6,12)	Case	The Gambia	Human
+1010087021 (Source)	23	[18,24)	Case	The Gambia	Human
+1010094711 (Source)	26	[24,60)	Case	The Gambia	Human
+1010096581 (Source)	10	[6,12)	Case	The Gambia	Human
+1010097101 (Source)	10	[6,12)	Case	The Gambia	Human
+1010129541 (Source)	20	[18,24)	Case	The Gambia	Human
+1010133241 (Source)	15	[12,18)	Case	The Gambia	Human
+1010136971 (Source)	25	[24,60)	Case	The Gambia	Human
+1010151691 (Source)	7	[6,12)	Case	The Gambia	Human
+1010153751 (Source)	28	[24,60)	Case	The Gambia	Human
+1010156121 (Source)	21	[18,24)	Case	The Gambia	Human
+1010159731 (Source)	9	[6,12)	Case	The Gambia	Human
+1010161401 (Source)	13	[12,18)	Case	The Gambia	Human
+1010163861 (Source)	10	[6,12)	Case	The Gambia	Human
+1010166711 (Source)	8	[6,12)	Case	The Gambia	Human
+1010169461 (Source)	17	[12,18)	Case	The Gambia	Human
+1010170171 (Source)	12	[12,18)	Case	The Gambia	Human
+1010171221 (Source)	46	[24,60)	Case	The Gambia	Human
+1010173101 (Source)	8	[6,12)	Case	The Gambia	Human
+1010173551 (Source)	26	[24,60)	Case	The Gambia	Human
+1010174041 (Source)	4	[0,6)	Case	The Gambia	Human
+1010174341 (Source)	6	[6,12)	Case	The Gambia	Human
+1010175751 (Source)	9	[6,12)	Case	The Gambia	Human
+1010182091 (Source)	6	[6,12)	Case	The Gambia	Human
+1010183611 (Source)	22	[18,24)	Case	The Gambia	Human
+1010185871 (Source)	7	[6,12)	Case	The Gambia	Human
+1010186341 (Source)	9	[6,12)	Case	The Gambia	Human
+1010187231 (Source)	3	[0,6)	Case	The Gambia	Human
+1010188151 (Source)	15	[12,18)	Case	The Gambia	Human
+1010189061 (Source)	9	[6,12)	Case	The Gambia	Human
+1010189561 (Source)	28	[24,60)	Case	The Gambia	Human
+1010192001 (Source)	35	[24,60)	Case	The Gambia	Human
+1010195491 (Source)	21	[18,24)	Case	The Gambia	Human
+1010198861 (Source)	7	[6,12)	Case	The Gambia	Human
+1010202231 (Source)	16	[12,18)	Case	The Gambia	Human
+1010206231 (Source)	19	[18,24)	Case	The Gambia	Human
+1010206831 (Source)	7	[6,12)	Case	The Gambia	Human
+1010212971 (Source)	4	[0,6)	Case	The Gambia	Human
+1010214781 (Source)	19	[18,24)	Case	The Gambia	Human
+1010217481 (Source)	19	[18,24)	Case	The Gambia	Human
+1010218221 (Source)	8	[6,12)	Case	The Gambia	Human
+1010221771 (Source)	16	[12,18)	Case	The Gambia	Human
+1010222161 (Source)	17	[12,18)	Case	The Gambia	Human
+1010224511 (Source)	10	[6,12)	Case	The Gambia	Human
+1010225671 (Source)	22	[18,24)	Case	The Gambia	Human
+1010225821 (Source)	8	[6,12)	Case	The Gambia	Human
+1019006191 (Source)	58	[24,60)	Control	The Gambia	Human
+1019006601 (Source)	42	[24,60)	Control	The Gambia	Human
+1019008251 (Source)	17	[12,18)	Control	The Gambia	Human
+1019009471 (Source)	10	[6,12)	Control	The Gambia	Human
+1019010731 (Source)	19	[18,24)	Control	The Gambia	Human
+1019011371 (Source)	10	[6,12)	Control	The Gambia	Human
+1019011491 (Source)	10	[6,12)	Control	The Gambia	Human
 1019011691 (Source)	8	6-12 months	Control	The Gambia	Human
-1019014741 (Source)	19	18-24 months	Control	The Gambia	Human
-1019015481 (Source)	12	12-18 months	Control	The Gambia	Human
-1019015881 (Source)	24	24-60 months	Control	The Gambia	Human
-1019016121 (Source)	26	24-60 months	Control	The Gambia	Human
-1019017481 (Source)	28	24-60 months	Control	The Gambia	Human
-1019018161 (Source)	7	6-12 months	Control	The Gambia	Human
-1019018761 (Source)	9	6-12 months	Control	The Gambia	Human
-1019020141 (Source)	8	6-12 months	Control	The Gambia	Human
-1019020341 (Source)	7	6-12 months	Control	The Gambia	Human
-1019020421 (Source)	5	0-6 months	Control	The Gambia	Human
-1019020461 (Source)	25	24-60 months	Control	The Gambia	Human
-1019020621 (Source)	10	6-12 months	Control	The Gambia	Human
-1019021331 (Source)	8	6-12 months	Control	The Gambia	Human
-1019022011 (Source)	4	0-6 months	Control	The Gambia	Human
-1019022371 (Source)	25	24-60 months	Control	The Gambia	Human
-1019022381 (Source)	24	24-60 months	Control	The Gambia	Human
-1019022571 (Source)	25	24-60 months	Control	The Gambia	Human
-1019022621 (Source)	42	24-60 months	Control	The Gambia	Human
-1019022821 (Source)	39	24-60 months	Control	The Gambia	Human
-1019022931 (Source)	38	24-60 months	Control	The Gambia	Human
-1019022941 (Source)	34	24-60 months	Control	The Gambia	Human
-1019023091 (Source)	17	12-18 months	Control	The Gambia	Human
-1019023101 (Source)	21	18-24 months	Control	The Gambia	Human
-1019023221 (Source)	21	18-24 months	Control	The Gambia	Human
-1019023971 (Source)	9	6-12 months	Control	The Gambia	Human
-1019023981 (Source)	6	6-12 months	Control	The Gambia	Human
-1019024531 (Source)	14	12-18 months	Control	The Gambia	Human
-1019024851 (Source)	9	6-12 months	Control	The Gambia	Human
-1019025501 (Source)	27	24-60 months	Control	The Gambia	Human
-1019025511 (Source)	28	24-60 months	Control	The Gambia	Human
-1019025611 (Source)	6	6-12 months	Control	The Gambia	Human
-1019025661 (Source)	20	18-24 months	Control	The Gambia	Human
-1019025771 (Source)	21	18-24 months	Control	The Gambia	Human
-1019026031 (Source)	8	6-12 months	Control	The Gambia	Human
-1019026181 (Source)	15	12-18 months	Control	The Gambia	Human
-1019026251 (Source)	10	6-12 months	Control	The Gambia	Human
-1019026261 (Source)	10	6-12 months	Control	The Gambia	Human
-1019026331 (Source)	23	18-24 months	Control	The Gambia	Human
-1019026491 (Source)	4	0-6 months	Control	The Gambia	Human
-1020016511 (Source)	17	12-18 months	Case	The Gambia	Human
-1020017181 (Source)	36	24-60 months	Case	The Gambia	Human
-1020017261 (Source)	29	24-60 months	Case	The Gambia	Human
-1020018321 (Source)	20	18-24 months	Case	The Gambia	Human
-1020040931 (Source)	11	6-12 months	Case	The Gambia	Human
+1019014741 (Source)	19	[18,24)	Control	The Gambia	Human
+1019015481 (Source)	12	[12,18)	Control	The Gambia	Human
+1019015881 (Source)	24	[24,60)	Control	The Gambia	Human
+1019016121 (Source)	26	[24,60)	Control	The Gambia	Human
+1019017481 (Source)	28	[24,60)	Control	The Gambia	Human
+1019018161 (Source)	7	[6,12)	Control	The Gambia	Human
+1019018761 (Source)	9	[6,12)	Control	The Gambia	Human
+1019020141 (Source)	8	[6,12)	Control	The Gambia	Human
+1019020341 (Source)	7	[6,12)	Control	The Gambia	Human
+1019020421 (Source)	5	[0,6)	Control	The Gambia	Human
+1019020461 (Source)	25	[24,60)	Control	The Gambia	Human
+1019020621 (Source)	10	[6,12)	Control	The Gambia	Human
+1019021331 (Source)	8	[6,12)	Control	The Gambia	Human
+1019022011 (Source)	4	[0,6)	Control	The Gambia	Human
+1019022371 (Source)	25	[24,60)	Control	The Gambia	Human
+1019022381 (Source)	24	[24,60)	Control	The Gambia	Human
+1019022571 (Source)	25	[24,60)	Control	The Gambia	Human
+1019022621 (Source)	42	[24,60)	Control	The Gambia	Human
+1019022821 (Source)	39	[24,60)	Control	The Gambia	Human
+1019022931 (Source)	38	[24,60)	Control	The Gambia	Human
+1019022941 (Source)	34	[24,60)	Control	The Gambia	Human
+1019023091 (Source)	17	[12,18)	Control	The Gambia	Human
+1019023101 (Source)	21	[18,24)	Control	The Gambia	Human
+1019023221 (Source)	21	[18,24)	Control	The Gambia	Human
+1019023971 (Source)	9	[6,12)	Control	The Gambia	Human
+1019023981 (Source)	6	[6,12)	Control	The Gambia	Human
+1019024531 (Source)	14	[12,18)	Control	The Gambia	Human
+1019024851 (Source)	9	[6,12)	Control	The Gambia	Human
+1019025501 (Source)	27	[24,60)	Control	The Gambia	Human
+1019025511 (Source)	28	[24,60)	Control	The Gambia	Human
+1019025611 (Source)	6	[6,12)	Control	The Gambia	Human
+1019025661 (Source)	20	[18,24)	Control	The Gambia	Human
+1019025771 (Source)	21	[18,24)	Control	The Gambia	Human
+1019026031 (Source)	8	[6,12)	Control	The Gambia	Human
+1019026181 (Source)	15	[12,18)	Control	The Gambia	Human
+1019026251 (Source)	10	[6,12)	Control	The Gambia	Human
+1019026261 (Source)	10	[6,12)	Control	The Gambia	Human
+1019026331 (Source)	23	[18,24)	Control	The Gambia	Human
+1019026491 (Source)	4	[0,6)	Control	The Gambia	Human
+1020016511 (Source)	17	[12,18)	Case	The Gambia	Human
+1020017181 (Source)	36	[24,60)	Case	The Gambia	Human
+1020017261 (Source)	29	[24,60)	Case	The Gambia	Human
+1020018321 (Source)	20	[18,24)	Case	The Gambia	Human
+1020040931 (Source)	11	[6,12)	Case	The Gambia	Human
 1020044831 (Source)	18	18-24 months	Case	The Gambia	Human
-1020046131 (Source)	20	18-24 months	Case	The Gambia	Human
-1020047111 (Source)	10	6-12 months	Case	The Gambia	Human
-1020061731 (Source)	12	12-18 months	Case	The Gambia	Human
-1020062511 (Source)	29	24-60 months	Case	The Gambia	Human
-1020071231 (Source)	8	6-12 months	Case	The Gambia	Human
-1020072831 (Source)	9	6-12 months	Case	The Gambia	Human
-1020074341 (Source)	24	24-60 months	Case	The Gambia	Human
-1020078171 (Source)	13	12-18 months	Case	The Gambia	Human
-1020078821 (Source)	20	18-24 months	Case	The Gambia	Human
-1020085641 (Source)	12	12-18 months	Case	The Gambia	Human
-1020089411 (Source)	23	18-24 months	Case	The Gambia	Human
-1020089511 (Source)	16	12-18 months	Case	The Gambia	Human
-1020090261 (Source)	2	0-6 months	Case	The Gambia	Human
-1020090951 (Source)	24	24-60 months	Case	The Gambia	Human
-1020091341 (Source)	15	12-18 months	Case	The Gambia	Human
-1020091401 (Source)	7	6-12 months	Case	The Gambia	Human
-1020091451 (Source)	2	0-6 months	Case	The Gambia	Human
-1020094161 (Source)	33	24-60 months	Case	The Gambia	Human
-1020094731 (Source)	9	6-12 months	Case	The Gambia	Human
-1020098891 (Source)	53	24-60 months	Case	The Gambia	Human
-1020099341 (Source)	19	18-24 months	Case	The Gambia	Human
-1020099911 (Source)	22	18-24 months	Case	The Gambia	Human
-1020099961 (Source)	8	6-12 months	Case	The Gambia	Human
-1020101241 (Source)	19	18-24 months	Case	The Gambia	Human
-1020102141 (Source)	34	24-60 months	Case	The Gambia	Human
+1020046131 (Source)	20	[18,24)	Case	The Gambia	Human
+1020047111 (Source)	10	[6,12)	Case	The Gambia	Human
+1020061731 (Source)	12	[12,18)	Case	The Gambia	Human
+1020062511 (Source)	29	[24,60)	Case	The Gambia	Human
+1020071231 (Source)	8	[6,12)	Case	The Gambia	Human
+1020072831 (Source)	9	[6,12)	Case	The Gambia	Human
+1020074341 (Source)	24	[24,60)	Case	The Gambia	Human
+1020078171 (Source)	13	[12,18)	Case	The Gambia	Human
+1020078821 (Source)	20	[18,24)	Case	The Gambia	Human
+1020085641 (Source)	12	[12,18)	Case	The Gambia	Human
+1020089411 (Source)	23	[18,24)	Case	The Gambia	Human
+1020089511 (Source)	16	[12,18)	Case	The Gambia	Human
+1020090261 (Source)	2	[0,6)	Case	The Gambia	Human
+1020090951 (Source)	24	[24,60)	Case	The Gambia	Human
+1020091341 (Source)	15	[12,18)	Case	The Gambia	Human
+1020091401 (Source)	7	[6,12)	Case	The Gambia	Human
+1020091451 (Source)	2	[0,6)	Case	The Gambia	Human
+1020094161 (Source)	33	[24,60)	Case	The Gambia	Human
+1020094731 (Source)	9	[6,12)	Case	The Gambia	Human
+1020098891 (Source)	53	[24,60)	Case	The Gambia	Human
+1020099341 (Source)	19	[18,24)	Case	The Gambia	Human
+1020099911 (Source)	22	[18,24)	Case	The Gambia	Human
+1020099961 (Source)	8	[6,12)	Case	The Gambia	Human
+1020101241 (Source)	19	[18,24)	Case	The Gambia	Human
+1020102141 (Source)	34	[24,60)	Case	The Gambia	Human
 1029005381 (Source)	24	24-60 months	Control	The Gambia	Human
-1029006171 (Source)	21	18-24 months	Control	The Gambia	Human
-1029007281 (Source)	27	24-60 months	Control	The Gambia	Human
-1029007441 (Source)	16	12-18 months	Control	The Gambia	Human
-1029009531 (Source)	27	24-60 months	Control	The Gambia	Human
-1029010421 (Source)	20	18-24 months	Control	The Gambia	Human
-1029011211 (Source)	11	6-12 months	Control	The Gambia	Human
-1029015561 (Source)	35	24-60 months	Control	The Gambia	Human
-1029017281 (Source)	26	24-60 months	Control	The Gambia	Human
-1029018481 (Source)	14	12-18 months	Control	The Gambia	Human
-1029018881 (Source)	23	18-24 months	Control	The Gambia	Human
-1029023251 (Source)	21	18-24 months	Control	The Gambia	Human
-1029023261 (Source)	22	18-24 months	Control	The Gambia	Human
-1029023291 (Source)	19	18-24 months	Control	The Gambia	Human
-1029023501 (Source)	3	0-6 months	Control	The Gambia	Human
-1029023811 (Source)	14	12-18 months	Control	The Gambia	Human
-1029023851 (Source)	27	24-60 months	Control	The Gambia	Human
-1029023861 (Source)	26	24-60 months	Control	The Gambia	Human
-1029023871 (Source)	25	24-60 months	Control	The Gambia	Human
-1029023891 (Source)	9	6-12 months	Control	The Gambia	Human
-1029023901 (Source)	8	6-12 months	Control	The Gambia	Human
-1029025971 (Source)	52	24-60 months	Control	The Gambia	Human
-1029026061 (Source)	19	18-24 months	Control	The Gambia	Human
-1029026211 (Source)	9	6-12 months	Control	The Gambia	Human
-1029026291 (Source)	23	18-24 months	Control	The Gambia	Human
-1029026301 (Source)	21	18-24 months	Control	The Gambia	Human
-1029026451 (Source)	20	18-24 months	Control	The Gambia	Human
-1029026861 (Source)	37	24-60 months	Control	The Gambia	Human
-1030010131 (Source)	14	12-18 months	Case	The Gambia	Human
-1030012121 (Source)	29	24-60 months	Case	The Gambia	Human
-1030024841 (Source)	6	6-12 months	Case	The Gambia	Human
-1030026071 (Source)	10	6-12 months	Case	The Gambia	Human
-1030037761 (Source)	14	12-18 months	Case	The Gambia	Human
-1030048121 (Source)	16	12-18 months	Case	The Gambia	Human
-1030049461 (Source)	22	18-24 months	Case	The Gambia	Human
-1030057981 (Source)	10	6-12 months	Case	The Gambia	Human
-1030057991 (Source)	4	0-6 months	Case	The Gambia	Human
-1030058101 (Source)	6	6-12 months	Case	The Gambia	Human
-1030058441 (Source)	16	12-18 months	Case	The Gambia	Human
-1030059091 (Source)	20	18-24 months	Case	The Gambia	Human
-1030059431 (Source)	19	18-24 months	Case	The Gambia	Human
-1030059911 (Source)	17	12-18 months	Case	The Gambia	Human
-1030060311 (Source)	18	18-24 months	Case	The Gambia	Human
-1030061121 (Source)	22	18-24 months	Case	The Gambia	Human
-1030062571 (Source)	4	0-6 months	Case	The Gambia	Human
-1039005861 (Source)	30	24-60 months	Control	The Gambia	Human
-1039009701 (Source)	13	12-18 months	Control	The Gambia	Human
-1039010451 (Source)	23	18-24 months	Control	The Gambia	Human
-1039018561 (Source)	11	6-12 months	Control	The Gambia	Human
-1039022731 (Source)	25	24-60 months	Control	The Gambia	Human
-1039023061 (Source)	6	6-12 months	Control	The Gambia	Human
-1039023451 (Source)	17	12-18 months	Control	The Gambia	Human
-1039023731 (Source)	18	18-24 months	Control	The Gambia	Human
-1039023771 (Source)	15	12-18 months	Control	The Gambia	Human
-1039024051 (Source)	16	12-18 months	Control	The Gambia	Human
-1039024171 (Source)	18	18-24 months	Control	The Gambia	Human
-1039024731 (Source)	20	18-24 months	Control	The Gambia	Human
-1039025251 (Source)	20	18-24 months	Control	The Gambia	Human
-1039025261 (Source)	22	18-24 months	Control	The Gambia	Human
-1039025311 (Source)	5	0-6 months	Control	The Gambia	Human
-1040032461 (Source)	9	6-12 months	Case	The Gambia	Human
-1040035541 (Source)	30	24-60 months	Case	The Gambia	Human
-1040035601 (Source)	14	12-18 months	Case	The Gambia	Human
-1040035711 (Source)	6	6-12 months	Case	The Gambia	Human
-1040036321 (Source)	13	12-18 months	Case	The Gambia	Human
-1040037271 (Source)	11	6-12 months	Case	The Gambia	Human
-1040037731 (Source)	11	6-12 months	Case	The Gambia	Human
-1040040231 (Source)	5	0-6 months	Case	The Gambia	Human
-1040041041 (Source)	24	24-60 months	Case	The Gambia	Human
-1040041231 (Source)	3	0-6 months	Case	The Gambia	Human
-1040044311 (Source)	16	12-18 months	Case	The Gambia	Human
-1049005821 (Source)	33	24-60 months	Control	The Gambia	Human
-1049007161 (Source)	21	18-24 months	Control	The Gambia	Human
+1029006171 (Source)	21	[18,24)	Control	The Gambia	Human
+1029007281 (Source)	27	[24,60)	Control	The Gambia	Human
+1029007441 (Source)	16	[12,18)	Control	The Gambia	Human
+1029009531 (Source)	27	[24,60)	Control	The Gambia	Human
+1029010421 (Source)	20	[18,24)	Control	The Gambia	Human
+1029011211 (Source)	11	[6,12)	Control	The Gambia	Human
+1029015561 (Source)	35	[24,60)	Control	The Gambia	Human
+1029017281 (Source)	26	[24,60)	Control	The Gambia	Human
+1029018481 (Source)	14	[12,18)	Control	The Gambia	Human
+1029018881 (Source)	23	[18,24)	Control	The Gambia	Human
+1029023251 (Source)	21	[18,24)	Control	The Gambia	Human
+1029023261 (Source)	22	[18,24)	Control	The Gambia	Human
+1029023291 (Source)	19	[18,24)	Control	The Gambia	Human
+1029023501 (Source)	3	[0,6)	Control	The Gambia	Human
+1029023811 (Source)	14	[12,18)	Control	The Gambia	Human
+1029023851 (Source)	27	[24,60)	Control	The Gambia	Human
+1029023861 (Source)	26	[24,60)	Control	The Gambia	Human
+1029023871 (Source)	25	[24,60)	Control	The Gambia	Human
+1029023891 (Source)	9	[6,12)	Control	The Gambia	Human
+1029023901 (Source)	8	[6,12)	Control	The Gambia	Human
+1029025971 (Source)	52	[24,60)	Control	The Gambia	Human
+1029026061 (Source)	19	[18,24)	Control	The Gambia	Human
+1029026211 (Source)	9	[6,12)	Control	The Gambia	Human
+1029026291 (Source)	23	[18,24)	Control	The Gambia	Human
+1029026301 (Source)	21	[18,24)	Control	The Gambia	Human
+1029026451 (Source)	20	[18,24)	Control	The Gambia	Human
+1029026861 (Source)	37	[24,60)	Control	The Gambia	Human
+1030010131 (Source)	14	[12,18)	Case	The Gambia	Human
+1030012121 (Source)	29	[24,60)	Case	The Gambia	Human
+1030024841 (Source)	6	[6,12)	Case	The Gambia	Human
+1030026071 (Source)	10	[6,12)	Case	The Gambia	Human
+1030037761 (Source)	14	[12,18)	Case	The Gambia	Human
+1030048121 (Source)	16	[12,18)	Case	The Gambia	Human
+1030049461 (Source)	22	[18,24)	Case	The Gambia	Human
+1030057981 (Source)	10	[6,12)	Case	The Gambia	Human
+1030057991 (Source)	4	[0,6)	Case	The Gambia	Human
+1030058101 (Source)	6	[6,12)	Case	The Gambia	Human
+1030058441 (Source)	16	[12,18)	Case	The Gambia	Human
+1030059091 (Source)	20	[18,24)	Case	The Gambia	Human
+1030059431 (Source)	19	[18,24)	Case	The Gambia	Human
+1030059911 (Source)	17	[12,18)	Case	The Gambia	Human
+1030060311 (Source)	18	[18,24)	Case	The Gambia	Human
+1030061121 (Source)	22	[18,24)	Case	The Gambia	Human
+1030062571 (Source)	4	[0,6)	Case	The Gambia	Human
+1039005861 (Source)	30	[24,60)	Control	The Gambia	Human
+1039009701 (Source)	13	[12,18)	Control	The Gambia	Human
+1039010451 (Source)	23	[18,24)	Control	The Gambia	Human
+1039018561 (Source)	11	[6,12)	Control	The Gambia	Human
+1039022731 (Source)	25	[24,60)	Control	The Gambia	Human
+1039023061 (Source)	6	[6,12)	Control	The Gambia	Human
+1039023451 (Source)	17	[12,18)	Control	The Gambia	Human
+1039023731 (Source)	18	[18,24)	Control	The Gambia	Human
+1039023771 (Source)	15	[12,18)	Control	The Gambia	Human
+1039024051 (Source)	16	[12,18)	Control	The Gambia	Human
+1039024171 (Source)	18	[18,24)	Control	The Gambia	Human
+1039024731 (Source)	20	[18,24)	Control	The Gambia	Human
+1039025251 (Source)	20	[18,24)	Control	The Gambia	Human
+1039025261 (Source)	22	[18,24)	Control	The Gambia	Human
+1039025311 (Source)	5	[0,6)	Control	The Gambia	Human
+1040032461 (Source)	9	[6,12)	Case	The Gambia	Human
+1040035541 (Source)	30	[24,60)	Case	The Gambia	Human
+1040035601 (Source)	14	[12,18)	Case	The Gambia	Human
+1040035711 (Source)	6	[6,12)	Case	The Gambia	Human
+1040036321 (Source)	13	[12,18)	Case	The Gambia	Human
+1040037271 (Source)	11	[6,12)	Case	The Gambia	Human
+1040037731 (Source)	11	[6,12)	Case	The Gambia	Human
+1040040231 (Source)	5	[0,6)	Case	The Gambia	Human
+1040041041 (Source)	24	[24,60)	Case	The Gambia	Human
+1040041231 (Source)	3	[0,6)	Case	The Gambia	Human
+1040044311 (Source)	16	[12,18)	Case	The Gambia	Human
+1049005821 (Source)	33	[24,60)	Control	The Gambia	Human
+1049007161 (Source)	21	[18,24)	Control	The Gambia	Human
 1049012571 (Source)	17	12-18 months	Control	The Gambia	Human
-1049021821 (Source)	30	24-60 months	Control	The Gambia	Human
-1049023011 (Source)	14	12-18 months	Control	The Gambia	Human
-1049023411 (Source)	10	6-12 months	Control	The Gambia	Human
-1049023611 (Source)	20	18-24 months	Control	The Gambia	Human
-1049023691 (Source)	22	18-24 months	Control	The Gambia	Human
-1049024341 (Source)	8	6-12 months	Control	The Gambia	Human
-1049024611 (Source)	24	24-60 months	Control	The Gambia	Human
-1049024621 (Source)	27	24-60 months	Control	The Gambia	Human
-1049024631 (Source)	26	24-60 months	Control	The Gambia	Human
-1049024931 (Source)	26	24-60 months	Control	The Gambia	Human
-1049024941 (Source)	26	24-60 months	Control	The Gambia	Human
-1049024971 (Source)	4	0-6 months	Control	The Gambia	Human
-1049025851 (Source)	20	18-24 months	Control	The Gambia	Human
-1049025861 (Source)	21	18-24 months	Control	The Gambia	Human
-1049026131 (Source)	12	12-18 months	Control	The Gambia	Human
-1050017771 (Source)	18	18-24 months	Case	The Gambia	Human
-1050022111 (Source)	26	24-60 months	Case	The Gambia	Human
-1050033861 (Source)	6	6-12 months	Case	The Gambia	Human
-1050033951 (Source)	8	6-12 months	Case	The Gambia	Human
-1050033961 (Source)	15	12-18 months	Case	The Gambia	Human
-1050034161 (Source)	34	24-60 months	Case	The Gambia	Human
-1050034191 (Source)	10	6-12 months	Case	The Gambia	Human
-1050034271 (Source)	6	6-12 months	Case	The Gambia	Human
+1049021821 (Source)	30	[24,60)	Control	The Gambia	Human
+1049023011 (Source)	14	[12,18)	Control	The Gambia	Human
+1049023411 (Source)	10	[6,12)	Control	The Gambia	Human
+1049023611 (Source)	20	[18,24)	Control	The Gambia	Human
+1049023691 (Source)	22	[18,24)	Control	The Gambia	Human
+1049024341 (Source)	8	[6,12)	Control	The Gambia	Human
+1049024611 (Source)	24	[24,60)	Control	The Gambia	Human
+1049024621 (Source)	27	[24,60)	Control	The Gambia	Human
+1049024631 (Source)	26	[24,60)	Control	The Gambia	Human
+1049024931 (Source)	26	[24,60)	Control	The Gambia	Human
+1049024941 (Source)	26	[24,60)	Control	The Gambia	Human
+1049024971 (Source)	4	[0,6)	Control	The Gambia	Human
+1049025851 (Source)	20	[18,24)	Control	The Gambia	Human
+1049025861 (Source)	21	[18,24)	Control	The Gambia	Human
+1049026131 (Source)	12	[12,18)	Control	The Gambia	Human
+1050017771 (Source)	18	[18,24)	Case	The Gambia	Human
+1050022111 (Source)	26	[24,60)	Case	The Gambia	Human
+1050033861 (Source)	6	[6,12)	Case	The Gambia	Human
+1050033951 (Source)	8	[6,12)	Case	The Gambia	Human
+1050033961 (Source)	15	[12,18)	Case	The Gambia	Human
+1050034161 (Source)	34	[24,60)	Case	The Gambia	Human
+1050034191 (Source)	10	[6,12)	Case	The Gambia	Human
+1050034271 (Source)	6	[6,12)	Case	The Gambia	Human
 1050034291 (Source)	4	0-6 months	Case	The Gambia	Human
-1050037401 (Source)	30	24-60 months	Case	The Gambia	Human
-1050038261 (Source)	8	6-12 months	Case	The Gambia	Human
-1050038691 (Source)	17	12-18 months	Case	The Gambia	Human
-1050040581 (Source)	19	18-24 months	Case	The Gambia	Human
-1050041071 (Source)	11	6-12 months	Case	The Gambia	Human
-1050043571 (Source)	30	24-60 months	Case	The Gambia	Human
-1050043811 (Source)	32	24-60 months	Case	The Gambia	Human
-1059008971 (Source)	17	12-18 months	Control	The Gambia	Human
-1059009301 (Source)	30	24-60 months	Control	The Gambia	Human
-1059009981 (Source)	19	18-24 months	Control	The Gambia	Human
-1059018681 (Source)	10	6-12 months	Control	The Gambia	Human
-1059018921 (Source)	17	12-18 months	Control	The Gambia	Human
-1059018981 (Source)	36	24-60 months	Control	The Gambia	Human
-1059021501 (Source)	16	12-18 months	Control	The Gambia	Human
-1059021571 (Source)	7	6-12 months	Control	The Gambia	Human
-1059023371 (Source)	16	12-18 months	Control	The Gambia	Human
-1059023581 (Source)	16	12-18 months	Control	The Gambia	Human
-1059023931 (Source)	10	6-12 months	Control	The Gambia	Human
-1059024451 (Source)	20	18-24 months	Control	The Gambia	Human
-1059025571 (Source)	28	24-60 months	Control	The Gambia	Human
-1059025581 (Source)	28	24-60 months	Control	The Gambia	Human
-1059025591 (Source)	27	24-60 months	Control	The Gambia	Human
-1059025691 (Source)	30	24-60 months	Control	The Gambia	Human
-1059025711 (Source)	29	24-60 months	Control	The Gambia	Human
-1060000811 (Source)	20	18-24 months	Case	The Gambia	Human
-1060000891 (Source)	17	12-18 months	Case	The Gambia	Human
-1060001171 (Source)	19	18-24 months	Case	The Gambia	Human
-1060002351 (Source)	21	18-24 months	Case	The Gambia	Human
-1060002511 (Source)	17	12-18 months	Case	The Gambia	Human
-1060003561 (Source)	7	6-12 months	Case	The Gambia	Human
-1060003951 (Source)	19	18-24 months	Case	The Gambia	Human
-1060005011 (Source)	19	18-24 months	Case	The Gambia	Human
-1060007941 (Source)	36	24-60 months	Case	The Gambia	Human
-1060008921 (Source)	17	12-18 months	Case	The Gambia	Human
-1060010021 (Source)	17	12-18 months	Case	The Gambia	Human
-1069024291 (Source)	21	18-24 months	Control	The Gambia	Human
-1069024571 (Source)	15	12-18 months	Control	The Gambia	Human
-1069025231 (Source)	23	18-24 months	Control	The Gambia	Human
-1069025331 (Source)	9	6-12 months	Control	The Gambia	Human
-1069025461 (Source)	23	18-24 months	Control	The Gambia	Human
-1069025931 (Source)	34	24-60 months	Control	The Gambia	Human
-1069025941 (Source)	33	24-60 months	Control	The Gambia	Human
-1069026091 (Source)	20	18-24 months	Control	The Gambia	Human
-1069026101 (Source)	19	18-24 months	Control	The Gambia	Human
-2010013221 (Source)	6	6-12 months	Case	Mali	Human
-2010014861 (Source)	5	0-6 months	Case	Mali	Human
-2019000791 (Source)	14	12-18 months	Control	Mali	Human
-2019000851 (Source)	5	0-6 months	Control	Mali	Human
-2019000871 (Source)	4	0-6 months	Control	Mali	Human
-2020017361 (Source)	8	6-12 months	Case	Mali	Human
-2020018321 (Source)	34	24-60 months	Case	Mali	Human
-2020018471 (Source)	11	6-12 months	Case	Mali	Human
-2020019891 (Source)	24	24-60 months	Case	Mali	Human
-2020020691 (Source)	20	18-24 months	Case	Mali	Human
-2020020711 (Source)	5	0-6 months	Case	Mali	Human
-2020021971 (Source)	23	18-24 months	Case	Mali	Human
-2020022061 (Source)	26	24-60 months	Case	Mali	Human
-2020026801 (Source)	32	24-60 months	Case	Mali	Human
-2020027621 (Source)	10	6-12 months	Case	Mali	Human
-2020027951 (Source)	3	0-6 months	Case	Mali	Human
-2020030291 (Source)	33	24-60 months	Case	Mali	Human
-2020031341 (Source)	16	12-18 months	Case	Mali	Human
-2020031411 (Source)	13	12-18 months	Case	Mali	Human
-2020031511 (Source)	9	6-12 months	Case	Mali	Human
-2020031521 (Source)	13	12-18 months	Case	Mali	Human
-2020032361 (Source)	6	6-12 months	Case	Mali	Human
-2020034141 (Source)	9	6-12 months	Case	Mali	Human
-2020034301 (Source)	23	18-24 months	Case	Mali	Human
-2020035661 (Source)	7	6-12 months	Case	Mali	Human
-2020036311 (Source)	11	6-12 months	Case	Mali	Human
-2020036791 (Source)	9	6-12 months	Case	Mali	Human
-2020037441 (Source)	8	6-12 months	Case	Mali	Human
-2020037611 (Source)	18	18-24 months	Case	Mali	Human
-2020038241 (Source)	7	6-12 months	Case	Mali	Human
-2020038261 (Source)	11	6-12 months	Case	Mali	Human
-2020038851 (Source)	10	6-12 months	Case	Mali	Human
-2020038891 (Source)	1	0-6 months	Case	Mali	Human
-2020040191 (Source)	7	6-12 months	Case	Mali	Human
-2020040411 (Source)	10	6-12 months	Case	Mali	Human
-2020040611 (Source)	36	24-60 months	Case	Mali	Human
-2029001301 (Source)	34	24-60 months	Control	Mali	Human
-2029001311 (Source)	34	24-60 months	Control	Mali	Human
-2029001381 (Source)	29	24-60 months	Control	Mali	Human
-2029001411 (Source)	7	6-12 months	Control	Mali	Human
-2029001451 (Source)	38	24-60 months	Control	Mali	Human
-2029001471 (Source)	10	6-12 months	Control	Mali	Human
-2029001531 (Source)	28	24-60 months	Control	Mali	Human
-2029001581 (Source)	27	24-60 months	Control	Mali	Human
-2029001741 (Source)	7	6-12 months	Control	Mali	Human
-2029001771 (Source)	20	18-24 months	Control	Mali	Human
-2029001861 (Source)	10	6-12 months	Control	Mali	Human
-2029001891 (Source)	13	12-18 months	Control	Mali	Human
-2029001961 (Source)	28	24-60 months	Control	Mali	Human
-2029002221 (Source)	30	24-60 months	Control	Mali	Human
-2029002321 (Source)	5	0-6 months	Control	Mali	Human
-2029002351 (Source)	15	12-18 months	Control	Mali	Human
-2029002411 (Source)	29	24-60 months	Control	Mali	Human
-2029002431 (Source)	19	18-24 months	Control	Mali	Human
-2029002531 (Source)	7	6-12 months	Control	Mali	Human
-2029002621 (Source)	6	6-12 months	Control	Mali	Human
-2029002641 (Source)	30	24-60 months	Control	Mali	Human
-2029002671 (Source)	7	6-12 months	Control	Mali	Human
-2029002721 (Source)	20	18-24 months	Control	Mali	Human
-2029002771 (Source)	7	6-12 months	Control	Mali	Human
-2029002821 (Source)	11	6-12 months	Control	Mali	Human
-2029002841 (Source)	8	6-12 months	Control	Mali	Human
-2029002911 (Source)	17	12-18 months	Control	Mali	Human
-2029003011 (Source)	5	0-6 months	Control	Mali	Human
-2029003031 (Source)	9	6-12 months	Control	Mali	Human
-2029003151 (Source)	1	0-6 months	Control	Mali	Human
-2029003221 (Source)	9	6-12 months	Control	Mali	Human
-2029003231 (Source)	6	6-12 months	Control	Mali	Human
-2029003291 (Source)	11	6-12 months	Control	Mali	Human
-2030005861 (Source)	6	6-12 months	Case	Mali	Human
-2039000881 (Source)	8	6-12 months	Control	Mali	Human
-2039000911 (Source)	6	6-12 months	Control	Mali	Human
-2040005491 (Source)	20	18-24 months	Case	Mali	Human
-2040008231 (Source)	15	12-18 months	Case	Mali	Human
-2040008721 (Source)	4	0-6 months	Case	Mali	Human
-2040009231 (Source)	7	6-12 months	Case	Mali	Human
-2040009401 (Source)	5	0-6 months	Case	Mali	Human
-2040009571 (Source)	12	12-18 months	Case	Mali	Human
-2040009591 (Source)	8	6-12 months	Case	Mali	Human
-2040010241 (Source)	13	12-18 months	Case	Mali	Human
-2040011191 (Source)	9	6-12 months	Case	Mali	Human
-2049000841 (Source)	19	18-24 months	Control	Mali	Human
-2049001041 (Source)	6	6-12 months	Control	Mali	Human
-2049001071 (Source)	5	0-6 months	Control	Mali	Human
-2049001251 (Source)	13	12-18 months	Control	Mali	Human
-2049001301 (Source)	12	12-18 months	Control	Mali	Human
-2049001321 (Source)	11	6-12 months	Control	Mali	Human
-2050005961 (Source)	26	24-60 months	Case	Mali	Human
-2050007251 (Source)	48	24-60 months	Case	Mali	Human
-2050007371 (Source)	0	0-6 months	Case	Mali	Human
-2050008361 (Source)	6	6-12 months	Case	Mali	Human
-2050008891 (Source)	19	18-24 months	Case	Mali	Human
-2050009491 (Source)	4	0-6 months	Case	Mali	Human
-2050009571 (Source)	3	0-6 months	Case	Mali	Human
-2050011171 (Source)	12	12-18 months	Case	Mali	Human
-2050011181 (Source)	6	6-12 months	Case	Mali	Human
-2050011331 (Source)	10	6-12 months	Case	Mali	Human
-2050012051 (Source)	9	6-12 months	Case	Mali	Human
-2050012361 (Source)	10	6-12 months	Case	Mali	Human
-2050012611 (Source)	26	24-60 months	Case	Mali	Human
-2050012731 (Source)	19	18-24 months	Case	Mali	Human
-2050013011 (Source)	9	6-12 months	Case	Mali	Human
-2050013371 (Source)	40	24-60 months	Case	Mali	Human
-2050013411 (Source)	8	6-12 months	Case	Mali	Human
-2050013571 (Source)	15	12-18 months	Case	Mali	Human
-2050013781 (Source)	7	6-12 months	Case	Mali	Human
-2050014861 (Source)	10	6-12 months	Case	Mali	Human
-2059000901 (Source)	15	12-18 months	Control	Mali	Human
-2059000931 (Source)	25	24-60 months	Control	Mali	Human
-2059000961 (Source)	52	24-60 months	Control	Mali	Human
-2059001101 (Source)	22	18-24 months	Control	Mali	Human
-2059001301 (Source)	28	24-60 months	Control	Mali	Human
-2059001341 (Source)	17	12-18 months	Control	Mali	Human
-2059001431 (Source)	8	6-12 months	Control	Mali	Human
-2059001471 (Source)	7	6-12 months	Control	Mali	Human
-2059001511 (Source)	8	6-12 months	Control	Mali	Human
-2059001551 (Source)	24	24-60 months	Control	Mali	Human
-2059001651 (Source)	18	18-24 months	Control	Mali	Human
-2059001741 (Source)	36	24-60 months	Control	Mali	Human
-2059001821 (Source)	8	6-12 months	Control	Mali	Human
-2059001911 (Source)	9	6-12 months	Control	Mali	Human
-2059001951 (Source)	8	6-12 months	Control	Mali	Human
-2060024141 (Source)	6	6-12 months	Case	Mali	Human
-2060024251 (Source)	27	24-60 months	Case	Mali	Human
-2060024261 (Source)	11	6-12 months	Case	Mali	Human
-2060024801 (Source)	8	6-12 months	Case	Mali	Human
-2060027411 (Source)	11	6-12 months	Case	Mali	Human
-2060029291 (Source)	14	12-18 months	Case	Mali	Human
-2060029971 (Source)	9	6-12 months	Case	Mali	Human
-2060029981 (Source)	18	18-24 months	Case	Mali	Human
-2060030121 (Source)	26	24-60 months	Case	Mali	Human
-2060031551 (Source)	12	12-18 months	Case	Mali	Human
-2060031861 (Source)	12	12-18 months	Case	Mali	Human
-2060031891 (Source)	13	12-18 months	Case	Mali	Human
-2060033011 (Source)	8	6-12 months	Case	Mali	Human
-2060033121 (Source)	4	0-6 months	Case	Mali	Human
-2060033161 (Source)	8	6-12 months	Case	Mali	Human
-2060033201 (Source)	7	6-12 months	Case	Mali	Human
-2060034221 (Source)	9	6-12 months	Case	Mali	Human
-2060034461 (Source)	11	6-12 months	Case	Mali	Human
-2060034471 (Source)	9	6-12 months	Case	Mali	Human
-2060034571 (Source)	9	6-12 months	Case	Mali	Human
-2060034851 (Source)	26	24-60 months	Case	Mali	Human
-2060035461 (Source)	9	6-12 months	Case	Mali	Human
-2060035491 (Source)	8	6-12 months	Case	Mali	Human
-2060035541 (Source)	8	6-12 months	Case	Mali	Human
-2060035671 (Source)	16	12-18 months	Case	Mali	Human
-2060035711 (Source)	7	6-12 months	Case	Mali	Human
-2060035841 (Source)	10	6-12 months	Case	Mali	Human
-2060035861 (Source)	5	0-6 months	Case	Mali	Human
-2069000931 (Source)	14	12-18 months	Control	Mali	Human
-2069000971 (Source)	14	12-18 months	Control	Mali	Human
-2069001011 (Source)	15	12-18 months	Control	Mali	Human
-2069001061 (Source)	16	12-18 months	Control	Mali	Human
-2069001091 (Source)	6	6-12 months	Control	Mali	Human
-2069001181 (Source)	10	6-12 months	Control	Mali	Human
-2069001271 (Source)	4	0-6 months	Control	Mali	Human
-2069001311 (Source)	9	6-12 months	Control	Mali	Human
-2069001451 (Source)	13	12-18 months	Control	Mali	Human
-2069001471 (Source)	17	12-18 months	Control	Mali	Human
-2069001601 (Source)	28	24-60 months	Control	Mali	Human
-2069001651 (Source)	12	12-18 months	Control	Mali	Human
-2069001681 (Source)	9	6-12 months	Control	Mali	Human
-2069001711 (Source)	12	12-18 months	Control	Mali	Human
-2069001751 (Source)	4	0-6 months	Control	Mali	Human
-2069001911 (Source)	6	6-12 months	Control	Mali	Human
-2069001951 (Source)	7	6-12 months	Control	Mali	Human
-2069002031 (Source)	8	6-12 months	Control	Mali	Human
-2069002101 (Source)	7	6-12 months	Control	Mali	Human
-2069002141 (Source)	30	24-60 months	Control	Mali	Human
-2069002161 (Source)	10	6-12 months	Control	Mali	Human
-2069002191 (Source)	8	6-12 months	Control	Mali	Human
-2069002271 (Source)	7	6-12 months	Control	Mali	Human
-2069002331 (Source)	3	0-6 months	Control	Mali	Human
-2320002441 (Source)	43	24-60 months	Case	Mali	Human
-2320003311 (Source)	15	12-18 months	Case	Mali	Human
-2320003421 (Source)	39	24-60 months	Case	Mali	Human
-2320003711 (Source)	33	24-60 months	Case	Mali	Human
-2329000811 (Source)	39	24-60 months	Control	Mali	Human
-2329000861 (Source)	12	12-18 months	Control	Mali	Human
-2329000901 (Source)	42	24-60 months	Control	Mali	Human
-2329000941 (Source)	39	24-60 months	Control	Mali	Human
-2350002971 (Source)	33	24-60 months	Case	Mali	Human
-2350003511 (Source)	14	12-18 months	Case	Mali	Human
-2350004861 (Source)	17	12-18 months	Case	Mali	Human
-2350005921 (Source)	19	18-24 months	Case	Mali	Human
-2350006571 (Source)	4	0-6 months	Case	Mali	Human
-2350006611 (Source)	44	24-60 months	Case	Mali	Human
-2350006931 (Source)	6	6-12 months	Case	Mali	Human
-2350006951 (Source)	18	18-24 months	Case	Mali	Human
-2350007401 (Source)	6	6-12 months	Case	Mali	Human
-2350007461 (Source)	12	12-18 months	Case	Mali	Human
-2350007711 (Source)	10	6-12 months	Case	Mali	Human
-2350007911 (Source)	9	6-12 months	Case	Mali	Human
-2350007941 (Source)	36	24-60 months	Case	Mali	Human
-2350008311 (Source)	7	6-12 months	Case	Mali	Human
-2350021511 (Source)	27	24-60 months	Case	Mali	Human
-2359000981 (Source)	29	24-60 months	Control	Mali	Human
-2359001001 (Source)	15	12-18 months	Control	Mali	Human
-2359001131 (Source)	11	6-12 months	Control	Mali	Human
-2359001181 (Source)	16	12-18 months	Control	Mali	Human
-2359001241 (Source)	17	12-18 months	Control	Mali	Human
-2359001341 (Source)	6	6-12 months	Control	Mali	Human
-2359001391 (Source)	6	6-12 months	Control	Mali	Human
-2359001481 (Source)	45	24-60 months	Control	Mali	Human
-2359001521 (Source)	17	12-18 months	Control	Mali	Human
-2359001571 (Source)	6	6-12 months	Control	Mali	Human
-2359001651 (Source)	8	6-12 months	Control	Mali	Human
-2359001701 (Source)	12	12-18 months	Control	Mali	Human
-2359001781 (Source)	10	6-12 months	Control	Mali	Human
-2359001811 (Source)	34	24-60 months	Control	Mali	Human
-2359001861 (Source)	8	6-12 months	Control	Mali	Human
-4020002141 (Source)	8	6-12 months	Case	Kenya	Human
-4020002161 (Source)	9	6-12 months	Case	Kenya	Human
-4029001621 (Source)	26	24-60 months	Control	Kenya	Human
-4029001671 (Source)	9	6-12 months	Control	Kenya	Human
-4029002701 (Source)	39	24-60 months	Control	Kenya	Human
-4029006011 (Source)	7	6-12 months	Control	Kenya	Human
-4040005521 (Source)	18	18-24 months	Case	Kenya	Human
-4040005741 (Source)	9	6-12 months	Case	Kenya	Human
-4040005831 (Source)	13	12-18 months	Case	Kenya	Human
-4040006391 (Source)	5	0-6 months	Case	Kenya	Human
-4040006801 (Source)	23	18-24 months	Case	Kenya	Human
-4040006841 (Source)	5	0-6 months	Case	Kenya	Human
-4040008481 (Source)	8	6-12 months	Case	Kenya	Human
-4040008961 (Source)	12	12-18 months	Case	Kenya	Human
-4040009051 (Source)	9	6-12 months	Case	Kenya	Human
-4040017771 (Source)	17	12-18 months	Case	Kenya	Human
-4040018161 (Source)	48	24-60 months	Case	Kenya	Human
-4040018191 (Source)	26	24-60 months	Case	Kenya	Human
-4040018221 (Source)	18	18-24 months	Case	Kenya	Human
-4040018621 (Source)	21	18-24 months	Case	Kenya	Human
-4040018811 (Source)	3	0-6 months	Case	Kenya	Human
-4040019081 (Source)	15	12-18 months	Case	Kenya	Human
-4040019841 (Source)	9	6-12 months	Case	Kenya	Human
-4040022711 (Source)	14	12-18 months	Case	Kenya	Human
-4040025861 (Source)	23	18-24 months	Case	Kenya	Human
-4049001691 (Source)	18	18-24 months	Control	Kenya	Human
-4049001801 (Source)	10	6-12 months	Control	Kenya	Human
-4049001841 (Source)	12	12-18 months	Control	Kenya	Human
-4049002081 (Source)	5	0-6 months	Control	Kenya	Human
-4049002231 (Source)	5	0-6 months	Control	Kenya	Human
-4049002511 (Source)	9	6-12 months	Control	Kenya	Human
-4049002691 (Source)	8	6-12 months	Control	Kenya	Human
-4049004691 (Source)	12	12-18 months	Control	Kenya	Human
-4049004721 (Source)	50	24-60 months	Control	Kenya	Human
-4049004731 (Source)	25	24-60 months	Control	Kenya	Human
-4049004741 (Source)	21	18-24 months	Control	Kenya	Human
-4049004821 (Source)	17	12-18 months	Control	Kenya	Human
-4049004891 (Source)	3	0-6 months	Control	Kenya	Human
-4049006031 (Source)	6	6-12 months	Control	Kenya	Human
-4049006171 (Source)	6	6-12 months	Control	Kenya	Human
+1050037401 (Source)	30	[24,60)	Case	The Gambia	Human
+1050038261 (Source)	8	[6,12)	Case	The Gambia	Human
+1050038691 (Source)	17	[12,18)	Case	The Gambia	Human
+1050040581 (Source)	19	[18,24)	Case	The Gambia	Human
+1050041071 (Source)	11	[6,12)	Case	The Gambia	Human
+1050043571 (Source)	30	[24,60)	Case	The Gambia	Human
+1050043811 (Source)	32	[24,60)	Case	The Gambia	Human
+1059008971 (Source)	17	[12,18)	Control	The Gambia	Human
+1059009301 (Source)	30	[24,60)	Control	The Gambia	Human
+1059009981 (Source)	19	[18,24)	Control	The Gambia	Human
+1059018681 (Source)	10	[6,12)	Control	The Gambia	Human
+1059018921 (Source)	17	[12,18)	Control	The Gambia	Human
+1059018981 (Source)	36	[24,60)	Control	The Gambia	Human
+1059021501 (Source)	16	[12,18)	Control	The Gambia	Human
+1059021571 (Source)	7	[6,12)	Control	The Gambia	Human
+1059023371 (Source)	16	[12,18)	Control	The Gambia	Human
+1059023581 (Source)	16	[12,18)	Control	The Gambia	Human
+1059023931 (Source)	10	[6,12)	Control	The Gambia	Human
+1059024451 (Source)	20	[18,24)	Control	The Gambia	Human
+1059025571 (Source)	28	[24,60)	Control	The Gambia	Human
+1059025581 (Source)	28	[24,60)	Control	The Gambia	Human
+1059025591 (Source)	27	[24,60)	Control	The Gambia	Human
+1059025691 (Source)	30	[24,60)	Control	The Gambia	Human
+1059025711 (Source)	29	[24,60)	Control	The Gambia	Human
+1060000811 (Source)	20	[18,24)	Case	The Gambia	Human
+1060000891 (Source)	17	[12,18)	Case	The Gambia	Human
+1060001171 (Source)	19	[18,24)	Case	The Gambia	Human
+1060002351 (Source)	21	[18,24)	Case	The Gambia	Human
+1060002511 (Source)	17	[12,18)	Case	The Gambia	Human
+1060003561 (Source)	7	[6,12)	Case	The Gambia	Human
+1060003951 (Source)	19	[18,24)	Case	The Gambia	Human
+1060005011 (Source)	19	[18,24)	Case	The Gambia	Human
+1060007941 (Source)	36	[24,60)	Case	The Gambia	Human
+1060008921 (Source)	17	[12,18)	Case	The Gambia	Human
+1060010021 (Source)	17	[12,18)	Case	The Gambia	Human
+1069024291 (Source)	21	[18,24)	Control	The Gambia	Human
+1069024571 (Source)	15	[12,18)	Control	The Gambia	Human
+1069025231 (Source)	23	[18,24)	Control	The Gambia	Human
+1069025331 (Source)	9	[6,12)	Control	The Gambia	Human
+1069025461 (Source)	23	[18,24)	Control	The Gambia	Human
+1069025931 (Source)	34	[24,60)	Control	The Gambia	Human
+1069025941 (Source)	33	[24,60)	Control	The Gambia	Human
+1069026091 (Source)	20	[18,24)	Control	The Gambia	Human
+1069026101 (Source)	19	[18,24)	Control	The Gambia	Human
+2010013221 (Source)	6	[6,12)	Case	Mali	Human
+2010014861 (Source)	5	[0,6)	Case	Mali	Human
+2019000791 (Source)	14	[12,18)	Control	Mali	Human
+2019000851 (Source)	5	[0,6)	Control	Mali	Human
+2019000871 (Source)	4	[0,6)	Control	Mali	Human
+2020017361 (Source)	8	[6,12)	Case	Mali	Human
+2020018321 (Source)	34	[24,60)	Case	Mali	Human
+2020018471 (Source)	11	[6,12)	Case	Mali	Human
+2020019891 (Source)	24	[24,60)	Case	Mali	Human
+2020020691 (Source)	20	[18,24)	Case	Mali	Human
+2020020711 (Source)	5	[0,6)	Case	Mali	Human
+2020021971 (Source)	23	[18,24)	Case	Mali	Human
+2020022061 (Source)	26	[24,60)	Case	Mali	Human
+2020026801 (Source)	32	[24,60)	Case	Mali	Human
+2020027621 (Source)	10	[6,12)	Case	Mali	Human
+2020027951 (Source)	3	[0,6)	Case	Mali	Human
+2020030291 (Source)	33	[24,60)	Case	Mali	Human
+2020031341 (Source)	16	[12,18)	Case	Mali	Human
+2020031411 (Source)	13	[12,18)	Case	Mali	Human
+2020031511 (Source)	9	[6,12)	Case	Mali	Human
+2020031521 (Source)	13	[12,18)	Case	Mali	Human
+2020032361 (Source)	6	[6,12)	Case	Mali	Human
+2020034141 (Source)	9	[6,12)	Case	Mali	Human
+2020034301 (Source)	23	[18,24)	Case	Mali	Human
+2020035661 (Source)	7	[6,12)	Case	Mali	Human
+2020036311 (Source)	11	[6,12)	Case	Mali	Human
+2020036791 (Source)	9	[6,12)	Case	Mali	Human
+2020037441 (Source)	8	[6,12)	Case	Mali	Human
+2020037611 (Source)	18	[18,24)	Case	Mali	Human
+2020038241 (Source)	7	[6,12)	Case	Mali	Human
+2020038261 (Source)	11	[6,12)	Case	Mali	Human
+2020038851 (Source)	10	[6,12)	Case	Mali	Human
+2020038891 (Source)	1	[0,6)	Case	Mali	Human
+2020040191 (Source)	7	[6,12)	Case	Mali	Human
+2020040411 (Source)	10	[6,12)	Case	Mali	Human
+2020040611 (Source)	36	[24,60)	Case	Mali	Human
+2029001301 (Source)	34	[24,60)	Control	Mali	Human
+2029001311 (Source)	34	[24,60)	Control	Mali	Human
+2029001381 (Source)	29	[24,60)	Control	Mali	Human
+2029001411 (Source)	7	[6,12)	Control	Mali	Human
+2029001451 (Source)	38	[24,60)	Control	Mali	Human
+2029001471 (Source)	10	[6,12)	Control	Mali	Human
+2029001531 (Source)	28	[24,60)	Control	Mali	Human
+2029001581 (Source)	27	[24,60)	Control	Mali	Human
+2029001741 (Source)	7	[6,12)	Control	Mali	Human
+2029001771 (Source)	20	[18,24)	Control	Mali	Human
+2029001861 (Source)	10	[6,12)	Control	Mali	Human
+2029001891 (Source)	13	[12,18)	Control	Mali	Human
+2029001961 (Source)	28	[24,60)	Control	Mali	Human
+2029002221 (Source)	30	[24,60)	Control	Mali	Human
+2029002321 (Source)	5	[0,6)	Control	Mali	Human
+2029002351 (Source)	15	[12,18)	Control	Mali	Human
+2029002411 (Source)	29	[24,60)	Control	Mali	Human
+2029002431 (Source)	19	[18,24)	Control	Mali	Human
+2029002531 (Source)	7	[6,12)	Control	Mali	Human
+2029002621 (Source)	6	[6,12)	Control	Mali	Human
+2029002641 (Source)	30	[24,60)	Control	Mali	Human
+2029002671 (Source)	7	[6,12)	Control	Mali	Human
+2029002721 (Source)	20	[18,24)	Control	Mali	Human
+2029002771 (Source)	7	[6,12)	Control	Mali	Human
+2029002821 (Source)	11	[6,12)	Control	Mali	Human
+2029002841 (Source)	8	[6,12)	Control	Mali	Human
+2029002911 (Source)	17	[12,18)	Control	Mali	Human
+2029003011 (Source)	5	[0,6)	Control	Mali	Human
+2029003031 (Source)	9	[6,12)	Control	Mali	Human
+2029003151 (Source)	1	[0,6)	Control	Mali	Human
+2029003221 (Source)	9	[6,12)	Control	Mali	Human
+2029003231 (Source)	6	[6,12)	Control	Mali	Human
+2029003291 (Source)	11	[6,12)	Control	Mali	Human
+2030005861 (Source)	6	[6,12)	Case	Mali	Human
+2039000881 (Source)	8	[6,12)	Control	Mali	Human
+2039000911 (Source)	6	[6,12)	Control	Mali	Human
+2040005491 (Source)	20	[18,24)	Case	Mali	Human
+2040008231 (Source)	15	[12,18)	Case	Mali	Human
+2040008721 (Source)	4	[0,6)	Case	Mali	Human
+2040009231 (Source)	7	[6,12)	Case	Mali	Human
+2040009401 (Source)	5	[0,6)	Case	Mali	Human
+2040009571 (Source)	12	[12,18)	Case	Mali	Human
+2040009591 (Source)	8	[6,12)	Case	Mali	Human
+2040010241 (Source)	13	[12,18)	Case	Mali	Human
+2040011191 (Source)	9	[6,12)	Case	Mali	Human
+2049000841 (Source)	19	[18,24)	Control	Mali	Human
+2049001041 (Source)	6	[6,12)	Control	Mali	Human
+2049001071 (Source)	5	[0,6)	Control	Mali	Human
+2049001251 (Source)	13	[12,18)	Control	Mali	Human
+2049001301 (Source)	12	[12,18)	Control	Mali	Human
+2049001321 (Source)	11	[6,12)	Control	Mali	Human
+2050005961 (Source)	26	[24,60)	Case	Mali	Human
+2050007251 (Source)	48	[24,60)	Case	Mali	Human
+2050007371 (Source)	0	[0,6)	Case	Mali	Human
+2050008361 (Source)	6	[6,12)	Case	Mali	Human
+2050008891 (Source)	19	[18,24)	Case	Mali	Human
+2050009491 (Source)	4	[0,6)	Case	Mali	Human
+2050009571 (Source)	3	[0,6)	Case	Mali	Human
+2050011171 (Source)	12	[12,18)	Case	Mali	Human
+2050011181 (Source)	6	[6,12)	Case	Mali	Human
+2050011331 (Source)	10	[6,12)	Case	Mali	Human
+2050012051 (Source)	9	[6,12)	Case	Mali	Human
+2050012361 (Source)	10	[6,12)	Case	Mali	Human
+2050012611 (Source)	26	[24,60)	Case	Mali	Human
+2050012731 (Source)	19	[18,24)	Case	Mali	Human
+2050013011 (Source)	9	[6,12)	Case	Mali	Human
+2050013371 (Source)	40	[24,60)	Case	Mali	Human
+2050013411 (Source)	8	[6,12)	Case	Mali	Human
+2050013571 (Source)	15	[12,18)	Case	Mali	Human
+2050013781 (Source)	7	[6,12)	Case	Mali	Human
+2050014861 (Source)	10	[6,12)	Case	Mali	Human
+2059000901 (Source)	15	[12,18)	Control	Mali	Human
+2059000931 (Source)	25	[24,60)	Control	Mali	Human
+2059000961 (Source)	52	[24,60)	Control	Mali	Human
+2059001101 (Source)	22	[18,24)	Control	Mali	Human
+2059001301 (Source)	28	[24,60)	Control	Mali	Human
+2059001341 (Source)	17	[12,18)	Control	Mali	Human
+2059001431 (Source)	8	[6,12)	Control	Mali	Human
+2059001471 (Source)	7	[6,12)	Control	Mali	Human
+2059001511 (Source)	8	[6,12)	Control	Mali	Human
+2059001551 (Source)	24	[24,60)	Control	Mali	Human
+2059001651 (Source)	18	[18,24)	Control	Mali	Human
+2059001741 (Source)	36	[24,60)	Control	Mali	Human
+2059001821 (Source)	8	[6,12)	Control	Mali	Human
+2059001911 (Source)	9	[6,12)	Control	Mali	Human
+2059001951 (Source)	8	[6,12)	Control	Mali	Human
+2060024141 (Source)	6	[6,12)	Case	Mali	Human
+2060024251 (Source)	27	[24,60)	Case	Mali	Human
+2060024261 (Source)	11	[6,12)	Case	Mali	Human
+2060024801 (Source)	8	[6,12)	Case	Mali	Human
+2060027411 (Source)	11	[6,12)	Case	Mali	Human
+2060029291 (Source)	14	[12,18)	Case	Mali	Human
+2060029971 (Source)	9	[6,12)	Case	Mali	Human
+2060029981 (Source)	18	[18,24)	Case	Mali	Human
+2060030121 (Source)	26	[24,60)	Case	Mali	Human
+2060031551 (Source)	12	[12,18)	Case	Mali	Human
+2060031861 (Source)	12	[12,18)	Case	Mali	Human
+2060031891 (Source)	13	[12,18)	Case	Mali	Human
+2060033011 (Source)	8	[6,12)	Case	Mali	Human
+2060033121 (Source)	4	[0,6)	Case	Mali	Human
+2060033161 (Source)	8	[6,12)	Case	Mali	Human
+2060033201 (Source)	7	[6,12)	Case	Mali	Human
+2060034221 (Source)	9	[6,12)	Case	Mali	Human
+2060034461 (Source)	11	[6,12)	Case	Mali	Human
+2060034471 (Source)	9	[6,12)	Case	Mali	Human
+2060034571 (Source)	9	[6,12)	Case	Mali	Human
+2060034851 (Source)	26	[24,60)	Case	Mali	Human
+2060035461 (Source)	9	[6,12)	Case	Mali	Human
+2060035491 (Source)	8	[6,12)	Case	Mali	Human
+2060035541 (Source)	8	[6,12)	Case	Mali	Human
+2060035671 (Source)	16	[12,18)	Case	Mali	Human
+2060035711 (Source)	7	[6,12)	Case	Mali	Human
+2060035841 (Source)	10	[6,12)	Case	Mali	Human
+2060035861 (Source)	5	[0,6)	Case	Mali	Human
+2069000931 (Source)	14	[12,18)	Control	Mali	Human
+2069000971 (Source)	14	[12,18)	Control	Mali	Human
+2069001011 (Source)	15	[12,18)	Control	Mali	Human
+2069001061 (Source)	16	[12,18)	Control	Mali	Human
+2069001091 (Source)	6	[6,12)	Control	Mali	Human
+2069001181 (Source)	10	[6,12)	Control	Mali	Human
+2069001271 (Source)	4	[0,6)	Control	Mali	Human
+2069001311 (Source)	9	[6,12)	Control	Mali	Human
+2069001451 (Source)	13	[12,18)	Control	Mali	Human
+2069001471 (Source)	17	[12,18)	Control	Mali	Human
+2069001601 (Source)	28	[24,60)	Control	Mali	Human
+2069001651 (Source)	12	[12,18)	Control	Mali	Human
+2069001681 (Source)	9	[6,12)	Control	Mali	Human
+2069001711 (Source)	12	[12,18)	Control	Mali	Human
+2069001751 (Source)	4	[0,6)	Control	Mali	Human
+2069001911 (Source)	6	[6,12)	Control	Mali	Human
+2069001951 (Source)	7	[6,12)	Control	Mali	Human
+2069002031 (Source)	8	[6,12)	Control	Mali	Human
+2069002101 (Source)	7	[6,12)	Control	Mali	Human
+2069002141 (Source)	30	[24,60)	Control	Mali	Human
+2069002161 (Source)	10	[6,12)	Control	Mali	Human
+2069002191 (Source)	8	[6,12)	Control	Mali	Human
+2069002271 (Source)	7	[6,12)	Control	Mali	Human
+2069002331 (Source)	3	[0,6)	Control	Mali	Human
+2320002441 (Source)	43	[24,60)	Case	Mali	Human
+2320003311 (Source)	15	[12,18)	Case	Mali	Human
+2320003421 (Source)	39	[24,60)	Case	Mali	Human
+2320003711 (Source)	33	[24,60)	Case	Mali	Human
+2329000811 (Source)	39	[24,60)	Control	Mali	Human
+2329000861 (Source)	12	[12,18)	Control	Mali	Human
+2329000901 (Source)	42	[24,60)	Control	Mali	Human
+2329000941 (Source)	39	[24,60)	Control	Mali	Human
+2350002971 (Source)	33	[24,60)	Case	Mali	Human
+2350003511 (Source)	14	[12,18)	Case	Mali	Human
+2350004861 (Source)	17	[12,18)	Case	Mali	Human
+2350005921 (Source)	19	[18,24)	Case	Mali	Human
+2350006571 (Source)	4	[0,6)	Case	Mali	Human
+2350006611 (Source)	44	[24,60)	Case	Mali	Human
+2350006931 (Source)	6	[6,12)	Case	Mali	Human
+2350006951 (Source)	18	[18,24)	Case	Mali	Human
+2350007401 (Source)	6	[6,12)	Case	Mali	Human
+2350007461 (Source)	12	[12,18)	Case	Mali	Human
+2350007711 (Source)	10	[6,12)	Case	Mali	Human
+2350007911 (Source)	9	[6,12)	Case	Mali	Human
+2350007941 (Source)	36	[24,60)	Case	Mali	Human
+2350008311 (Source)	7	[6,12)	Case	Mali	Human
+2350021511 (Source)	27	[24,60)	Case	Mali	Human
+2359000981 (Source)	29	[24,60)	Control	Mali	Human
+2359001001 (Source)	15	[12,18)	Control	Mali	Human
+2359001131 (Source)	11	[6,12)	Control	Mali	Human
+2359001181 (Source)	16	[12,18)	Control	Mali	Human
+2359001241 (Source)	17	[12,18)	Control	Mali	Human
+2359001341 (Source)	6	[6,12)	Control	Mali	Human
+2359001391 (Source)	6	[6,12)	Control	Mali	Human
+2359001481 (Source)	45	[24,60)	Control	Mali	Human
+2359001521 (Source)	17	[12,18)	Control	Mali	Human
+2359001571 (Source)	6	[6,12)	Control	Mali	Human
+2359001651 (Source)	8	[6,12)	Control	Mali	Human
+2359001701 (Source)	12	[12,18)	Control	Mali	Human
+2359001781 (Source)	10	[6,12)	Control	Mali	Human
+2359001811 (Source)	34	[24,60)	Control	Mali	Human
+2359001861 (Source)	8	[6,12)	Control	Mali	Human
+4020002141 (Source)	8	[6,12)	Case	Kenya	Human
+4020002161 (Source)	9	[6,12)	Case	Kenya	Human
+4029001621 (Source)	26	[24,60)	Control	Kenya	Human
+4029001671 (Source)	9	[6,12)	Control	Kenya	Human
+4029002701 (Source)	39	[24,60)	Control	Kenya	Human
+4029006011 (Source)	7	[6,12)	Control	Kenya	Human
+4040005521 (Source)	18	[18,24)	Case	Kenya	Human
+4040005741 (Source)	9	[6,12)	Case	Kenya	Human
+4040005831 (Source)	13	[12,18)	Case	Kenya	Human
+4040006391 (Source)	5	[0,6)	Case	Kenya	Human
+4040006801 (Source)	23	[18,24)	Case	Kenya	Human
+4040006841 (Source)	5	[0,6)	Case	Kenya	Human
+4040008481 (Source)	8	[6,12)	Case	Kenya	Human
+4040008961 (Source)	12	[12,18)	Case	Kenya	Human
+4040009051 (Source)	9	[6,12)	Case	Kenya	Human
+4040017771 (Source)	17	[12,18)	Case	Kenya	Human
+4040018161 (Source)	48	[24,60)	Case	Kenya	Human
+4040018191 (Source)	26	[24,60)	Case	Kenya	Human
+4040018221 (Source)	18	[18,24)	Case	Kenya	Human
+4040018621 (Source)	21	[18,24)	Case	Kenya	Human
+4040018811 (Source)	3	[0,6)	Case	Kenya	Human
+4040019081 (Source)	15	[12,18)	Case	Kenya	Human
+4040019841 (Source)	9	[6,12)	Case	Kenya	Human
+4040022711 (Source)	14	[12,18)	Case	Kenya	Human
+4040025861 (Source)	23	[18,24)	Case	Kenya	Human
+4049001691 (Source)	18	[18,24)	Control	Kenya	Human
+4049001801 (Source)	10	[6,12)	Control	Kenya	Human
+4049001841 (Source)	12	[12,18)	Control	Kenya	Human
+4049002081 (Source)	5	[0,6)	Control	Kenya	Human
+4049002231 (Source)	5	[0,6)	Control	Kenya	Human
+4049002511 (Source)	9	[6,12)	Control	Kenya	Human
+4049002691 (Source)	8	[6,12)	Control	Kenya	Human
+4049004691 (Source)	12	[12,18)	Control	Kenya	Human
+4049004721 (Source)	50	[24,60)	Control	Kenya	Human
+4049004731 (Source)	25	[24,60)	Control	Kenya	Human
+4049004741 (Source)	21	[18,24)	Control	Kenya	Human
+4049004821 (Source)	17	[12,18)	Control	Kenya	Human
+4049004891 (Source)	3	[0,6)	Control	Kenya	Human
+4049006031 (Source)	6	[6,12)	Control	Kenya	Human
+4049006171 (Source)	6	[6,12)	Control	Kenya	Human
 4050011331 (Source)				Kenya	Human
-4050012461 (Source)				Kenya	Human
-4050014101 (Source)	16	12-18 months	Case	Kenya	Human
-4050014411 (Source)	1	0-6 months	Case	Kenya	Human
-4050015071 (Source)	12	12-18 months	Case	Kenya	Human
-4050015531 (Source)	21	18-24 months	Case	Kenya	Human
-4050015861 (Source)	6	6-12 months	Case	Kenya	Human
-4050015981 (Source)	6	6-12 months	Case	Kenya	Human
-4050016331 (Source)	33	24-60 months	Case	Kenya	Human
-4050016541 (Source)	3	0-6 months	Case	Kenya	Human
-4050016961 (Source)	0	0-6 months	Case	Kenya	Human
-4050017561 (Source)	11	6-12 months	Case	Kenya	Human
-4050018381 (Source)	5	0-6 months	Case	Kenya	Human
-4050019651 (Source)	24	24-60 months	Case	Kenya	Human
-4050020541 (Source)	24	24-60 months	Case	Kenya	Human
-4050020951 (Source)	8	6-12 months	Case	Kenya	Human
-4050022721 (Source)	7	6-12 months	Case	Kenya	Human
-4050023311 (Source)	11	6-12 months	Case	Kenya	Human
-4050024731 (Source)	8	6-12 months	Case	Kenya	Human
-4050045081 (Source)	9	6-12 months	Case	Kenya	Human
-4050045831 (Source)	6	6-12 months	Case	Kenya	Human
-4050046771 (Source)	48	24-60 months	Case	Kenya	Human
-4050046931 (Source)	17	12-18 months	Case	Kenya	Human
-4050047311 (Source)	33	24-60 months	Case	Kenya	Human
-4050047341 (Source)	5	0-6 months	Case	Kenya	Human
-4050047611 (Source)	13	12-18 months	Case	Kenya	Human
-4050049121 (Source)	15	12-18 months	Case	Kenya	Human
-4050051631 (Source)	6	6-12 months	Case	Kenya	Human
-4050053231 (Source)	5	0-6 months	Case	Kenya	Human
-4050053321 (Source)	44	24-60 months	Case	Kenya	Human
-4050053631 (Source)	2	0-6 months	Case	Kenya	Human
-4050055901 (Source)	10	6-12 months	Case	Kenya	Human
-4050056171 (Source)	13	12-18 months	Case	Kenya	Human
-4050056821 (Source)	13	12-18 months	Case	Kenya	Human
-4050057561 (Source)	7	6-12 months	Case	Kenya	Human
-4050057781 (Source)	25	24-60 months	Case	Kenya	Human
-4050058341 (Source)	2	0-6 months	Case	Kenya	Human
-4050059491 (Source)	21	18-24 months	Case	Kenya	Human
-4059001561 (Source)				Kenya	Human
-4059001581 (Source)				Kenya	Human
-4059001591 (Source)	13	12-18 months	Control	Kenya	Human
-4059001641 (Source)	2	0-6 months	Control	Kenya	Human
-4059001721 (Source)	16	12-18 months	Control	Kenya	Human
-4059001731 (Source)	3	0-6 months	Control	Kenya	Human
-4059001831 (Source)	21	18-24 months	Control	Kenya	Human
-4059001861 (Source)	13	12-18 months	Control	Kenya	Human
-4059001901 (Source)	6	6-12 months	Control	Kenya	Human
-4059001921 (Source)	20	18-24 months	Control	Kenya	Human
-4059002011 (Source)	30	24-60 months	Control	Kenya	Human
-4059002031 (Source)	3	0-6 months	Control	Kenya	Human
-4059002131 (Source)	10	6-12 months	Control	Kenya	Human
-4059002151 (Source)	4	0-6 months	Control	Kenya	Human
-4059002161 (Source)	9	6-12 months	Control	Kenya	Human
-4059002271 (Source)	5	0-6 months	Control	Kenya	Human
-4059002341 (Source)	7	6-12 months	Control	Kenya	Human
-4059002401 (Source)	24	24-60 months	Control	Kenya	Human
-4059004631 (Source)	7	6-12 months	Control	Kenya	Human
-4059004671 (Source)	4	0-6 months	Control	Kenya	Human
-4059004681 (Source)	47	24-60 months	Control	Kenya	Human
-4059004761 (Source)	5	0-6 months	Control	Kenya	Human
-4059004841 (Source)	48	24-60 months	Control	Kenya	Human
-4059004901 (Source)	16	12-18 months	Control	Kenya	Human
-4059004911 (Source)	33	24-60 months	Control	Kenya	Human
-4059004951 (Source)	5	0-6 months	Control	Kenya	Human
-4059005051 (Source)	15	12-18 months	Control	Kenya	Human
-4059005411 (Source)	6	6-12 months	Control	Kenya	Human
-4059005581 (Source)				Kenya	Human
-4059005911 (Source)	32	24-60 months	Control	Kenya	Human
-4059005941 (Source)	13	12-18 months	Control	Kenya	Human
-4059006001 (Source)	14	12-18 months	Control	Kenya	Human
-4059006041 (Source)	8	6-12 months	Control	Kenya	Human
-4059006121 (Source)	1	0-6 months	Control	Kenya	Human
-4070008411 (Source)	10	6-12 months	Case	Kenya	Human
-4070008571 (Source)	14	12-18 months	Case	Kenya	Human
-4070008711 (Source)	45	24-60 months	Case	Kenya	Human
-4070008811 (Source)	43	24-60 months	Case	Kenya	Human
-4070009361 (Source)	10	6-12 months	Case	Kenya	Human
-4070009431 (Source)	6	6-12 months	Case	Kenya	Human
-4070009981 (Source)	4	0-6 months	Case	Kenya	Human
-4070010131 (Source)	7	6-12 months	Case	Kenya	Human
-4070010341 (Source)	55	24-60 months	Case	Kenya	Human
-4070010731 (Source)	5	0-6 months	Case	Kenya	Human
-4070010971 (Source)	43	24-60 months	Case	Kenya	Human
-4070012341 (Source)	45	24-60 months	Case	Kenya	Human
-4070012561 (Source)	26	24-60 months	Case	Kenya	Human
-4070012831 (Source)	8	6-12 months	Case	Kenya	Human
-4070013141 (Source)	12	12-18 months	Case	Kenya	Human
-4070013791 (Source)	38	24-60 months	Case	Kenya	Human
-4070024461 (Source)	5	0-6 months	Case	Kenya	Human
-4070024761 (Source)	34	24-60 months	Case	Kenya	Human
-4070025771 (Source)	6	6-12 months	Case	Kenya	Human
-4070025861 (Source)	27	24-60 months	Case	Kenya	Human
-4070026011 (Source)	9	6-12 months	Case	Kenya	Human
-4070026021 (Source)	12	12-18 months	Case	Kenya	Human
-4070026121 (Source)	22	18-24 months	Case	Kenya	Human
-4070026341 (Source)	17	12-18 months	Case	Kenya	Human
-4070028701 (Source)	16	12-18 months	Case	Kenya	Human
-4070034361 (Source)	6	6-12 months	Case	Kenya	Human
-4070034551 (Source)	6	6-12 months	Case	Kenya	Human
-4079001611 (Source)	9	6-12 months	Control	Kenya	Human
-4079001681 (Source)	11	6-12 months	Control	Kenya	Human
-4079001711 (Source)	6	6-12 months	Control	Kenya	Human
-4079001751 (Source)	35	24-60 months	Control	Kenya	Human
-4079001761 (Source)	13	12-18 months	Control	Kenya	Human
-4079001791 (Source)	41	24-60 months	Control	Kenya	Human
-4079001811 (Source)	43	24-60 months	Control	Kenya	Human
-4079001951 (Source)	9	6-12 months	Control	Kenya	Human
-4079001961 (Source)	7	6-12 months	Control	Kenya	Human
-4079002051 (Source)	4	0-6 months	Control	Kenya	Human
-4079002091 (Source)	8	6-12 months	Control	Kenya	Human
-4079002121 (Source)	57	24-60 months	Control	Kenya	Human
-4079002221 (Source)	4	0-6 months	Control	Kenya	Human
-4079002261 (Source)	45	24-60 months	Control	Kenya	Human
-4079002381 (Source)	47	24-60 months	Control	Kenya	Human
-4079002681 (Source)	40	24-60 months	Control	Kenya	Human
-4079004521 (Source)	2	0-6 months	Control	Kenya	Human
-4079004661 (Source)	5	0-6 months	Control	Kenya	Human
-4079004711 (Source)	36	24-60 months	Control	Kenya	Human
-4079004941 (Source)	4	0-6 months	Control	Kenya	Human
-4079005991 (Source)	6	6-12 months	Control	Kenya	Human
-4079006101 (Source)	44	24-60 months	Control	Kenya	Human
-4080009961 (Source)	13	12-18 months	Case	Kenya	Human
-4080010011 (Source)	23	18-24 months	Case	Kenya	Human
-4080010361 (Source)	29	24-60 months	Case	Kenya	Human
-4080010411 (Source)	31	24-60 months	Case	Kenya	Human
-4080010571 (Source)	6	6-12 months	Case	Kenya	Human
-4080010701 (Source)	24	24-60 months	Case	Kenya	Human
-4080010821 (Source)	6	6-12 months	Case	Kenya	Human
-4080010861 (Source)	17	12-18 months	Case	Kenya	Human
-4080010961 (Source)	11	6-12 months	Case	Kenya	Human
-4080011121 (Source)	54	24-60 months	Case	Kenya	Human
-4080011211 (Source)	19	18-24 months	Case	Kenya	Human
-4080011431 (Source)	16	12-18 months	Case	Kenya	Human
-4080011441 (Source)	5	0-6 months	Case	Kenya	Human
-4080011791 (Source)	8	6-12 months	Case	Kenya	Human
-4080013551 (Source)	10	6-12 months	Case	Kenya	Human
-4080022801 (Source)	10	6-12 months	Case	Kenya	Human
-4080023091 (Source)	29	24-60 months	Case	Kenya	Human
-4080023401 (Source)	19	18-24 months	Case	Kenya	Human
-4080023441 (Source)	15	12-18 months	Case	Kenya	Human
-4080023461 (Source)	9	6-12 months	Case	Kenya	Human
-4080023811 (Source)	17	12-18 months	Case	Kenya	Human
-4080024031 (Source)	23	18-24 months	Case	Kenya	Human
-4080024551 (Source)	8	6-12 months	Case	Kenya	Human
-4080027171 (Source)	4	0-6 months	Case	Kenya	Human
-4080027321 (Source)	32	24-60 months	Case	Kenya	Human
-4080027451 (Source)	5	0-6 months	Case	Kenya	Human
-4080027781 (Source)	12	12-18 months	Case	Kenya	Human
-4080028551 (Source)	7	6-12 months	Case	Kenya	Human
-4080028561 (Source)	7	6-12 months	Case	Kenya	Human
-4080029451 (Source)	6	6-12 months	Case	Kenya	Human
-4089001601 (Source)	23	18-24 months	Control	Kenya	Human
-4089001851 (Source)	19	18-24 months	Control	Kenya	Human
-4089001871 (Source)	14	12-18 months	Control	Kenya	Human
-4089001881 (Source)	21	18-24 months	Control	Kenya	Human
-4089001981 (Source)	31	24-60 months	Control	Kenya	Human
-4089002001 (Source)	28	24-60 months	Control	Kenya	Human
-4089002021 (Source)	5	0-6 months	Control	Kenya	Human
-4089002071 (Source)	24	24-60 months	Control	Kenya	Human
-4089002101 (Source)	7	6-12 months	Control	Kenya	Human
-4089002111 (Source)	18	18-24 months	Control	Kenya	Human
-4089002191 (Source)	54	24-60 months	Control	Kenya	Human
-4089002241 (Source)	21	18-24 months	Control	Kenya	Human
-4089002251 (Source)	14	12-18 months	Control	Kenya	Human
-4089002741 (Source)	10	6-12 months	Control	Kenya	Human
-4089004771 (Source)	31	24-60 months	Control	Kenya	Human
-4089004831 (Source)	12	12-18 months	Control	Kenya	Human
-4089004851 (Source)	20	18-24 months	Control	Kenya	Human
-4089004861 (Source)	10	6-12 months	Control	Kenya	Human
-4089005071 (Source)	28	24-60 months	Control	Kenya	Human
-4089005371 (Source)	6	6-12 months	Control	Kenya	Human
-4089005531 (Source)	55	24-60 months	Control	Kenya	Human
-4089005571 (Source)	25	24-60 months	Control	Kenya	Human
-4089005641 (Source)	4	0-6 months	Control	Kenya	Human
-4089005701 (Source)	33	24-60 months	Control	Kenya	Human
-4089005731 (Source)	5	0-6 months	Control	Kenya	Human
-4089005751 (Source)	20	18-24 months	Control	Kenya	Human
-4089005771 (Source)	15	12-18 months	Control	Kenya	Human
-4089005811 (Source)	27	24-60 months	Control	Kenya	Human
-4089005931 (Source)	5	0-6 months	Control	Kenya	Human
-4089005951 (Source)	8	6-12 months	Control	Kenya	Human
-4089006151 (Source)	14	12-18 months	Control	Kenya	Human
-4090006181 (Source)	31	24-60 months	Case	Kenya	Human
-4090006371 (Source)	48	24-60 months	Case	Kenya	Human
-4090006591 (Source)	33	24-60 months	Case	Kenya	Human
-4090006891 (Source)	4	0-6 months	Case	Kenya	Human
-4090006911 (Source)	23	18-24 months	Case	Kenya	Human
-4090007371 (Source)	1	0-6 months	Case	Kenya	Human
-4090007471 (Source)	6	6-12 months	Case	Kenya	Human
-4090007811 (Source)	24	24-60 months	Case	Kenya	Human
-4090008111 (Source)	6	6-12 months	Case	Kenya	Human
-4090009271 (Source)	40	24-60 months	Case	Kenya	Human
-4090009411 (Source)	16	12-18 months	Case	Kenya	Human
-4090009611 (Source)	23	18-24 months	Case	Kenya	Human
-4090009851 (Source)	16	12-18 months	Case	Kenya	Human
-4090010821 (Source)	20	18-24 months	Case	Kenya	Human
-4090010971 (Source)	8	6-12 months	Case	Kenya	Human
-4090011371 (Source)	10	6-12 months	Case	Kenya	Human
-4090011581 (Source)	2	0-6 months	Case	Kenya	Human
-4090023811 (Source)	25	24-60 months	Case	Kenya	Human
-4090023871 (Source)	9	6-12 months	Case	Kenya	Human
-4090024191 (Source)	12	12-18 months	Case	Kenya	Human
-4090024591 (Source)	53	24-60 months	Case	Kenya	Human
-4090025141 (Source)	28	24-60 months	Case	Kenya	Human
-4090025181 (Source)	27	24-60 months	Case	Kenya	Human
-4090029811 (Source)	50	24-60 months	Case	Kenya	Human
-4090030031 (Source)	7	6-12 months	Case	Kenya	Human
-4090030491 (Source)	27	24-60 months	Case	Kenya	Human
-4090030941 (Source)	29	24-60 months	Case	Kenya	Human
-4090031111 (Source)	43	24-60 months	Case	Kenya	Human
-4090031691 (Source)	27	24-60 months	Case	Kenya	Human
-4099001651 (Source)	30	24-60 months	Control	Kenya	Human
-4099001771 (Source)	36	24-60 months	Control	Kenya	Human
-4099001941 (Source)	21	18-24 months	Control	Kenya	Human
-4099002061 (Source)	3	0-6 months	Control	Kenya	Human
-4099002141 (Source)	7	6-12 months	Control	Kenya	Human
-4099002181 (Source)	34	24-60 months	Control	Kenya	Human
-4099002431 (Source)	42	24-60 months	Control	Kenya	Human
-4099002451 (Source)	16	12-18 months	Control	Kenya	Human
-4099002501 (Source)	24	24-60 months	Control	Kenya	Human
-4099002521 (Source)	33	24-60 months	Control	Kenya	Human
-4099002711 (Source)	7	6-12 months	Control	Kenya	Human
-4099004781 (Source)	24	24-60 months	Control	Kenya	Human
-4099004791 (Source)	8	6-12 months	Control	Kenya	Human
-4099005591 (Source)	14	12-18 months	Control	Kenya	Human
-4099005691 (Source)				Kenya	Human
-4099005841 (Source)	52	24-60 months	Control	Kenya	Human
-4099005881 (Source)	7	6-12 months	Control	Kenya	Human
-4099005971 (Source)	26	24-60 months	Control	Kenya	Human
-4099006021 (Source)	30	24-60 months	Control	Kenya	Human
-4099006131 (Source)	9	6-12 months	Control	Kenya	Human
-4110008591 (Source)	36	24-60 months	Case	Kenya	Human
-4110009251 (Source)	57	24-60 months	Case	Kenya	Human
-4110009681 (Source)	8	6-12 months	Case	Kenya	Human
-4110009941 (Source)	7	6-12 months	Case	Kenya	Human
-4110011441 (Source)	18	18-24 months	Case	Kenya	Human
-4110012341 (Source)	7	6-12 months	Case	Kenya	Human
-4110012991 (Source)	7	6-12 months	Case	Kenya	Human
-4110014111 (Source)	4	0-6 months	Case	Kenya	Human
-4110015671 (Source)	8	6-12 months	Case	Kenya	Human
-4110024601 (Source)	5	0-6 months	Case	Kenya	Human
-4110025731 (Source)	4	0-6 months	Case	Kenya	Human
-4110025921 (Source)	18	18-24 months	Case	Kenya	Human
-4110026161 (Source)	52	24-60 months	Case	Kenya	Human
-4110026371 (Source)	5	0-6 months	Case	Kenya	Human
-4110026381 (Source)	3	0-6 months	Case	Kenya	Human
-4110026531 (Source)	13	12-18 months	Case	Kenya	Human
-4110029531 (Source)	2	0-6 months	Case	Kenya	Human
-4110029801 (Source)	48	24-60 months	Case	Kenya	Human
-4110030161 (Source)	47	24-60 months	Case	Kenya	Human
-4110030341 (Source)	37	24-60 months	Case	Kenya	Human
-4110030411 (Source)	6	6-12 months	Case	Kenya	Human
-4110031431 (Source)	11	6-12 months	Case	Kenya	Human
-4110031561 (Source)	4	0-6 months	Case	Kenya	Human
-4119001821 (Source)	8	6-12 months	Control	Kenya	Human
-4119002281 (Source)	18	18-24 months	Control	Kenya	Human
-4119002311 (Source)	4	0-6 months	Control	Kenya	Human
-4119002371 (Source)	5	0-6 months	Control	Kenya	Human
-4119002411 (Source)	8	6-12 months	Control	Kenya	Human
-4119004571 (Source)	4	0-6 months	Control	Kenya	Human
-4119004621 (Source)	5	0-6 months	Control	Kenya	Human
-4119004641 (Source)	4	0-6 months	Control	Kenya	Human
-4119004751 (Source)	2	0-6 months	Control	Kenya	Human
-4119004871 (Source)	49	24-60 months	Control	Kenya	Human
-4119004961 (Source)	5	0-6 months	Control	Kenya	Human
-4119005141 (Source)	8	6-12 months	Control	Kenya	Human
-4119005851 (Source)	4	0-6 months	Control	Kenya	Human
-4119005871 (Source)	10	6-12 months	Control	Kenya	Human
-4119005921 (Source)	25	24-60 months	Control	Kenya	Human
-4119006061 (Source)	10	6-12 months	Control	Kenya	Human
-6010001131 (Source)	32	24-60 months	Case	Bangladesh	Human
-6010001191 (Source)	19	18-24 months	Case	Bangladesh	Human
-6010003931 (Source)	1	0-6 months	Case	Bangladesh	Human
-6010004771 (Source)	30	24-60 months	Case	Bangladesh	Human
-6010006401 (Source)	10	6-12 months	Case	Bangladesh	Human
-6010008061 (Source)	40	24-60 months	Case	Bangladesh	Human
-6010011651 (Source)	10	6-12 months	Case	Bangladesh	Human
-6010025931 (Source)	6	6-12 months	Case	Bangladesh	Human
-6010028591 (Source)	19	18-24 months	Case	Bangladesh	Human
-6010029301 (Source)	13	12-18 months	Case	Bangladesh	Human
-6010029571 (Source)	13	12-18 months	Case	Bangladesh	Human
-6010050831 (Source)	17	12-18 months	Case	Bangladesh	Human
-6010061471 (Source)	18	18-24 months	Case	Bangladesh	Human
-6010073191 (Source)	18	18-24 months	Case	Bangladesh	Human
-6010081131 (Source)	10	6-12 months	Case	Bangladesh	Human
-6010109491 (Source)	1	0-6 months	Case	Bangladesh	Human
-6010109521 (Source)	34	24-60 months	Case	Bangladesh	Human
-6010111471 (Source)	26	24-60 months	Case	Bangladesh	Human
-6010112861 (Source)	35	24-60 months	Case	Bangladesh	Human
-6010112931 (Source)	39	24-60 months	Case	Bangladesh	Human
-6010113691 (Source)	8	6-12 months	Case	Bangladesh	Human
-6010113711 (Source)	50	24-60 months	Case	Bangladesh	Human
-6010115591 (Source)	11	6-12 months	Case	Bangladesh	Human
-6010116131 (Source)	8	6-12 months	Case	Bangladesh	Human
-6010116381 (Source)	19	18-24 months	Case	Bangladesh	Human
-6010116881 (Source)	21	18-24 months	Case	Bangladesh	Human
-6010118771 (Source)	34	24-60 months	Case	Bangladesh	Human
-6010119971 (Source)	46	24-60 months	Case	Bangladesh	Human
-6010123171 (Source)	14	12-18 months	Case	Bangladesh	Human
-6010125231 (Source)	30	24-60 months	Case	Bangladesh	Human
-6010127661 (Source)	12	12-18 months	Case	Bangladesh	Human
-6010127691 (Source)	20	18-24 months	Case	Bangladesh	Human
-6010128531 (Source)	6	6-12 months	Case	Bangladesh	Human
-6010128741 (Source)	41	24-60 months	Case	Bangladesh	Human
-6010129721 (Source)	5	0-6 months	Case	Bangladesh	Human
-6010129881 (Source)	10	6-12 months	Case	Bangladesh	Human
-6010131011 (Source)	17	12-18 months	Case	Bangladesh	Human
-6010131311 (Source)	10	6-12 months	Case	Bangladesh	Human
-6010131601 (Source)	21	18-24 months	Case	Bangladesh	Human
-6010133701 (Source)	8	6-12 months	Case	Bangladesh	Human
-6010134191 (Source)	4	0-6 months	Case	Bangladesh	Human
-6010134231 (Source)	18	18-24 months	Case	Bangladesh	Human
-6010134561 (Source)	11	6-12 months	Case	Bangladesh	Human
-6010134641 (Source)	17	12-18 months	Case	Bangladesh	Human
-6010135601 (Source)	38	24-60 months	Case	Bangladesh	Human
-6010135911 (Source)	15	12-18 months	Case	Bangladesh	Human
-6010137181 (Source)	23	18-24 months	Case	Bangladesh	Human
-6010141391 (Source)	8	6-12 months	Case	Bangladesh	Human
-6010144751 (Source)	14	12-18 months	Case	Bangladesh	Human
-6010145361 (Source)	33	24-60 months	Case	Bangladesh	Human
-6010145921 (Source)	5	0-6 months	Case	Bangladesh	Human
-6010147501 (Source)	14	12-18 months	Case	Bangladesh	Human
-6010148391 (Source)	11	6-12 months	Case	Bangladesh	Human
-6010148821 (Source)	5	0-6 months	Case	Bangladesh	Human
-6010150291 (Source)	10	6-12 months	Case	Bangladesh	Human
-6010153491 (Source)	25	24-60 months	Case	Bangladesh	Human
-6010155531 (Source)	7	6-12 months	Case	Bangladesh	Human
-6010159331 (Source)	35	24-60 months	Case	Bangladesh	Human
-6010160501 (Source)	11	6-12 months	Case	Bangladesh	Human
-6010160521 (Source)	40	24-60 months	Case	Bangladesh	Human
-6010163831 (Source)	32	24-60 months	Case	Bangladesh	Human
-6010172601 (Source)	4	0-6 months	Case	Bangladesh	Human
-6010175651 (Source)	8	6-12 months	Case	Bangladesh	Human
-6010177861 (Source)	7	6-12 months	Case	Bangladesh	Human
-6010186331 (Source)	17	12-18 months	Case	Bangladesh	Human
-6010188941 (Source)	12	12-18 months	Case	Bangladesh	Human
-6010192581 (Source)	32	24-60 months	Case	Bangladesh	Human
-6010192801 (Source)	22	18-24 months	Case	Bangladesh	Human
-6010195861 (Source)	17	12-18 months	Case	Bangladesh	Human
-6010196031 (Source)	6	6-12 months	Case	Bangladesh	Human
-6010196891 (Source)	28	24-60 months	Case	Bangladesh	Human
-6010196981 (Source)	22	18-24 months	Case	Bangladesh	Human
-6010200741 (Source)	37	24-60 months	Case	Bangladesh	Human
-6010200791 (Source)	9	6-12 months	Case	Bangladesh	Human
-6010201911 (Source)	10	6-12 months	Case	Bangladesh	Human
-6010202111 (Source)	14	12-18 months	Case	Bangladesh	Human
-6010202721 (Source)	0	0-6 months	Case	Bangladesh	Human
-6010202781 (Source)	13	12-18 months	Case	Bangladesh	Human
-6010203361 (Source)	13	12-18 months	Case	Bangladesh	Human
-6010204491 (Source)	7	6-12 months	Case	Bangladesh	Human
-6010215431 (Source)	8	6-12 months	Case	Bangladesh	Human
-6010215871 (Source)	6	6-12 months	Case	Bangladesh	Human
-6010217821 (Source)	37	24-60 months	Case	Bangladesh	Human
-6010218161 (Source)	8	6-12 months	Case	Bangladesh	Human
-6010221161 (Source)	52	24-60 months	Case	Bangladesh	Human
-6010235311 (Source)	7	6-12 months	Case	Bangladesh	Human
-6010238021 (Source)	16	12-18 months	Case	Bangladesh	Human
-6010238611 (Source)	21	18-24 months	Case	Bangladesh	Human
-6010239201 (Source)	27	24-60 months	Case	Bangladesh	Human
-6010239701 (Source)	4	0-6 months	Case	Bangladesh	Human
-6010247211 (Source)	12	12-18 months	Case	Bangladesh	Human
-6010248511 (Source)	23	18-24 months	Case	Bangladesh	Human
-6010249381 (Source)	16	12-18 months	Case	Bangladesh	Human
-6010251811 (Source)	1	0-6 months	Case	Bangladesh	Human
-6010258121 (Source)	36	24-60 months	Case	Bangladesh	Human
-6010258601 (Source)	34	24-60 months	Case	Bangladesh	Human
-6010269671 (Source)	40	24-60 months	Case	Bangladesh	Human
-6010272371 (Source)	42	24-60 months	Case	Bangladesh	Human
-6010273051 (Source)	47	24-60 months	Case	Bangladesh	Human
-6019000011 (Source)	19	18-24 months	Control	Bangladesh	Human
-6019000031 (Source)	32	24-60 months	Control	Bangladesh	Human
-6019000041 (Source)	17	12-18 months	Control	Bangladesh	Human
-6019000171 (Source)	12	12-18 months	Control	Bangladesh	Human
-6019000211 (Source)	47	24-60 months	Control	Bangladesh	Human
-6019000301 (Source)	13	12-18 months	Control	Bangladesh	Human
-6019000341 (Source)	10	6-12 months	Control	Bangladesh	Human
-6019000461 (Source)	35	24-60 months	Control	Bangladesh	Human
-6019000511 (Source)	9	6-12 months	Control	Bangladesh	Human
-6019000631 (Source)	5	0-6 months	Control	Bangladesh	Human
-6019000731 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019000751 (Source)	19	18-24 months	Control	Bangladesh	Human
-6019000801 (Source)	22	18-24 months	Control	Bangladesh	Human
-6019000821 (Source)	5	0-6 months	Control	Bangladesh	Human
-6019000841 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019000921 (Source)	8	6-12 months	Control	Bangladesh	Human
-6019001051 (Source)	10	6-12 months	Control	Bangladesh	Human
-6019001071 (Source)	23	18-24 months	Control	Bangladesh	Human
-6019001091 (Source)	11	6-12 months	Control	Bangladesh	Human
-6019001341 (Source)	13	12-18 months	Control	Bangladesh	Human
-6019001371 (Source)	19	18-24 months	Control	Bangladesh	Human
-6019001791 (Source)	22	18-24 months	Control	Bangladesh	Human
-6019002051 (Source)	16	12-18 months	Control	Bangladesh	Human
-6019002521 (Source)	36	24-60 months	Control	Bangladesh	Human
-6019002721 (Source)	20	18-24 months	Control	Bangladesh	Human
-6019002771 (Source)	10	6-12 months	Control	Bangladesh	Human
-6019003661 (Source)	16	12-18 months	Control	Bangladesh	Human
-6019004781 (Source)	42	24-60 months	Control	Bangladesh	Human
-6019005041 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019005081 (Source)	34	24-60 months	Control	Bangladesh	Human
-6019005211 (Source)	33	24-60 months	Control	Bangladesh	Human
-6019005251 (Source)	20	18-24 months	Control	Bangladesh	Human
-6019005261 (Source)	16	12-18 months	Control	Bangladesh	Human
-6019005281 (Source)	22	18-24 months	Control	Bangladesh	Human
-6019005381 (Source)	12	12-18 months	Control	Bangladesh	Human
-6019005401 (Source)	38	24-60 months	Control	Bangladesh	Human
-6019005471 (Source)	46	24-60 months	Control	Bangladesh	Human
-6019005501 (Source)	16	12-18 months	Control	Bangladesh	Human
-6019005521 (Source)	26	24-60 months	Control	Bangladesh	Human
-6019005541 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019005631 (Source)	15	12-18 months	Control	Bangladesh	Human
-6019005691 (Source)	22	18-24 months	Control	Bangladesh	Human
-6019005831 (Source)	14	12-18 months	Control	Bangladesh	Human
-6019006051 (Source)	21	18-24 months	Control	Bangladesh	Human
-6019006241 (Source)	20	18-24 months	Control	Bangladesh	Human
-6019006251 (Source)	28	24-60 months	Control	Bangladesh	Human
-6019006331 (Source)	41	24-60 months	Control	Bangladesh	Human
-6019006351 (Source)	30	24-60 months	Control	Bangladesh	Human
-6019006371 (Source)	15	12-18 months	Control	Bangladesh	Human
-6019006511 (Source)	19	18-24 months	Control	Bangladesh	Human
-6019006521 (Source)	23	18-24 months	Control	Bangladesh	Human
-6019006581 (Source)	6	6-12 months	Control	Bangladesh	Human
-6019006611 (Source)	44	24-60 months	Control	Bangladesh	Human
-6019006621 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019006651 (Source)	9	6-12 months	Control	Bangladesh	Human
-6019006671 (Source)	11	6-12 months	Control	Bangladesh	Human
-6019006691 (Source)	20	18-24 months	Control	Bangladesh	Human
-6019006701 (Source)	20	18-24 months	Control	Bangladesh	Human
-6019006731 (Source)	16	12-18 months	Control	Bangladesh	Human
-6019006741 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019006801 (Source)	20	18-24 months	Control	Bangladesh	Human
-6019006821 (Source)	18	18-24 months	Control	Bangladesh	Human
-6019006861 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019006871 (Source)	10	6-12 months	Control	Bangladesh	Human
-6019006891 (Source)	9	6-12 months	Control	Bangladesh	Human
-6019006901 (Source)	12	12-18 months	Control	Bangladesh	Human
-6019006911 (Source)	27	24-60 months	Control	Bangladesh	Human
-6019007031 (Source)	3	0-6 months	Control	Bangladesh	Human
-6019007181 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019007251 (Source)	33	24-60 months	Control	Bangladesh	Human
-6019007321 (Source)	2	0-6 months	Control	Bangladesh	Human
-6019007431 (Source)	18	18-24 months	Control	Bangladesh	Human
-6019007511 (Source)	23	18-24 months	Control	Bangladesh	Human
-6019007561 (Source)	5	0-6 months	Control	Bangladesh	Human
-6019007571 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019007591 (Source)	11	6-12 months	Control	Bangladesh	Human
-6019007841 (Source)	8	6-12 months	Control	Bangladesh	Human
-6019007861 (Source)	19	18-24 months	Control	Bangladesh	Human
-6019007871 (Source)	13	12-18 months	Control	Bangladesh	Human
-6019007901 (Source)	58	24-60 months	Control	Bangladesh	Human
-6019007981 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019008281 (Source)	15	12-18 months	Control	Bangladesh	Human
-6019008341 (Source)	23	18-24 months	Control	Bangladesh	Human
-6019008381 (Source)	26	24-60 months	Control	Bangladesh	Human
-6019008421 (Source)	16	12-18 months	Control	Bangladesh	Human
-6019008521 (Source)	18	18-24 months	Control	Bangladesh	Human
-6019008621 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019008651 (Source)	34	24-60 months	Control	Bangladesh	Human
-6019008741 (Source)	11	6-12 months	Control	Bangladesh	Human
-6019008751 (Source)	17	12-18 months	Control	Bangladesh	Human
-6019008761 (Source)	12	12-18 months	Control	Bangladesh	Human
-6019010041 (Source)	28	24-60 months	Control	Bangladesh	Human
-6019010511 (Source)	8	6-12 months	Control	Bangladesh	Human
-6019010621 (Source)	50	24-60 months	Control	Bangladesh	Human
-6019011871 (Source)	5	0-6 months	Control	Bangladesh	Human
-6019011911 (Source)	40	24-60 months	Control	Bangladesh	Human
-6019011941 (Source)	7	6-12 months	Control	Bangladesh	Human
-6019011951 (Source)	11	6-12 months	Control	Bangladesh	Human
-6019012141 (Source)	25	24-60 months	Control	Bangladesh	Human
-6019012211 (Source)	35	24-60 months	Control	Bangladesh	Human
-6019012391 (Source)	3	0-6 months	Control	Bangladesh	Human
-6019012461 (Source)	11	6-12 months	Control	Bangladesh	Human
-6019012581 (Source)	4	0-6 months	Control	Bangladesh	Human
-6019012651 (Source)	12	12-18 months	Control	Bangladesh	Human
-6019012851 (Source)	29	24-60 months	Control	Bangladesh	Human
-6019013091 (Source)	51	24-60 months	Control	Bangladesh	Human
-6019013161 (Source)	30	24-60 months	Control	Bangladesh	Human
-6019013491 (Source)	30	24-60 months	Control	Bangladesh	Human
-6019013541 (Source)	15	12-18 months	Control	Bangladesh	Human
-6019013631 (Source)	25	24-60 months	Control	Bangladesh	Human
-6019013711 (Source)	46	24-60 months	Control	Bangladesh	Human
-6019013791 (Source)	40	24-60 months	Control	Bangladesh	Human
-6019014521 (Source)	6	6-12 months	Control	Bangladesh	Human
-6019014801 (Source)	27	24-60 months	Control	Bangladesh	Human
-6019015331 (Source)	38	24-60 months	Control	Bangladesh	Human
-6019015401 (Source)	5	0-6 months	Control	Bangladesh	Human
-6019015471 (Source)	10	6-12 months	Control	Bangladesh	Human
-SRS608239 (Source)	6	6-12 months	Case	Kenya	Human
-SRS608277 (Source)	3	0-6 months	Control	Kenya	Human
-SRS608361 (Source)	4	0-6 months	Control	Kenya	Human
-SRS608532 (Source)				Bangladesh	Human
-SRS608598 (Source)				Bangladesh	Human
-SRS608607 (Source)				Bangladesh	Human
+4050012461 (Source)	NA			Kenya	Human
+4050014101 (Source)	16	[12,18)	Case	Kenya	Human
+4050014411 (Source)	1	[0,6)	Case	Kenya	Human
+4050015071 (Source)	12	[12,18)	Case	Kenya	Human
+4050015531 (Source)	21	[18,24)	Case	Kenya	Human
+4050015861 (Source)	6	[6,12)	Case	Kenya	Human
+4050015981 (Source)	6	[6,12)	Case	Kenya	Human
+4050016331 (Source)	33	[24,60)	Case	Kenya	Human
+4050016541 (Source)	3	[0,6)	Case	Kenya	Human
+4050016961 (Source)	0	[0,6)	Case	Kenya	Human
+4050017561 (Source)	11	[6,12)	Case	Kenya	Human
+4050018381 (Source)	5	[0,6)	Case	Kenya	Human
+4050019651 (Source)	24	[24,60)	Case	Kenya	Human
+4050020541 (Source)	24	[24,60)	Case	Kenya	Human
+4050020951 (Source)	8	[6,12)	Case	Kenya	Human
+4050022721 (Source)	7	[6,12)	Case	Kenya	Human
+4050023311 (Source)	11	[6,12)	Case	Kenya	Human
+4050024731 (Source)	8	[6,12)	Case	Kenya	Human
+4050045081 (Source)	9	[6,12)	Case	Kenya	Human
+4050045831 (Source)	6	[6,12)	Case	Kenya	Human
+4050046771 (Source)	48	[24,60)	Case	Kenya	Human
+4050046931 (Source)	17	[12,18)	Case	Kenya	Human
+4050047311 (Source)	33	[24,60)	Case	Kenya	Human
+4050047341 (Source)	5	[0,6)	Case	Kenya	Human
+4050047611 (Source)	13	[12,18)	Case	Kenya	Human
+4050049121 (Source)	15	[12,18)	Case	Kenya	Human
+4050051631 (Source)	6	[6,12)	Case	Kenya	Human
+4050053231 (Source)	5	[0,6)	Case	Kenya	Human
+4050053321 (Source)	44	[24,60)	Case	Kenya	Human
+4050053631 (Source)	2	[0,6)	Case	Kenya	Human
+4050055901 (Source)	10	[6,12)	Case	Kenya	Human
+4050056171 (Source)	13	[12,18)	Case	Kenya	Human
+4050056821 (Source)	13	[12,18)	Case	Kenya	Human
+4050057561 (Source)	7	[6,12)	Case	Kenya	Human
+4050057781 (Source)	25	[24,60)	Case	Kenya	Human
+4050058341 (Source)	2	[0,6)	Case	Kenya	Human
+4050059491 (Source)	21	[18,24)	Case	Kenya	Human
+4059001561 (Source)	NA			Kenya	Human
+4059001581 (Source)	NA			Kenya	Human
+4059001591 (Source)	13	[12,18)	Control	Kenya	Human
+4059001641 (Source)	2	[0,6)	Control	Kenya	Human
+4059001721 (Source)	16	[12,18)	Control	Kenya	Human
+4059001731 (Source)	3	[0,6)	Control	Kenya	Human
+4059001831 (Source)	21	[18,24)	Control	Kenya	Human
+4059001861 (Source)	13	[12,18)	Control	Kenya	Human
+4059001901 (Source)	6	[6,12)	Control	Kenya	Human
+4059001921 (Source)	20	[18,24)	Control	Kenya	Human
+4059002011 (Source)	30	[24,60)	Control	Kenya	Human
+4059002031 (Source)	3	[0,6)	Control	Kenya	Human
+4059002131 (Source)	10	[6,12)	Control	Kenya	Human
+4059002151 (Source)	4	[0,6)	Control	Kenya	Human
+4059002161 (Source)	9	[6,12)	Control	Kenya	Human
+4059002271 (Source)	5	[0,6)	Control	Kenya	Human
+4059002341 (Source)	7	[6,12)	Control	Kenya	Human
+4059002401 (Source)	24	[24,60)	Control	Kenya	Human
+4059004631 (Source)	7	[6,12)	Control	Kenya	Human
+4059004671 (Source)	4	[0,6)	Control	Kenya	Human
+4059004681 (Source)	47	[24,60)	Control	Kenya	Human
+4059004761 (Source)	5	[0,6)	Control	Kenya	Human
+4059004841 (Source)	48	[24,60)	Control	Kenya	Human
+4059004901 (Source)	16	[12,18)	Control	Kenya	Human
+4059004911 (Source)	33	[24,60)	Control	Kenya	Human
+4059004951 (Source)	5	[0,6)	Control	Kenya	Human
+4059005051 (Source)	15	[12,18)	Control	Kenya	Human
+4059005411 (Source)	6	[6,12)	Control	Kenya	Human
+4059005581 (Source)	NA			Kenya	Human
+4059005911 (Source)	32	[24,60)	Control	Kenya	Human
+4059005941 (Source)	13	[12,18)	Control	Kenya	Human
+4059006001 (Source)	14	[12,18)	Control	Kenya	Human
+4059006041 (Source)	8	[6,12)	Control	Kenya	Human
+4059006121 (Source)	1	[0,6)	Control	Kenya	Human
+4070008411 (Source)	10	[6,12)	Case	Kenya	Human
+4070008571 (Source)	14	[12,18)	Case	Kenya	Human
+4070008711 (Source)	45	[24,60)	Case	Kenya	Human
+4070008811 (Source)	43	[24,60)	Case	Kenya	Human
+4070009361 (Source)	10	[6,12)	Case	Kenya	Human
+4070009431 (Source)	6	[6,12)	Case	Kenya	Human
+4070009981 (Source)	4	[0,6)	Case	Kenya	Human
+4070010131 (Source)	7	[6,12)	Case	Kenya	Human
+4070010341 (Source)	55	[24,60)	Case	Kenya	Human
+4070010731 (Source)	5	[0,6)	Case	Kenya	Human
+4070010971 (Source)	43	[24,60)	Case	Kenya	Human
+4070012341 (Source)	45	[24,60)	Case	Kenya	Human
+4070012561 (Source)	26	[24,60)	Case	Kenya	Human
+4070012831 (Source)	8	[6,12)	Case	Kenya	Human
+4070013141 (Source)	12	[12,18)	Case	Kenya	Human
+4070013791 (Source)	38	[24,60)	Case	Kenya	Human
+4070024461 (Source)	5	[0,6)	Case	Kenya	Human
+4070024761 (Source)	34	[24,60)	Case	Kenya	Human
+4070025771 (Source)	6	[6,12)	Case	Kenya	Human
+4070025861 (Source)	27	[24,60)	Case	Kenya	Human
+4070026011 (Source)	9	[6,12)	Case	Kenya	Human
+4070026021 (Source)	12	[12,18)	Case	Kenya	Human
+4070026121 (Source)	22	[18,24)	Case	Kenya	Human
+4070026341 (Source)	17	[12,18)	Case	Kenya	Human
+4070028701 (Source)	16	[12,18)	Case	Kenya	Human
+4070034361 (Source)	6	[6,12)	Case	Kenya	Human
+4070034551 (Source)	6	[6,12)	Case	Kenya	Human
+4079001611 (Source)	9	[6,12)	Control	Kenya	Human
+4079001681 (Source)	11	[6,12)	Control	Kenya	Human
+4079001711 (Source)	6	[6,12)	Control	Kenya	Human
+4079001751 (Source)	35	[24,60)	Control	Kenya	Human
+4079001761 (Source)	13	[12,18)	Control	Kenya	Human
+4079001791 (Source)	41	[24,60)	Control	Kenya	Human
+4079001811 (Source)	43	[24,60)	Control	Kenya	Human
+4079001951 (Source)	9	[6,12)	Control	Kenya	Human
+4079001961 (Source)	7	[6,12)	Control	Kenya	Human
+4079002051 (Source)	4	[0,6)	Control	Kenya	Human
+4079002091 (Source)	8	[6,12)	Control	Kenya	Human
+4079002121 (Source)	57	[24,60)	Control	Kenya	Human
+4079002221 (Source)	4	[0,6)	Control	Kenya	Human
+4079002261 (Source)	45	[24,60)	Control	Kenya	Human
+4079002381 (Source)	47	[24,60)	Control	Kenya	Human
+4079002681 (Source)	40	[24,60)	Control	Kenya	Human
+4079004521 (Source)	2	[0,6)	Control	Kenya	Human
+4079004661 (Source)	5	[0,6)	Control	Kenya	Human
+4079004711 (Source)	36	[24,60)	Control	Kenya	Human
+4079004941 (Source)	4	[0,6)	Control	Kenya	Human
+4079005991 (Source)	6	[6,12)	Control	Kenya	Human
+4079006101 (Source)	44	[24,60)	Control	Kenya	Human
+4080009961 (Source)	13	[12,18)	Case	Kenya	Human
+4080010011 (Source)	23	[18,24)	Case	Kenya	Human
+4080010361 (Source)	29	[24,60)	Case	Kenya	Human
+4080010411 (Source)	31	[24,60)	Case	Kenya	Human
+4080010571 (Source)	6	[6,12)	Case	Kenya	Human
+4080010701 (Source)	24	[24,60)	Case	Kenya	Human
+4080010821 (Source)	6	[6,12)	Case	Kenya	Human
+4080010861 (Source)	17	[12,18)	Case	Kenya	Human
+4080010961 (Source)	11	[6,12)	Case	Kenya	Human
+4080011121 (Source)	54	[24,60)	Case	Kenya	Human
+4080011211 (Source)	19	[18,24)	Case	Kenya	Human
+4080011431 (Source)	16	[12,18)	Case	Kenya	Human
+4080011441 (Source)	5	[0,6)	Case	Kenya	Human
+4080011791 (Source)	8	[6,12)	Case	Kenya	Human
+4080013551 (Source)	10	[6,12)	Case	Kenya	Human
+4080022801 (Source)	10	[6,12)	Case	Kenya	Human
+4080023091 (Source)	29	[24,60)	Case	Kenya	Human
+4080023401 (Source)	19	[18,24)	Case	Kenya	Human
+4080023441 (Source)	15	[12,18)	Case	Kenya	Human
+4080023461 (Source)	9	[6,12)	Case	Kenya	Human
+4080023811 (Source)	17	[12,18)	Case	Kenya	Human
+4080024031 (Source)	23	[18,24)	Case	Kenya	Human
+4080024551 (Source)	8	[6,12)	Case	Kenya	Human
+4080027171 (Source)	4	[0,6)	Case	Kenya	Human
+4080027321 (Source)	32	[24,60)	Case	Kenya	Human
+4080027451 (Source)	5	[0,6)	Case	Kenya	Human
+4080027781 (Source)	12	[12,18)	Case	Kenya	Human
+4080028551 (Source)	7	[6,12)	Case	Kenya	Human
+4080028561 (Source)	7	[6,12)	Case	Kenya	Human
+4080029451 (Source)	6	[6,12)	Case	Kenya	Human
+4089001601 (Source)	23	[18,24)	Control	Kenya	Human
+4089001851 (Source)	19	[18,24)	Control	Kenya	Human
+4089001871 (Source)	14	[12,18)	Control	Kenya	Human
+4089001881 (Source)	21	[18,24)	Control	Kenya	Human
+4089001981 (Source)	31	[24,60)	Control	Kenya	Human
+4089002001 (Source)	28	[24,60)	Control	Kenya	Human
+4089002021 (Source)	5	[0,6)	Control	Kenya	Human
+4089002071 (Source)	24	[24,60)	Control	Kenya	Human
+4089002101 (Source)	7	[6,12)	Control	Kenya	Human
+4089002111 (Source)	18	[18,24)	Control	Kenya	Human
+4089002191 (Source)	54	[24,60)	Control	Kenya	Human
+4089002241 (Source)	21	[18,24)	Control	Kenya	Human
+4089002251 (Source)	14	[12,18)	Control	Kenya	Human
+4089002741 (Source)	10	[6,12)	Control	Kenya	Human
+4089004771 (Source)	31	[24,60)	Control	Kenya	Human
+4089004831 (Source)	12	[12,18)	Control	Kenya	Human
+4089004851 (Source)	20	[18,24)	Control	Kenya	Human
+4089004861 (Source)	10	[6,12)	Control	Kenya	Human
+4089005071 (Source)	28	[24,60)	Control	Kenya	Human
+4089005371 (Source)	6	[6,12)	Control	Kenya	Human
+4089005531 (Source)	55	[24,60)	Control	Kenya	Human
+4089005571 (Source)	25	[24,60)	Control	Kenya	Human
+4089005641 (Source)	4	[0,6)	Control	Kenya	Human
+4089005701 (Source)	33	[24,60)	Control	Kenya	Human
+4089005731 (Source)	5	[0,6)	Control	Kenya	Human
+4089005751 (Source)	20	[18,24)	Control	Kenya	Human
+4089005771 (Source)	15	[12,18)	Control	Kenya	Human
+4089005811 (Source)	27	[24,60)	Control	Kenya	Human
+4089005931 (Source)	5	[0,6)	Control	Kenya	Human
+4089005951 (Source)	8	[6,12)	Control	Kenya	Human
+4089006151 (Source)	14	[12,18)	Control	Kenya	Human
+4090006181 (Source)	31	[24,60)	Case	Kenya	Human
+4090006371 (Source)	48	[24,60)	Case	Kenya	Human
+4090006591 (Source)	33	[24,60)	Case	Kenya	Human
+4090006891 (Source)	4	[0,6)	Case	Kenya	Human
+4090006911 (Source)	23	[18,24)	Case	Kenya	Human
+4090007371 (Source)	1	[0,6)	Case	Kenya	Human
+4090007471 (Source)	6	[6,12)	Case	Kenya	Human
+4090007811 (Source)	24	[24,60)	Case	Kenya	Human
+4090008111 (Source)	6	[6,12)	Case	Kenya	Human
+4090009271 (Source)	40	[24,60)	Case	Kenya	Human
+4090009411 (Source)	16	[12,18)	Case	Kenya	Human
+4090009611 (Source)	23	[18,24)	Case	Kenya	Human
+4090009851 (Source)	16	[12,18)	Case	Kenya	Human
+4090010821 (Source)	20	[18,24)	Case	Kenya	Human
+4090010971 (Source)	8	[6,12)	Case	Kenya	Human
+4090011371 (Source)	10	[6,12)	Case	Kenya	Human
+4090011581 (Source)	2	[0,6)	Case	Kenya	Human
+4090023811 (Source)	25	[24,60)	Case	Kenya	Human
+4090023871 (Source)	9	[6,12)	Case	Kenya	Human
+4090024191 (Source)	12	[12,18)	Case	Kenya	Human
+4090024591 (Source)	53	[24,60)	Case	Kenya	Human
+4090025141 (Source)	28	[24,60)	Case	Kenya	Human
+4090025181 (Source)	27	[24,60)	Case	Kenya	Human
+4090029811 (Source)	50	[24,60)	Case	Kenya	Human
+4090030031 (Source)	7	[6,12)	Case	Kenya	Human
+4090030491 (Source)	27	[24,60)	Case	Kenya	Human
+4090030941 (Source)	29	[24,60)	Case	Kenya	Human
+4090031111 (Source)	43	[24,60)	Case	Kenya	Human
+4090031691 (Source)	27	[24,60)	Case	Kenya	Human
+4099001651 (Source)	30	[24,60)	Control	Kenya	Human
+4099001771 (Source)	36	[24,60)	Control	Kenya	Human
+4099001941 (Source)	21	[18,24)	Control	Kenya	Human
+4099002061 (Source)	3	[0,6)	Control	Kenya	Human
+4099002141 (Source)	7	[6,12)	Control	Kenya	Human
+4099002181 (Source)	34	[24,60)	Control	Kenya	Human
+4099002431 (Source)	42	[24,60)	Control	Kenya	Human
+4099002451 (Source)	16	[12,18)	Control	Kenya	Human
+4099002501 (Source)	24	[24,60)	Control	Kenya	Human
+4099002521 (Source)	33	[24,60)	Control	Kenya	Human
+4099002711 (Source)	7	[6,12)	Control	Kenya	Human
+4099004781 (Source)	24	[24,60)	Control	Kenya	Human
+4099004791 (Source)	8	[6,12)	Control	Kenya	Human
+4099005591 (Source)	14	[12,18)	Control	Kenya	Human
+4099005691 (Source)	NA			Kenya	Human
+4099005841 (Source)	52	[24,60)	Control	Kenya	Human
+4099005881 (Source)	7	[6,12)	Control	Kenya	Human
+4099005971 (Source)	26	[24,60)	Control	Kenya	Human
+4099006021 (Source)	30	[24,60)	Control	Kenya	Human
+4099006131 (Source)	9	[6,12)	Control	Kenya	Human
+4110008591 (Source)	36	[24,60)	Case	Kenya	Human
+4110009251 (Source)	57	[24,60)	Case	Kenya	Human
+4110009681 (Source)	8	[6,12)	Case	Kenya	Human
+4110009941 (Source)	7	[6,12)	Case	Kenya	Human
+4110011441 (Source)	18	[18,24)	Case	Kenya	Human
+4110012341 (Source)	7	[6,12)	Case	Kenya	Human
+4110012991 (Source)	7	[6,12)	Case	Kenya	Human
+4110014111 (Source)	4	[0,6)	Case	Kenya	Human
+4110015671 (Source)	8	[6,12)	Case	Kenya	Human
+4110024601 (Source)	5	[0,6)	Case	Kenya	Human
+4110025731 (Source)	4	[0,6)	Case	Kenya	Human
+4110025921 (Source)	18	[18,24)	Case	Kenya	Human
+4110026161 (Source)	52	[24,60)	Case	Kenya	Human
+4110026371 (Source)	5	[0,6)	Case	Kenya	Human
+4110026381 (Source)	3	[0,6)	Case	Kenya	Human
+4110026531 (Source)	13	[12,18)	Case	Kenya	Human
+4110029531 (Source)	2	[0,6)	Case	Kenya	Human
+4110029801 (Source)	48	[24,60)	Case	Kenya	Human
+4110030161 (Source)	47	[24,60)	Case	Kenya	Human
+4110030341 (Source)	37	[24,60)	Case	Kenya	Human
+4110030411 (Source)	6	[6,12)	Case	Kenya	Human
+4110031431 (Source)	11	[6,12)	Case	Kenya	Human
+4110031561 (Source)	4	[0,6)	Case	Kenya	Human
+4119001821 (Source)	8	[6,12)	Control	Kenya	Human
+4119002281 (Source)	18	[18,24)	Control	Kenya	Human
+4119002311 (Source)	4	[0,6)	Control	Kenya	Human
+4119002371 (Source)	5	[0,6)	Control	Kenya	Human
+4119002411 (Source)	8	[6,12)	Control	Kenya	Human
+4119004571 (Source)	4	[0,6)	Control	Kenya	Human
+4119004621 (Source)	5	[0,6)	Control	Kenya	Human
+4119004641 (Source)	4	[0,6)	Control	Kenya	Human
+4119004751 (Source)	2	[0,6)	Control	Kenya	Human
+4119004871 (Source)	49	[24,60)	Control	Kenya	Human
+4119004961 (Source)	5	[0,6)	Control	Kenya	Human
+4119005141 (Source)	8	[6,12)	Control	Kenya	Human
+4119005851 (Source)	4	[0,6)	Control	Kenya	Human
+4119005871 (Source)	10	[6,12)	Control	Kenya	Human
+4119005921 (Source)	25	[24,60)	Control	Kenya	Human
+4119006061 (Source)	10	[6,12)	Control	Kenya	Human
+6010001131 (Source)	32	[24,60)	Case	Bangladesh	Human
+6010001191 (Source)	19	[18,24)	Case	Bangladesh	Human
+6010003931 (Source)	1	[0,6)	Case	Bangladesh	Human
+6010004771 (Source)	30	[24,60)	Case	Bangladesh	Human
+6010006401 (Source)	10	[6,12)	Case	Bangladesh	Human
+6010008061 (Source)	40	[24,60)	Case	Bangladesh	Human
+6010011651 (Source)	10	[6,12)	Case	Bangladesh	Human
+6010025931 (Source)	6	[6,12)	Case	Bangladesh	Human
+6010028591 (Source)	19	[18,24)	Case	Bangladesh	Human
+6010029301 (Source)	13	[12,18)	Case	Bangladesh	Human
+6010029571 (Source)	13	[12,18)	Case	Bangladesh	Human
+6010050831 (Source)	17	[12,18)	Case	Bangladesh	Human
+6010061471 (Source)	18	[18,24)	Case	Bangladesh	Human
+6010073191 (Source)	18	[18,24)	Case	Bangladesh	Human
+6010081131 (Source)	10	[6,12)	Case	Bangladesh	Human
+6010109491 (Source)	1	[0,6)	Case	Bangladesh	Human
+6010109521 (Source)	34	[24,60)	Case	Bangladesh	Human
+6010111471 (Source)	26	[24,60)	Case	Bangladesh	Human
+6010112861 (Source)	35	[24,60)	Case	Bangladesh	Human
+6010112931 (Source)	39	[24,60)	Case	Bangladesh	Human
+6010113691 (Source)	8	[6,12)	Case	Bangladesh	Human
+6010113711 (Source)	50	[24,60)	Case	Bangladesh	Human
+6010115591 (Source)	11	[6,12)	Case	Bangladesh	Human
+6010116131 (Source)	8	[6,12)	Case	Bangladesh	Human
+6010116381 (Source)	19	[18,24)	Case	Bangladesh	Human
+6010116881 (Source)	21	[18,24)	Case	Bangladesh	Human
+6010118771 (Source)	34	[24,60)	Case	Bangladesh	Human
+6010119971 (Source)	46	[24,60)	Case	Bangladesh	Human
+6010123171 (Source)	14	[12,18)	Case	Bangladesh	Human
+6010125231 (Source)	30	[24,60)	Case	Bangladesh	Human
+6010127661 (Source)	12	[12,18)	Case	Bangladesh	Human
+6010127691 (Source)	20	[18,24)	Case	Bangladesh	Human
+6010128531 (Source)	6	[6,12)	Case	Bangladesh	Human
+6010128741 (Source)	41	[24,60)	Case	Bangladesh	Human
+6010129721 (Source)	5	[0,6)	Case	Bangladesh	Human
+6010129881 (Source)	10	[6,12)	Case	Bangladesh	Human
+6010131011 (Source)	17	[12,18)	Case	Bangladesh	Human
+6010131311 (Source)	10	[6,12)	Case	Bangladesh	Human
+6010131601 (Source)	21	[18,24)	Case	Bangladesh	Human
+6010133701 (Source)	8	[6,12)	Case	Bangladesh	Human
+6010134191 (Source)	4	[0,6)	Case	Bangladesh	Human
+6010134231 (Source)	18	[18,24)	Case	Bangladesh	Human
+6010134561 (Source)	11	[6,12)	Case	Bangladesh	Human
+6010134641 (Source)	17	[12,18)	Case	Bangladesh	Human
+6010135601 (Source)	38	[24,60)	Case	Bangladesh	Human
+6010135911 (Source)	15	[12,18)	Case	Bangladesh	Human
+6010137181 (Source)	23	[18,24)	Case	Bangladesh	Human
+6010141391 (Source)	8	[6,12)	Case	Bangladesh	Human
+6010144751 (Source)	14	[12,18)	Case	Bangladesh	Human
+6010145361 (Source)	33	[24,60)	Case	Bangladesh	Human
+6010145921 (Source)	5	[0,6)	Case	Bangladesh	Human
+6010147501 (Source)	14	[12,18)	Case	Bangladesh	Human
+6010148391 (Source)	11	[6,12)	Case	Bangladesh	Human
+6010148821 (Source)	5	[0,6)	Case	Bangladesh	Human
+6010150291 (Source)	10	[6,12)	Case	Bangladesh	Human
+6010153491 (Source)	25	[24,60)	Case	Bangladesh	Human
+6010155531 (Source)	7	[6,12)	Case	Bangladesh	Human
+6010159331 (Source)	35	[24,60)	Case	Bangladesh	Human
+6010160501 (Source)	11	[6,12)	Case	Bangladesh	Human
+6010160521 (Source)	40	[24,60)	Case	Bangladesh	Human
+6010163831 (Source)	32	[24,60)	Case	Bangladesh	Human
+6010172601 (Source)	4	[0,6)	Case	Bangladesh	Human
+6010175651 (Source)	8	[6,12)	Case	Bangladesh	Human
+6010177861 (Source)	7	[6,12)	Case	Bangladesh	Human
+6010186331 (Source)	17	[12,18)	Case	Bangladesh	Human
+6010188941 (Source)	12	[12,18)	Case	Bangladesh	Human
+6010192581 (Source)	32	[24,60)	Case	Bangladesh	Human
+6010192801 (Source)	22	[18,24)	Case	Bangladesh	Human
+6010195861 (Source)	17	[12,18)	Case	Bangladesh	Human
+6010196031 (Source)	6	[6,12)	Case	Bangladesh	Human
+6010196891 (Source)	28	[24,60)	Case	Bangladesh	Human
+6010196981 (Source)	22	[18,24)	Case	Bangladesh	Human
+6010200741 (Source)	37	[24,60)	Case	Bangladesh	Human
+6010200791 (Source)	9	[6,12)	Case	Bangladesh	Human
+6010201911 (Source)	10	[6,12)	Case	Bangladesh	Human
+6010202111 (Source)	14	[12,18)	Case	Bangladesh	Human
+6010202721 (Source)	0	[0,6)	Case	Bangladesh	Human
+6010202781 (Source)	13	[12,18)	Case	Bangladesh	Human
+6010203361 (Source)	13	[12,18)	Case	Bangladesh	Human
+6010204491 (Source)	7	[6,12)	Case	Bangladesh	Human
+6010215431 (Source)	8	[6,12)	Case	Bangladesh	Human
+6010215871 (Source)	6	[6,12)	Case	Bangladesh	Human
+6010217821 (Source)	37	[24,60)	Case	Bangladesh	Human
+6010218161 (Source)	8	[6,12)	Case	Bangladesh	Human
+6010221161 (Source)	52	[24,60)	Case	Bangladesh	Human
+6010235311 (Source)	7	[6,12)	Case	Bangladesh	Human
+6010238021 (Source)	16	[12,18)	Case	Bangladesh	Human
+6010238611 (Source)	21	[18,24)	Case	Bangladesh	Human
+6010239201 (Source)	27	[24,60)	Case	Bangladesh	Human
+6010239701 (Source)	4	[0,6)	Case	Bangladesh	Human
+6010247211 (Source)	12	[12,18)	Case	Bangladesh	Human
+6010248511 (Source)	23	[18,24)	Case	Bangladesh	Human
+6010249381 (Source)	16	[12,18)	Case	Bangladesh	Human
+6010251811 (Source)	1	[0,6)	Case	Bangladesh	Human
+6010258121 (Source)	36	[24,60)	Case	Bangladesh	Human
+6010258601 (Source)	34	[24,60)	Case	Bangladesh	Human
+6010269671 (Source)	40	[24,60)	Case	Bangladesh	Human
+6010272371 (Source)	42	[24,60)	Case	Bangladesh	Human
+6010273051 (Source)	47	[24,60)	Case	Bangladesh	Human
+6019000011 (Source)	19	[18,24)	Control	Bangladesh	Human
+6019000031 (Source)	32	[24,60)	Control	Bangladesh	Human
+6019000041 (Source)	17	[12,18)	Control	Bangladesh	Human
+6019000171 (Source)	12	[12,18)	Control	Bangladesh	Human
+6019000211 (Source)	47	[24,60)	Control	Bangladesh	Human
+6019000301 (Source)	13	[12,18)	Control	Bangladesh	Human
+6019000341 (Source)	10	[6,12)	Control	Bangladesh	Human
+6019000461 (Source)	35	[24,60)	Control	Bangladesh	Human
+6019000511 (Source)	9	[6,12)	Control	Bangladesh	Human
+6019000631 (Source)	5	[0,6)	Control	Bangladesh	Human
+6019000731 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019000751 (Source)	19	[18,24)	Control	Bangladesh	Human
+6019000801 (Source)	22	[18,24)	Control	Bangladesh	Human
+6019000821 (Source)	5	[0,6)	Control	Bangladesh	Human
+6019000841 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019000921 (Source)	8	[6,12)	Control	Bangladesh	Human
+6019001051 (Source)	10	[6,12)	Control	Bangladesh	Human
+6019001071 (Source)	23	[18,24)	Control	Bangladesh	Human
+6019001091 (Source)	11	[6,12)	Control	Bangladesh	Human
+6019001341 (Source)	13	[12,18)	Control	Bangladesh	Human
+6019001371 (Source)	19	[18,24)	Control	Bangladesh	Human
+6019001791 (Source)	22	[18,24)	Control	Bangladesh	Human
+6019002051 (Source)	16	[12,18)	Control	Bangladesh	Human
+6019002521 (Source)	36	[24,60)	Control	Bangladesh	Human
+6019002721 (Source)	20	[18,24)	Control	Bangladesh	Human
+6019002771 (Source)	10	[6,12)	Control	Bangladesh	Human
+6019003661 (Source)	16	[12,18)	Control	Bangladesh	Human
+6019004781 (Source)	42	[24,60)	Control	Bangladesh	Human
+6019005041 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019005081 (Source)	34	[24,60)	Control	Bangladesh	Human
+6019005211 (Source)	33	[24,60)	Control	Bangladesh	Human
+6019005251 (Source)	20	[18,24)	Control	Bangladesh	Human
+6019005261 (Source)	16	[12,18)	Control	Bangladesh	Human
+6019005281 (Source)	22	[18,24)	Control	Bangladesh	Human
+6019005381 (Source)	12	[12,18)	Control	Bangladesh	Human
+6019005401 (Source)	38	[24,60)	Control	Bangladesh	Human
+6019005471 (Source)	46	[24,60)	Control	Bangladesh	Human
+6019005501 (Source)	16	[12,18)	Control	Bangladesh	Human
+6019005521 (Source)	26	[24,60)	Control	Bangladesh	Human
+6019005541 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019005631 (Source)	15	[12,18)	Control	Bangladesh	Human
+6019005691 (Source)	22	[18,24)	Control	Bangladesh	Human
+6019005831 (Source)	14	[12,18)	Control	Bangladesh	Human
+6019006051 (Source)	21	[18,24)	Control	Bangladesh	Human
+6019006241 (Source)	20	[18,24)	Control	Bangladesh	Human
+6019006251 (Source)	28	[24,60)	Control	Bangladesh	Human
+6019006331 (Source)	41	[24,60)	Control	Bangladesh	Human
+6019006351 (Source)	30	[24,60)	Control	Bangladesh	Human
+6019006371 (Source)	15	[12,18)	Control	Bangladesh	Human
+6019006511 (Source)	19	[18,24)	Control	Bangladesh	Human
+6019006521 (Source)	23	[18,24)	Control	Bangladesh	Human
+6019006581 (Source)	6	[6,12)	Control	Bangladesh	Human
+6019006611 (Source)	44	[24,60)	Control	Bangladesh	Human
+6019006621 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019006651 (Source)	9	[6,12)	Control	Bangladesh	Human
+6019006671 (Source)	11	[6,12)	Control	Bangladesh	Human
+6019006691 (Source)	20	[18,24)	Control	Bangladesh	Human
+6019006701 (Source)	20	[18,24)	Control	Bangladesh	Human
+6019006731 (Source)	16	[12,18)	Control	Bangladesh	Human
+6019006741 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019006801 (Source)	20	[18,24)	Control	Bangladesh	Human
+6019006821 (Source)	18	[18,24)	Control	Bangladesh	Human
+6019006861 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019006871 (Source)	10	[6,12)	Control	Bangladesh	Human
+6019006891 (Source)	9	[6,12)	Control	Bangladesh	Human
+6019006901 (Source)	12	[12,18)	Control	Bangladesh	Human
+6019006911 (Source)	27	[24,60)	Control	Bangladesh	Human
+6019007031 (Source)	3	[0,6)	Control	Bangladesh	Human
+6019007181 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019007251 (Source)	33	[24,60)	Control	Bangladesh	Human
+6019007321 (Source)	2	[0,6)	Control	Bangladesh	Human
+6019007431 (Source)	18	[18,24)	Control	Bangladesh	Human
+6019007511 (Source)	23	[18,24)	Control	Bangladesh	Human
+6019007561 (Source)	5	[0,6)	Control	Bangladesh	Human
+6019007571 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019007591 (Source)	11	[6,12)	Control	Bangladesh	Human
+6019007841 (Source)	8	[6,12)	Control	Bangladesh	Human
+6019007861 (Source)	19	[18,24)	Control	Bangladesh	Human
+6019007871 (Source)	13	[12,18)	Control	Bangladesh	Human
+6019007901 (Source)	58	[24,60)	Control	Bangladesh	Human
+6019007981 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019008281 (Source)	15	[12,18)	Control	Bangladesh	Human
+6019008341 (Source)	23	[18,24)	Control	Bangladesh	Human
+6019008381 (Source)	26	[24,60)	Control	Bangladesh	Human
+6019008421 (Source)	16	[12,18)	Control	Bangladesh	Human
+6019008521 (Source)	18	[18,24)	Control	Bangladesh	Human
+6019008621 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019008651 (Source)	34	[24,60)	Control	Bangladesh	Human
+6019008741 (Source)	11	[6,12)	Control	Bangladesh	Human
+6019008751 (Source)	17	[12,18)	Control	Bangladesh	Human
+6019008761 (Source)	12	[12,18)	Control	Bangladesh	Human
+6019010041 (Source)	28	[24,60)	Control	Bangladesh	Human
+6019010511 (Source)	8	[6,12)	Control	Bangladesh	Human
+6019010621 (Source)	50	[24,60)	Control	Bangladesh	Human
+6019011871 (Source)	5	[0,6)	Control	Bangladesh	Human
+6019011911 (Source)	40	[24,60)	Control	Bangladesh	Human
+6019011941 (Source)	7	[6,12)	Control	Bangladesh	Human
+6019011951 (Source)	11	[6,12)	Control	Bangladesh	Human
+6019012141 (Source)	25	[24,60)	Control	Bangladesh	Human
+6019012211 (Source)	35	[24,60)	Control	Bangladesh	Human
+6019012391 (Source)	3	[0,6)	Control	Bangladesh	Human
+6019012461 (Source)	11	[6,12)	Control	Bangladesh	Human
+6019012581 (Source)	4	[0,6)	Control	Bangladesh	Human
+6019012651 (Source)	12	[12,18)	Control	Bangladesh	Human
+6019012851 (Source)	29	[24,60)	Control	Bangladesh	Human
+6019013091 (Source)	51	[24,60)	Control	Bangladesh	Human
+6019013161 (Source)	30	[24,60)	Control	Bangladesh	Human
+6019013491 (Source)	30	[24,60)	Control	Bangladesh	Human
+6019013541 (Source)	15	[12,18)	Control	Bangladesh	Human
+6019013631 (Source)	25	[24,60)	Control	Bangladesh	Human
+6019013711 (Source)	46	[24,60)	Control	Bangladesh	Human
+6019013791 (Source)	40	[24,60)	Control	Bangladesh	Human
+6019014521 (Source)	6	[6,12)	Control	Bangladesh	Human
+6019014801 (Source)	27	[24,60)	Control	Bangladesh	Human
+6019015331 (Source)	38	[24,60)	Control	Bangladesh	Human
+6019015401 (Source)	5	[0,6)	Control	Bangladesh	Human
+6019015471 (Source)	10	[6,12)	Control	Bangladesh	Human
+SRS608239 (Source)	6	[6,12)	Case	Kenya	Human
+SRS608277 (Source)	3	[0,6)	Control	Kenya	Human
+SRS608361 (Source)	4	[0,6)	Control	Kenya	Human
+SRS608532 (Source)	NA			Bangladesh	Human
+SRS608598 (Source)	NA			Bangladesh	Human
+SRS608607 (Source)	NA			Bangladesh	Human

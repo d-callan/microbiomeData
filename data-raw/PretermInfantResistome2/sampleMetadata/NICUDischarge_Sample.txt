@@ -1,4 +1,4 @@
-Sample_Id	Participant_repeated_measure_Id	Participant_Id	Habitat [ENVO_01000739]	Host body habitat [UBERON_0000466]	Host body product [UBERON_0000463]	Host body site [UBERON_0000061]	Postmenstrual age at sample collection (days) [EUPATH_0009097]	Sample type [OBI_0100051]
+Sample_Id	participant_repeated_measure_Id	Participant_Id	Habitat [ENVO_01000739]	Host body habitat [UBERON_0000466]	Host body product [UBERON_0000463]	Host body site [UBERON_0000061]	Postmenstrual age at sample collection (day) [EUPATH_0009097]	Sample type [OBI_0100051]
 SRS5179215.SRR9865499	N021_73.78 (Source)	N021 (Source)	Human	Colon	Feces	Colon	245.78	Stool
 SRS5179216.SRR9865498	N021_87.23 (Source)	N021 (Source)	Human	Colon	Feces	Colon	259.23	Stool
 SRS5179217.SRR9865497	N021_208.86 (Source)	N021 (Source)	Human	Colon	Feces	Colon	380.86	Stool
@@ -98,7 +98,7 @@ SRS5179310.SRR9865578	T0168A_425.36 (Source)	T0168A (Source)	Human	Colon	Feces	C
 SRS5179311.SRR9865577	T0168A_536.54 (Source)	T0168A (Source)	Human	Colon	Feces	Colon	793.54	Stool
 SRS5179312.SRR9865576	T0168A_620.33 (Source)	T0168A (Source)	Human	Colon	Feces	Colon	877.33	Stool
 SRS5179313.SRR9865575	T0185A_1.68 (Source)	T0185A (Source)	Human	Colon	Feces	Colon	264.68	Stool
-SRS5179314.SRR9865574	T0180B_426.64 (Source)	T0180B (Source)	Human	Colon	Feces	Colon	689.64	Stool
+SRS5179314.SRR9865574	T0180B_426.64 (Source)	T0180B (Source)	Human	Colon	Feces	Colon	689.64 days	Stool
 SRS5179315.SRR9865573	T0180B_302.42 (Source)	T0180B (Source)	Human	Colon	Feces	Colon	565.42	Stool
 SRS5179316.SRR9865572	T0171B_105.83 (Source)	T0171B (Source)	Human	Colon	Feces	Colon	360.83	Stool
 SRS5179317.SRR9865571	T0171B_132.42 (Source)	T0171B (Source)	Human	Colon	Feces	Colon	387.42	Stool
@@ -238,14 +238,14 @@ SRS5179450.SRR9865606	N020_53.2 (Source)	N020 (Source)	Human	Colon	Feces	Colon	2
 SRS5179451.SRR9865605	N020_21.15 (Source)	N020 (Source)	Human	Colon	Feces	Colon	217.15	Stool
 SRS5179452.SRR9865604	N021_35.76 (Source)	N021 (Source)	Human	Colon	Feces	Colon	207.76	Stool
 SRS5179453.SRR9865603	N020_438.96 (Source)	N020 (Source)	Human	Colon	Feces	Colon	634.96	Stool
-SRS5179454.SRR9865602	T0180B_624.63 (Source)	T0180B (Source)	Human	Colon	Feces	Colon	887.63	Stool
+SRS5179454.SRR9865602	T0180B_624.63 (Source)	T0180B (Source)	Human	Colon	Feces	Colon	887.63 days	Stool
 SRS5179455.SRR9865601	T0108A_1.73 (Source)	T0108A (Source)	Human	Colon	Feces	Colon	255.73	Stool
 SRS5179456.SRR9865600	T0108A_38.37 (Source)	T0108A (Source)	Human	Colon	Feces	Colon	292.37	Stool
 SRS5179457.SRR9865599	T0108A_65.63 (Source)	T0108A (Source)	Human	Colon	Feces	Colon	319.63	Stool
 SRS5179458.SRR9865598	T0108A_121.61 (Source)	T0108A (Source)	Human	Colon	Feces	Colon	375.61	Stool
 SRS5179459.SRR9865597	T0108A_233.69 (Source)	T0108A (Source)	Human	Colon	Feces	Colon	487.69	Stool
 SRS5179460.SRR9865596	T0108A_304.86 (Source)	T0108A (Source)	Human	Colon	Feces	Colon	558.86	Stool
-SRS5179461.SRR9865595	T0122B_440.71 (Source)	T0122B (Source)	Human	Colon	Feces	Colon	695.71	Stool
+SRS5179461.SRR9865595	T0122B_440.71 (Source)	T0122B (Source)	Human	Colon	Feces	Colon	695.71 days	Stool
 SRS5179462.SRR9865594	T0168A_67.42 (Source)	T0168A (Source)	Human	Colon	Feces	Colon	324.42	Stool
 SRS5179463.SRR9865593	T0168A_133.34 (Source)	T0168A (Source)	Human	Colon	Feces	Colon	390.34	Stool
 SRS5179464.SRR9865592	T0101B_408.36 (Source)	T0101B (Source)	Human	Colon	Feces	Colon	651.36	Stool
@@ -260,7 +260,7 @@ SRS5179472.SRR9865752	N030_56.99 (Source)	N030 (Source)	Human	Colon	Feces	Colon	
 SRS5179473.SRR9865751	T0160B_377.76 (Source)	T0160B (Source)	Human	Colon	Feces	Colon	631.76	Stool
 SRS5179474.SRR9865750	N023_422.49 (Source)	N023 (Source)	Human	Colon	Feces	Colon	586.49	Stool
 SRS5179475.SRR9865749	N023_160.49 (Source)	N023 (Source)	Human	Colon	Feces	Colon	324.49	Stool
-SRS5179476.SRR9865748	N023_80.62 (Source)	N023 (Source)	Human	Colon	Feces	Colon	244.62	Stool
+SRS5179476.SRR9865748	N023_80.62 (Source)	N023 (Source)	Human	Colon	Feces	Colon	244.62 days	Stool
 SRS5179477.SRR9865747	N023_38.08 (Source)	N023 (Source)	Human	Colon	Feces	Colon	202.08	Stool
 SRS5179478.SRR9865746	T0101B_528.41 (Source)	T0101B (Source)	Human	Colon	Feces	Colon	771.41	Stool
 SRS5179479.SRR9865745	T0101B_589.45 (Source)	T0101B (Source)	Human	Colon	Feces	Colon	832.45	Stool
@@ -285,7 +285,7 @@ SRS5179497.SRR9865727	N025_471.45 (Source)	N025 (Source)	Human	Colon	Feces	Colon
 SRS5179498.SRR9865726	N025_361.68 (Source)	N025 (Source)	Human	Colon	Feces	Colon	556.68	Stool
 SRS5179499.SRR9865725	N012_203.08 (Source)	N012 (Source)	Human	Colon	Feces	Colon	388.08	Stool
 SRS5179500.SRR9865724	N012_103.95 (Source)	N012 (Source)	Human	Colon	Feces	Colon	288.95	Stool
-SRS5179501.SRR9865723	N012_397.07 (Source)	N012 (Source)	Human	Colon	Feces	Colon	582.07	Stool
+SRS5179501.SRR9865723	N012_397.07 (Source)	N012 (Source)	Human	Colon	Feces	Colon	582.07 days	Stool
 SRS5179502.SRR9865722	N012_316.09 (Source)	N012 (Source)	Human	Colon	Feces	Colon	501.09	Stool
 SRS5179503.SRR9865721	N013_45.26 (Source)	N013 (Source)	Human	Colon	Feces	Colon	218.26	Stool
 SRS5179504.SRR9865720	N012_457.07 (Source)	N012 (Source)	Human	Colon	Feces	Colon	642.07	Stool
@@ -304,7 +304,7 @@ SRS5179516.SRR9865708	N038_21.93 (Source)	N038 (Source)	Human	Colon	Feces	Colon	
 SRS5179517.SRR9865707	N024_385.73 (Source)	N024 (Source)	Human	Colon	Feces	Colon	558.73	Stool
 SRS5179518.SRR9865706	N024_474.96 (Source)	N024 (Source)	Human	Colon	Feces	Colon	647.96	Stool
 SRS5179519.SRR9865705	T0171B_249.58 (Source)	T0171B (Source)	Human	Colon	Feces	Colon	504.58	Stool
-SRS5179520.SRR9865704	T0171B_191.85 (Source)	T0171B (Source)	Human	Colon	Feces	Colon	446.85	Stool
+SRS5179520.SRR9865704	T0171B_191.85 (Source)	T0171B (Source)	Human	Colon	Feces	Colon	446.85 days	Stool
 SRS5179521.SRR9865703	T0171B_371.44 (Source)	T0171B (Source)	Human	Colon	Feces	Colon	626.44	Stool
 SRS5179522.SRR9865702	T0171B_312.38 (Source)	T0171B (Source)	Human	Colon	Feces	Colon	567.38	Stool
 SRS5179523.SRR9865701	N036_61.22 (Source)	N036 (Source)	Human	Colon	Feces	Colon	248.22	Stool
@@ -367,7 +367,7 @@ SRS5179579.SRR9865819	T0171A_1.56 (Source)	T0171A (Source)	Human	Colon	Feces	Col
 SRS5179580.SRR9865818	T0185A_619.71 (Source)	T0185A (Source)	Human	Colon	Feces	Colon	882.71	Stool
 SRS5179581.SRR9865817	T0185A_525.82 (Source)	T0185A (Source)	Human	Colon	Feces	Colon	788.82	Stool
 SRS5179582.SRR9865816	T0185A_456.42 (Source)	T0185A (Source)	Human	Colon	Feces	Colon	719.42	Stool
-SRS5179583.SRR9865815	T0181A_47.72 (Source)	T0181A (Source)	Human	Colon	Feces	Colon	307.72	Stool
+SRS5179583.SRR9865815	T0181A_47.72 (Source)	T0181A (Source)	Human	Colon	Feces	Colon	307.72 days	Stool
 SRS5179584.SRR9865814	T0181A_234.89 (Source)	T0181A (Source)	Human	Colon	Feces	Colon	494.89	Stool
 SRS5179585.SRR9865813	T0181A_175.85 (Source)	T0181A (Source)	Human	Colon	Feces	Colon	435.85	Stool
 SRS5179586.SRR9865812	T0132A_205.45 (Source)	T0132A (Source)	Human	Colon	Feces	Colon	466.45	Stool
@@ -381,7 +381,7 @@ SRS5179593.SRR9865805	T0185A_252.85 (Source)	T0185A (Source)	Human	Colon	Feces	C
 SRS5179594.SRR9865804	T0185A_127.56 (Source)	T0185A (Source)	Human	Colon	Feces	Colon	390.56	Stool
 SRS5179595.SRR9865803	N032_91.09 (Source)	N032 (Source)	Human	Colon	Feces	Colon	264.09	Stool
 SRS5179596.SRR9865802	N032_233.53 (Source)	N032 (Source)	Human	Colon	Feces	Colon	406.53	Stool
-SRS5179597.SRR9865801	N032_75.6 (Source)	N032 (Source)	Human	Colon	Feces	Colon	248.6	Stool
+SRS5179597.SRR9865801	N032_75.6 (Source)	N032 (Source)	Human	Colon	Feces	Colon	248.6 days	Stool
 SRS5179598.SRR9865800	N032_78.45 (Source)	N032 (Source)	Human	Colon	Feces	Colon	251.45	Stool
 SRS5179599.SRR9865799	T0132A_597.38 (Source)	T0132A (Source)	Human	Colon	Feces	Colon	858.38	Stool
 SRS5179600.SRR9865798	T0132B_2 (Source)	T0132B (Source)	Human	Colon	Feces	Colon	263	Stool
@@ -401,10 +401,10 @@ SRS5179613.SRR9865785	N003_15.08 (Source)	N003 (Source)	Human	Colon	Feces	Colon	
 SRS5179614.SRR9865784	N003_22.58 (Source)	N003 (Source)	Human	Colon	Feces	Colon	211.58	Stool
 SRS5179615.SRR9865782	T0108B_438.8 (Source)	T0108B (Source)	Human	Colon	Feces	Colon	692.8	Stool
 SRS5179616.SRR9865783	T0108B_523.83 (Source)	T0108B (Source)	Human	Colon	Feces	Colon	777.83	Stool
-SRS5179617.SRR9865781	T0108B_38.37 (Source)	T0108B (Source)	Human	Colon	Feces	Colon	292.37	Stool
+SRS5179617.SRR9865781	T0108B_38.37 (Source)	T0108B (Source)	Human	Colon	Feces	Colon	292.37 days	Stool
 SRS5179618.SRR9865780	T0108B_2.46 (Source)	T0108B (Source)	Human	Colon	Feces	Colon	256.46	Stool
 SRS5179619.SRR9865779	T0108B_121.42 (Source)	T0108B (Source)	Human	Colon	Feces	Colon	375.42	Stool
-SRS5179620.SRR9865778	T0108B_65.63 (Source)	T0108B (Source)	Human	Colon	Feces	Colon	319.63	Stool
+SRS5179620.SRR9865778	T0108B_65.63 (Source)	T0108B (Source)	Human	Colon	Feces	Colon	319.63 days	Stool
 SRS5179621.SRR9865777	N022_485.49 (Source)	N022 (Source)	Human	Colon	Feces	Colon	658.49	Stool
 SRS5179622.SRR9865776	N013_271.49 (Source)	N013 (Source)	Human	Colon	Feces	Colon	444.49	Stool
 SRS5179623.SRR9865775	N003_26.08 (Source)	N003 (Source)	Human	Colon	Feces	Colon	215.08	Stool

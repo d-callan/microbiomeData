@@ -1,402 +1,402 @@
-Sample_Id	prm_Id	Participant_Id	Host body habitat [UBERON_0000466]	Host body product [UBERON_0000463]	Host body site [UBERON_0000061]	Postmenstrual age at sample collection (days) [EUPATH_0009097]	Sample type [OBI_0100051]
-1-A2	40.01_44 (Source)	40.01 (Source)	Colon	Feces	Colon	212.1	Stool
-1-A3	58.01_54.5 (Source)	58.01 (Source)	Colon	Feces	Colon	229.6	Stool
-1-A4	107.02_28.2 (Source)	107.02 (Source)	Colon	Feces	Colon	210	Stool
-1-A5	107.02_41.9 (Source)	107.02 (Source)	Colon	Feces	Colon	224	Stool
-1-A6	122.01_22.6 (Source)	122.01 (Source)	Colon	Feces	Colon	225.4	Stool
-1-A7	151.01_26.2 (Source)	151.01 (Source)	Colon	Feces	Colon	193.9	Stool
-1-A8	189.01_29.9 (Source)	189.01 (Source)	Colon	Feces	Colon	205.1	Stool
+Sample_Id	participant_repeated_measure_Id	Participant_Id	Host body habitat [UBERON_0000466]	Host body product [UBERON_0000463]	Host body site [UBERON_0000061]	Postmenstrual age at sample collection (days) [EUPATH_0009097]	Sample type [OBI_0100051]
+1-A2	40.01_44 (Source)	40.01 (Source)	colon	UBERON:feces	colon	212.1	Stool
+1-A3	58.01_54.5 (Source)	58.01 (Source)	colon	UBERON:feces	colon	229.6	Stool
+1-A4	107.02_28.2 (Source)	107.02 (Source)	colon	UBERON:feces	colon	210	Stool
+1-A5	107.02_41.9 (Source)	107.02 (Source)	colon	UBERON:feces	colon	224 days	Stool
+1-A6	122.01_22.6 (Source)	122.01 (Source)	colon	UBERON:feces	colon	225.4	Stool
+1-A7	151.01_26.2 (Source)	151.01 (Source)	colon	UBERON:feces	colon	193.9	Stool
+1-A8	189.01_29.9 (Source)	189.01 (Source)	colon	UBERON:feces	colon	205.1 days	Stool
 1-B1	34.01_30.5 (Source)	34.01 (Source)	Colon	Feces	Colon	205.8	Stool
-1-B2	40.01_47.1 (Source)	40.01 (Source)	Colon	Feces	Colon	214.9	Stool
-1-B3	88.01_32.6 (Source)	88.01 (Source)	Colon	Feces	Colon	228.9	Stool
-1-B4	107.02_31.5 (Source)	107.02 (Source)	Colon	Feces	Colon	213.5	Stool
-1-B5	107.02_46.4 (Source)	107.02 (Source)	Colon	Feces	Colon	228.2	Stool
-1-B7	159.01_39.4 (Source)	159.01 (Source)	Colon	Feces	Colon	207.2	Stool
-1-B8	189.01_37.2 (Source)	189.01 (Source)	Colon	Feces	Colon	212.1	Stool
-1-C2	41.01_28.1 (Source)	41.01 (Source)	Colon	Feces	Colon	196	Stool
-1-C3	89.01_59.5 (Source)	89.01 (Source)	Colon	Feces	Colon	220.5	Stool
-1-C4	107.02_33.1 (Source)	107.02 (Source)	Colon	Feces	Colon	214.9	Stool
-1-C5	107.02_56.2 (Source)	107.02 (Source)	Colon	Feces	Colon	238	Stool
-1-C6	126.01_52 (Source)	126.01 (Source)	Colon	Feces	Colon	226.8	Stool
-1-C7	159.01_46.5 (Source)	159.01 (Source)	Colon	Feces	Colon	214.2	Stool
-1-D2	41.01_32.3 (Source)	41.01 (Source)	Colon	Feces	Colon	200.2	Stool
-1-D3	91.02_66.9 (Source)	91.02 (Source)	Colon	Feces	Colon	228.2	Stool
-1-D4	107.02_34.5 (Source)	107.02 (Source)	Colon	Feces	Colon	216.3	Stool
-1-D5	107.02_57.9 (Source)	107.02 (Source)	Colon	Feces	Colon	240.1	Stool
-1-D6	126.01_57 (Source)	126.01 (Source)	Colon	Feces	Colon	231.7	Stool
-1-D7	167.01_18.9 (Source)	167.01 (Source)	Colon	Feces	Colon	200.9	Stool
-1-D8	190.01_8.3 (Source)	190.01 (Source)	Colon	Feces	Colon	225.4	Stool
-1-E1	40.01_21.2 (Source)	40.01 (Source)	Colon	Feces	Colon	189	Stool
-1-E2	55.01_11.3 (Source)	55.01 (Source)	Colon	Feces	Colon	179.2	Stool
-1-E4	107.02_37 (Source)	107.02 (Source)	Colon	Feces	Colon	219.1	Stool
-1-E5	107.02_64.5 (Source)	107.02 (Source)	Colon	Feces	Colon	246.4	Stool
-1-E6--7-E7	145.01_20.9 (Source)	145.01 (Source)	Colon	Feces	Colon	217	Stool
-1-E8	190.01_10 (Source)	190.01 (Source)	Colon	Feces	Colon	226.8	Stool
-1-F1	40.01_23.4 (Source)	40.01 (Source)	Colon	Feces	Colon	191.1	Stool
-1-F2	55.01_12.9 (Source)	55.01 (Source)	Colon	Feces	Colon	180.6	Stool
-1-F3	98.01_40.8 (Source)	98.01 (Source)	Colon	Feces	Colon	215.6	Stool
-1-F4	107.02_38.3 (Source)	107.02 (Source)	Colon	Feces	Colon	220.5	Stool
-1-F5--7-D3	111.01_31.9 (Source)	111.01 (Source)	Colon	Feces	Colon	228.2	Stool
-1-F6	145.01_32.9 (Source)	145.01 (Source)	Colon	Feces	Colon	228.9	Stool
-1-G1	40.01_30 (Source)	40.01 (Source)	Colon	Feces	Colon	198.1	Stool
-1-G2	55.01_34.4 (Source)	55.01 (Source)	Colon	Feces	Colon	202.3	Stool
-1-G3	107.01_31.5 (Source)	107.01 (Source)	Colon	Feces	Colon	213.5	Stool
-1-G4	107.02_38.8 (Source)	107.02 (Source)	Colon	Feces	Colon	220.5	Stool
-1-G5	120.01_16.3 (Source)	120.01 (Source)	Colon	Feces	Colon	205.1	Stool
-1-G6	151.01_20.9 (Source)	151.01 (Source)	Colon	Feces	Colon	189	Stool
-1-G7	184.01_33.5 (Source)	184.01 (Source)	Colon	Feces	Colon	243.6	Stool
-1-G8--8-A8	205.01_36.1 (Source)	205.01 (Source)	Colon	Feces	Colon	218.4	Stool
-1-H1	40.01_35.1 (Source)	40.01 (Source)	Colon	Feces	Colon	203	Stool
-1-H2	58.01_43.5 (Source)	58.01 (Source)	Colon	Feces	Colon	218.4	Stool
-1-H3	107.02_24.2 (Source)	107.02 (Source)	Colon	Feces	Colon	206.5	Stool
-1-H4	107.02_41.7 (Source)	107.02 (Source)	Colon	Feces	Colon	224	Stool
-1-H5	120.01_24.1 (Source)	120.01 (Source)	Colon	Feces	Colon	212.8	Stool
-1-H7	184.01_41.6 (Source)	184.01 (Source)	Colon	Feces	Colon	251.3	Stool
-1-H8	209.01_71.8 (Source)	209.01 (Source)	Colon	Feces	Colon	247.1	Stool
-2-A1	209.01_74.4 (Source)	209.01 (Source)	Colon	Feces	Colon	249.2	Stool
-2-A2	286.02_25.8 (Source)	286.02 (Source)	Colon	Feces	Colon	214.9	Stool
-2-A3	303.01_40.5 (Source)	303.01 (Source)	Colon	Feces	Colon	222.6	Stool
-2-A5	107.02_29.5 (Source)	107.02 (Source)	Colon	Feces	Colon	211.4	Stool
-2-A6	190.01_6.1 (Source)	190.01 (Source)	Colon	Feces	Colon	223.3	Stool
-2-A7	286.02_35.8 (Source)	286.02 (Source)	Colon	Feces	Colon	224.7	Stool
-2-A8	303.01_36.1 (Source)	303.01 (Source)	Colon	Feces	Colon	218.4	Stool
-2-B1	219.01_23 (Source)	219.01 (Source)	Colon	Feces	Colon	233.1	Stool
-2-B2	286.02_29.5 (Source)	286.02 (Source)	Colon	Feces	Colon	218.4	Stool
-2-B3	303.01_47.5 (Source)	303.01 (Source)	Colon	Feces	Colon	229.6	Stool
-2-B4	40.01_40 (Source)	40.01 (Source)	Colon	Feces	Colon	207.9	Stool
-2-B5	107.02_32 (Source)	107.02 (Source)	Colon	Feces	Colon	214.2	Stool
-2-B6	190.01_12.1 (Source)	190.01 (Source)	Colon	Feces	Colon	228.9	Stool
-2-B7	286.02_54.7 (Source)	286.02 (Source)	Colon	Feces	Colon	243.6	Stool
-2-B8	303.01_37.7 (Source)	303.01 (Source)	Colon	Feces	Colon	219.8	Stool
-2-C1	278.01_11.2 (Source)	278.01 (Source)	Colon	Feces	Colon	200.2	Stool
-2-C2	286.02_35.7 (Source)	286.02 (Source)	Colon	Feces	Colon	224.7	Stool
-2-C3	309.01_28.9 (Source)	309.01 (Source)	Colon	Feces	Colon	224.7	Stool
-2-C4	55.01_31.1 (Source)	55.01 (Source)	Colon	Feces	Colon	198.8	Stool
-2-C5	145.01_36.6 (Source)	145.01 (Source)	Colon	Feces	Colon	232.4	Stool
-2-C6	190.01_21.5 (Source)	190.01 (Source)	Colon	Feces	Colon	238.7	Stool
-2-C7	286.02_57.8 (Source)	286.02 (Source)	Colon	Feces	Colon	247.1	Stool
-2-C8	309.01_31.1 (Source)	309.01 (Source)	Colon	Feces	Colon	226.8	Stool
-2-D1	286.02_17 (Source)	286.02 (Source)	Colon	Feces	Colon	205.8	Stool
-2-D2	286.02_43.6 (Source)	286.02 (Source)	Colon	Feces	Colon	232.4	Stool
-2-D4	88.01_43.8 (Source)	88.01 (Source)	Colon	Feces	Colon	240.1	Stool
-2-D6	219.01_18.4 (Source)	219.01 (Source)	Colon	Feces	Colon	228.2	Stool
-2-D8	312.01_31.7 (Source)	312.01 (Source)	Colon	Feces	Colon	220.5	Stool
-2-E1	286.02_18.1 (Source)	286.02 (Source)	Colon	Feces	Colon	207.2	Stool
-2-E2	303.01_24.3 (Source)	303.01 (Source)	Colon	Feces	Colon	206.5	Stool
-2-E4	89.01_63.2 (Source)	89.01 (Source)	Colon	Feces	Colon	224	Stool
-2-E5	161.01_17.7 (Source)	161.01 (Source)	Colon	Feces	Colon	192.5	Stool
-2-E7	303.01_18.2 (Source)	303.01 (Source)	Colon	Feces	Colon	200.2	Stool
-2-F1	286.02_19.9 (Source)	286.02 (Source)	Colon	Feces	Colon	208.6	Stool
-2-F2	303.01_27.5 (Source)	303.01 (Source)	Colon	Feces	Colon	209.3	Stool
-2-F3	338.01_29.6 (Source)	338.01 (Source)	Colon	Feces	Colon	197.4	Stool
-2-F4	91.02_69.5 (Source)	91.02 (Source)	Colon	Feces	Colon	230.3	Stool
-2-F5	161.01_20.5 (Source)	161.01 (Source)	Colon	Feces	Colon	195.3	Stool
-2-F6	244.01_10.5 (Source)	244.01 (Source)	Colon	Feces	Colon	213.5	Stool
-2-F7	303.01_23.7 (Source)	303.01 (Source)	Colon	Feces	Colon	205.8	Stool
-2-G1	286.02_21.2 (Source)	286.02 (Source)	Colon	Feces	Colon	210	Stool
-2-G2	303.01_29.4 (Source)	303.01 (Source)	Colon	Feces	Colon	211.4	Stool
-2-G3	345.02_33.5 (Source)	345.02 (Source)	Colon	Feces	Colon	236.6	Stool
-2-G4	107.01_34.9 (Source)	107.01 (Source)	Colon	Feces	Colon	217	Stool
-2-G5	167.01_22.8 (Source)	167.01 (Source)	Colon	Feces	Colon	205.1	Stool
-2-G6	278.01_7 (Source)	278.01 (Source)	Colon	Feces	Colon	196	Stool
-2-G7	303.01_30.3 (Source)	303.01 (Source)	Colon	Feces	Colon	212.1	Stool
-2-G8	338.01_31.7 (Source)	338.01 (Source)	Colon	Feces	Colon	199.5	Stool
-2-H1	286.02_24.8 (Source)	286.02 (Source)	Colon	Feces	Colon	213.5	Stool
-2-H2	303.01_38.6 (Source)	303.01 (Source)	Colon	Feces	Colon	220.5	Stool
-2-H4	107.01_42.1 (Source)	107.01 (Source)	Colon	Feces	Colon	224	Stool
-2-H6	278.01_9 (Source)	278.01 (Source)	Colon	Feces	Colon	198.1	Stool
-2-H7	303.01_32.3 (Source)	303.01 (Source)	Colon	Feces	Colon	214.2	Stool
-3-A1	37.02_32.5 (Source)	37.02 (Source)	Colon	Feces	Colon	235.2	Stool
-3-A2	37.02_27.6 (Source)	37.02 (Source)	Colon	Feces	Colon	230.3	Stool
-3-A3	56.01_29.2 (Source)	56.01 (Source)	Colon	Feces	Colon	218.4	Stool
-3-A4	56.01_33.2 (Source)	56.01 (Source)	Colon	Feces	Colon	221.9	Stool
-3-A5	56.01_35.1 (Source)	56.01 (Source)	Colon	Feces	Colon	224	Stool
-3-A6	76.03_27.5 (Source)	76.03 (Source)	Colon	Feces	Colon	244.3	Stool
-3-A7	144.02_14.5 (Source)	144.02 (Source)	Colon	Feces	Colon	224.7	Stool
-3-A8	144.02_16.2 (Source)	144.02 (Source)	Colon	Feces	Colon	226.1	Stool
-3-B1	48.01_23.3 (Source)	48.01 (Source)	Colon	Feces	Colon	212.1	Stool
-3-B2	48.01_25.4 (Source)	48.01 (Source)	Colon	Feces	Colon	214.2	Stool
-3-B3--7-B8	68.02_39.5 (Source)	68.02 (Source)	Colon	Feces	Colon	207.2	Stool
-3-B4	68.02_53.5 (Source)	68.02 (Source)	Colon	Feces	Colon	221.2	Stool
-3-B5	76.01_21.5 (Source)	76.01 (Source)	Colon	Feces	Colon	238.7	Stool
-3-B6	90.01_20.2 (Source)	90.01 (Source)	Colon	Feces	Colon	195.3	Stool
-3-B7	144.02_18.3 (Source)	144.02 (Source)	Colon	Feces	Colon	228.2	Stool
-3-B8	144.01_18.3 (Source)	144.01 (Source)	Colon	Feces	Colon	228.2	Stool
-3-C3	76.01_19.1 (Source)	76.01 (Source)	Colon	Feces	Colon	235.9	Stool
-3-C4	76.03_20.9 (Source)	76.03 (Source)	Colon	Feces	Colon	238	Stool
-3-C5	110.01_17 (Source)	110.01 (Source)	Colon	Feces	Colon	212.8	Stool
-3-C6	121.01_14.6 (Source)	121.01 (Source)	Colon	Feces	Colon	203.7	Stool
-3-C8	144.02_22.2 (Source)	144.02 (Source)	Colon	Feces	Colon	232.4	Stool
-3-D2	68.02_9.7 (Source)	68.02 (Source)	Colon	Feces	Colon	177.8	Stool
-3-D3	76.01_33.1 (Source)	76.01 (Source)	Colon	Feces	Colon	249.9	Stool
-3-D4	76.01_35.1 (Source)	76.01 (Source)	Colon	Feces	Colon	252	Stool
-3-D5	115.01_41.5 (Source)	115.01 (Source)	Colon	Feces	Colon	209.3	Stool
-3-D6	110.01_47.6 (Source)	110.01 (Source)	Colon	Feces	Colon	243.6	Stool
-3-D7	171.01_12.7 (Source)	171.01 (Source)	Colon	Feces	Colon	222.6	Stool
-3-D8	171.01_15 (Source)	171.01 (Source)	Colon	Feces	Colon	224.7	Stool
-3-E1	76.03_18.6 (Source)	76.03 (Source)	Colon	Feces	Colon	235.9	Stool
-3-E2	76.01_29.6 (Source)	76.01 (Source)	Colon	Feces	Colon	246.4	Stool
-3-E3	110.01_13.2 (Source)	110.01 (Source)	Colon	Feces	Colon	209.3	Stool
-3-E4	110.01_15.2 (Source)	110.01 (Source)	Colon	Feces	Colon	211.4	Stool
-3-E5	37.02_39.6 (Source)	37.02 (Source)	Colon	Feces	Colon	242.9	Stool
-3-E6	121.01_20.3 (Source)	121.01 (Source)	Colon	Feces	Colon	209.3	Stool
-3-E7	110.01_49.5 (Source)	110.01 (Source)	Colon	Feces	Colon	245.7	Stool
-3-E8	110.01_53.6 (Source)	110.01 (Source)	Colon	Feces	Colon	249.9	Stool
-3-F1	76.01_28.2 (Source)	76.01 (Source)	Colon	Feces	Colon	245	Stool
-3-F2	110.01_11.3 (Source)	110.01 (Source)	Colon	Feces	Colon	207.2	Stool
-3-F3	110.01_45.3 (Source)	110.01 (Source)	Colon	Feces	Colon	241.5	Stool
-3-F4	121.01_18.6 (Source)	121.01 (Source)	Colon	Feces	Colon	207.9	Stool
-3-F5	56.01_14.5 (Source)	56.01 (Source)	Colon	Feces	Colon	203.7	Stool
-3-F6	121.01_52.8 (Source)	121.01 (Source)	Colon	Feces	Colon	241.5	Stool
-3-F7	121.01_55.9 (Source)	121.01 (Source)	Colon	Feces	Colon	245	Stool
-3-F8	121.01_57.5 (Source)	121.01 (Source)	Colon	Feces	Colon	246.4	Stool
-3-G1	90.01_27.6 (Source)	90.01 (Source)	Colon	Feces	Colon	202.3	Stool
-3-G3	37.02_35.4 (Source)	37.02 (Source)	Colon	Feces	Colon	238.7	Stool
-3-G4	37.02_34.6 (Source)	37.02 (Source)	Colon	Feces	Colon	237.3	Stool
-3-G5	56.01_37.3 (Source)	56.01 (Source)	Colon	Feces	Colon	226.1	Stool
-3-G6	139.01_19.2 (Source)	139.01 (Source)	Colon	Feces	Colon	235.9	Stool
-3-G7	139.01_23.4 (Source)	139.01 (Source)	Colon	Feces	Colon	240.1	Stool
-3-G8	139.01_25.2 (Source)	139.01 (Source)	Colon	Feces	Colon	242.2	Stool
-3-H1	110.01_43.6 (Source)	110.01 (Source)	Colon	Feces	Colon	239.4	Stool
-3-H2	48.01_27 (Source)	48.01 (Source)	Colon	Feces	Colon	216.3	Stool
-3-H3	48.01_29.4 (Source)	48.01 (Source)	Colon	Feces	Colon	218.4	Stool
-3-H4	56.01_12.5 (Source)	56.01 (Source)	Colon	Feces	Colon	201.6	Stool
-4-A1	144.01_16.2 (Source)	144.01 (Source)	Colon	Feces	Colon	226.1	Stool
-4-A3	144.01_36.5 (Source)	144.01 (Source)	Colon	Feces	Colon	246.4	Stool
-4-A4	171.01_20.7 (Source)	171.01 (Source)	Colon	Feces	Colon	231	Stool
-4-A5	171.01_26.4 (Source)	171.01 (Source)	Colon	Feces	Colon	236.6	Stool
-4-A6	181.01_50.6 (Source)	181.01 (Source)	Colon	Feces	Colon	239.4	Stool
-4-A7	181.01_52.4 (Source)	181.01 (Source)	Colon	Feces	Colon	241.5	Stool
-4-A8	181.01_56.9 (Source)	181.01 (Source)	Colon	Feces	Colon	245.7	Stool
-4-B2	144.01_32.4 (Source)	144.01 (Source)	Colon	Feces	Colon	242.2	Stool
-4-B3	171.01_19 (Source)	171.01 (Source)	Colon	Feces	Colon	228.9	Stool
-4-B4	171.01_24.6 (Source)	171.01 (Source)	Colon	Feces	Colon	234.5	Stool
-4-B5	181.01_14.2 (Source)	181.01 (Source)	Colon	Feces	Colon	203	Stool
-4-B6	195.01_13 (Source)	195.01 (Source)	Colon	Feces	Colon	209.3	Stool
-4-B7	180.01_60.1 (Source)	180.01 (Source)	Colon	Feces	Colon	249.2	Stool
-4-C1	144.01_34.4 (Source)	144.01 (Source)	Colon	Feces	Colon	244.3	Stool
-4-C2	53.01_36.1 (Source)	53.01 (Source)	Colon	Feces	Colon	232.4	Stool
-4-C3	121.01_49.3 (Source)	121.01 (Source)	Colon	Feces	Colon	238	Stool
-4-C4	180.01_15.5 (Source)	180.01 (Source)	Colon	Feces	Colon	204.4	Stool
-4-C5	180.01_25.7 (Source)	180.01 (Source)	Colon	Feces	Colon	214.9	Stool
-4-C6	195.01_15.5 (Source)	195.01 (Source)	Colon	Feces	Colon	211.4	Stool
-4-C8	180.01_13.5 (Source)	180.01 (Source)	Colon	Feces	Colon	202.3	Stool
-4-D1	171.01_16.7 (Source)	171.01 (Source)	Colon	Feces	Colon	226.8	Stool
-4-D3	139.01_32 (Source)	139.01 (Source)	Colon	Feces	Colon	249.2	Stool
-4-D4	180.01_23.7 (Source)	180.01 (Source)	Colon	Feces	Colon	212.8	Stool
-4-D5	197.01_13.7 (Source)	197.01 (Source)	Colon	Feces	Colon	217	Stool
-4-D6	197.01_17.4 (Source)	197.01 (Source)	Colon	Feces	Colon	220.5	Stool
-4-D7	194.01_25.5 (Source)	194.01 (Source)	Colon	Feces	Colon	228.2	Stool
-4-D8	181.01_18.2 (Source)	181.01 (Source)	Colon	Feces	Colon	207.2	Stool
-4-E1	110.01_51.6 (Source)	110.01 (Source)	Colon	Feces	Colon	247.8	Stool
-4-E2	139.01_17.3 (Source)	139.01 (Source)	Colon	Feces	Colon	234.5	Stool
-4-E3	144.01_12.4 (Source)	144.01 (Source)	Colon	Feces	Colon	222.6	Stool
-4-E4	180.01_52.4 (Source)	180.01 (Source)	Colon	Feces	Colon	241.5	Stool
-4-E5	197.01_27.5 (Source)	197.01 (Source)	Colon	Feces	Colon	230.3	Stool
-4-E6	194.01_35.1 (Source)	194.01 (Source)	Colon	Feces	Colon	238	Stool
-4-E7	197.01_31.6 (Source)	197.01 (Source)	Colon	Feces	Colon	234.5	Stool
-4-E8	180.01_29.3 (Source)	180.01 (Source)	Colon	Feces	Colon	218.4	Stool
-4-F2	139.01_30.2 (Source)	139.01 (Source)	Colon	Feces	Colon	247.1	Stool
-4-F4	180.01_58.6 (Source)	180.01 (Source)	Colon	Feces	Colon	247.8	Stool
-4-F5	171.01_28.4 (Source)	171.01 (Source)	Colon	Feces	Colon	238.7	Stool
-4-F6	180.01_9.7 (Source)	180.01 (Source)	Colon	Feces	Colon	198.8	Stool
-4-F7	180.01_11.5 (Source)	180.01 (Source)	Colon	Feces	Colon	200.2	Stool
-4-F8	197.01_9.6 (Source)	197.01 (Source)	Colon	Feces	Colon	212.8	Stool
-4-G1	139.01_21.1 (Source)	139.01 (Source)	Colon	Feces	Colon	238	Stool
-4-G3	144.02_20.2 (Source)	144.02 (Source)	Colon	Feces	Colon	230.3	Stool
-4-G4	181.01_60.7 (Source)	181.01 (Source)	Colon	Feces	Colon	249.9	Stool
-4-G5	181.01_16.2 (Source)	181.01 (Source)	Colon	Feces	Colon	205.1	Stool
-4-G6	180.01_21.7 (Source)	180.01 (Source)	Colon	Feces	Colon	210.7	Stool
-4-G8	195.01_17.6 (Source)	195.01 (Source)	Colon	Feces	Colon	213.5	Stool
-4-H2	144.01_22.2 (Source)	144.01 (Source)	Colon	Feces	Colon	232.4	Stool
-4-H4	194.01_33.3 (Source)	194.01 (Source)	Colon	Feces	Colon	236.6	Stool
-4-H5	181.01_22.2 (Source)	181.01 (Source)	Colon	Feces	Colon	211.4	Stool
-4-H6	180.01_27.5 (Source)	180.01 (Source)	Colon	Feces	Colon	216.3	Stool
-4-H7	181.01_24.5 (Source)	181.01 (Source)	Colon	Feces	Colon	213.5	Stool
-5-A1	197.01_29.7 (Source)	197.01 (Source)	Colon	Feces	Colon	232.4	Stool
-5-A2	234.02_59.9 (Source)	234.02 (Source)	Colon	Feces	Colon	235.2	Stool
-5-A3	234.01_17 (Source)	234.01 (Source)	Colon	Feces	Colon	191.8	Stool
-5-A4	240.01_12.7 (Source)	240.01 (Source)	Colon	Feces	Colon	222.6	Stool
-5-A5	234.01_31.7 (Source)	234.01 (Source)	Colon	Feces	Colon	206.5	Stool
-5-A6	234.01_54.5 (Source)	234.01 (Source)	Colon	Feces	Colon	229.6	Stool
-5-A7	250.01_22.5 (Source)	250.01 (Source)	Colon	Feces	Colon	225.4	Stool
-5-B1	197.01_33.8 (Source)	197.01 (Source)	Colon	Feces	Colon	236.6	Stool
-5-B2	197.01_35.7 (Source)	197.01 (Source)	Colon	Feces	Colon	238.7	Stool
-5-B3	234.01_25.9 (Source)	234.01 (Source)	Colon	Feces	Colon	200.9	Stool
-5-B5	234.01_52.7 (Source)	234.01 (Source)	Colon	Feces	Colon	227.5	Stool
-5-B7	265.01_22.7 (Source)	265.01 (Source)	Colon	Feces	Colon	197.4	Stool
-5-C1	195.01_54.2 (Source)	195.01 (Source)	Colon	Feces	Colon	249.9	Stool
-5-C2	234.02_14.5 (Source)	234.02 (Source)	Colon	Feces	Colon	189.7	Stool
-5-C3	234.01_29.8 (Source)	234.01 (Source)	Colon	Feces	Colon	205.1	Stool
-5-C4	240.01_32.6 (Source)	240.01 (Source)	Colon	Feces	Colon	242.9	Stool
-5-C5	234.01_64.3 (Source)	234.01 (Source)	Colon	Feces	Colon	239.4	Stool
-5-C6	234.01_66.3 (Source)	234.01 (Source)	Colon	Feces	Colon	241.5	Stool
-5-C7	265.01_74.2 (Source)	265.01 (Source)	Colon	Feces	Colon	249.2	Stool
-5-C8	319.01_11.9 (Source)	319.01 (Source)	Colon	Feces	Colon	221.9	Stool
-5-D1	234.01_14.7 (Source)	234.01 (Source)	Colon	Feces	Colon	189.7	Stool
-5-D2	240.01_11.7 (Source)	240.01 (Source)	Colon	Feces	Colon	221.9	Stool
-5-D3	234.02_40.6 (Source)	234.02 (Source)	Colon	Feces	Colon	215.6	Stool
-5-D4	234.01_50.8 (Source)	234.01 (Source)	Colon	Feces	Colon	226.1	Stool
-5-D5	195.01_52.2 (Source)	195.01 (Source)	Colon	Feces	Colon	248.5	Stool
-5-D6	250.01_20.3 (Source)	250.01 (Source)	Colon	Feces	Colon	223.3	Stool
-5-D8	250.01_14.7 (Source)	250.01 (Source)	Colon	Feces	Colon	217.7	Stool
-5-E1	237.01_15.4 (Source)	237.01 (Source)	Colon	Feces	Colon	218.4	Stool
-5-E2	240.01_15.5 (Source)	240.01 (Source)	Colon	Feces	Colon	225.4	Stool
-5-E3	237.01_38.6 (Source)	237.01 (Source)	Colon	Feces	Colon	241.5	Stool
-5-E4	195.01_50.4 (Source)	195.01 (Source)	Colon	Feces	Colon	246.4	Stool
-5-E5	240.01_10.7 (Source)	240.01 (Source)	Colon	Feces	Colon	220.5	Stool
-5-E6	265.01_16.4 (Source)	265.01 (Source)	Colon	Feces	Colon	191.1	Stool
-5-E7	319.01_13.6 (Source)	319.01 (Source)	Colon	Feces	Colon	223.3	Stool
-5-E8	265.01_26.7 (Source)	265.01 (Source)	Colon	Feces	Colon	201.6	Stool
-5-F1	240.01_13.8 (Source)	240.01 (Source)	Colon	Feces	Colon	224	Stool
-5-F2	234.02_38.6 (Source)	234.02 (Source)	Colon	Feces	Colon	213.5	Stool
-5-F3	234.01_56.7 (Source)	234.01 (Source)	Colon	Feces	Colon	231.7	Stool
-5-F4	234.01_12.3 (Source)	234.01 (Source)	Colon	Feces	Colon	187.6	Stool
-5-F5	240.01_14.5 (Source)	240.01 (Source)	Colon	Feces	Colon	224.7	Stool
-5-F6	265.01_60.1 (Source)	265.01 (Source)	Colon	Feces	Colon	235.2	Stool
-5-F7	234.02_66.7 (Source)	234.02 (Source)	Colon	Feces	Colon	241.5	Stool
-5-F8	265.01_69 (Source)	265.01 (Source)	Colon	Feces	Colon	244.3	Stool
-5-G1	234.02_36.7 (Source)	234.02 (Source)	Colon	Feces	Colon	211.4	Stool
-5-G2	234.02_62.2 (Source)	234.02 (Source)	Colon	Feces	Colon	237.3	Stool
-5-G5	234.02_34.8 (Source)	234.02 (Source)	Colon	Feces	Colon	210	Stool
-5-G6	294.01_16.7 (Source)	294.01 (Source)	Colon	Feces	Colon	233.8	Stool
-5-G7	265.01_24.9 (Source)	265.01 (Source)	Colon	Feces	Colon	200.2	Stool
-5-G8	294.01_22.9 (Source)	294.01 (Source)	Colon	Feces	Colon	240.1	Stool
-5-H2	195.01_46.4 (Source)	195.01 (Source)	Colon	Feces	Colon	242.2	Stool
-5-H3	234.01_8.7 (Source)	234.01 (Source)	Colon	Feces	Colon	183.4	Stool
-5-H4	234.01_27.4 (Source)	234.01 (Source)	Colon	Feces	Colon	202.3	Stool
-5-H5	237.01_36.8 (Source)	237.01 (Source)	Colon	Feces	Colon	240.1	Stool
-5-H6	319.01_15.1 (Source)	319.01 (Source)	Colon	Feces	Colon	225.4	Stool
-5-H7	265.01_64.4 (Source)	265.01 (Source)	Colon	Feces	Colon	239.4	Stool
-5-H8	265.01_28.8 (Source)	265.01 (Source)	Colon	Feces	Colon	203.7	Stool
-6-A1	302.01_13.2 (Source)	302.01 (Source)	Colon	Feces	Colon	230.3	Stool
-6-A2	302.01_16.7 (Source)	302.01 (Source)	Colon	Feces	Colon	233.8	Stool
-6-A3	364.01_18 (Source)	364.01 (Source)	Colon	Feces	Colon	228.2	Stool
-6-A4	364.01_20.3 (Source)	364.01 (Source)	Colon	Feces	Colon	230.3	Stool
-6-A5	363.01_32.7 (Source)	363.01 (Source)	Colon	Feces	Colon	214.9	Stool
-6-A6	363.01_34.6 (Source)	363.01 (Source)	Colon	Feces	Colon	216.3	Stool
-6-A7	363.01_38.8 (Source)	363.01 (Source)	Colon	Feces	Colon	220.5	Stool
-6-A8	76.03_25.3 (Source)	76.03 (Source)	Colon	Feces	Colon	242.2	Stool
-6-B1	313.01_16.4 (Source)	313.01 (Source)	Colon	Feces	Colon	212.1	Stool
-6-B2	313.01_44.8 (Source)	313.01 (Source)	Colon	Feces	Colon	240.8	Stool
-6-B3	319.01_23.7 (Source)	319.01 (Source)	Colon	Feces	Colon	233.8	Stool
-6-B4	319.01_25.9 (Source)	319.01 (Source)	Colon	Feces	Colon	235.9	Stool
-6-B5	319.01_27.9 (Source)	319.01 (Source)	Colon	Feces	Colon	238	Stool
-6-B6	313.01_50.3 (Source)	313.01 (Source)	Colon	Feces	Colon	246.4	Stool
-6-B7	341.01_15.6 (Source)	341.01 (Source)	Colon	Feces	Colon	204.4	Stool
-6-B8	234.02_17 (Source)	234.02 (Source)	Colon	Feces	Colon	191.8	Stool
-6-C1	313.01_42.5 (Source)	313.01 (Source)	Colon	Feces	Colon	238.7	Stool
-6-C2	313.01_46.7 (Source)	313.01 (Source)	Colon	Feces	Colon	242.9	Stool
-6-C3	338.01_8.8 (Source)	338.01 (Source)	Colon	Feces	Colon	177.1	Stool
-6-C5	336.01_17.1 (Source)	336.01 (Source)	Colon	Feces	Colon	177.8	Stool
-6-C8	76.03_29.4 (Source)	76.03 (Source)	Colon	Feces	Colon	246.4	Stool
-6-D1	250.01_18.3 (Source)	250.01 (Source)	Colon	Feces	Colon	221.2	Stool
-6-D2	341.01_19.4 (Source)	341.01 (Source)	Colon	Feces	Colon	208.6	Stool
-6-D3	341.01_21.8 (Source)	341.01 (Source)	Colon	Feces	Colon	210.7	Stool
-6-D4	341.01_39.1 (Source)	341.01 (Source)	Colon	Feces	Colon	228.2	Stool
-6-D5	341.01_41.2 (Source)	341.01 (Source)	Colon	Feces	Colon	230.3	Stool
-6-D6	341.01_43.5 (Source)	341.01 (Source)	Colon	Feces	Colon	232.4	Stool
-6-E1	265.01_20.7 (Source)	265.01 (Source)	Colon	Feces	Colon	196	Stool
-6-E2	345.02_45.3 (Source)	345.02 (Source)	Colon	Feces	Colon	248.5	Stool
-6-E4	355.01_22 (Source)	355.01 (Source)	Colon	Feces	Colon	224.7	Stool
-6-E7	364.01_12.6 (Source)	364.01 (Source)	Colon	Feces	Colon	222.6	Stool
-6-F1	265.01_58.2 (Source)	265.01 (Source)	Colon	Feces	Colon	233.1	Stool
-6-F2	355.01_30 (Source)	355.01 (Source)	Colon	Feces	Colon	233.1	Stool
-6-F3	355.01_32.8 (Source)	355.01 (Source)	Colon	Feces	Colon	235.9	Stool
-6-F4	355.01_40.6 (Source)	355.01 (Source)	Colon	Feces	Colon	243.6	Stool
-6-F5	355.01_38.5 (Source)	355.01 (Source)	Colon	Feces	Colon	241.5	Stool
-6-F6	361.01_12.4 (Source)	361.01 (Source)	Colon	Feces	Colon	222.6	Stool
-6-F7	364.01_16.8 (Source)	364.01 (Source)	Colon	Feces	Colon	226.8	Stool
-6-G1	265.01_66.3 (Source)	265.01 (Source)	Colon	Feces	Colon	241.5	Stool
-6-G2	363.01_10.9 (Source)	363.01 (Source)	Colon	Feces	Colon	193.2	Stool
-6-G3	361.01_10.1 (Source)	361.01 (Source)	Colon	Feces	Colon	219.8	Stool
-6-G4	361.01_14.5 (Source)	361.01 (Source)	Colon	Feces	Colon	224.7	Stool
-6-G5	363.01_14.6 (Source)	363.01 (Source)	Colon	Feces	Colon	196.7	Stool
-6-G6	361.01_16.3 (Source)	361.01 (Source)	Colon	Feces	Colon	226.1	Stool
-6-G7	363.01_42.2 (Source)	363.01 (Source)	Colon	Feces	Colon	224	Stool
-6-G8	56.01_18.2 (Source)	56.01 (Source)	Colon	Feces	Colon	207.2	Stool
-6-H3	361.01_18 (Source)	361.01 (Source)	Colon	Feces	Colon	228.2	Stool
-6-H5	363.01_20.6 (Source)	363.01 (Source)	Colon	Feces	Colon	202.3	Stool
-6-H6	364.01_14.9 (Source)	364.01 (Source)	Colon	Feces	Colon	224.7	Stool
-6-H7	56.01_16.3 (Source)	56.01 (Source)	Colon	Feces	Colon	205.1	Stool
-6-H8	56.01_31.6 (Source)	56.01 (Source)	Colon	Feces	Colon	220.5	Stool
-7-A1	40.01_43.3 (Source)	40.01 (Source)	Colon	Feces	Colon	211.4	Stool
-7-A2	40.01_48.8 (Source)	40.01 (Source)	Colon	Feces	Colon	217	Stool
-7-A3	40.01_51.6 (Source)	40.01 (Source)	Colon	Feces	Colon	219.8	Stool
-7-A4	40.01_83.4 (Source)	40.01 (Source)	Colon	Feces	Colon	251.3	Stool
-7-A5	43.01_25 (Source)	43.01 (Source)	Colon	Feces	Colon	214.2	Stool
-7-A7	43.01_46.1 (Source)	43.01 (Source)	Colon	Feces	Colon	235.2	Stool
-7-A8	43.01_58.5 (Source)	43.01 (Source)	Colon	Feces	Colon	247.8	Stool
-7-B2	48.01_17.6 (Source)	48.01 (Source)	Colon	Feces	Colon	206.5	Stool
-7-B3	54.01_16.4 (Source)	54.01 (Source)	Colon	Feces	Colon	205.1	Stool
-7-B4	54.01_23.8 (Source)	54.01 (Source)	Colon	Feces	Colon	212.8	Stool
-7-B6	54.01_49.5 (Source)	54.01 (Source)	Colon	Feces	Colon	238.7	Stool
-7-B7	68.02_36.9 (Source)	68.02 (Source)	Colon	Feces	Colon	205.1	Stool
-7-C1	68.02_54 (Source)	68.02 (Source)	Colon	Feces	Colon	221.9	Stool
-7-C2	68.02_55.7 (Source)	68.02 (Source)	Colon	Feces	Colon	224	Stool
-7-C3	68.02_56.5 (Source)	68.02 (Source)	Colon	Feces	Colon	224.7	Stool
-7-C4	68.02_77 (Source)	68.02 (Source)	Colon	Feces	Colon	245	Stool
-7-C5	97.01_34.6 (Source)	97.01 (Source)	Colon	Feces	Colon	195.3	Stool
-7-C6	97.01_41.6 (Source)	97.01 (Source)	Colon	Feces	Colon	202.3	Stool
-7-C7	97.01_88.3 (Source)	97.01 (Source)	Colon	Feces	Colon	249.2	Stool
-7-C8	98.01_33.5 (Source)	98.01 (Source)	Colon	Feces	Colon	208.6	Stool
-7-D1	98.01_42.5 (Source)	98.01 (Source)	Colon	Feces	Colon	217.7	Stool
-7-D2	98.01_71.3 (Source)	98.01 (Source)	Colon	Feces	Colon	246.4	Stool
-7-D4	111.01_35.3 (Source)	111.01 (Source)	Colon	Feces	Colon	231	Stool
-7-D5	122.01_25.5 (Source)	122.01 (Source)	Colon	Feces	Colon	228.2	Stool
-7-D7	122.01_39.5 (Source)	122.01 (Source)	Colon	Feces	Colon	242.2	Stool
-7-D8	122.01_42.6 (Source)	122.01 (Source)	Colon	Feces	Colon	245.7	Stool
-7-E1	122.01_49.6 (Source)	122.01 (Source)	Colon	Feces	Colon	252.7	Stool
-7-E8	145.01_34.9 (Source)	145.01 (Source)	Colon	Feces	Colon	231	Stool
-7-F1	145.01_53.9 (Source)	145.01 (Source)	Colon	Feces	Colon	249.9	Stool
-7-F2	145.01_54.9 (Source)	145.01 (Source)	Colon	Feces	Colon	250.6	Stool
-7-F3	151.01_42.8 (Source)	151.01 (Source)	Colon	Feces	Colon	210.7	Stool
-7-F4	151.01_55.9 (Source)	151.01 (Source)	Colon	Feces	Colon	224	Stool
-7-F5	151.01_57.3 (Source)	151.01 (Source)	Colon	Feces	Colon	225.4	Stool
-7-F7	175.01_23.4 (Source)	175.01 (Source)	Colon	Feces	Colon	191.1	Stool
-7-F8	175.01_34.7 (Source)	175.01 (Source)	Colon	Feces	Colon	203	Stool
-7-G1	175.01_35.8 (Source)	175.01 (Source)	Colon	Feces	Colon	203.7	Stool
-7-G2	175.01_37 (Source)	175.01 (Source)	Colon	Feces	Colon	205.1	Stool
-7-G3	175.01_79.6 (Source)	175.01 (Source)	Colon	Feces	Colon	247.8	Stool
-7-G4	175.01_82.2 (Source)	175.01 (Source)	Colon	Feces	Colon	249.9	Stool
-7-H3	189.01_30 (Source)	189.01 (Source)	Colon	Feces	Colon	205.1	Stool
-7-H4	189.01_39.9 (Source)	189.01 (Source)	Colon	Feces	Colon	214.9	Stool
-7-H5	189.01_41.6 (Source)	189.01 (Source)	Colon	Feces	Colon	216.3	Stool
-7-H6	189.01_42.7 (Source)	189.01 (Source)	Colon	Feces	Colon	217.7	Stool
-7-H8	198.01_22 (Source)	198.01 (Source)	Colon	Feces	Colon	189.7	Stool
-8-A1	198.01_29 (Source)	198.01 (Source)	Colon	Feces	Colon	196.7	Stool
-8-A2	198.01_29.9 (Source)	198.01 (Source)	Colon	Feces	Colon	198.1	Stool
-8-A3	198.01_38 (Source)	198.01 (Source)	Colon	Feces	Colon	205.8	Stool
-8-A6	198.01_77.4 (Source)	198.01 (Source)	Colon	Feces	Colon	245.7	Stool
-8-A7	205.01_31 (Source)	205.01 (Source)	Colon	Feces	Colon	212.8	Stool
-8-B1	205.01_39 (Source)	205.01 (Source)	Colon	Feces	Colon	221.2	Stool
-8-B2	205.01_39.7 (Source)	205.01 (Source)	Colon	Feces	Colon	221.9	Stool
-8-B3	205.01_66.1 (Source)	205.01 (Source)	Colon	Feces	Colon	247.8	Stool
-8-B4	220.01_17.7 (Source)	220.01 (Source)	Colon	Feces	Colon	178.5	Stool
-8-B5	220.01_27.7 (Source)	220.01 (Source)	Colon	Feces	Colon	189	Stool
-8-B8	220.01_84.8 (Source)	220.01 (Source)	Colon	Feces	Colon	245.7	Stool
-8-C1	234.01_35.3 (Source)	234.01 (Source)	Colon	Feces	Colon	210	Stool
-8-C3	234.01_56.7 (Source)	234.01 (Source)	Colon	Feces	Colon	231.7	Stool
-8-C5	234.02_42.6 (Source)	234.02 (Source)	Colon	Feces	Colon	217.7	Stool
-8-C7	267.01_16.3 (Source)	267.01 (Source)	Colon	Feces	Colon	177.1	Stool
-8-D1	267.01_25.7 (Source)	267.01 (Source)	Colon	Feces	Colon	186.9	Stool
-8-D2	271.01_27.9 (Source)	271.01 (Source)	Colon	Feces	Colon	189	Stool
-8-D3	271.01_32.9 (Source)	271.01 (Source)	Colon	Feces	Colon	193.9	Stool
-8-D4	271.01_157.7 (Source)	271.01 (Source)	Colon	Feces	Colon	318.5	Stool
-8-D7	295.01_53.7 (Source)	295.01 (Source)	Colon	Feces	Colon	242.9	Stool
-8-D8	295.01_64.1 (Source)	295.01 (Source)	Colon	Feces	Colon	253.4	Stool
-8-E3	321.01_9.8 (Source)	321.01 (Source)	Colon	Feces	Colon	170.8	Stool
-8-E4	321.01_18.8 (Source)	321.01 (Source)	Colon	Feces	Colon	179.9	Stool
-8-E6	338.01_29 (Source)	338.01 (Source)	Colon	Feces	Colon	196.7	Stool
-8-E7	338.01_32.6 (Source)	338.01 (Source)	Colon	Feces	Colon	200.9	Stool
-8-E8	340.01_10.8 (Source)	340.01 (Source)	Colon	Feces	Colon	185.5	Stool
-8-F1	340.01_18.9 (Source)	340.01 (Source)	Colon	Feces	Colon	193.9	Stool
-8-F2	340.01_19.2 (Source)	340.01 (Source)	Colon	Feces	Colon	193.9	Stool
-8-F5	343.01_42.8 (Source)	343.01 (Source)	Colon	Feces	Colon	217.7	Stool
-8-F7	343.01_49.8 (Source)	343.01 (Source)	Colon	Feces	Colon	224.7	Stool
-8-G1	370.01_48.9 (Source)	370.01 (Source)	Colon	Feces	Colon	217	Stool
-8-G2	370.01_49.9 (Source)	370.01 (Source)	Colon	Feces	Colon	217.7	Stool
-8-G3	370.01_60.9 (Source)	370.01 (Source)	Colon	Feces	Colon	228.9	Stool
-8-G4	370.01_62.3 (Source)	370.01 (Source)	Colon	Feces	Colon	230.3	Stool
-8-G6	383.01_21.7 (Source)	383.01 (Source)	Colon	Feces	Colon	203.7	Stool
-8-G7	383.01_27 (Source)	383.01 (Source)	Colon	Feces	Colon	209.3	Stool
+1-B2	40.01_47.1 (Source)	40.01 (Source)	colon	UBERON:feces	colon	214.9	Stool
+1-B3	88.01_32.6 (Source)	88.01 (Source)	colon	UBERON:feces	colon	228.9	Stool
+1-B4	107.02_31.5 (Source)	107.02 (Source)	colon	UBERON:feces	colon	213.5 days	Stool
+1-B5	107.02_46.4 (Source)	107.02 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+1-B7	159.01_39.4 (Source)	159.01 (Source)	colon	UBERON:feces	colon	207.2 days	Stool
+1-B8	189.01_37.2 (Source)	189.01 (Source)	colon	UBERON:feces	colon	212.1 days	Stool
+1-C2	41.01_28.1 (Source)	41.01 (Source)	colon	UBERON:feces	colon	196	Stool
+1-C3	89.01_59.5 (Source)	89.01 (Source)	colon	UBERON:feces	colon	220.5 days	Stool
+1-C4	107.02_33.1 (Source)	107.02 (Source)	colon	UBERON:feces	colon	214.9 days	Stool
+1-C5	107.02_56.2 (Source)	107.02 (Source)	colon	UBERON:feces	colon	238 days	Stool
+1-C6	126.01_52 (Source)	126.01 (Source)	colon	UBERON:feces	colon	226.8	Stool
+1-C7	159.01_46.5 (Source)	159.01 (Source)	colon	UBERON:feces	colon	214.2 days	Stool
+1-D2	41.01_32.3 (Source)	41.01 (Source)	colon	UBERON:feces	colon	200.2	Stool
+1-D3	91.02_66.9 (Source)	91.02 (Source)	colon	UBERON:feces	colon	228.2	Stool
+1-D4	107.02_34.5 (Source)	107.02 (Source)	colon	UBERON:feces	colon	216.3 days	Stool
+1-D5	107.02_57.9 (Source)	107.02 (Source)	colon	UBERON:feces	colon	240.1 days	Stool
+1-D6	126.01_57 (Source)	126.01 (Source)	colon	UBERON:feces	colon	231.7	Stool
+1-D7	167.01_18.9 (Source)	167.01 (Source)	colon	UBERON:feces	colon	200.9	Stool
+1-D8	190.01_8.3 (Source)	190.01 (Source)	colon	UBERON:feces	colon	225.4 days	Stool
+1-E1	40.01_21.2 (Source)	40.01 (Source)	colon	UBERON:feces	colon	189	Stool
+1-E2	55.01_11.3 (Source)	55.01 (Source)	colon	UBERON:feces	colon	179.2	Stool
+1-E4	107.02_37 (Source)	107.02 (Source)	colon	UBERON:feces	colon	219.1	Stool
+1-E5	107.02_64.5 (Source)	107.02 (Source)	colon	UBERON:feces	colon	246.4 days	Stool
+1-E6--7-E7	145.01_20.9 (Source)	145.01 (Source)	colon	UBERON:feces	colon	217 days	Stool
+1-E8	190.01_10 (Source)	190.01 (Source)	colon	UBERON:feces	colon	226.8 days	Stool
+1-F1	40.01_23.4 (Source)	40.01 (Source)	colon	UBERON:feces	colon	191.1	Stool
+1-F2	55.01_12.9 (Source)	55.01 (Source)	colon	UBERON:feces	colon	180.6	Stool
+1-F3	98.01_40.8 (Source)	98.01 (Source)	colon	UBERON:feces	colon	215.6	Stool
+1-F4	107.02_38.3 (Source)	107.02 (Source)	colon	UBERON:feces	colon	220.5 days	Stool
+1-F5--7-D3	111.01_31.9 (Source)	111.01 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+1-F6	145.01_32.9 (Source)	145.01 (Source)	colon	UBERON:feces	colon	228.9 days	Stool
+1-G1	40.01_30 (Source)	40.01 (Source)	colon	UBERON:feces	colon	198.1	Stool
+1-G2	55.01_34.4 (Source)	55.01 (Source)	colon	UBERON:feces	colon	202.3	Stool
+1-G3	107.01_31.5 (Source)	107.01 (Source)	colon	UBERON:feces	colon	213.5	Stool
+1-G4	107.02_38.8 (Source)	107.02 (Source)	colon	UBERON:feces	colon	220.5 days	Stool
+1-G5	120.01_16.3 (Source)	120.01 (Source)	colon	UBERON:feces	colon	205.1 days	Stool
+1-G6	151.01_20.9 (Source)	151.01 (Source)	colon	UBERON:feces	colon	189 days	Stool
+1-G7	184.01_33.5 (Source)	184.01 (Source)	colon	UBERON:feces	colon	243.6 days	Stool
+1-G8--8-A8	205.01_36.1 (Source)	205.01 (Source)	colon	UBERON:feces	colon	218.4 days	Stool
+1-H1	40.01_35.1 (Source)	40.01 (Source)	colon	UBERON:feces	colon	203	Stool
+1-H2	58.01_43.5 (Source)	58.01 (Source)	colon	UBERON:feces	colon	218.4 days	Stool
+1-H3	107.02_24.2 (Source)	107.02 (Source)	colon	UBERON:feces	colon	206.5 days	Stool
+1-H4	107.02_41.7 (Source)	107.02 (Source)	colon	UBERON:feces	colon	224 days	Stool
+1-H5	120.01_24.1 (Source)	120.01 (Source)	colon	UBERON:feces	colon	212.8 days	Stool
+1-H7	184.01_41.6 (Source)	184.01 (Source)	colon	UBERON:feces	colon	251.3 days	Stool
+1-H8	209.01_71.8 (Source)	209.01 (Source)	colon	UBERON:feces	colon	247.1 days	Stool
+2-A1	209.01_74.4 (Source)	209.01 (Source)	colon	UBERON:feces	colon	249.2 days	Stool
+2-A2	286.02_25.8 (Source)	286.02 (Source)	colon	UBERON:feces	colon	214.9 days	Stool
+2-A3	303.01_40.5 (Source)	303.01 (Source)	colon	UBERON:feces	colon	222.6 days	Stool
+2-A5	107.02_29.5 (Source)	107.02 (Source)	colon	UBERON:feces	colon	211.4 days	Stool
+2-A6	190.01_6.1 (Source)	190.01 (Source)	colon	UBERON:feces	colon	223.3	Stool
+2-A7	286.02_35.8 (Source)	286.02 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+2-A8	303.01_36.1 (Source)	303.01 (Source)	colon	UBERON:feces	colon	218.4 days	Stool
+2-B1	219.01_23 (Source)	219.01 (Source)	colon	UBERON:feces	colon	233.1	Stool
+2-B2	286.02_29.5 (Source)	286.02 (Source)	colon	UBERON:feces	colon	218.4 days	Stool
+2-B3	303.01_47.5 (Source)	303.01 (Source)	colon	UBERON:feces	colon	229.6 days	Stool
+2-B4	40.01_40 (Source)	40.01 (Source)	colon	UBERON:feces	colon	207.9	Stool
+2-B5	107.02_32 (Source)	107.02 (Source)	colon	UBERON:feces	colon	214.2 days	Stool
+2-B6	190.01_12.1 (Source)	190.01 (Source)	colon	UBERON:feces	colon	228.9 days	Stool
+2-B7	286.02_54.7 (Source)	286.02 (Source)	colon	UBERON:feces	colon	243.6 days	Stool
+2-B8	303.01_37.7 (Source)	303.01 (Source)	colon	UBERON:feces	colon	219.8 days	Stool
+2-C1	278.01_11.2 (Source)	278.01 (Source)	colon	UBERON:feces	colon	200.2 days	Stool
+2-C2	286.02_35.7 (Source)	286.02 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+2-C3	309.01_28.9 (Source)	309.01 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+2-C4	55.01_31.1 (Source)	55.01 (Source)	colon	UBERON:feces	colon	198.8	Stool
+2-C5	145.01_36.6 (Source)	145.01 (Source)	colon	UBERON:feces	colon	232.4 days	Stool
+2-C6	190.01_21.5 (Source)	190.01 (Source)	colon	UBERON:feces	colon	238.7 days	Stool
+2-C7	286.02_57.8 (Source)	286.02 (Source)	colon	UBERON:feces	colon	247.1 days	Stool
+2-C8	309.01_31.1 (Source)	309.01 (Source)	colon	UBERON:feces	colon	226.8 days	Stool
+2-D1	286.02_17 (Source)	286.02 (Source)	colon	UBERON:feces	colon	205.8 days	Stool
+2-D2	286.02_43.6 (Source)	286.02 (Source)	colon	UBERON:feces	colon	232.4 days	Stool
+2-D4	88.01_43.8 (Source)	88.01 (Source)	colon	UBERON:feces	colon	240.1	Stool
+2-D6	219.01_18.4 (Source)	219.01 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+2-D8	312.01_31.7 (Source)	312.01 (Source)	colon	UBERON:feces	colon	220.5 days	Stool
+2-E1	286.02_18.1 (Source)	286.02 (Source)	colon	UBERON:feces	colon	207.2 days	Stool
+2-E2	303.01_24.3 (Source)	303.01 (Source)	colon	UBERON:feces	colon	206.5 days	Stool
+2-E4	89.01_63.2 (Source)	89.01 (Source)	colon	UBERON:feces	colon	224 days	Stool
+2-E5	161.01_17.7 (Source)	161.01 (Source)	colon	UBERON:feces	colon	192.5	Stool
+2-E7	303.01_18.2 (Source)	303.01 (Source)	colon	UBERON:feces	colon	200.2 days	Stool
+2-F1	286.02_19.9 (Source)	286.02 (Source)	colon	UBERON:feces	colon	208.6 days	Stool
+2-F2	303.01_27.5 (Source)	303.01 (Source)	colon	UBERON:feces	colon	209.3 days	Stool
+2-F3	338.01_29.6 (Source)	338.01 (Source)	colon	UBERON:feces	colon	197.4 days	Stool
+2-F4	91.02_69.5 (Source)	91.02 (Source)	colon	UBERON:feces	colon	230.3 days	Stool
+2-F5	161.01_20.5 (Source)	161.01 (Source)	colon	UBERON:feces	colon	195.3 days	Stool
+2-F6	244.01_10.5 (Source)	244.01 (Source)	colon	UBERON:feces	colon	213.5 days	Stool
+2-F7	303.01_23.7 (Source)	303.01 (Source)	colon	UBERON:feces	colon	205.8 days	Stool
+2-G1	286.02_21.2 (Source)	286.02 (Source)	colon	UBERON:feces	colon	210 days	Stool
+2-G2	303.01_29.4 (Source)	303.01 (Source)	colon	UBERON:feces	colon	211.4 days	Stool
+2-G3	345.02_33.5 (Source)	345.02 (Source)	colon	UBERON:feces	colon	236.6 days	Stool
+2-G4	107.01_34.9 (Source)	107.01 (Source)	colon	UBERON:feces	colon	217 days	Stool
+2-G5	167.01_22.8 (Source)	167.01 (Source)	colon	UBERON:feces	colon	205.1 days	Stool
+2-G6	278.01_7 (Source)	278.01 (Source)	colon	UBERON:feces	colon	196 days	Stool
+2-G7	303.01_30.3 (Source)	303.01 (Source)	colon	UBERON:feces	colon	212.1 days	Stool
+2-G8	338.01_31.7 (Source)	338.01 (Source)	colon	UBERON:feces	colon	199.5	Stool
+2-H1	286.02_24.8 (Source)	286.02 (Source)	colon	UBERON:feces	colon	213.5 days	Stool
+2-H2	303.01_38.6 (Source)	303.01 (Source)	colon	UBERON:feces	colon	220.5 days	Stool
+2-H4	107.01_42.1 (Source)	107.01 (Source)	colon	UBERON:feces	colon	224 days	Stool
+2-H6	278.01_9 (Source)	278.01 (Source)	colon	UBERON:feces	colon	198.1 days	Stool
+2-H7	303.01_32.3 (Source)	303.01 (Source)	colon	UBERON:feces	colon	214.2 days	Stool
+3-A1	37.02_32.5 (Source)	37.02 (Source)	colon	UBERON:feces	colon	235.2	Stool
+3-A2	37.02_27.6 (Source)	37.02 (Source)	colon	UBERON:feces	colon	230.3	Stool
+3-A3	56.01_29.2 (Source)	56.01 (Source)	colon	UBERON:feces	colon	218.4 days	Stool
+3-A4	56.01_33.2 (Source)	56.01 (Source)	colon	UBERON:feces	colon	221.9	Stool
+3-A5	56.01_35.1 (Source)	56.01 (Source)	colon	UBERON:feces	colon	224	Stool
+3-A6	76.03_27.5 (Source)	76.03 (Source)	colon	UBERON:feces	colon	244.3	Stool
+3-A7	144.02_14.5 (Source)	144.02 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+3-A8	144.02_16.2 (Source)	144.02 (Source)	colon	UBERON:feces	colon	226.1 days	Stool
+3-B1	48.01_23.3 (Source)	48.01 (Source)	colon	UBERON:feces	colon	212.1 days	Stool
+3-B2	48.01_25.4 (Source)	48.01 (Source)	colon	UBERON:feces	colon	214.2 days	Stool
+3-B3--7-B8	68.02_39.5 (Source)	68.02 (Source)	colon	UBERON:feces	colon	207.2 days	Stool
+3-B4	68.02_53.5 (Source)	68.02 (Source)	colon	UBERON:feces	colon	221.2	Stool
+3-B5	76.01_21.5 (Source)	76.01 (Source)	colon	UBERON:feces	colon	238.7 days	Stool
+3-B6	90.01_20.2 (Source)	90.01 (Source)	colon	UBERON:feces	colon	195.3	Stool
+3-B7	144.02_18.3 (Source)	144.02 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+3-B8	144.01_18.3 (Source)	144.01 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+3-C3	76.01_19.1 (Source)	76.01 (Source)	colon	UBERON:feces	colon	235.9	Stool
+3-C4	76.03_20.9 (Source)	76.03 (Source)	colon	UBERON:feces	colon	238	Stool
+3-C5	110.01_17 (Source)	110.01 (Source)	colon	UBERON:feces	colon	212.8 days	Stool
+3-C6	121.01_14.6 (Source)	121.01 (Source)	colon	UBERON:feces	colon	203.7 days	Stool
+3-C8	144.02_22.2 (Source)	144.02 (Source)	colon	UBERON:feces	colon	232.4 days	Stool
+3-D2	68.02_9.7 (Source)	68.02 (Source)	colon	UBERON:feces	colon	177.8	Stool
+3-D3	76.01_33.1 (Source)	76.01 (Source)	colon	UBERON:feces	colon	249.9	Stool
+3-D4	76.01_35.1 (Source)	76.01 (Source)	colon	UBERON:feces	colon	252	Stool
+3-D5	115.01_41.5 (Source)	115.01 (Source)	colon	UBERON:feces	colon	209.3 days	Stool
+3-D6	110.01_47.6 (Source)	110.01 (Source)	colon	UBERON:feces	colon	243.6	Stool
+3-D7	171.01_12.7 (Source)	171.01 (Source)	colon	UBERON:feces	colon	222.6 days	Stool
+3-D8	171.01_15 (Source)	171.01 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+3-E1	76.03_18.6 (Source)	76.03 (Source)	colon	UBERON:feces	colon	235.9 days	Stool
+3-E2	76.01_29.6 (Source)	76.01 (Source)	colon	UBERON:feces	colon	246.4	Stool
+3-E3	110.01_13.2 (Source)	110.01 (Source)	colon	UBERON:feces	colon	209.3	Stool
+3-E4	110.01_15.2 (Source)	110.01 (Source)	colon	UBERON:feces	colon	211.4 days	Stool
+3-E5	37.02_39.6 (Source)	37.02 (Source)	colon	UBERON:feces	colon	242.9	Stool
+3-E6	121.01_20.3 (Source)	121.01 (Source)	colon	UBERON:feces	colon	209.3 days	Stool
+3-E7	110.01_49.5 (Source)	110.01 (Source)	colon	UBERON:feces	colon	245.7	Stool
+3-E8	110.01_53.6 (Source)	110.01 (Source)	colon	UBERON:feces	colon	249.9 days	Stool
+3-F1	76.01_28.2 (Source)	76.01 (Source)	colon	UBERON:feces	colon	245 days	Stool
+3-F2	110.01_11.3 (Source)	110.01 (Source)	colon	UBERON:feces	colon	207.2 days	Stool
+3-F3	110.01_45.3 (Source)	110.01 (Source)	colon	UBERON:feces	colon	241.5	Stool
+3-F4	121.01_18.6 (Source)	121.01 (Source)	colon	UBERON:feces	colon	207.9 days	Stool
+3-F5	56.01_14.5 (Source)	56.01 (Source)	colon	UBERON:feces	colon	203.7	Stool
+3-F6	121.01_52.8 (Source)	121.01 (Source)	colon	UBERON:feces	colon	241.5 days	Stool
+3-F7	121.01_55.9 (Source)	121.01 (Source)	colon	UBERON:feces	colon	245 days	Stool
+3-F8	121.01_57.5 (Source)	121.01 (Source)	colon	UBERON:feces	colon	246.4 days	Stool
+3-G1	90.01_27.6 (Source)	90.01 (Source)	colon	UBERON:feces	colon	202.3 days	Stool
+3-G3	37.02_35.4 (Source)	37.02 (Source)	colon	UBERON:feces	colon	238.7	Stool
+3-G4	37.02_34.6 (Source)	37.02 (Source)	colon	UBERON:feces	colon	237.3	Stool
+3-G5	56.01_37.3 (Source)	56.01 (Source)	colon	UBERON:feces	colon	226.1	Stool
+3-G6	139.01_19.2 (Source)	139.01 (Source)	colon	UBERON:feces	colon	235.9 days	Stool
+3-G7	139.01_23.4 (Source)	139.01 (Source)	colon	UBERON:feces	colon	240.1 days	Stool
+3-G8	139.01_25.2 (Source)	139.01 (Source)	colon	UBERON:feces	colon	242.2 days	Stool
+3-H1	110.01_43.6 (Source)	110.01 (Source)	colon	UBERON:feces	colon	239.4	Stool
+3-H2	48.01_27 (Source)	48.01 (Source)	colon	UBERON:feces	colon	216.3	Stool
+3-H3	48.01_29.4 (Source)	48.01 (Source)	colon	UBERON:feces	colon	218.4	Stool
+3-H4	56.01_12.5 (Source)	56.01 (Source)	colon	UBERON:feces	colon	201.6	Stool
+4-A1	144.01_16.2 (Source)	144.01 (Source)	colon	UBERON:feces	colon	226.1 days	Stool
+4-A3	144.01_36.5 (Source)	144.01 (Source)	colon	UBERON:feces	colon	246.4 days	Stool
+4-A4	171.01_20.7 (Source)	171.01 (Source)	colon	UBERON:feces	colon	231 days	Stool
+4-A5	171.01_26.4 (Source)	171.01 (Source)	colon	UBERON:feces	colon	236.6	Stool
+4-A6	181.01_50.6 (Source)	181.01 (Source)	colon	UBERON:feces	colon	239.4 days	Stool
+4-A7	181.01_52.4 (Source)	181.01 (Source)	colon	UBERON:feces	colon	241.5 days	Stool
+4-A8	181.01_56.9 (Source)	181.01 (Source)	colon	UBERON:feces	colon	245.7 days	Stool
+4-B2	144.01_32.4 (Source)	144.01 (Source)	colon	UBERON:feces	colon	242.2 days	Stool
+4-B3	171.01_19 (Source)	171.01 (Source)	colon	UBERON:feces	colon	228.9 days	Stool
+4-B4	171.01_24.6 (Source)	171.01 (Source)	colon	UBERON:feces	colon	234.5 days	Stool
+4-B5	181.01_14.2 (Source)	181.01 (Source)	colon	UBERON:feces	colon	203 days	Stool
+4-B6	195.01_13 (Source)	195.01 (Source)	colon	UBERON:feces	colon	209.3 days	Stool
+4-B7	180.01_60.1 (Source)	180.01 (Source)	colon	UBERON:feces	colon	249.2 days	Stool
+4-C1	144.01_34.4 (Source)	144.01 (Source)	colon	UBERON:feces	colon	244.3 days	Stool
+4-C2	53.01_36.1 (Source)	53.01 (Source)	colon	UBERON:feces	colon	232.4	Stool
+4-C3	121.01_49.3 (Source)	121.01 (Source)	colon	UBERON:feces	colon	238 days	Stool
+4-C4	180.01_15.5 (Source)	180.01 (Source)	colon	UBERON:feces	colon	204.4	Stool
+4-C5	180.01_25.7 (Source)	180.01 (Source)	colon	UBERON:feces	colon	214.9 days	Stool
+4-C6	195.01_15.5 (Source)	195.01 (Source)	colon	UBERON:feces	colon	211.4 days	Stool
+4-C8	180.01_13.5 (Source)	180.01 (Source)	colon	UBERON:feces	colon	202.3 days	Stool
+4-D1	171.01_16.7 (Source)	171.01 (Source)	colon	UBERON:feces	colon	226.8 days	Stool
+4-D3	139.01_32 (Source)	139.01 (Source)	colon	UBERON:feces	colon	249.2 days	Stool
+4-D4	180.01_23.7 (Source)	180.01 (Source)	colon	UBERON:feces	colon	212.8 days	Stool
+4-D5	197.01_13.7 (Source)	197.01 (Source)	colon	UBERON:feces	colon	217 days	Stool
+4-D6	197.01_17.4 (Source)	197.01 (Source)	colon	UBERON:feces	colon	220.5 days	Stool
+4-D7	194.01_25.5 (Source)	194.01 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+4-D8	181.01_18.2 (Source)	181.01 (Source)	colon	UBERON:feces	colon	207.2 days	Stool
+4-E1	110.01_51.6 (Source)	110.01 (Source)	colon	UBERON:feces	colon	247.8 days	Stool
+4-E2	139.01_17.3 (Source)	139.01 (Source)	colon	UBERON:feces	colon	234.5	Stool
+4-E3	144.01_12.4 (Source)	144.01 (Source)	colon	UBERON:feces	colon	222.6	Stool
+4-E4	180.01_52.4 (Source)	180.01 (Source)	colon	UBERON:feces	colon	241.5 days	Stool
+4-E5	197.01_27.5 (Source)	197.01 (Source)	colon	UBERON:feces	colon	230.3 days	Stool
+4-E6	194.01_35.1 (Source)	194.01 (Source)	colon	UBERON:feces	colon	238 days	Stool
+4-E7	197.01_31.6 (Source)	197.01 (Source)	colon	UBERON:feces	colon	234.5 days	Stool
+4-E8	180.01_29.3 (Source)	180.01 (Source)	colon	UBERON:feces	colon	218.4 days	Stool
+4-F2	139.01_30.2 (Source)	139.01 (Source)	colon	UBERON:feces	colon	247.1	Stool
+4-F4	180.01_58.6 (Source)	180.01 (Source)	colon	UBERON:feces	colon	247.8 days	Stool
+4-F5	171.01_28.4 (Source)	171.01 (Source)	colon	UBERON:feces	colon	238.7 days	Stool
+4-F6	180.01_9.7 (Source)	180.01 (Source)	colon	UBERON:feces	colon	198.8 days	Stool
+4-F7	180.01_11.5 (Source)	180.01 (Source)	colon	UBERON:feces	colon	200.2 days	Stool
+4-F8	197.01_9.6 (Source)	197.01 (Source)	colon	UBERON:feces	colon	212.8 days	Stool
+4-G1	139.01_21.1 (Source)	139.01 (Source)	colon	UBERON:feces	colon	238 days	Stool
+4-G3	144.02_20.2 (Source)	144.02 (Source)	colon	UBERON:feces	colon	230.3 days	Stool
+4-G4	181.01_60.7 (Source)	181.01 (Source)	colon	UBERON:feces	colon	249.9 days	Stool
+4-G5	181.01_16.2 (Source)	181.01 (Source)	colon	UBERON:feces	colon	205.1 days	Stool
+4-G6	180.01_21.7 (Source)	180.01 (Source)	colon	UBERON:feces	colon	210.7 days	Stool
+4-G8	195.01_17.6 (Source)	195.01 (Source)	colon	UBERON:feces	colon	213.5 days	Stool
+4-H2	144.01_22.2 (Source)	144.01 (Source)	colon	UBERON:feces	colon	232.4 days	Stool
+4-H4	194.01_33.3 (Source)	194.01 (Source)	colon	UBERON:feces	colon	236.6 days	Stool
+4-H5	181.01_22.2 (Source)	181.01 (Source)	colon	UBERON:feces	colon	211.4 days	Stool
+4-H6	180.01_27.5 (Source)	180.01 (Source)	colon	UBERON:feces	colon	216.3 days	Stool
+4-H7	181.01_24.5 (Source)	181.01 (Source)	colon	UBERON:feces	colon	213.5 days	Stool
+5-A1	197.01_29.7 (Source)	197.01 (Source)	colon	UBERON:feces	colon	232.4 days	Stool
+5-A2	234.02_59.9 (Source)	234.02 (Source)	colon	UBERON:feces	colon	235.2 days	Stool
+5-A3	234.01_17 (Source)	234.01 (Source)	colon	UBERON:feces	colon	191.8	Stool
+5-A4	240.01_12.7 (Source)	240.01 (Source)	colon	UBERON:feces	colon	222.6 days	Stool
+5-A5	234.01_31.7 (Source)	234.01 (Source)	colon	UBERON:feces	colon	206.5 days	Stool
+5-A6	234.01_54.5 (Source)	234.01 (Source)	colon	UBERON:feces	colon	229.6 days	Stool
+5-A7	250.01_22.5 (Source)	250.01 (Source)	colon	UBERON:feces	colon	225.4 days	Stool
+5-B1	197.01_33.8 (Source)	197.01 (Source)	colon	UBERON:feces	colon	236.6 days	Stool
+5-B2	197.01_35.7 (Source)	197.01 (Source)	colon	UBERON:feces	colon	238.7 days	Stool
+5-B3	234.01_25.9 (Source)	234.01 (Source)	colon	UBERON:feces	colon	200.9 days	Stool
+5-B5	234.01_52.7 (Source)	234.01 (Source)	colon	UBERON:feces	colon	227.5	Stool
+5-B7	265.01_22.7 (Source)	265.01 (Source)	colon	UBERON:feces	colon	197.4	Stool
+5-C1	195.01_54.2 (Source)	195.01 (Source)	colon	UBERON:feces	colon	249.9 days	Stool
+5-C2	234.02_14.5 (Source)	234.02 (Source)	colon	UBERON:feces	colon	189.7 days	Stool
+5-C3	234.01_29.8 (Source)	234.01 (Source)	colon	UBERON:feces	colon	205.1 days	Stool
+5-C4	240.01_32.6 (Source)	240.01 (Source)	colon	UBERON:feces	colon	242.9 days	Stool
+5-C5	234.01_64.3 (Source)	234.01 (Source)	colon	UBERON:feces	colon	239.4 days	Stool
+5-C6	234.01_66.3 (Source)	234.01 (Source)	colon	UBERON:feces	colon	241.5 days	Stool
+5-C7	265.01_74.2 (Source)	265.01 (Source)	colon	UBERON:feces	colon	249.2 days	Stool
+5-C8	319.01_11.9 (Source)	319.01 (Source)	colon	UBERON:feces	colon	221.9 days	Stool
+5-D1	234.01_14.7 (Source)	234.01 (Source)	colon	UBERON:feces	colon	189.7 days	Stool
+5-D2	240.01_11.7 (Source)	240.01 (Source)	colon	UBERON:feces	colon	221.9 days	Stool
+5-D3	234.02_40.6 (Source)	234.02 (Source)	colon	UBERON:feces	colon	215.6 days	Stool
+5-D4	234.01_50.8 (Source)	234.01 (Source)	colon	UBERON:feces	colon	226.1 days	Stool
+5-D5	195.01_52.2 (Source)	195.01 (Source)	colon	UBERON:feces	colon	248.5	Stool
+5-D6	250.01_20.3 (Source)	250.01 (Source)	colon	UBERON:feces	colon	223.3 days	Stool
+5-D8	250.01_14.7 (Source)	250.01 (Source)	colon	UBERON:feces	colon	217.7 days	Stool
+5-E1	237.01_15.4 (Source)	237.01 (Source)	colon	UBERON:feces	colon	218.4 days	Stool
+5-E2	240.01_15.5 (Source)	240.01 (Source)	colon	UBERON:feces	colon	225.4 days	Stool
+5-E3	237.01_38.6 (Source)	237.01 (Source)	colon	UBERON:feces	colon	241.5 days	Stool
+5-E4	195.01_50.4 (Source)	195.01 (Source)	colon	UBERON:feces	colon	246.4 days	Stool
+5-E5	240.01_10.7 (Source)	240.01 (Source)	colon	UBERON:feces	colon	220.5 days	Stool
+5-E6	265.01_16.4 (Source)	265.01 (Source)	colon	UBERON:feces	colon	191.1 days	Stool
+5-E7	319.01_13.6 (Source)	319.01 (Source)	colon	UBERON:feces	colon	223.3 days	Stool
+5-E8	265.01_26.7 (Source)	265.01 (Source)	colon	UBERON:feces	colon	201.6 days	Stool
+5-F1	240.01_13.8 (Source)	240.01 (Source)	colon	UBERON:feces	colon	224 days	Stool
+5-F2	234.02_38.6 (Source)	234.02 (Source)	colon	UBERON:feces	colon	213.5 days	Stool
+5-F3	234.01_56.7 (Source)	234.01 (Source)	colon	UBERON:feces	colon	231.7 days	Stool
+5-F4	234.01_12.3 (Source)	234.01 (Source)	colon	UBERON:feces	colon	187.6	Stool
+5-F5	240.01_14.5 (Source)	240.01 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+5-F6	265.01_60.1 (Source)	265.01 (Source)	colon	UBERON:feces	colon	235.2 days	Stool
+5-F7	234.02_66.7 (Source)	234.02 (Source)	colon	UBERON:feces	colon	241.5 days	Stool
+5-F8	265.01_69 (Source)	265.01 (Source)	colon	UBERON:feces	colon	244.3 days	Stool
+5-G1	234.02_36.7 (Source)	234.02 (Source)	colon	UBERON:feces	colon	211.4 days	Stool
+5-G2	234.02_62.2 (Source)	234.02 (Source)	colon	UBERON:feces	colon	237.3 days	Stool
+5-G5	234.02_34.8 (Source)	234.02 (Source)	colon	UBERON:feces	colon	210 days	Stool
+5-G6	294.01_16.7 (Source)	294.01 (Source)	colon	UBERON:feces	colon	233.8	Stool
+5-G7	265.01_24.9 (Source)	265.01 (Source)	colon	UBERON:feces	colon	200.2 days	Stool
+5-G8	294.01_22.9 (Source)	294.01 (Source)	colon	UBERON:feces	colon	240.1 days	Stool
+5-H2	195.01_46.4 (Source)	195.01 (Source)	colon	UBERON:feces	colon	242.2 days	Stool
+5-H3	234.01_8.7 (Source)	234.01 (Source)	colon	UBERON:feces	colon	183.4	Stool
+5-H4	234.01_27.4 (Source)	234.01 (Source)	colon	UBERON:feces	colon	202.3 days	Stool
+5-H5	237.01_36.8 (Source)	237.01 (Source)	colon	UBERON:feces	colon	240.1 days	Stool
+5-H6	319.01_15.1 (Source)	319.01 (Source)	colon	UBERON:feces	colon	225.4 days	Stool
+5-H7	265.01_64.4 (Source)	265.01 (Source)	colon	UBERON:feces	colon	239.4 days	Stool
+5-H8	265.01_28.8 (Source)	265.01 (Source)	colon	UBERON:feces	colon	203.7 days	Stool
+6-A1	302.01_13.2 (Source)	302.01 (Source)	colon	UBERON:feces	colon	230.3 days	Stool
+6-A2	302.01_16.7 (Source)	302.01 (Source)	colon	UBERON:feces	colon	233.8 days	Stool
+6-A3	364.01_18 (Source)	364.01 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+6-A4	364.01_20.3 (Source)	364.01 (Source)	colon	UBERON:feces	colon	230.3 days	Stool
+6-A5	363.01_32.7 (Source)	363.01 (Source)	colon	UBERON:feces	colon	214.9 days	Stool
+6-A6	363.01_34.6 (Source)	363.01 (Source)	colon	UBERON:feces	colon	216.3 days	Stool
+6-A7	363.01_38.8 (Source)	363.01 (Source)	colon	UBERON:feces	colon	220.5 days	Stool
+6-A8	76.03_25.3 (Source)	76.03 (Source)	colon	UBERON:feces	colon	242.2	Stool
+6-B1	313.01_16.4 (Source)	313.01 (Source)	colon	UBERON:feces	colon	212.1 days	Stool
+6-B2	313.01_44.8 (Source)	313.01 (Source)	colon	UBERON:feces	colon	240.8	Stool
+6-B3	319.01_23.7 (Source)	319.01 (Source)	colon	UBERON:feces	colon	233.8 days	Stool
+6-B4	319.01_25.9 (Source)	319.01 (Source)	colon	UBERON:feces	colon	235.9 days	Stool
+6-B5	319.01_27.9 (Source)	319.01 (Source)	colon	UBERON:feces	colon	238 days	Stool
+6-B6	313.01_50.3 (Source)	313.01 (Source)	colon	UBERON:feces	colon	246.4 days	Stool
+6-B7	341.01_15.6 (Source)	341.01 (Source)	colon	UBERON:feces	colon	204.4 days	Stool
+6-B8	234.02_17 (Source)	234.02 (Source)	colon	UBERON:feces	colon	191.8 days	Stool
+6-C1	313.01_42.5 (Source)	313.01 (Source)	colon	UBERON:feces	colon	238.7 days	Stool
+6-C2	313.01_46.7 (Source)	313.01 (Source)	colon	UBERON:feces	colon	242.9 days	Stool
+6-C3	338.01_8.8 (Source)	338.01 (Source)	colon	UBERON:feces	colon	177.1 days	Stool
+6-C5	336.01_17.1 (Source)	336.01 (Source)	colon	UBERON:feces	colon	177.8 days	Stool
+6-C8	76.03_29.4 (Source)	76.03 (Source)	colon	UBERON:feces	colon	246.4 days	Stool
+6-D1	250.01_18.3 (Source)	250.01 (Source)	colon	UBERON:feces	colon	221.2 days	Stool
+6-D2	341.01_19.4 (Source)	341.01 (Source)	colon	UBERON:feces	colon	208.6 days	Stool
+6-D3	341.01_21.8 (Source)	341.01 (Source)	colon	UBERON:feces	colon	210.7 days	Stool
+6-D4	341.01_39.1 (Source)	341.01 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+6-D5	341.01_41.2 (Source)	341.01 (Source)	colon	UBERON:feces	colon	230.3 days	Stool
+6-D6	341.01_43.5 (Source)	341.01 (Source)	colon	UBERON:feces	colon	232.4 days	Stool
+6-E1	265.01_20.7 (Source)	265.01 (Source)	colon	UBERON:feces	colon	196 days	Stool
+6-E2	345.02_45.3 (Source)	345.02 (Source)	colon	UBERON:feces	colon	248.5 days	Stool
+6-E4	355.01_22 (Source)	355.01 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+6-E7	364.01_12.6 (Source)	364.01 (Source)	colon	UBERON:feces	colon	222.6 days	Stool
+6-F1	265.01_58.2 (Source)	265.01 (Source)	colon	UBERON:feces	colon	233.1 days	Stool
+6-F2	355.01_30 (Source)	355.01 (Source)	colon	UBERON:feces	colon	233.1 days	Stool
+6-F3	355.01_32.8 (Source)	355.01 (Source)	colon	UBERON:feces	colon	235.9 days	Stool
+6-F4	355.01_40.6 (Source)	355.01 (Source)	colon	UBERON:feces	colon	243.6 days	Stool
+6-F5	355.01_38.5 (Source)	355.01 (Source)	colon	UBERON:feces	colon	241.5 days	Stool
+6-F6	361.01_12.4 (Source)	361.01 (Source)	colon	UBERON:feces	colon	222.6 days	Stool
+6-F7	364.01_16.8 (Source)	364.01 (Source)	colon	UBERON:feces	colon	226.8 days	Stool
+6-G1	265.01_66.3 (Source)	265.01 (Source)	colon	UBERON:feces	colon	241.5 days	Stool
+6-G2	363.01_10.9 (Source)	363.01 (Source)	colon	UBERON:feces	colon	193.2	Stool
+6-G3	361.01_10.1 (Source)	361.01 (Source)	colon	UBERON:feces	colon	219.8 days	Stool
+6-G4	361.01_14.5 (Source)	361.01 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+6-G5	363.01_14.6 (Source)	363.01 (Source)	colon	UBERON:feces	colon	196.7 days	Stool
+6-G6	361.01_16.3 (Source)	361.01 (Source)	colon	UBERON:feces	colon	226.1 days	Stool
+6-G7	363.01_42.2 (Source)	363.01 (Source)	colon	UBERON:feces	colon	224 days	Stool
+6-G8	56.01_18.2 (Source)	56.01 (Source)	colon	UBERON:feces	colon	207.2	Stool
+6-H3	361.01_18 (Source)	361.01 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+6-H5	363.01_20.6 (Source)	363.01 (Source)	colon	UBERON:feces	colon	202.3 days	Stool
+6-H6	364.01_14.9 (Source)	364.01 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+6-H7	56.01_16.3 (Source)	56.01 (Source)	colon	UBERON:feces	colon	205.1 days	Stool
+6-H8	56.01_31.6 (Source)	56.01 (Source)	colon	UBERON:feces	colon	220.5	Stool
+7-A1	40.01_43.3 (Source)	40.01 (Source)	colon	UBERON:feces	colon	211.4	Stool
+7-A2	40.01_48.8 (Source)	40.01 (Source)	colon	UBERON:feces	colon	217	Stool
+7-A3	40.01_51.6 (Source)	40.01 (Source)	colon	UBERON:feces	colon	219.8	Stool
+7-A4	40.01_83.4 (Source)	40.01 (Source)	colon	UBERON:feces	colon	251.3	Stool
+7-A5	43.01_25 (Source)	43.01 (Source)	colon	UBERON:feces	colon	214.2	Stool
+7-A7	43.01_46.1 (Source)	43.01 (Source)	colon	UBERON:feces	colon	235.2 days	Stool
+7-A8	43.01_58.5 (Source)	43.01 (Source)	colon	UBERON:feces	colon	247.8	Stool
+7-B2	48.01_17.6 (Source)	48.01 (Source)	colon	UBERON:feces	colon	206.5	Stool
+7-B3	54.01_16.4 (Source)	54.01 (Source)	colon	UBERON:feces	colon	205.1	Stool
+7-B4	54.01_23.8 (Source)	54.01 (Source)	colon	UBERON:feces	colon	212.8	Stool
+7-B6	54.01_49.5 (Source)	54.01 (Source)	colon	UBERON:feces	colon	238.7 days	Stool
+7-B7	68.02_36.9 (Source)	68.02 (Source)	colon	UBERON:feces	colon	205.1 days	Stool
+7-C1	68.02_54 (Source)	68.02 (Source)	colon	UBERON:feces	colon	221.9 days	Stool
+7-C2	68.02_55.7 (Source)	68.02 (Source)	colon	UBERON:feces	colon	224 days	Stool
+7-C3	68.02_56.5 (Source)	68.02 (Source)	colon	UBERON:feces	colon	224.7	Stool
+7-C4	68.02_77 (Source)	68.02 (Source)	colon	UBERON:feces	colon	245	Stool
+7-C5	97.01_34.6 (Source)	97.01 (Source)	colon	UBERON:feces	colon	195.3 days	Stool
+7-C6	97.01_41.6 (Source)	97.01 (Source)	colon	UBERON:feces	colon	202.3 days	Stool
+7-C7	97.01_88.3 (Source)	97.01 (Source)	colon	UBERON:feces	colon	249.2	Stool
+7-C8	98.01_33.5 (Source)	98.01 (Source)	colon	UBERON:feces	colon	208.6	Stool
+7-D1	98.01_42.5 (Source)	98.01 (Source)	colon	UBERON:feces	colon	217.7	Stool
+7-D2	98.01_71.3 (Source)	98.01 (Source)	colon	UBERON:feces	colon	246.4 days	Stool
+7-D4	111.01_35.3 (Source)	111.01 (Source)	colon	UBERON:feces	colon	231	Stool
+7-D5	122.01_25.5 (Source)	122.01 (Source)	colon	UBERON:feces	colon	228.2 days	Stool
+7-D7	122.01_39.5 (Source)	122.01 (Source)	colon	UBERON:feces	colon	242.2 days	Stool
+7-D8	122.01_42.6 (Source)	122.01 (Source)	colon	UBERON:feces	colon	245.7 days	Stool
+7-E1	122.01_49.6 (Source)	122.01 (Source)	colon	UBERON:feces	colon	252.7	Stool
+7-E8	145.01_34.9 (Source)	145.01 (Source)	colon	UBERON:feces	colon	231 days	Stool
+7-F1	145.01_53.9 (Source)	145.01 (Source)	colon	UBERON:feces	colon	249.9 days	Stool
+7-F2	145.01_54.9 (Source)	145.01 (Source)	colon	UBERON:feces	colon	250.6	Stool
+7-F3	151.01_42.8 (Source)	151.01 (Source)	colon	UBERON:feces	colon	210.7	Stool
+7-F4	151.01_55.9 (Source)	151.01 (Source)	colon	UBERON:feces	colon	224 days	Stool
+7-F5	151.01_57.3 (Source)	151.01 (Source)	colon	UBERON:feces	colon	225.4 days	Stool
+7-F7	175.01_23.4 (Source)	175.01 (Source)	colon	UBERON:feces	colon	191.1 days	Stool
+7-F8	175.01_34.7 (Source)	175.01 (Source)	colon	UBERON:feces	colon	203 days	Stool
+7-G1	175.01_35.8 (Source)	175.01 (Source)	colon	UBERON:feces	colon	203.7 days	Stool
+7-G2	175.01_37 (Source)	175.01 (Source)	colon	UBERON:feces	colon	205.1 days	Stool
+7-G3	175.01_79.6 (Source)	175.01 (Source)	colon	UBERON:feces	colon	247.8 days	Stool
+7-G4	175.01_82.2 (Source)	175.01 (Source)	colon	UBERON:feces	colon	249.9 days	Stool
+7-H3	189.01_30 (Source)	189.01 (Source)	colon	UBERON:feces	colon	205.1 days	Stool
+7-H4	189.01_39.9 (Source)	189.01 (Source)	colon	UBERON:feces	colon	214.9 days	Stool
+7-H5	189.01_41.6 (Source)	189.01 (Source)	colon	UBERON:feces	colon	216.3 days	Stool
+7-H6	189.01_42.7 (Source)	189.01 (Source)	colon	UBERON:feces	colon	217.7 days	Stool
+7-H8	198.01_22 (Source)	198.01 (Source)	colon	UBERON:feces	colon	189.7	Stool
+8-A1	198.01_29 (Source)	198.01 (Source)	colon	UBERON:feces	colon	196.7	Stool
+8-A2	198.01_29.9 (Source)	198.01 (Source)	colon	UBERON:feces	colon	198.1 days	Stool
+8-A3	198.01_38 (Source)	198.01 (Source)	colon	UBERON:feces	colon	205.8 days	Stool
+8-A6	198.01_77.4 (Source)	198.01 (Source)	colon	UBERON:feces	colon	245.7 days	Stool
+8-A7	205.01_31 (Source)	205.01 (Source)	colon	UBERON:feces	colon	212.8 days	Stool
+8-B1	205.01_39 (Source)	205.01 (Source)	colon	UBERON:feces	colon	221.2 days	Stool
+8-B2	205.01_39.7 (Source)	205.01 (Source)	colon	UBERON:feces	colon	221.9 days	Stool
+8-B3	205.01_66.1 (Source)	205.01 (Source)	colon	UBERON:feces	colon	247.8 days	Stool
+8-B4	220.01_17.7 (Source)	220.01 (Source)	colon	UBERON:feces	colon	178.5	Stool
+8-B5	220.01_27.7 (Source)	220.01 (Source)	colon	UBERON:feces	colon	189 days	Stool
+8-B8	220.01_84.8 (Source)	220.01 (Source)	colon	UBERON:feces	colon	245.7 days	Stool
+8-C1	234.01_35.3 (Source)	234.01 (Source)	colon	UBERON:feces	colon	210 days	Stool
+8-C3	234.01_56.7 (Source)	234.01 (Source)	colon	UBERON:feces	colon	231.7 days	Stool
+8-C5	234.02_42.6 (Source)	234.02 (Source)	colon	UBERON:feces	colon	217.7 days	Stool
+8-C7	267.01_16.3 (Source)	267.01 (Source)	colon	UBERON:feces	colon	177.1	Stool
+8-D1	267.01_25.7 (Source)	267.01 (Source)	colon	UBERON:feces	colon	186.9	Stool
+8-D2	271.01_27.9 (Source)	271.01 (Source)	colon	UBERON:feces	colon	189 days	Stool
+8-D3	271.01_32.9 (Source)	271.01 (Source)	colon	UBERON:feces	colon	193.9 days	Stool
+8-D4	271.01_157.7 (Source)	271.01 (Source)	colon	UBERON:feces	colon	318.5	Stool
+8-D7	295.01_53.7 (Source)	295.01 (Source)	colon	UBERON:feces	colon	242.9 days	Stool
+8-D8	295.01_64.1 (Source)	295.01 (Source)	colon	UBERON:feces	colon	253.4	Stool
+8-E3	321.01_9.8 (Source)	321.01 (Source)	colon	UBERON:feces	colon	170.8	Stool
+8-E4	321.01_18.8 (Source)	321.01 (Source)	colon	UBERON:feces	colon	179.9	Stool
+8-E6	338.01_29 (Source)	338.01 (Source)	colon	UBERON:feces	colon	196.7 days	Stool
+8-E7	338.01_32.6 (Source)	338.01 (Source)	colon	UBERON:feces	colon	200.9 days	Stool
+8-E8	340.01_10.8 (Source)	340.01 (Source)	colon	UBERON:feces	colon	185.5	Stool
+8-F1	340.01_18.9 (Source)	340.01 (Source)	colon	UBERON:feces	colon	193.9 days	Stool
+8-F2	340.01_19.2 (Source)	340.01 (Source)	colon	UBERON:feces	colon	193.9 days	Stool
+8-F5	343.01_42.8 (Source)	343.01 (Source)	colon	UBERON:feces	colon	217.7 days	Stool
+8-F7	343.01_49.8 (Source)	343.01 (Source)	colon	UBERON:feces	colon	224.7 days	Stool
+8-G1	370.01_48.9 (Source)	370.01 (Source)	colon	UBERON:feces	colon	217 days	Stool
+8-G2	370.01_49.9 (Source)	370.01 (Source)	colon	UBERON:feces	colon	217.7 days	Stool
+8-G3	370.01_60.9 (Source)	370.01 (Source)	colon	UBERON:feces	colon	228.9 days	Stool
+8-G4	370.01_62.3 (Source)	370.01 (Source)	colon	UBERON:feces	colon	230.3 days	Stool
+8-G6	383.01_21.7 (Source)	383.01 (Source)	colon	UBERON:feces	colon	203.7 days	Stool
+8-G7	383.01_27 (Source)	383.01 (Source)	colon	UBERON:feces	colon	209.3 days	Stool
