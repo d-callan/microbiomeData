@@ -1,5 +1,6 @@
 <!-- badges: start -->
   [![R-CMD-check](https://github.com/microbiomeDB/microbiomeData/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/microbiomeDB/microbiomeData/actions/workflows/R-CMD-check.yaml)
+  [![](https://dcbadge.limes.pink/api/server/DEjNbxgq?style=flat)](https://discord.gg/DEjNbxgq)
   <!-- badges: end -->
 
 
