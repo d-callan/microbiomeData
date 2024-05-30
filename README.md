@@ -7,6 +7,8 @@
 # microbiomeData
 An R package containing all of the curated datasets from MicrobiomeDB.org and a helper function to list which datasets are available.
 
+If you have questions or comments of any kind, join us on our [Discord Community Server](https://discord.gg/DEjNbxgq)! We'd love to hear from you.
+
 ## Installation
 
 Use the R package [remotes](https://cran.r-project.org/web/packages/remotes/index.html) to install microbiomeData. From the R command prompt:
