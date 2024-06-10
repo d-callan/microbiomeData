@@ -1,27 +1,14 @@
 iri	label	type	parentlabel	category	definition	min	max	average	median	upper_quartile	lower_quartile	number_distinct_values	distinct_values	variable	replaces
-EUPATH_0010981	Demographics		Participant	participant repeated measure											
-EUPATH_0000649	Anthropometry		Participant	participant repeated measure											
-EUPATH_0011732	Diet		Participant	participant repeated measure	overall, what the main source of nutrition for the child?									["EMP_10249_ECAM.txt::diet_3","DailyBaby.txt::child_diet","FARMM_metagenomics.txt::diet"]	
-OGMS_0000015	Clinical history		Participant	participant repeated measure											
-IAO_0000414	Weight	number	Anthropometry	participant repeated measure		3.22	12.29	7.35692210857592	7.3	8.5025	6.1	678		["BONUS.txt::Host weight (kg)"]	EUPATH_0000732
-EUPATH_0009241	Low weight	string	Anthropometry	participant repeated measure	Information whether individual was classified as of low weight							4	["N","No","Y","Yes"]	["BONUS.txt::Is low weight"]	
-EUPATH_0009261	Low length	string	Anthropometry	participant repeated measure	Information whether individual was classified as of low length							4	["N","No","Y","Yes"]	["BONUS.txt::Is low length"]	
-EUPATH_0011918	Recumbent length	number	Anthropometry	participant repeated measure		52.05	80.4	65.8868214004721	65.5	70.25	61.65	405		["BONUS.txt::Body length (cm)"]	
-FOODON_03412974	Liquids for consumption		Diet	participant repeated measure	A chemical food component in liquid form.										
-EUPATH_0009244	Table food	string	Diet	participant repeated measure								4	["N","No","Y","Yes"]	["BONUS.txt::Table food in diet"]	
-EUPATH_0000580	Antibiotic exposure	string	Clinical history	participant repeated measure	was the host exposed to antibiotics?							4	["N","No","Y","Yes"]	["BONUS.txt::antibiotic_exposure"]	
-HP_0001738	Pancreatic insufficiency	string	Clinical history	participant repeated measure								4	["N","No","Y","Yes"]	["BONUS.txt::Pancreatic insufficiency"]	
-OBI_0001169	Age	integer	Demographics	participant repeated measure	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	1	25	7.46911649726349	6	10	4	12		["BONUS.txt::age_at_collection_months"]	EUPATH_0000579
-FOODON_03303130	Infant formula	string	Liquids for consumption	participant repeated measure								4	["N","No","Y","Yes"]	["BONUS.txt::Formula in diet"]	
-EUPATH_0031068	Breast milk	string	Liquids for consumption	participant repeated measure								4	["N","No","Y","Yes"]	["BONUS.txt::Breastmilk in diet"]	
-EUPATH_0010981	Demographics		Participant	Participant											
-EUPATH_0000306	Participant genotype		Participant	Participant											
-OGMS_0000015	Clinical history		Participant	Participant											
-PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							2	["Female","Male"]	["BONUS.txt::sex"]	
-EUPATH_0000639	Study group	string	Participant	Participant	Describes treatment, infection status, etc.							2	["Control","Cystic fibrosis"]	["BONUS.txt::cohort"]	
-EUPATH_0009091	CFTR mutation (F508del)	string	Participant genotype	Participant	Whether the patient was homozygous or heterozygous for mutations at the cystic fibrosis transmembrane conductance regulator (CFTR) gene, or whether they had other mutations relevant to cystic fibrosis.							3	["Heterozygous F508del","Homozygous F508del","No F508del"]	["BONUS.txt::F508del-CFTR genotype"]	
-EUPATH_0009262	Received acid blocker	string	Clinical history	Participant								4	["N","No","Y","Yes"]	["BONUS.txt::Received acid blocker"]	
-EUPATH_0009263	Received proton pump inhibitor	string	Clinical history	Participant								4	["N","No","Y","Yes"]	["BONUS.txt::Received protein pump inhibitor"]	
+EUPATH_0000587	Environment information		Community	Sample	An information content entity about environmental material, environmental feature, environmental system, etc.										
+EUPATH_0011996	Sample details		Sample	Sample											
+OBI_0000070	Laboratory test		Sample	Sample											OGMS_0000056
+ENVO_01000739	Habitat	string	Environment information	Sample	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["BONUS.txt::env_feature"]	ENVO_00002297
+OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["BONUS.txt::sample_type"]	
+UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							1	["Colon"]	["BONUS.txt::body_site"]	
+UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							1	["Feces"]	["BONUS.txt::body_product"]	
+UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							1	["Colon"]	["BONUS.txt::body_habitat"]	
+EUPATH_0009245	Fecal fat	number	Laboratory test	Sample		0	100	48.4607711864407	50	71.43	26.97	102		["BONUS.txt::Fecal fat percentage"]	
+NCIT_C105971	Calprotectin	number	Laboratory test	Sample		15.4	2925	183.538910969793	114.4	218.4	53.4	989		["BONUS.txt::Calprotectin"]	
 EUPATH_0009247	4th level EC metagenome abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of genes annotated at the finest (4th level) EC classification.										
 EUPATH_0009248	Metagenome enzyme pathway abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of a pathway defined by EC classifications.										
 EUPATH_0009249	Metagenome enzyme pathway coverage data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for gene coverage in a pathway defined by EC classifications.										
@@ -4638,13 +4625,26 @@ EUPATH_0009269_Ascomycota_be5aa9f0896aa6de	Saccharomyces cerevisiae	number	Norma
 EUPATH_0009269_Basidiomycota_07ac02f840072c4c	Malassezia restricta	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	0.000493	0.003963	0.00195323529412	0.001845	0.0026475	0.001262	51			
 EUPATH_0009269_Ascomycota_10bf6a32284cbf49	Hanseniaspora uvarum	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	0.002145	0.003209	0.002677	0.002677	0.003209	0.002145	2	["0.002145","0.003209"]		
 EUPATH_0009269_Basidiomycota_5055af737be50211	Rhodotorula sp. JG-1b	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	0.003205	0.003205	0.003205	0.003205			1	["0.003205"]		
-EUPATH_0000587	Environment information		Community	Sample	An information content entity about environmental material, environmental feature, environmental system, etc.										
-EUPATH_0011996	Sample details		Sample	Sample											
-OBI_0000070	Laboratory test		Sample	Sample											OGMS_0000056
-ENVO_01000739	Habitat	string	Environment information	Sample	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["BONUS.txt::env_feature"]	ENVO_00002297
-OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["BONUS.txt::sample_type"]	
-UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							2	["colon","Colon"]	["BONUS.txt::body_site"]	
-UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							2	["Feces","UBERON:feces"]	["BONUS.txt::body_product"]	
-UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							2	["colon","Colon"]	["BONUS.txt::body_habitat"]	
-EUPATH_0009245	Fecal fat	number	Laboratory test	Sample		0	100	48.4607711864407	50	71.43	26.97	102		["BONUS.txt::Fecal fat percentage"]	
-NCIT_C105971	Calprotectin	number	Laboratory test	Sample		15.4	2925	183.538910969793	114.4	218.4	53.4	989		["BONUS.txt::Calprotectin"]	
+IAO_0000414	Weight	number	Anthropometry	participant repeated measure		3.22	12.29	7.35692210857592	7.3	8.5025	6.1	678		["BONUS.txt::Host weight (kg)"]	EUPATH_0000732
+EUPATH_0009241	Low weight	string	Anthropometry	participant repeated measure	Information whether individual was classified as of low weight							2	["No","Yes"]	["BONUS.txt::Is low weight"]	
+EUPATH_0009261	Low length	string	Anthropometry	participant repeated measure	Information whether individual was classified as of low length							2	["No","Yes"]	["BONUS.txt::Is low length"]	
+EUPATH_0011918	Recumbent length	number	Anthropometry	participant repeated measure		52.05	80.4	65.8868214004721	65.5	70.25	61.65	405		["BONUS.txt::Body length (cm)"]	
+EUPATH_0000580	Antibiotic exposure	string	Clinical history	participant repeated measure	was the host exposed to antibiotics?							2	["No","Yes"]	["BONUS.txt::antibiotic_exposure"]	
+HP_0001738	Pancreatic insufficiency	string	Clinical history	participant repeated measure								2	["No","Yes"]	["BONUS.txt::Pancreatic insufficiency"]	
+OBI_0001169	Age	integer	Demographics	participant repeated measure	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	1	25	7.46911649726349	6	10	4	12		["BONUS.txt::age_at_collection_months"]	EUPATH_0000579
+FOODON_03412974	Liquids for consumption		Diet	participant repeated measure	A chemical food component in liquid form.										
+EUPATH_0009244	Table food	string	Diet	participant repeated measure								2	["No","Yes"]	["BONUS.txt::Table food in diet"]	
+FOODON_03303130	Infant formula	string	Liquids for consumption	participant repeated measure								2	["No","Yes"]	["BONUS.txt::Formula in diet"]	
+EUPATH_0031068	Breast milk	string	Liquids for consumption	participant repeated measure								2	["No","Yes"]	["BONUS.txt::Breastmilk in diet"]	
+EUPATH_0010981	Demographics		Participant	participant repeated measure											
+EUPATH_0000649	Anthropometry		Participant	participant repeated measure											
+EUPATH_0011732	Diet		Participant	participant repeated measure	overall, what the main source of nutrition for the child?									["EMP_10249_ECAM.txt::diet_3","DailyBaby.txt::child_diet","FARMM_metagenomics.txt::diet"]	
+OGMS_0000015	Clinical history		Participant	participant repeated measure											
+EUPATH_0010981	Demographics		Participant	Participant											
+EUPATH_0000306	Participant genotype		Participant	Participant											
+OGMS_0000015	Clinical history		Participant	Participant											
+PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							2	["Female","Male"]	["BONUS.txt::sex"]	
+EUPATH_0000639	Study group	string	Participant	Participant	Describes treatment, infection status, etc.							2	["Control","Cystic fibrosis"]	["BONUS.txt::cohort"]	
+EUPATH_0009091	CFTR mutation (F508del)	string	Participant genotype	Participant	Whether the patient was homozygous or heterozygous for mutations at the cystic fibrosis transmembrane conductance regulator (CFTR) gene, or whether they had other mutations relevant to cystic fibrosis.							3	["Heterozygous F508del","Homozygous F508del","No F508del"]	["BONUS.txt::F508del-CFTR genotype"]	
+EUPATH_0009262	Received acid blocker	string	Clinical history	Participant								2	["No","Yes"]	["BONUS.txt::Received acid blocker"]	
+EUPATH_0009263	Received proton pump inhibitor	string	Clinical history	Participant								2	["No","Yes"]	["BONUS.txt::Received protein pump inhibitor"]	

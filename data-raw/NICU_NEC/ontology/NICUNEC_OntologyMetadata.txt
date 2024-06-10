@@ -1,51 +1,4 @@
 iri	label	type	parentlabel	category	definition	min	max	average	median	upper_quartile	lower_quartile	number_distinct_values	distinct_values	variable	replaces
-EUPATH_0042001	Labor and delivery		Obstetrics	Participant											
-ENVO_00000009	Country	string	Geographic location	Participant								1	["United States of America"]	["NICUNEC.txt::country"]	ENVO_00000004
-GAZ_00000448	Geographic location		Community	Participant											
-EUPATH_0010981	Demographics		Participant	Participant											
-EUPATH_0042002	Obstetrics		Participant	Participant											
-EUPATH_0000310	Observation details		Participant	Participant											
-EUPATH_0009185	Plurality		Participant	Participant											
-EUPATH_0036493	Maternal clinical history		Participant	Participant											
-OGMS_0000015	Clinical history		Participant	Participant											
-EUPATH_0000649	Anthropometry		Participant	Participant											
-EUPATH_0011732	Diet		Participant	Participant	overall, what the main source of nutrition for the child?									["EMP_10249_ECAM.txt::diet_3","DailyBaby.txt::child_diet","FARMM_metagenomics.txt::diet"]	
-EUPATH_0000639	Study group	string	Participant	Participant	Describes treatment, infection status, etc.							5	["NIH1","NIH2","NIH4","NIH5","Sloan2"]	["NICUNEC.txt::Study cohort"]	
-EUPATH_0009209	Season of birth	string	Participant	Participant								8	["Autumn","autumn","Spring","spring","summer","Summer","winter","Winter"]	["NICUNEC.txt::season_of_birth"]	
-EUPATH_0009211	Survived	string	Participant	Participant	whether the baby has survived the NICU							2	["No","Yes"]	["NICUNEC.txt::survived"]	
-EUPATH_0009212	Age at study	integer	Participant	Participant	date of birth relative to the beginning of study	1	1491	866.54	901.5	1269	493	108		["NICUNEC.txt::birth_study_day"]	
-EUPATH_0009215	Sibling set ID	string	Participant	Participant		1	37	18.6056338028169	19	27	9.5	38	["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","NA"]	["NICUNEC.txt::sibling_set_id"]	
-EUPATH_0009095	Gestational age at birth	integer	Observation details	Participant		24	32	28.52	29	30	27	9	["24","25","26","27","28","29","30","31","32"]	["NICUNEC.txt::gestational_age"]	
-IAO_0000414	Weight	integer	Anthropometry	Participant		523	2240	1174.18	1150.5	1393	908	139		["NICUNEC.txt::birth_weight"]	EUPATH_0000732
-EUPATH_0009216	Stunted at birth	string	Anthropometry	Participant	whether the individual was born stunted (LAZ less than -2)							2	["No","Yes"]	["NICUNEC.txt::Intrauterine Growth Restriction (IUGR)"]	EuPathDB_0009032
-EUPATH_0050531	Contents of diet	string	Diet	Participant	type of diet depending on the host, for animals omnivore, herbivore etc., for humans high-fat, meditteranean etc.; can include multiple diet types							6	["breast milk","Breast milk","formula","Formula","Formula and breast milk","formula and breast milk"]	["NICUNEC.txt::diet"]	EUPATH_0000590
-EUPATH_0009210	Sepsis diagnosed	string	Diagnosis history	Participant	whether the baby was diagnosed with sepsis							2	["No","Yes"]	["NICUNEC.txt::Sepsis"]	
-EUPATH_0009171	Maternal health		Maternal clinical history	Participant											
-EUPATH_0009159	Maternal antibiotics administered within 24 h before birth		Maternal clinical history	Participant											
-EUPATH_0000581	Delivery mode	string	Labor and delivery	Participant	Method of delivery (newborn)							2	["Cesarean","Vaginal"]	["NICUNEC.txt::baby_delivery_mode"]	
-EUPATH_0009191	Maternal antepartum antibiotics administered	string	Maternal antibiotics administered within 24 h before birth	Participant								2	["No","Yes"]	["NICUNEC.txt::maternal_antepartum_antibiotics"]	
-EUPATH_0009192	Maternal antepartum antibiotics administered time	string	Maternal antibiotics administered within 24 h before birth	Participant								6	["12-24 hours prior to delivery","Less than 12 hours prior to delivery","less than 12 hours prior to delivery","More than 24 hours prior to delivery","more than 24 hours prior to delivery","NA"]	["NICUNEC.txt::maternal_antepartum_antibiotics_timing_prior_to_delivery"]	
-EUPATH_0009172	Group B Streptococcus infection	string	Maternal health	Participant								2	["No","Yes"]	["NICUNEC.txt::mother_group_b_streptococcus"]	
-EUPATH_0009175	Chorioamnionitis	string	Maternal health	Participant								2	["No","Yes"]	["NICUNEC.txt::chorioamnionitis"]	
-EUPATH_0009177	Necrotizing enterocolitis	string	Maternal health	Participant								2	["No","Yes"]	["NICUNEC.txt::Nectrotizing Enterocolitis (NEC)"]	
-EUPATH_0009186	Birth plurality	string	Plurality	Participant								6	["double","Double","single","Single","triple","Triple"]	["NICUNEC.txt::birth_plurality"]	
-EUPATH_0009187	Amnionicity	string	Plurality	Participant								7	["Diamniotic","diamniotic","monoamniotic","Monoamniotic","NA","Triamniotic","triamniotic"]	["NICUNEC.txt::amnionicity"]	
-EUPATH_0009188	Chorionicity	string	Plurality	Participant								7	["Dichorionic","dichorionic","monochorionic","Monochorionic","NA","trichorionic","Trichorionic"]	["NICUNEC.txt::chorionicity"]	
-EUPATH_0009189	Twin type	string	Plurality	Participant								5	["Fraternal","fraternal","Identical","identical","NA"]	["NICUNEC.txt::fraternal_or_identical_twins"]	
-EUPATH_0022067	Diagnosis history		Clinical history	Participant											
-PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							2	["Female","Male"]	["NICUNEC.txt::sex"]	
-EUPATH_0000587	Environment information		Community	Sample	An information content entity about environmental material, environmental feature, environmental system, etc.										
-UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							2	["colon","Colon"]	["NICUNEC.txt::body_site"]	
-UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							2	["Feces","UBERON:feces"]	["NICUNEC.txt::body_product"]	
-UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							2	["colon","Colon"]	["NICUNEC.txt::body_habitat"]	
-OGMS_0000090	Treatment		Participant	Sample	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder									["Ciara_V4.txt::Treatment"]	
-OBI_0000070	Laboratory test		Sample	Sample											OGMS_0000056
-EUPATH_0011996	Sample details		Sample	Sample											
-EUPATH_0057604	Any sample microbiology test		Laboratory test	Sample											
-EUPATH_0057606	Bacteria in any sample		Any sample microbiology test	Sample											EUPATH_0009104
-ARO_3004306	Methicillin resistant Staphylococcus aureus	string	Bacteria in any sample	Sample	Any strain of Staphylococcus aureus that has tested resistant (R) to at least one of methicillin, oxacillin or cefoxitin by standard susceptibility testing methods.							2	["No","Yes"]	["NICUNEC.txt::Methicillin-resistant Staphylococcus aureus (MRSA) screen"]	
-ENVO_01000739	Habitat	string	Environment information	Sample	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["NICUNEC.txt::env_feature"]	ENVO_00002297
-OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["NICUNEC.txt::sample_type"]	
 EUPATH_0009194	Acyclovir	string	Antibiotics administered prior sample collection	Sample								2	["No","Yes"]	["NICUNEC.txt::sample_acyclovir"]	
 EUPATH_0009195	Amoxicillin	string	Antibiotics administered prior sample collection	Sample								2	["No","Yes"]	["NICUNEC.txt::sample_amoxicillin"]	
 EUPATH_0009196	Ampicillin	string	Antibiotics administered prior sample collection	Sample								2	["No","Yes"]	["NICUNEC.txt::sample_ampicillin"]	
@@ -61,13 +14,60 @@ EUPATH_0009205	Nystatin	string	Antibiotics administered prior sample collection	
 EUPATH_0009206	Ofloxacin	string	Antibiotics administered prior sample collection	Sample								2	["No","Yes"]	["NICUNEC.txt::sample_ofloxacin"]	
 EUPATH_0009207	Vancomycin	string	Antibiotics administered prior sample collection	Sample								2	["No","Yes"]	["NICUNEC.txt::sample_vancomycin"]	
 EUPATH_0009208	Zosyn	string	Antibiotics administered prior sample collection	Sample								2	["No","Yes"]	["NICUNEC.txt::sample_zosyn"]	
+EUPATH_0057606	Bacteria in any sample		Any sample microbiology test	Sample											EUPATH_0009104
+EUPATH_0057604	Any sample microbiology test		Laboratory test	Sample											
+ARO_3004306	Methicillin resistant Staphylococcus aureus	string	Bacteria in any sample	Sample	Any strain of Staphylococcus aureus that has tested resistant (R) to at least one of methicillin, oxacillin or cefoxitin by standard susceptibility testing methods.							2	["No","Yes"]	["NICUNEC.txt::Methicillin-resistant Staphylococcus aureus (MRSA) screen"]	
+OBI_0000070	Laboratory test		Sample	Sample											OGMS_0000056
+EUPATH_0011996	Sample details		Sample	Sample											
+OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["NICUNEC.txt::sample_type"]	
 OBI_0003057	Antibiotic administration		Treatment	Sample	Administering substance in vivo where an antibiotic substance is administered to a living organism.										EUPATH_0011880
 EUPATH_0009193	Antibiotics administered prior sample collection		Antibiotic administration	Sample											
+EUPATH_0000587	Environment information		Community	Sample	An information content entity about environmental material, environmental feature, environmental system, etc.										
+ENVO_01000739	Habitat	string	Environment information	Sample	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["NICUNEC.txt::env_feature"]	ENVO_00002297
+OGMS_0000090	Treatment		Participant	Sample	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder									["Ciara_V4.txt::Treatment"]	
+UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							1	["Colon"]	["NICUNEC.txt::body_site"]	
+UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							1	["Colon"]	["NICUNEC.txt::body_habitat"]	
+UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							1	["Feces"]	["NICUNEC.txt::body_product"]	
 EUPATH_0010981	Demographics		Participant	participant repeated measure											
 EUPATH_0022067	Diagnosis history		Clinical history	participant repeated measure											
 OGMS_0000015	Clinical history		Participant	participant repeated measure											
 OBI_0001169	Age	integer	Demographics	participant repeated measure	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	0	121	21.4001823154057	18	26	10	79		["NICUNEC.txt::Age at sample collection (days)"]	EUPATH_0000579
-EUPATH_0009213	Days of period NEC diagnosed	string	Diagnosis history	participant repeated measure	number of days since NEC was diagnosed, until end of NEC was also diagnosed	-47	71	-5.2125603864734	-5	-1	-13	59	["-47","-42","-36","-32","-31","-30","-28","-26","-24","-23","-22","-21","-20","-19","-18","-17","-16","-15","-14","-13","-12","-11","-10","-9","-8","-7","-6","-5","-4","-3","-2","-1","0","1","2","3","4","6","7","9","10","12","13","14","15","17","19","20","23","24","26","27","30","33","48","55","63","71","NA"]	["NICUNEC.txt::day_of_NEC"]	
+EUPATH_0009213	Days of period NEC diagnosed	integer	Diagnosis history	participant repeated measure	number of days since NEC was diagnosed, until end of NEC was also diagnosed	-47	71	-5.2125603864734	-5	-1	-13	58		["NICUNEC.txt::day_of_NEC"]	
+IAO_0000414	Weight	integer	Anthropometry	Participant		523	2240	1174.18	1150.5	1393	908	139		["NICUNEC.txt::birth_weight"]	EUPATH_0000732
+EUPATH_0009216	Stunted at birth	string	Anthropometry	Participant	whether the individual was born stunted (LAZ less than -2)							2	["No","Yes"]	["NICUNEC.txt::Intrauterine Growth Restriction (IUGR)"]	EuPathDB_0009032
+EUPATH_0022067	Diagnosis history		Clinical history	Participant											
+ENVO_00000009	Country	string	Geographic location	Participant								1	["United States of America"]	["NICUNEC.txt::country"]	ENVO_00000004
+PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							2	["Female","Male"]	["NICUNEC.txt::sex"]	
+EUPATH_0009210	Sepsis diagnosed	string	Diagnosis history	Participant	whether the baby was diagnosed with sepsis							2	["No","Yes"]	["NICUNEC.txt::Sepsis"]	
+EUPATH_0050531	Contents of diet	string	Diet	Participant	type of diet depending on the host, for animals omnivore, herbivore etc., for humans high-fat, meditteranean etc.; can include multiple diet types							3	["Breast milk","Formula","Formula and breast milk"]	["NICUNEC.txt::diet"]	EUPATH_0000590
+EUPATH_0000581	Delivery mode	string	Labor and delivery	Participant	Method of delivery (newborn)							2	["Cesarean","Vaginal"]	["NICUNEC.txt::baby_delivery_mode"]	
+EUPATH_0009191	Maternal antepartum antibiotics administered	string	Maternal antibiotics administered within 24 h before birth	Participant								2	["No","Yes"]	["NICUNEC.txt::maternal_antepartum_antibiotics"]	
+EUPATH_0009192	Maternal antepartum antibiotics administered time	string	Maternal antibiotics administered within 24 h before birth	Participant								3	["12-24 hours prior to delivery","Less than 12 hours prior to delivery","More than 24 hours prior to delivery"]	["NICUNEC.txt::maternal_antepartum_antibiotics_timing_prior_to_delivery"]	
+EUPATH_0009171	Maternal health		Maternal clinical history	Participant											
+EUPATH_0009159	Maternal antibiotics administered within 24 h before birth		Maternal clinical history	Participant											
+EUPATH_0009172	Group B Streptococcus infection	string	Maternal health	Participant								2	["No","Yes"]	["NICUNEC.txt::mother_group_b_streptococcus"]	
+EUPATH_0009175	Chorioamnionitis	string	Maternal health	Participant								2	["No","Yes"]	["NICUNEC.txt::chorioamnionitis"]	
+EUPATH_0009177	Necrotizing enterocolitis	string	Maternal health	Participant								2	["No","Yes"]	["NICUNEC.txt::Nectrotizing Enterocolitis (NEC)"]	
+EUPATH_0009095	Gestational age at birth	integer	Observation details	Participant		24	32	28.52	29	30	27	9	["24","25","26","27","28","29","30","31","32"]	["NICUNEC.txt::gestational_age"]	
+EUPATH_0042001	Labor and delivery		Obstetrics	Participant											
+EUPATH_0009186	Birth plurality	string	Plurality	Participant								3	["Double","Single","Triple"]	["NICUNEC.txt::birth_plurality"]	
+EUPATH_0009187	Amnionicity	string	Plurality	Participant								3	["Diamniotic","Monoamniotic","Triamniotic"]	["NICUNEC.txt::amnionicity"]	
+EUPATH_0009188	Chorionicity	string	Plurality	Participant								3	["Dichorionic","Monochorionic","Trichorionic"]	["NICUNEC.txt::chorionicity"]	
+EUPATH_0009189	Twin type	string	Plurality	Participant								2	["Fraternal","Identical"]	["NICUNEC.txt::fraternal_or_identical_twins"]	
+GAZ_00000448	Geographic location		Community	Participant											
+EUPATH_0010981	Demographics		Participant	Participant											
+EUPATH_0042002	Obstetrics		Participant	Participant											
+EUPATH_0000310	Observation details		Participant	Participant											
+EUPATH_0009185	Plurality		Participant	Participant											
+EUPATH_0036493	Maternal clinical history		Participant	Participant											
+OGMS_0000015	Clinical history		Participant	Participant											
+EUPATH_0000649	Anthropometry		Participant	Participant											
+EUPATH_0011732	Diet		Participant	Participant	overall, what the main source of nutrition for the child?									["EMP_10249_ECAM.txt::diet_3","DailyBaby.txt::child_diet","FARMM_metagenomics.txt::diet"]	
+EUPATH_0000639	Study group	string	Participant	Participant	Describes treatment, infection status, etc.							5	["NIH1","NIH2","NIH4","NIH5","Sloan2"]	["NICUNEC.txt::Study cohort"]	
+EUPATH_0009209	Season of birth	string	Participant	Participant								4	["Autumn","Spring","Summer","Winter"]	["NICUNEC.txt::season_of_birth"]	
+EUPATH_0009211	Survived	string	Participant	Participant	whether the baby has survived the NICU							2	["No","Yes"]	["NICUNEC.txt::survived"]	
+EUPATH_0009212	Age at study	integer	Participant	Participant	date of birth relative to the beginning of study	1	1491	866.54	901.5	1269	493	108		["NICUNEC.txt::birth_study_day"]	
+EUPATH_0009215	Sibling set ID	string	Participant	Participant		1	37	18.6056338028169	19	27	9.5	38	["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","NA"]	["NICUNEC.txt::sibling_set_id"]	
 EUPATH_0009247	4th level EC metagenome abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of genes annotated at the finest (4th level) EC classification.										
 EUPATH_0009248	Metagenome enzyme pathway abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of a pathway defined by EC classifications.										
 EUPATH_0009249	Metagenome enzyme pathway coverage data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for gene coverage in a pathway defined by EC classifications.										

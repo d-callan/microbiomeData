@@ -1,77 +1,4 @@
 iri	label	type	parentlabel	category	definition	min	max	average	median	upper_quartile	lower_quartile	number_distinct_values	distinct_values	variable	replaces
-EUPATH_0000587	Environment information		Community	Sample	An information content entity about environmental material, environmental feature, environmental system, etc.										
-EUPATH_0011996	Sample details		Sample	Sample											
-ENVO_01000739	Habitat	string	Environment information	Sample	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["DiabImmune.txt::env_feature"]	ENVO_00002297
-OBI_0100051	Sample type	string	Sample details	Sample	Whetther the mother reported taking antibiotics during pregnancy.							1	["Stool"]	["DiabImmune.txt::sample_type"]	
-UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							2	["colon","Colon"]	["DiabImmune.txt::body_site"]	
-UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							2	["Feces","UBERON:feces"]	["DiabImmune.txt::body_product"]	
-UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							2	["colon","Colon"]	["DiabImmune.txt::body_habitat"]	
-EUPATH_0042001	Labor and delivery		Obstetrics	Participant											
-EUPATH_0042004	Pregnancy		Obstetrics	Participant											
-ENVO_00000009	Country	string	Geographic location	Participant								3	["Estonia","Finland","Russia"]	["DiabImmune.txt::country"]	ENVO_00000004
-EUPATH_0011928	Urban or rural site	string	Geographic location	Participant	Location of the household when the child was born, urban or rural							4	["Rural","rural","Urban","urban"]	["DiabImmune.txt::birth_location"]	
-GAZ_00000448	Geographic location		Community	Participant											
-EUPATH_0042002	Obstetrics		Participant	Participant											
-EUPATH_0000649	Anthropometry		Participant	Participant											
-EUPATH_0000639	Study group	string	Participant	Participant	Describes treatment, infection status, etc.							3	["Antibiotics cohort","Three country cohort (Karelia)","Type I Diabetes (T1D) cohort"]	["DiabImmune.txt::cohort"]	
-EUPATH_0011732	Diet		Participant	Participant	overall, what the main source of nutrition for the child?									["EMP_10249_ECAM.txt::diet_3","DailyBaby.txt::child_diet","FARMM_metagenomics.txt::diet"]	
-EUPATH_0036493	Maternal clinical history		Participant	Participant											
-EUPATH_0000678	Feeding		Participant	Participant											
-OGMS_0000015	Clinical history		Participant	Participant											
-EUPATH_0010981	Demographics		Participant	Participant											
-EUPATH_0000662	BMI-for-age z-score	number	Anthropometry	Participant	BMI-for-age z-score at the last measurement point	-2.29	3.38	0.37677939565217	0.445	0.89	-0.22	162		["DiabImmune.txt::zBMI_last"]	
-EUPATH_0011894	Height-for-age z-score	number	Anthropometry	Participant	Height-for-age z-score at the last measurement point	-2.52	2.87	0.24339130434783	0.15	0.85	-0.36	164		["DiabImmune.txt::haz_last"]	
-EUPATH_0037026	Age at anthropometry	integer	Anthropometry	Participant	Age when the last anthropometry measurements were taken. 	1016	1455	1124.79130434783	1108	1128	1094	109		["DiabImmune.txt::agedays_zBMI_last","DiabImmune.txt::agedays_haz_last","DiabImmune.txt::agedays_waz_last"]	
-EUPATH_0000733	Weight-for-age z-score	number	Anthropometry	Participant	Weight-for-age z-score at the last measurement point	-1.4	3.2	0.43043478260870	0.35	0.96	-0.18	147		["DiabImmune.txt::waz_last"]	
-EUPATH_0009049	Mean weight gain during 1st 3 years	number	Anthropometry	Participant	Average weight gain during first three years of life.	2.570195	5.785926	3.78182547004608	3.704766	4.060375	3.394159	216		["DiabImmune.txt::weight_growth_pace_during_three_years"]	
-EUPATH_0009050	Mean linear growth during 1st 3 years	number	Anthropometry	Participant	Average linear growth pace during first three years of life.	12.27646	18.58946	15.1980655299539	15.17755	15.9583	14.54895	214		["DiabImmune.txt::length_growth_pace_during_three_years"]	
-EUPATH_0009051	Weight gain during 1st year	number	Anthropometry	Participant	Weight gain during the first year of life.	4.318037	10.99345	6.40628964814815	6.334532	7.083558	5.568464	263		["DiabImmune.txt::weight_growth_pace_during_year_one"]	
-EUPATH_0009052	Linear growth during 1st year	number	Anthropometry	Participant	Linear growth during the first year of life.	15.44543	37.71667	25.2306183703704	25.326945	26.86806	23.41814	241		["DiabImmune.txt::length_growth_pace_during_year_one"]	
-EUPATH_0009038	Breastfed duration	integer	Breastfeeding	Participant	Length of breastfeeding in days, i.e. total days of breastfeeding until weaning	0	908	286.261261261261	301.5	380	153	185		["DiabImmune.txt::bf_length"]	
-EUPATH_0009039	Exclusive breastfed duration	integer	Breastfeeding	Participant	Length of exclusive breastfeeding, i.e. days until infant was introduced to solid food(s)	0	184	75.6666666666667	90	120	1	62		["DiabImmune.txt::bf_length_exclusive"]	
-EUPATH_0011033	Age 1st animal milk or solids given	number	Diet	Participant	Approximate age when the child first received solid food or non-human milk.	0.42	13	4.2992700729927	4	5	4	15		["DiabImmune.txt::compound_solid_start_approx"]	
-EUPATH_0009040	Diet in first three days	string	Diet	Participant	Milk feeding during the first three days of life: mother's breast milk, formula or something else (e.g. combination of beast milk and formula, or not reported)							6	["formula","Formula","Mother's breast milk","mother's breast milk","Multiple types or not reported","multiple types or not reported"]	["DiabImmune.txt::milk_first_three_days"]	
-EUPATH_0009057	Age 1st given apple	number	Diet	Participant		2	10	5.28007518796993	5	6	4.5	16		["DiabImmune.txt::compound_apple"]	
-EUPATH_0009058	Age 1st given banana	number	Diet	Participant		0.5	12	5.53162055335968	5.5	6	4.5	19		["DiabImmune.txt::compound_banana"]	
-EUPATH_0009059	Age 1st given barley	number	Diet	Participant		0.58	30	7.44065656565657	7	8	6	22		["DiabImmune.txt::compound_barley"]	
-EUPATH_0009060	Age 1st given beef	number	Diet	Participant		4	18	6.66535433070866	6.5	7	6	16		["DiabImmune.txt::compound_beef"]	
-EUPATH_0009062	Age 1st given berries	number	Diet	Participant		0.67	16	6.15511961722488	5.5	7	5	21		["DiabImmune.txt::compound_berries"]	
-EUPATH_0009063	Age 1st given cabbs	number	Diet	Participant		1.5	20	6.76635514018692	6	7	5	23		["DiabImmune.txt::compound_cabbs"]	
-EUPATH_0009064	Age 1st given carrot	number	Diet	Participant		2.5	12	5.000390625	5	5.5	4	15		["DiabImmune.txt::compound_carrot"]	
-EUPATH_0009065	Age 1st given corn	number	Diet	Participant		2.5	18	6.10436893203883	5.5	7	4.5	24		["DiabImmune.txt::compound_corn"]	
-EUPATH_0009066	Age 1st given cowsmilk	number	Diet	Participant		0.83	35	10.97915	11.25	12	10	24		["DiabImmune.txt::compound_cowsmilk"]	
-EUPATH_0009067	Age 1st given egg	number	Diet	Participant		0.67	32	9.40987124463519	9	11	7.5	26		["DiabImmune.txt::compound_egg"]	
-EUPATH_0009068	Age 1st given fish	number	Diet	Participant		4	16	8.2038961038961	8	10	6	23		["DiabImmune.txt::compound_fish"]	
-EUPATH_0009071	Age 1st given milk products	number	Diet	Participant		0.92	32	8.93285714285714	10	10	7	24		["DiabImmune.txt::compound_milkprod"]	
-EUPATH_0009072	Age 1st given oat	number	Diet	Participant		0.58	13	6.26501960784314	6	7	5	19		["DiabImmune.txt::compound_oat"]	
-EUPATH_0009073	Age 1st given pear	number	Diet	Participant		2	15	5.57692307692308	5	6	4.5	21		["DiabImmune.txt::compound_pear"]	
-EUPATH_0009074	Age 1st given peas	number	Diet	Participant		0.58	20	8.83165	8	10.75	7	26		["DiabImmune.txt::compound_peas"]	
-EUPATH_0009075	Age 1st given plum	number	Diet	Participant		3	15	5.65458333333333	5	6.5	4.5	19		["DiabImmune.txt::compound_plum"]	
-EUPATH_0009076	Age 1st given pork	number	Diet	Participant		3	22	6.9465811965812	6.5	7.5	6	21		["DiabImmune.txt::compound_pork"]	
-EUPATH_0009077	Age 1st given potato	number	Diet	Participant		3	10	4.94866920152091	5	6	4	12		["DiabImmune.txt::compound_potato"]	
-EUPATH_0009078	Age 1st given poultry	number	Diet	Participant		4	13	6.51209677419355	6	7	5.5	16		["DiabImmune.txt::compound_poultry"]	
-EUPATH_0009079	Age 1st given rice	number	Diet	Participant		0.5	12	6.03968253968254	6	7	5	18		["DiabImmune.txt::compound_rice"]	
-EUPATH_0009080	Age 1st given rye	number	Diet	Participant		0.58	16	7.49616438356164	7	8.25	6	22		["DiabImmune.txt::compound_rye"]	
-EUPATH_0009083	Age 1st given sweet potato	number	Diet	Participant		0.42	21	6.81234782608696	6	7.75	5	22		["DiabImmune.txt::compound_sweetpota"]	
-EUPATH_0009084	Age 1st given tomato	number	Diet	Participant		0.5	34	8.59008547008547	8	10	7	25		["DiabImmune.txt::compound_tomato"]	
-EUPATH_0009086	Age 1st given wheat	number	Diet	Participant		0.58	12.5	7.00756198347107	6.5	8	6	21		["DiabImmune.txt::compound_wheat"]	
-EUPATH_0009037	HLA risk, by HLA haplotyping	integer	Diagnosis history	Participant	HLA (human leukocyte antigen) risk class for T1D and autoimmunity determined by HLA haplotyping, value between 1-4, 1=slightly increase risk, 4=high risk.	2	4	2.71331058020478	3	3	2	3	["2","3","4"]	["DiabImmune.txt::HLA_risk_class"]	
-EUPATH_0009041	Age at two autoantibodies positive	integer	Diagnosis history	Participant	Age when two different autoantibodies were measured positive, i.e. Seroconversion	182	1366	737.6875	733	916	560	15		["DiabImmune.txt::age_second_pos"]	
-EUPATH_0009042	Age at type 1 diabetes diagnosis	integer	Diagnosis history	Participant	Age when the child was diagnosed type 1 diabetes	879	2340	1557.28571428571	1343	2108.5	1061	7	["879","959","1163","1343","2009","2208","2340"]	["DiabImmune.txt::age_at_t1d_onset"]	
-EUPATH_0009043	Type 1 diabetes diagnosed	string	Diagnosis history	Participant	Type 1 diabetes diagnosed, TRUE/FALSE							4	["FALSE","No","TRUE","Yes"]	["DiabImmune.txt::t1d_diagnosed"]	
-EUPATH_0009034	Maternal age at birth	string	Maternal clinical history	Participant	Maternal age at birth	0	42.53699	29.6890839792388	30.11233	33.04932	26.33151	293	["0","18.23836","19.30685","19.36438","20.03836","20.12329","20.25753","20.32329","20.7863","20.81096","20.82466","20.90137","21.16712","21.19452","21.27945","21.30959","21.40548","21.47671","21.71233","21.7589","21.96986","22.11781","22.19726","22.53699","22.55342","22.64384","22.69041","22.86301","22.90137","23.08219","23.09041","23.09315","23.31507","23.45479","23.54795","23.63288","23.71781","23.84932","24.10137","24.12055","24.30137","24.34521","24.43836","24.49315","24.70137","24.77534","24.77808","24.89041","24.93973","25.01918","25.06027","25.11781","25.36712","25.46027","25.52877","25.58082","25.62192","25.66575","25.67397","25.68493","25.74795","25.78082","25.79178","25.79178 years","25.79452","25.82192","25.89589","25.93699","26","26.00548","26.15616","26.22466","26.2411","26.33151","26.34247","26.38082","26.41918","26.45479","26.46575","26.6","26.75616","26.7863","26.79726","26.8137","26.82192","26.90411","26.9863","27.0411","27.10685","27.14521","27.1863","27.20274","27.22192","27.30411","27.35068","27.40274","27.40548","27.41096","27.49041","27.50411","27.73973","27.79726","27.8411","27.91781","27.93151","27.97808","27.99178","27.99726","28.01644","28.02466","28.10137","28.13151","28.16164","28.2","28.27397","28.27945","28.40548","28.50685","28.62192","28.65753","28.74247","28.90959","28.93973","29.03836","29.0411","29.06301","29.13973","29.19178","29.27397","29.30137","29.31507","29.5589","29.59178","29.61096","29.78904","29.79178","29.8411","29.84658","29.85479","29.87945","29.97534","29.98082","29.99726","30.05753","30.07945","30.11233","30.12329","30.16438","30.21644","30.22466","30.23288","30.30137","30.31233","30.33151","30.35342","30.3863","30.41644","30.41918","30.4274","30.45479","30.51781","30.55342","30.69589","30.70411","30.80274","30.85205","30.87397","30.96164","31.0274","31.03562","31.05753","31.12329","31.13425","31.14521","31.1863","31.22192","31.30959","31.33425","31.34795","31.42466","31.43562","31.47671","31.49315","31.49863","31.54247","31.62192","31.6411","31.69041","31.69863","31.69863 years","31.75068","31.87671","32.07397","32.17534","32.21644","32.22466","32.27397","32.32055","32.3589","32.4274","32.47397","32.56164","32.56164 years","32.57808","32.61918","32.65479","32.66301","32.66849","32.68219","32.71233","32.73151","32.74795","32.7589","32.83562","32.86849","32.91507","32.92603","33.03014","33.04384","33.04932","33.20548","33.29863","33.39178","33.42466","33.50685","33.51233","33.53425","33.5863","33.70959","33.80548","33.83562","33.84658","33.84932","33.86849","33.88493","34.02466","34.03836","34.22192","34.23014","34.24658","34.31781","34.34247","34.46301","34.56438","34.57808","34.65753","34.66575","34.75616","34.84932","34.96438","35.06849","35.23562","35.27397","35.27671","35.29589","35.4137","35.43288","35.53973","35.63288","35.68493","35.75342","35.7589","36.00822","36.05205","36.06849","36.23288","36.24932","36.38356","36.4411","36.49315","36.60822","36.78904","36.78904 years","37.05753","37.11233","37.23288","37.53151","37.72329","37.84658","38.09041","38.21096","38.21644","38.4","38.45205","38.52603","38.58082","38.92877","38.95068","39.09315","39.38082","39.8","40.87671","42.53699"]	["DiabImmune.txt::mom_age_at_birth"]	
-EUPATH_0000581	Delivery mode	string	Labor and delivery	Participant	Method of delivery (newborn)							2	["Cesarean","Vaginal"]	["DiabImmune.txt::csection"]	
-EUPATH_0009360	Gestational diabetes, by maternal report	string	Pregnancy	Participant	Mom reported gestational diabetes							4	["FALSE","No","TRUE","Yes"]	["DiabImmune.txt::gestational_diabetes"]	
-EUPATH_0009036	Antibiotics before delivery, by maternal report	string	Pregnancy	Participant	Whether the mother reported having gestational diabetes during pregnancy.							4	["FALSE","No","TRUE","Yes"]	["DiabImmune.txt::abx_while_pregnant"]	
-EUPATH_0011730	Breastfeeding		Feeding	Participant	Information on process that is about suckling behavior.										
-EUPATH_0022067	Diagnosis history		Clinical history	Participant											
-EUPATH_0009033	Diabetes-associated autoantibodies measurement		Clinical history	Participant											
-PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							4	["Female","female","male","Male"]	["DiabImmune.txt::gender"]	
-EUPATH_0009044	Insulin autoantibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for insulin autoantibodies (IAA)							4	["FALSE","No","TRUE","Yes"]	["DiabImmune.txt::IAA"]	
-EUPATH_0009045	Glutamic acid decarboxylase antibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for Glutamic acid decarboxylase antibodies (GADA)							4	["FALSE","No","TRUE","Yes"]	["DiabImmune.txt::GADA"]	
-EUPATH_0009046	Insulinoma-associated protein 2 autoantibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for insulinoma-associated protein 2 autoantibody (IA2A)							4	["FALSE","No","TRUE","Yes"]	["DiabImmune.txt::IA2A"]	
-EUPATH_0009047	Zinc transporter 8 autoantibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for Zinc transporter 8 autoantibody (ZnT8A)							4	["FALSE","No","TRUE","Yes"]	["DiabImmune.txt::ZNT8A"]	
-EUPATH_0009048	Islet cell autoantibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for Islet cell autoantibodies (ICA)							4	["FALSE","No","TRUE","Yes"]	["DiabImmune.txt::ICA"]	
 EUPATH_0009247	4th level EC metagenome abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of genes annotated at the finest (4th level) EC classification.										
 EUPATH_0009248	Metagenome enzyme pathway abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of a pathway defined by EC classifications.										
 EUPATH_0009249	Metagenome enzyme pathway coverage data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for gene coverage in a pathway defined by EC classifications.										
@@ -4639,6 +4566,13 @@ EUPATH_0009269_Ascomycota_e7930fa2ad84f5c0	Mycosphaerella populi	number	Normaliz
 EUPATH_0009269_Ascomycota_ff84463e7e8f2d58	Torulaspora delbrueckii	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	4.677328	4.677328	4.677328	4.677328			1	["4.677328"]		
 EUPATH_0010981	Demographics		Participant	participant repeated measure											
 OBI_0001169	Age	integer	Demographics	participant repeated measure	Age at stool sample collection.	0	38	15.5983606557377	15	22	8	39		["DiabImmune.txt::age_at_collection_months"]	EUPATH_0000579
+EUPATH_0000587	Environment information		Community	Sample	An information content entity about environmental material, environmental feature, environmental system, etc.										
+EUPATH_0011996	Sample details		Sample	Sample											
+ENVO_01000739	Habitat	string	Environment information	Sample	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["DiabImmune.txt::env_feature"]	ENVO_00002297
+OBI_0100051	Sample type	string	Sample details	Sample	Whetther the mother reported taking antibiotics during pregnancy.							1	["Stool"]	["DiabImmune.txt::sample_type"]	
+UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							1	["Colon"]	["DiabImmune.txt::body_site"]	
+UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							1	["Feces"]	["DiabImmune.txt::body_product"]	
+UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							1	["Colon"]	["DiabImmune.txt::body_habitat"]	
 EUPATH_0009251	Kingdom		Relative taxonomic abundance analysis	16S rRNA (V4) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of kingdom.										
 EUPATH_0009252	Phylum		Relative taxonomic abundance analysis	16S rRNA (V4) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of phylum.										
 EUPATH_0009253	Class		Relative taxonomic abundance analysis	16S rRNA (V4) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of class.										
@@ -8858,3 +8792,69 @@ EUPATH_0009357_Bacteria_e7f7a992eeae54d3	Pseudoramibacter alactolyticus	number	S
 EUPATH_0009357_Bacteria_ea18bb09de26772a	Parabacteroides distasonis	number	Species	16S rRNA (V4) assay	A data item that is the output of an absolute taxonomic abundance analysis for organisms grouped at the level of species.	9	12212	1327.64785553047	708	1610.5	323.5	409			
 EUPATH_0009357_Bacteria_feb788344d48e3e1	Oxalobacter formigenes	number	Species	16S rRNA (V4) assay	A data item that is the output of an absolute taxonomic abundance analysis for organisms grouped at the level of species.	6	39	17.4615384615385	14	20	9	10	["6.000000","9.000000","12.000000","14.000000","16.000000","19.000000","20.000000","26.000000","36.000000","39.000000"]		
 EUPATH_0009357_Bacteria_ff66f748ad5758ee	Alloprevotella rava	number	Species	16S rRNA (V4) assay	A data item that is the output of an absolute taxonomic abundance analysis for organisms grouped at the level of species.	3	8	5.5	5.5	8	3	2	["3.000000","8.000000"]		
+EUPATH_0037026	Age at anthropometry	integer	Anthropometry	Participant	Age when the last anthropometry measurements were taken. 	1016	1455	1124.79130434783	1108	1128	1094	109		["DiabImmune.txt::agedays_zBMI_last","DiabImmune.txt::agedays_haz_last","DiabImmune.txt::agedays_waz_last"]	
+EUPATH_0000662	BMI-for-age z-score	number	Anthropometry	Participant	BMI-for-age z-score at the last measurement point	-2.29	3.38	0.37677939565217	0.445	0.89	-0.22	162		["DiabImmune.txt::zBMI_last"]	
+EUPATH_0011894	Height-for-age z-score	number	Anthropometry	Participant	Height-for-age z-score at the last measurement point	-2.52	2.87	0.24339130434783	0.15	0.85	-0.36	164		["DiabImmune.txt::haz_last"]	
+EUPATH_0009052	Linear growth during 1st year	number	Anthropometry	Participant	Linear growth during the first year of life.	15.44543	37.71667	25.2306183703704	25.326945	26.86806	23.41814	241		["DiabImmune.txt::length_growth_pace_during_year_one"]	
+EUPATH_0009050	Mean linear growth during 1st 3 years	number	Anthropometry	Participant	Average linear growth pace during first three years of life.	12.27646	18.58946	15.1980655299539	15.17755	15.9583	14.54895	214		["DiabImmune.txt::length_growth_pace_during_three_years"]	
+EUPATH_0009049	Mean weight gain during 1st 3 years	number	Anthropometry	Participant	Average weight gain during first three years of life.	2.570195	5.785926	3.78182547004608	3.704766	4.060375	3.394159	216		["DiabImmune.txt::weight_growth_pace_during_three_years"]	
+EUPATH_0009051	Weight gain during 1st year	number	Anthropometry	Participant	Weight gain during the first year of life.	4.318037	10.99345	6.40628964814815	6.334532	7.083558	5.568464	263		["DiabImmune.txt::weight_growth_pace_during_year_one"]	
+EUPATH_0000733	Weight-for-age z-score	number	Anthropometry	Participant	Weight-for-age z-score at the last measurement point	-1.4	3.2	0.43043478260870	0.35	0.96	-0.18	147		["DiabImmune.txt::waz_last"]	
+EUPATH_0009033	Diabetes-associated autoantibodies measurement		Clinical history	Participant											
+EUPATH_0022067	Diagnosis history		Clinical history	Participant											
+EUPATH_0011928	Urban or rural site	string	Geographic location	Participant	Location of the household when the child was born, urban or rural							2	["Rural","Urban"]	["DiabImmune.txt::birth_location"]	
+ENVO_00000009	Country	string	Geographic location	Participant								3	["Estonia","Finland","Russia"]	["DiabImmune.txt::country"]	ENVO_00000004
+PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							2	["Female","Male"]	["DiabImmune.txt::gender"]	
+EUPATH_0009045	Glutamic acid decarboxylase antibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for Glutamic acid decarboxylase antibodies (GADA)							2	["No","Yes"]	["DiabImmune.txt::GADA"]	
+EUPATH_0009044	Insulin autoantibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for insulin autoantibodies (IAA)							2	["No","Yes"]	["DiabImmune.txt::IAA"]	
+EUPATH_0009046	Insulinoma-associated protein 2 autoantibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for insulinoma-associated protein 2 autoantibody (IA2A)							2	["No","Yes"]	["DiabImmune.txt::IA2A"]	
+EUPATH_0009048	Islet cell autoantibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for Islet cell autoantibodies (ICA)							2	["No","Yes"]	["DiabImmune.txt::ICA"]	
+EUPATH_0009047	Zinc transporter 8 autoantibodies	string	Diabetes-associated autoantibodies measurement	Participant	Child has measured positive for Zinc transporter 8 autoantibody (ZnT8A)							2	["No","Yes"]	["DiabImmune.txt::ZNT8A"]	
+EUPATH_0009041	Age at two autoantibodies positive	integer	Diagnosis history	Participant	Age when two different autoantibodies were measured positive, i.e. Seroconversion	182	1366	737.6875	733	916	560	15		["DiabImmune.txt::age_second_pos"]	
+EUPATH_0009042	Age at type 1 diabetes diagnosis	integer	Diagnosis history	Participant	Age when the child was diagnosed type 1 diabetes	879	2340	1557.28571428571	1343	2108.5	1061	7	["879","959","1163","1343","2009","2208","2340"]	["DiabImmune.txt::age_at_t1d_onset"]	
+EUPATH_0009037	HLA risk, by HLA haplotyping	integer	Diagnosis history	Participant	HLA (human leukocyte antigen) risk class for T1D and autoimmunity determined by HLA haplotyping, value between 1-4, 1=slightly increase risk, 4=high risk.	2	4	2.71331058020478	3	3	2	3	["2","3","4"]	["DiabImmune.txt::HLA_risk_class"]	
+EUPATH_0009043	Type 1 diabetes diagnosed	string	Diagnosis history	Participant	Type 1 diabetes diagnosed, TRUE/FALSE							2	["No","Yes"]	["DiabImmune.txt::t1d_diagnosed"]	
+EUPATH_0011033	Age 1st animal milk or solids given	number	Diet	Participant	Approximate age when the child first received solid food or non-human milk.	0.42	13	4.2992700729927	4	5	4	15		["DiabImmune.txt::compound_solid_start_approx"]	
+EUPATH_0009057	Age 1st given apple	number	Diet	Participant		2	10	5.28007518796993	5	6	4.5	16		["DiabImmune.txt::compound_apple"]	
+EUPATH_0009058	Age 1st given banana	number	Diet	Participant		0.5	12	5.53162055335968	5.5	6	4.5	19		["DiabImmune.txt::compound_banana"]	
+EUPATH_0009059	Age 1st given barley	number	Diet	Participant		0.58	30	7.44065656565657	7	8	6	22		["DiabImmune.txt::compound_barley"]	
+EUPATH_0009060	Age 1st given beef	number	Diet	Participant		4	18	6.66535433070866	6.5	7	6	16		["DiabImmune.txt::compound_beef"]	
+EUPATH_0009062	Age 1st given berries	number	Diet	Participant		0.67	16	6.15511961722488	5.5	7	5	21		["DiabImmune.txt::compound_berries"]	
+EUPATH_0009063	Age 1st given cabbs	number	Diet	Participant		1.5	20	6.76635514018692	6	7	5	23		["DiabImmune.txt::compound_cabbs"]	
+EUPATH_0009064	Age 1st given carrot	number	Diet	Participant		2.5	12	5.000390625	5	5.5	4	15		["DiabImmune.txt::compound_carrot"]	
+EUPATH_0009065	Age 1st given corn	number	Diet	Participant		2.5	18	6.10436893203883	5.5	7	4.5	24		["DiabImmune.txt::compound_corn"]	
+EUPATH_0009066	Age 1st given cowsmilk	number	Diet	Participant		0.83	35	10.97915	11.25	12	10	24		["DiabImmune.txt::compound_cowsmilk"]	
+EUPATH_0009067	Age 1st given egg	number	Diet	Participant		0.67	32	9.40987124463519	9	11	7.5	26		["DiabImmune.txt::compound_egg"]	
+EUPATH_0009068	Age 1st given fish	number	Diet	Participant		4	16	8.2038961038961	8	10	6	23		["DiabImmune.txt::compound_fish"]	
+EUPATH_0009071	Age 1st given milk products	number	Diet	Participant		0.92	32	8.93285714285714	10	10	7	24		["DiabImmune.txt::compound_milkprod"]	
+EUPATH_0009072	Age 1st given oat	number	Diet	Participant		0.58	13	6.26501960784314	6	7	5	19		["DiabImmune.txt::compound_oat"]	
+EUPATH_0009073	Age 1st given pear	number	Diet	Participant		2	15	5.57692307692308	5	6	4.5	21		["DiabImmune.txt::compound_pear"]	
+EUPATH_0009074	Age 1st given peas	number	Diet	Participant		0.58	20	8.83165	8	10.75	7	26		["DiabImmune.txt::compound_peas"]	
+EUPATH_0009075	Age 1st given plum	number	Diet	Participant		3	15	5.65458333333333	5	6.5	4.5	19		["DiabImmune.txt::compound_plum"]	
+EUPATH_0009076	Age 1st given pork	number	Diet	Participant		3	22	6.9465811965812	6.5	7.5	6	21		["DiabImmune.txt::compound_pork"]	
+EUPATH_0009077	Age 1st given potato	number	Diet	Participant		3	10	4.94866920152091	5	6	4	12		["DiabImmune.txt::compound_potato"]	
+EUPATH_0009078	Age 1st given poultry	number	Diet	Participant		4	13	6.51209677419355	6	7	5.5	16		["DiabImmune.txt::compound_poultry"]	
+EUPATH_0009079	Age 1st given rice	number	Diet	Participant		0.5	12	6.03968253968254	6	7	5	18		["DiabImmune.txt::compound_rice"]	
+EUPATH_0009080	Age 1st given rye	number	Diet	Participant		0.58	16	7.49616438356164	7	8.25	6	22		["DiabImmune.txt::compound_rye"]	
+EUPATH_0009083	Age 1st given sweet potato	number	Diet	Participant		0.42	21	6.81234782608696	6	7.75	5	22		["DiabImmune.txt::compound_sweetpota"]	
+EUPATH_0009084	Age 1st given tomato	number	Diet	Participant		0.5	34	8.59008547008547	8	10	7	25		["DiabImmune.txt::compound_tomato"]	
+EUPATH_0009086	Age 1st given wheat	number	Diet	Participant		0.58	12.5	7.00756198347107	6.5	8	6	21		["DiabImmune.txt::compound_wheat"]	
+EUPATH_0009040	Diet in first three days	string	Diet	Participant	Milk feeding during the first three days of life: mother's breast milk, formula or something else (e.g. combination of beast milk and formula, or not reported)							3	["Formula","Mother's breast milk","Multiple types or not reported"]	["DiabImmune.txt::milk_first_three_days"]	
+EUPATH_0011730	Breastfeeding		Feeding	Participant	Information on process that is about suckling behavior.										
+EUPATH_0000581	Delivery mode	string	Labor and delivery	Participant	Method of delivery (newborn)							2	["Cesarean","Vaginal"]	["DiabImmune.txt::csection"]	
+EUPATH_0009034	Maternal age at birth	number	Maternal clinical history	Participant	Maternal age at birth	0	42.53699	29.716676996587	30.12329	33.04932	26.33151	289		["DiabImmune.txt::mom_age_at_birth"]	
+EUPATH_0042001	Labor and delivery		Obstetrics	Participant											
+EUPATH_0042004	Pregnancy		Obstetrics	Participant											
+EUPATH_0009036	Antibiotics before delivery, by maternal report	string	Pregnancy	Participant	Whether the mother reported having gestational diabetes during pregnancy.							2	["No","Yes"]	["DiabImmune.txt::abx_while_pregnant"]	
+EUPATH_0009360	Gestational diabetes, by maternal report	string	Pregnancy	Participant	Mom reported gestational diabetes							2	["No","Yes"]	["DiabImmune.txt::gestational_diabetes"]	
+GAZ_00000448	Geographic location		Community	Participant											
+EUPATH_0009038	Breastfed duration	integer	Breastfeeding	Participant	Length of breastfeeding in days, i.e. total days of breastfeeding until weaning	0	908	286.261261261261	301.5	380	153	185		["DiabImmune.txt::bf_length"]	
+EUPATH_0009039	Exclusive breastfed duration	integer	Breastfeeding	Participant	Length of exclusive breastfeeding, i.e. days until infant was introduced to solid food(s)	0	184	75.6666666666667	90	120	1	62		["DiabImmune.txt::bf_length_exclusive"]	
+EUPATH_0000649	Anthropometry		Participant	Participant											
+OGMS_0000015	Clinical history		Participant	Participant											
+EUPATH_0010981	Demographics		Participant	Participant											
+EUPATH_0011732	Diet		Participant	Participant	overall, what the main source of nutrition for the child?									["EMP_10249_ECAM.txt::diet_3","DailyBaby.txt::child_diet","FARMM_metagenomics.txt::diet"]	
+EUPATH_0000678	Feeding		Participant	Participant											
+EUPATH_0036493	Maternal clinical history		Participant	Participant											
+EUPATH_0042002	Obstetrics		Participant	Participant											
+EUPATH_0000639	Study group	string	Participant	Participant	Describes treatment, infection status, etc.							3	["Antibiotics cohort","Three country cohort (Karelia)","Type I Diabetes (T1D) cohort"]	["DiabImmune.txt::cohort"]	

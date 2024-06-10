@@ -1,4 +1,19 @@
 iri	label	type	parentlabel	category	definition	min	max	average	median	upper_quartile	lower_quartile	number_distinct_values	distinct_values	variable	replaces
+EUPATH_0010981	Demographics		Participant	participant repeated measure											
+OGMS_0000015	Clinical history		Participant	participant repeated measure											
+OBI_0001169	Age	integer	Demographics	participant repeated measure	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	20	61	31.9082125603865	26	37	24	19		["FARMM_metagenomics.txt::host_age"]	EUPATH_0000579
+EUPATH_0009125	Antibiotic medication related to sample collection	string	Clinical history	participant repeated measure	Antibiotic treatments for which samples were collected directly before initiation and directly after termination of treatment.							3	["Pre antibiotics","Antibiotics Treatment","Post Antibiotics"]	["FARMM_metagenomics.txt::antibiotics"]	
+EUPATH_0000649	Anthropometry		Participant	Participant											
+GAZ_00000448	Geographic location		Community	Participant											
+EUPATH_0010035	Administrative information		Participant	Participant											
+ENVO_00000009	Country	string	Geographic location	Participant								1	["United States of America"]	["FARMM_metagenomics.txt::country"]	ENVO_00000004
+EUPATH_0010075	Height	number	Anthropometry	Participant		159.7	187.3	173.31	174.15	178	168	24		["FARMM_metagenomics.txt::host_height"]	
+IAO_0000414	Weight	number	Anthropometry	Participant		57.2	102.4	73.6266666666667	70.1	81.6	63.5	30		["FARMM_metagenomics.txt::Host weight (kg)"]	EUPATH_0000732
+CMO_0000105	BMI	number	Anthropometry	Participant	Body mass index (BMI)	19.7	35.4	24.61	22.9	27.1	21.3	27		["FARMM_metagenomics.txt::host_body_mass_index"]	
+ENVO_00000856	City, village, or region	string	Geographic location	Participant	The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512)  (http://purl.bioontology.org/ontology/GAZ)							1	["Philadelphia, PA"]	["FARMM_metagenomics.txt::City"]	EUPATH_0000452
+OBI_0003074	Subject common name	string	Participant	Participant	common name of the host, e.g. human							1	["Human"]	["FARMM_metagenomics.txt::host_common_name"]	EUPATH_0000512
+EUPATH_0010375	Case or control participant	string	Administrative information	Participant								2	["False","True"]	["FARMM_metagenomics.txt::case_control","GEMS.txt::case_control","CAMP.txt::case_control"]	
+EUPATH_0011732	Diet	string	Participant	Participant	overall, what the main source of nutrition for the child?							3	["EEN","Omnivore","Vegan"]	["FARMM_metagenomics.txt::diet"]	
 OBI_0000470	Mass spectrometry assay		Data analysis	Mass spectrometry assay											
 OBI_0000470_C56_2_TAG_NH4_C8_pos	C56:2 TAG +NH4:C8-pos: Metabolite	number	Mass spectrometry assay	Mass spectrometry assay		62495	3906395	461178.24	344334	577205	203123	150			
 OBI_0000470_taurocholate_C18_neg	taurocholate:C18-neg: Metabolite	number	Mass spectrometry assay	Mass spectrometry assay		983	1695880	96948.6533333333	44045	101893	22469	150			
@@ -489,22 +504,15 @@ OBI_0000470_C56_4_TAG_NH4_C8_pos	C56:4 TAG +NH4:C8-pos: Metabolite	number	Mass s
 OBI_0000470_guanine_HIL_pos	guanine:HIL-pos: Metabolite	number	Mass spectrometry assay	Mass spectrometry assay		9395	411092	43653.98	34123.5	47738	27395	150			
 OBI_0000470_C14_0_LPC_HIL_pos	C14:0 LPC:HIL-pos: Metabolite	number	Mass spectrometry assay	Mass spectrometry assay		65538	744212	269175.926666667	237234.5	350649	159419	150			
 OBI_0000470_C49_3_TAG_C8_pos	C49:3 TAG:C8-pos: Metabolite	number	Mass spectrometry assay	Mass spectrometry assay		21999	2310249	727951.833333333	552523	1173585	201620	150			
-EUPATH_0010981	Demographics		Participant	participant repeated measure											
-OGMS_0000015	Clinical history		Participant	participant repeated measure											
-OBI_0001169	Age	string	Demographics	participant repeated measure	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	20	61	36.0526315789474	32	45	24.5	39	["20","20 years","21","21 years","22","22 years","23","23 years","24","24 years","25","25 years","26","26 years","28","28 years","30","30 years","32","32 years","36","36 years","37","37 years","38","38 years","44","44 years","46","46 years","54","54 years","58","58 years","60","60 years","61","61 years","NA years"]	["FARMM_metagenomics.txt::host_age"]	EUPATH_0000579
-EUPATH_0009125	Antibiotic medication related to sample collection	string	Clinical history	participant repeated measure	Antibiotic treatments for which samples were collected directly before initiation and directly after termination of treatment.							5	["Pre antibiotics","Antibiotics Treatment","Post Antibiotics"]	["FARMM_metagenomics.txt::antibiotics"]	
-EUPATH_0000649	Anthropometry		Participant	Participant											
-EUPATH_0043212	Geolocation		Geographic location	Participant											
-GAZ_00000448	Geographic location		Community	Participant											
-EUPATH_0010035	Administrative information		Participant	Participant											
-ENVO_00000009	Country	string	Geographic location	Participant								2	["United States of America","USA"]	["FARMM_metagenomics.txt::country"]	ENVO_00000004
-EUPATH_0010075	Height	number	Anthropometry	Participant		159.7	187.3	173.31	174.15	178	168	24		["FARMM_metagenomics.txt::host_height"]	
-IAO_0000414	Weight	number	Anthropometry	Participant		57.2	102.4	73.6266666666667	70.1	81.6	63.5	30		["FARMM_metagenomics.txt::Host weight (kg)"]	EUPATH_0000732
-CMO_0000105	BMI	number	Anthropometry	Participant	Body mass index (BMI)	19.7	35.4	24.61	22.9	27.1	21.3	27		["FARMM_metagenomics.txt::host_body_mass_index"]	
-ENVO_00000856	City, village, or region	string	Geographic location	Participant	The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512)  (http://purl.bioontology.org/ontology/GAZ)							2	["\"Philadelphia,PA\"","Philadelphia, PA"]	["FARMM_metagenomics.txt::City"]	EUPATH_0000452
-OBI_0003074	Subject common name	string	Participant	Participant	common name of the host, e.g. human							1	["Human"]	["FARMM_metagenomics.txt::host_common_name"]	EUPATH_0000512
-EUPATH_0010375	Case or control participant	string	Administrative information	Participant								3	["FALSE","False","True"]	["FARMM_metagenomics.txt::case_control","GEMS.txt::case_control","CAMP.txt::case_control"]	
-EUPATH_0011732	Diet	string	Participant	Participant	overall, what the main source of nutrition for the child?							3	["EEN","Omnivore","Vegan"]	["FARMM_metagenomics.txt::diet"]	
+EUPATH_0000310	Observation details		Participant	Sample											
+EUPATH_0000587	Environment information		Community	Sample	An information content entity about environmental material, environmental feature, environmental system, etc.										
+EUPATH_0011996	Sample details		Sample	Sample											
+OBI_0001508	Study timepoint	integer	Observation details	Sample	Either an hour of the day (24 hour clock) or a time range during which the specimen collection was undertaken	0	15	7.83922261484099	8	12	4	16		["FARMM_metagenomics.txt::Study timepoint"]	
+ENVO_01000739	Habitat	string	Environment information	Sample	An environmental system which can sustain and allow the growth of an ecological population.							3	["Homo sapiens","Environment negative control","Environment positive control"]	["FARMM_metagenomics.txt::env_feature"]	ENVO_00002297
+OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							8	["Blank swab","DNA-free water","Elution buffer","Empty well","Mock DNA","Stool","Weighing paper"]	["FARMM_metagenomics.txt::sample_type"]	
+UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							1	["Colon"]	["FARMM_metagenomics.txt::host_body_site"]	
+UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							1	["Feces"]	["FARMM_metagenomics.txt::host_body_product"]	
+UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							1	["Colon"]	["FARMM_metagenomics.txt::body_habitat"]	
 EUPATH_0009247	4th level EC metagenome abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of genes annotated at the finest (4th level) EC classification.										
 EUPATH_0009248	Metagenome enzyme pathway abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of a pathway defined by EC classifications.										
 EUPATH_0009249	Metagenome enzyme pathway coverage data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for gene coverage in a pathway defined by EC classifications.										
@@ -5443,12 +5451,3 @@ EUPATH_0009269__24cbf35d04cda59d	Blastocystis sp. subtype 1	number	Normalized nu
 EUPATH_0009269_Ascomycota_2637ce649b618271	Lachancea fermentati	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	0.014529	0.038163	0.026346	0.026346	0.038163	0.014529	2	["0.014529","0.038163"]		
 EUPATH_0009269_Basidiomycota_Tremellomycetes_Cystofilobasidiales_Mrakiaceae_Mrakia_	unclassified Mrakia	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	0.296441	0.296441	0.296441	0.296441			1	["0.296441"]		
 EUPATH_0009269_Evosea_Mastigamoebida_Entamoebidae_Entamoeba_Entamoeba_dispar	Entamoeba dispar	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	0.005083	0.008016	0.006676	0.006929	0.0074725	0.006006	3	["0.005083","0.006929","0.008016"]		
-EUPATH_0000310	Observation details		Participant	Sample											
-EUPATH_0000587	Environment information		Community	Sample	An information content entity about environmental material, environmental feature, environmental system, etc.										
-EUPATH_0011996	Sample details		Sample	Sample											
-OBI_0001508	Study timepoint	string	Observation details	Sample	Either an hour of the day (24 hour clock) or a time range during which the specimen collection was undertaken	0	15	7.5	7.5	11.5	3.5	32	["0","0 days","1","1 days","10","10 days","11","11 days","12 days","13","13 days","14","14 days","15 days","2","3","3 days","4","5 days","6","7","8 days","9","12","15","2 days","4 days","5","6 days","7 days","8","9 days"]	["FARMM_metagenomics.txt::Study timepoint"]	
-ENVO_01000739	Habitat	string	Environment information	Sample	An environmental system which can sustain and allow the growth of an ecological population.							3	["Homo sapiens","Environment negative control","Environment positive control"]	["FARMM_metagenomics.txt::env_feature"]	ENVO_00002297
-OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							11	["Blank swab","DNA-free water","Elution buffer","Empty well","Mock DNA","Stool","Weighing paper"]	["FARMM_metagenomics.txt::sample_type"]	
-UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							2	["colon","Colon"]	["FARMM_metagenomics.txt::host_body_site"]	
-UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							2	["Feces","feces"]	["FARMM_metagenomics.txt::host_body_product"]	
-UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							1	["Colon"]	["FARMM_metagenomics.txt::body_habitat"]	

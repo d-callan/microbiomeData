@@ -1,21 +1,25 @@
 iri	label	type	parentlabel	category	definition	min	max	average	median	upper_quartile	lower_quartile	number_distinct_values	distinct_values	variable	replaces
-EUPATH_0043212	Geolocation		Geographic location	Participant											
-ENVO_00000009	Country	string	Geographic location	Participant								1	["Malaysia"]	["Malaysia_Helminth.txt::country"]	ENVO_00000004
-ENVO_00000856	City, village, or region	string	Geographic location	Participant	The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512)  (http://purl.bioontology.org/ontology/GAZ)							6	["Bangkong, Selangor","Judah, Selangor","Kuala Lumpur, Selangor","Legong, Kedah","Rasau, Perak","Tanjung_Sepat, Selangor"]	["Malaysia_Helminth.txt::location"]	EUPATH_0000452
-GAZ_00000448	Geographic location		Community	Participant											
-EUPATH_0010981	Demographics		Participant	Participant											
-EUPATH_0011732	Diet		Participant	Participant	overall, what the main source of nutrition for the child?									["EMP_10249_ECAM.txt::diet_3","DailyBaby.txt::child_diet","FARMM_metagenomics.txt::diet"]	
-OGMS_0000015	Clinical history		Participant	Participant											
-EUPATH_0009349	Response to anthelminthic treatment	string	Participant	Participant	Response to anthelminthic treatment based on T. trichuria burden							4	["NA","Non-responder","Responder","Uninfected"]	["Malaysia_Helminth.txt::Response to anthelminthic"]	
-EUPATH_0009341	Undercooked meat	string	Diet	Participant	if participant consumes undercooked meat							3	["NA","No","Yes"]	["Malaysia_Helminth.txt::Undercooked_meat"]	
-EUPATH_0009342	Boiled water	string	Diet	Participant	if participant boil water before consuming							3	["NA","No","Yes"]	["Malaysia_Helminth.txt::Boiled_water"]	
-EUPATH_0009343	Taken antibiotics in past 3 months	string	Clinical history	Participant	whether they have taken antibiotics in the past 3 months before sample collection							4	["NA","No","Not sure","Yes"]	["Malaysia_Helminth.txt::Antibiotics_past_3months"]	
-EUPATH_0009344	Taken probiotic food in past 3 months	string	Clinical history	Participant	whether they have taken probiotic food in the past 3 months before sample collection							5	["NA","No","Not sure","Not Sure","Yes"]	["Malaysia_Helminth.txt::Probiotic_food_past_3months"]	
-EUPATH_0009345	Diarrhea in past 3 months	string	Clinical history	Participant	whether they had diarrhea in the past 3 months before sample collection							3	["NA","No","Yes"]	["Malaysia_Helminth.txt::Diarrhea_past_3months"]	
-OMRSE_00002045	Education level	string	Demographics	Participant								6	["NA","No formal education","Primary school","Primary School","Secondary school","Tertiary education"]	["Malaysia_Helminth.txt::level_of_education"]	
-PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							2	["Female","Male"]	["Malaysia_Helminth.txt::sex"]	
-OBI_0001169	Age	string	Demographics	Participant	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	4	73	37.4029850746269	37	54.5	20.5	124	["10","10 years","11","11 years","12","12 years","14","15","15 years","16","16 years","17 years","4","5","6","13","17","18","18 years","19","19 years","20","20 years","21","21 years","22","22 years","23","23 years","24","24 years","25","25 years","27","27 years","28","28 years","29","29 years","30","30 years","31","31 years","32","32 years","33","33 years","34","34 years","35","35 years","36","36 years","37","37 years","38","38 years","39","39 years","4 years","40","40 years","41","41 years","42","42 years","43","44","44 years","45","45 years","46","47 years","48","48 years","5 years","50","50 years","51 years","52","52 years","53","53 years","54","54 years","55","55 years","56","56 years","57","58","58 years","59","6 years","60","60 years","61","62","62 years","63","63 years","64","64 years","8","9","47","51","57 years","65","65 years","66","66 years","7","26","67","67 years","69","7 years","70","71","73","8 years","9 years","NA years"]	["Malaysia_Helminth.txt::age"]	EUPATH_0000579
-OMRSE_00000205	Ethnicity	string	Demographics	Participant								2	["Indigenous","Non-indigenous"]	["Malaysia_Helminth.txt::Cultural group"]	
+OBI_0003039	Stool microbiology test		Laboratory test	Sample											
+EUPATH_0009333	Sample collection time relative to treatment	string	Sample collection process	Sample								3	["21-day post-antihelminthic treatment","42-day post-antihelminthic treatment","Pre-treatment"]	["Malaysia_Helminth.txt::sample_collection_timepoint"]	
+EUPATH_0009334	Helminth	string	Eukaryota in stool	Sample	whether detected Helminth or not in stool							2	["No","Yes"]	["Malaysia_Helminth.txt::Helminth_infection"]	
+EUPATH_0009335	Trichuris	string	Eukaryota in stool	Sample	whether detected Trichuris or not in stool							2	["No","Yes"]	["Malaysia_Helminth.txt::Trichuris_infection"]	
+EUPATH_0009336	Ascaris	string	Eukaryota in stool	Sample	whether detected Ascaris or not in stool							2	["No","Yes"]	["Malaysia_Helminth.txt::Ascaris_infection"]	
+EUPATH_0009337	Hookworm	string	Eukaryota in stool	Sample	whether detected Hookworm or not in stool							2	["No","Yes"]	["Malaysia_Helminth.txt::Hookworm_infection"]	
+EUPATH_0009338	Trichuris infection intensity level	string	Eukaryota in stool	Sample								4	["Heavy","Light","Moderate","Uninfected"]	["Malaysia_Helminth.txt::Trichuris_infection_intensity"]	
+EUPATH_0009339	Ascaris infection intensity level	string	Eukaryota in stool	Sample								4	["Heavy","Light","Moderate","Uninfected"]	["Malaysia_Helminth.txt::Ascaris_infection_intensity"]	
+EUPATH_0009340	Hookworm infection intensity level	string	Eukaryota in stool	Sample								4	["Heavy","Light","Moderate","Uninfected"]	["Malaysia_Helminth.txt::Hookworm_infection_intensity"]	
+EUPATH_0009346	Trichuris infection intensity, by Kato-Katz	number	Eukaryota in stool	Sample	unit is eggs per gram feces	0	119875.5	1565.16615384615	0	382.5	0	124		["Malaysia_Helminth.txt::Trichuris trichuria burden"]	
+EUPATH_0009347	Ascaris infection intensity, by Kato-Katz	number	Eukaryota in stool	Sample	unit is eggs per gram feces	0	81804	1611.35038461538	0	0	0	49		["Malaysia_Helminth.txt::Ascaris lumbricoides burden"]	
+EUPATH_0009348	Hookworm infection intensity, by Kato-Katz	number	Eukaryota in stool	Sample	unit is eggs per gram feces	0	18181.5	164.476538461538	0	0	0	41		["Malaysia_Helminth.txt::Hookworm burden"]	
+EUPATH_0011996	Sample details		Sample	Sample											
+OBI_0000659	Sample collection process		Sample	Sample											
+OBI_0000070	Laboratory test		Sample	Sample											OGMS_0000056
+OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["Malaysia_Helminth.txt::sample_type"]	
+EUPATH_0030117	Eukaryota in stool		Stool microbiology test	Sample											
+UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							1	["Colon"]	["Malaysia_Helminth.txt::body_site"]	
+UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							1	["Feces"]	["Malaysia_Helminth.txt::body_product"]	
+UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							1	["Colon"]	["Malaysia_Helminth.txt::body_habitat"]	
+OBI_0000711	Library preparation	string	Sequencing assay	Sample								1	["Illumina TruSeq DNA Nano Library kit"]	["Malaysia_Helminth.txt::library protocol"]	
 EUPATH_0009247	4th level EC metagenome abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of genes annotated at the finest (4th level) EC classification.										
 EUPATH_0009248	Metagenome enzyme pathway abundance data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for the number of copies of a pathway defined by EC classifications.										
 EUPATH_0009249	Metagenome enzyme pathway coverage data		Metagenome pathway and function analysis	Metagenomic sequencing assay	A data item that is the output of a metagenome pathway and function analysis for gene coverage in a pathway defined by EC classifications.										
@@ -5082,24 +5086,20 @@ EUPATH_0009269_Ascomycota_a4a41118f5e5b513	Candida metapsilosis	number	Normalize
 EUPATH_0009269_Evosea_Mastigamoebida_Entamoebidae_Entamoeba_Entamoeba_histolytica	Entamoeba histolytica	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	0.007108	0.007108	0.007108	0.007108			1	["0.007108"]		
 EUPATH_0009269_Mucoromycota_Mucoromycetes_Mucorales_	unclassified Mucorales	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	0.00317	0.00317	0.00317	0.00317			1	["0.003170"]		
 EUPATH_0009269__e11a4b35e982abea	Blastocystis sp. subtype 6	number	Normalized number of taxon-specific sequence matches	Metagenomic sequencing assay	A data item of the normalized number of sequences that match a specific taxon.	0.016276	0.016276	0.016276	0.016276			1	["0.016276"]		
-UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							2	["colon","Colon"]	["Malaysia_Helminth.txt::body_site"]	
-UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							2	["Feces","feces"]	["Malaysia_Helminth.txt::body_product"]	
-UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							2	["colon","Colon"]	["Malaysia_Helminth.txt::body_habitat"]	
-EUPATH_0011996	Sample details		Sample	Sample											
-OBI_0000659	Sample collection process		Sample	Sample											
-OBI_0000070	Laboratory test		Sample	Sample											OGMS_0000056
-EUPATH_0009333	Sample collection time relative to treatment	string	Sample collection process	Sample								3	["21-day post-antihelminthic treatment","42-day post-antihelminthic treatment","Pre-treatment"]	["Malaysia_Helminth.txt::sample_collection_timepoint"]	
-OBI_0003039	Stool microbiology test		Laboratory test	Sample											
-EUPATH_0030117	Eukaryota in stool		Stool microbiology test	Sample											
-OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["Malaysia_Helminth.txt::sample_type"]	
-EUPATH_0009334	Helminth	string	Eukaryota in stool	Sample	whether detected Helminth or not in stool							2	["No","Yes"]	["Malaysia_Helminth.txt::Helminth_infection"]	
-EUPATH_0009335	Trichuris	string	Eukaryota in stool	Sample	whether detected Trichuris or not in stool							2	["No","Yes"]	["Malaysia_Helminth.txt::Trichuris_infection"]	
-EUPATH_0009336	Ascaris	string	Eukaryota in stool	Sample	whether detected Ascaris or not in stool							2	["No","Yes"]	["Malaysia_Helminth.txt::Ascaris_infection"]	
-EUPATH_0009337	Hookworm	string	Eukaryota in stool	Sample	whether detected Hookworm or not in stool							2	["No","Yes"]	["Malaysia_Helminth.txt::Hookworm_infection"]	
-EUPATH_0009338	Trichuris infection intensity level	string	Eukaryota in stool	Sample								4	["Heavy","Light","Moderate","Uninfected"]	["Malaysia_Helminth.txt::Trichuris_infection_intensity"]	
-EUPATH_0009339	Ascaris infection intensity level	string	Eukaryota in stool	Sample								4	["Heavy","Light","Moderate","Uninfected"]	["Malaysia_Helminth.txt::Ascaris_infection_intensity"]	
-EUPATH_0009340	Hookworm infection intensity level	string	Eukaryota in stool	Sample								4	["Heavy","Light","Moderate","Uninfected"]	["Malaysia_Helminth.txt::Hookworm_infection_intensity"]	
-EUPATH_0009346	Trichuris infection intensity, by Kato-Katz	number	Eukaryota in stool	Sample	unit is eggs per gram feces	0	119875.5	1565.16615384615	0	382.5	0	124		["Malaysia_Helminth.txt::Trichuris trichuria burden"]	
-EUPATH_0009347	Ascaris infection intensity, by Kato-Katz	number	Eukaryota in stool	Sample	unit is eggs per gram feces	0	81804	1611.35038461538	0	0	0	49		["Malaysia_Helminth.txt::Ascaris lumbricoides burden"]	
-EUPATH_0009348	Hookworm infection intensity, by Kato-Katz	number	Eukaryota in stool	Sample	unit is eggs per gram feces	0	18181.5	164.476538461538	0	0	0	41		["Malaysia_Helminth.txt::Hookworm burden"]	
-OBI_0000711	Library preparation	string	Sequencing assay	Sample								1	["Illumina TruSeq DNA Nano Library kit"]	["Malaysia_Helminth.txt::library protocol"]	
+EUPATH_0009343	Taken antibiotics in past 3 months	string	Clinical history	Participant	whether they have taken antibiotics in the past 3 months before sample collection							3	["No","Not sure","Yes"]	["Malaysia_Helminth.txt::Antibiotics_past_3months"]	
+EUPATH_0009344	Taken probiotic food in past 3 months	string	Clinical history	Participant	whether they have taken probiotic food in the past 3 months before sample collection							3	["No","Not Sure","Yes"]	["Malaysia_Helminth.txt::Probiotic_food_past_3months"]	
+EUPATH_0009345	Diarrhea in past 3 months	string	Clinical history	Participant	whether they had diarrhea in the past 3 months before sample collection							2	["No","Yes"]	["Malaysia_Helminth.txt::Diarrhea_past_3months"]	
+EUPATH_0043212	Geolocation		Geographic location	Participant											
+ENVO_00000009	Country	string	Geographic location	Participant								1	["Malaysia"]	["Malaysia_Helminth.txt::country"]	ENVO_00000004
+ENVO_00000856	City, village, or region	string	Geographic location	Participant	The geographical origin of the sample as defined by the country or sea name followed by specific region name. Country or sea names should be chosen from the INSDC country list (http://insdc.org/country.html), or the GAZ ontology (v 1.512)  (http://purl.bioontology.org/ontology/GAZ)							6	["Bangkong, Selangor","Judah, Selangor","Kuala Lumpur, Selangor","Legong, Kedah","Rasau, Perak","Tanjung_Sepat, Selangor"]	["Malaysia_Helminth.txt::location"]	EUPATH_0000452
+OMRSE_00002045	Education level	string	Demographics	Participant								4	["No formal education","Primary school","Secondary school","Tertiary education"]	["Malaysia_Helminth.txt::level_of_education"]	
+PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							2	["Female","Male"]	["Malaysia_Helminth.txt::sex"]	
+OBI_0001169	Age	integer	Demographics	Participant	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	4	73	29.1450381679389	28	42	11	67		["Malaysia_Helminth.txt::age"]	EUPATH_0000579
+OMRSE_00000205	Ethnicity	string	Demographics	Participant								2	["Indigenous","Non-indigenous"]	["Malaysia_Helminth.txt::Cultural group"]	
+EUPATH_0009341	Undercooked meat	string	Diet	Participant	if participant consumes undercooked meat							2	["No","Yes"]	["Malaysia_Helminth.txt::Undercooked_meat"]	
+EUPATH_0009342	Boiled water	string	Diet	Participant	if participant boil water before consuming							3	["NA","No","Yes"]	["Malaysia_Helminth.txt::Boiled_water"]	
+GAZ_00000448	Geographic location		Community	Participant											
+EUPATH_0010981	Demographics		Participant	Participant											
+EUPATH_0011732	Diet		Participant	Participant	overall, what the main source of nutrition for the child?									["EMP_10249_ECAM.txt::diet_3","DailyBaby.txt::child_diet","FARMM_metagenomics.txt::diet"]	
+OGMS_0000015	Clinical history		Participant	Participant											
+EUPATH_0009349	Response to anthelminthic treatment	string	Participant	Participant	Response to anthelminthic treatment based on T. trichuria burden							3	["Non-responder","Responder","Uninfected"]	["Malaysia_Helminth.txt::Response to anthelminthic"]	
