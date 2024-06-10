@@ -1,233 +1,233 @@
 Participant_Id	CFTR mutation (F508del) [EUPATH_0009091]	Received acid blocker [EUPATH_0009262]	Received proton pump inhibitor [EUPATH_0009263]	Sex [PATO_0000047]	Study group [EUPATH_0000639]
 4-14-1001 (Source)		Yes			Control
 4-14-1002 (Source)		No			Control
-4-14-1003 (Source)		N			Control
-4-14-1004 (Source)		N			Control
-4-14-1005 (Source)		N			Control
-4-14-1006 (Source)		N			Control
-4-14-1007 (Source)		N			Control
-4-14-1008 (Source)		N			Control
-4-14-1009 (Source)		N			Control
-4-14-1010 (Source)		N			Control
-4-14-1011 (Source)		N			Control
-4-14-1012 (Source)		N			Control
-4-14-1013 (Source)		N			Control
-4-14-1015 (Source)		Y			Control
-4-14-1017 (Source)		N			Control
-4-14-1018 (Source)		N			Control
-4-14-1019 (Source)		Y			Control
-4-14-1020 (Source)		N			Control
-4-14-1021 (Source)		N			Control
-4-14-1022 (Source)		N			Control
-4-14-1023 (Source)		Y			Control
-4-14-1024 (Source)		Y			Control
-4-14-1026 (Source)		N			Control
-4-14-1027 (Source)		N			Control
-4-14-1028 (Source)		N			Control
-B005 (Source)	Homozygous F508del	N	Y	Male	Cystic fibrosis
-B008 (Source)	Heterozygous F508del	N	Y	Male	Cystic fibrosis
-B009 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B014 (Source)	No F508del	N	Y	Female	Cystic fibrosis
-B016 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B020 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B023 (Source)	No F508del	Y	N	Male	Cystic fibrosis
-B029 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B034 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B036 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B043 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B044 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B046 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B047 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B050 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B053 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B059 (Source)	Heterozygous F508del	Y	Y	Male	Cystic fibrosis
-B061 (Source)	Heterozygous F508del	Y	Y	Female	Cystic fibrosis
-B063 (Source)	Homozygous F508del	N	Y	Male	Cystic fibrosis
-B066 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B069 (Source)	Homozygous F508del	N	Y	Female	Cystic fibrosis
-B071 (Source)	Homozygous F508del	N	Y	Male	Cystic fibrosis
-B079 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B081 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B085 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B087 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B088 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B090 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B091 (Source)	No F508del	N	N	Male	Cystic fibrosis
-B103 (Source)	Heterozygous F508del	N	Y	Female	Cystic fibrosis
-B108 (Source)	No F508del	N	N	Female	Cystic fibrosis
-B109 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B117 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B121 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B122 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B123 (Source)	Homozygous F508del	N	Y	Female	Cystic fibrosis
-B125 (Source)	Heterozygous F508del	Y	Y	Female	Cystic fibrosis
-B126 (Source)	No F508del	N	N	Female	Cystic fibrosis
-B130 (Source)	Heterozygous F508del	N	Y	Male	Cystic fibrosis
-B134 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B142 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B144 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B146 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B148 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B151 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B157 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B158 (Source)	Heterozygous F508del	Y	Y	Female	Cystic fibrosis
-B165 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B167 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B168 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B174 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B176 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B177 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B178 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B179 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B180 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B182 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B185 (Source)	Heterozygous F508del	Y	Y	Female	Cystic fibrosis
-B188 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B190 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B193 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B195 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B198 (Source)	Homozygous F508del	N	Y	Female	Cystic fibrosis
-B199 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B208 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B209 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B211 (Source)	Homozygous F508del	N	Y	Male	Cystic fibrosis
-B221 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B224 (Source)	Heterozygous F508del	N	Y	Female	Cystic fibrosis
-B226 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B228 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B230 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B235 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B236 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B243 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B266 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B269 (Source)	Heterozygous F508del	Y	Y	Male	Cystic fibrosis
-B271 (Source)	No F508del	N	N	Male	Cystic fibrosis
-B272 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B273 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B275 (Source)	Homozygous F508del	N	Y	Female	Cystic fibrosis
-B278 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B281 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B287 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B288 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B289 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B291 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B294 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B295 (Source)	No F508del	Y	N	Male	Cystic fibrosis
-B296 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B299 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B301 (Source)	Homozygous F508del	N	Y	Male	Cystic fibrosis
-B304 (Source)	Heterozygous F508del	N	Y	Male	Cystic fibrosis
-B306 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B308 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B315 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B317 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B321 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B325 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B326 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B327 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B331 (Source)	Heterozygous F508del	Y	Y	Female	Cystic fibrosis
-B333 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B334 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B335 (Source)	Heterozygous F508del	Y	Y	Male	Cystic fibrosis
-B336 (Source)	No F508del	N	Y	Female	Cystic fibrosis
-B341 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B343 (Source)	Homozygous F508del	N	Y	Male	Cystic fibrosis
-B346 (Source)		Y	Y	Male	Cystic fibrosis
-B349 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B351 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B352 (Source)	Homozygous F508del	N	Y	Female	Cystic fibrosis
-B358 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B362 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B363 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B364 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B372 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B375 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B379 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B385 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B386 (Source)	No F508del	N	N	Female	Cystic fibrosis
-B388 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B390 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B391 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B398 (Source)	Heterozygous F508del	N	Y	Male	Cystic fibrosis
-B399 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B400 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B402 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B403 (Source)	Heterozygous F508del	N	Y	Male	Cystic fibrosis
-B405 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B411 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B412 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B419 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B421 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B422 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B423 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B425 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B426 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B436 (Source)	Heterozygous F508del	Y	Y	Female	Cystic fibrosis
-B438 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B440 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B441 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B443 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B453 (Source)	Heterozygous F508del	N	Y	Female	Cystic fibrosis
-B454 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B456 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B461 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B468 (Source)	No F508del	N	Y	Male	Cystic fibrosis
-B470 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B475 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B485 (Source)	Heterozygous F508del	Y	Y	Female	Cystic fibrosis
-B493 (Source)	Heterozygous F508del	Y	Y	Female	Cystic fibrosis
-B503 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B511 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B512 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B522 (Source)	Homozygous F508del	N	Y	Female	Cystic fibrosis
-B543 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B547 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B559 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B562 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B576 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B582 (Source)	No F508del	N	N	Male	Cystic fibrosis
-B583 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B590 (Source)	Homozygous F508del	N	Y	Male	Cystic fibrosis
-B591 (Source)	Heterozygous F508del	N	Y	Female	Cystic fibrosis
-B608 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B620 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B621 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B634 (Source)	Homozygous F508del	N	Y	Male	Cystic fibrosis
-B635 (Source)	Heterozygous F508del	Y	No	Female	Cystic fibrosis
-B640 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B644 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B645 (Source)	Heterozygous F508del	Y	Yes	Female	Cystic fibrosis
-B651 (Source)	Heterozygous F508del	Y	Y	Male	Cystic fibrosis
-B666 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B680 (Source)	Homozygous F508del	N	N	Female	Cystic fibrosis
-B686 (Source)	Heterozygous F508del	N	Y	Female	Cystic fibrosis
-B688 (Source)	No F508del	Y	Y	Female	Cystic fibrosis
-B689 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B692 (Source)	No F508del	N	N	Male	Cystic fibrosis
-B702 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B728 (Source)	Heterozygous F508del	Y	Y	Male	Cystic fibrosis
-B754 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B755 (Source)	Heterozygous F508del	N	N	Female	Cystic fibrosis
-B778 (Source)	Homozygous F508del	N	Y	Female	Cystic fibrosis
-B782 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B791 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
-B809 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B819 (Source)	Heterozygous F508del	Y	Y	Male	Cystic fibrosis
-B836 (Source)	Heterozygous F508del	N	Y	Female	Cystic fibrosis
-B853 (Source)	Homozygous F508del	Y	N	Male	Cystic fibrosis
-B877 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B900 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B906 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B911 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B917 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B928 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B937 (Source)	Heterozygous F508del	N	Y	Female	Cystic fibrosis
-B941 (Source)	Homozygous F508del	Y	Y	Female	Cystic fibrosis
-B945 (Source)	Homozygous F508del	N	N	Male	Cystic fibrosis
-B956 (Source)	Heterozygous F508del	Y	Y	Male	Cystic fibrosis
-B957 (Source)	Heterozygous F508del	Y	N	Male	Cystic fibrosis
-B964 (Source)	Heterozygous F508del	Y	N	Female	Cystic fibrosis
-B972 (Source)	Homozygous F508del	Y	Y	Male	Cystic fibrosis
-B977 (Source)	Homozygous F508del	N	Y	Male	Cystic fibrosis
-B988 (Source)	Heterozygous F508del	N	N	Male	Cystic fibrosis
-B991 (Source)	Homozygous F508del	Y	N	Female	Cystic fibrosis
+4-14-1003 (Source)		No			Control
+4-14-1004 (Source)		No			Control
+4-14-1005 (Source)		No			Control
+4-14-1006 (Source)		No			Control
+4-14-1007 (Source)		No			Control
+4-14-1008 (Source)		No			Control
+4-14-1009 (Source)		No			Control
+4-14-1010 (Source)		No			Control
+4-14-1011 (Source)		No			Control
+4-14-1012 (Source)		No			Control
+4-14-1013 (Source)		No			Control
+4-14-1015 (Source)		Yes			Control
+4-14-1017 (Source)		No			Control
+4-14-1018 (Source)		No			Control
+4-14-1019 (Source)		Yes			Control
+4-14-1020 (Source)		No			Control
+4-14-1021 (Source)		No			Control
+4-14-1022 (Source)		No			Control
+4-14-1023 (Source)		Yes			Control
+4-14-1024 (Source)		Yes			Control
+4-14-1026 (Source)		No			Control
+4-14-1027 (Source)		No			Control
+4-14-1028 (Source)		No			Control
+B005 (Source)	Homozygous F508del	No	Yes	Male	Cystic fibrosis
+B008 (Source)	Heterozygous F508del	No	Yes	Male	Cystic fibrosis
+B009 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B014 (Source)	No F508del	No	Yes	Female	Cystic fibrosis
+B016 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B020 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B023 (Source)	No F508del	Yes	No	Male	Cystic fibrosis
+B029 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B034 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B036 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B043 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B044 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B046 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B047 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B050 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B053 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B059 (Source)	Heterozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B061 (Source)	Heterozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B063 (Source)	Homozygous F508del	No	Yes	Male	Cystic fibrosis
+B066 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B069 (Source)	Homozygous F508del	No	Yes	Female	Cystic fibrosis
+B071 (Source)	Homozygous F508del	No	Yes	Male	Cystic fibrosis
+B079 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B081 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B085 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B087 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B088 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B090 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B091 (Source)	No F508del	No	No	Male	Cystic fibrosis
+B103 (Source)	Heterozygous F508del	No	Yes	Female	Cystic fibrosis
+B108 (Source)	No F508del	No	No	Female	Cystic fibrosis
+B109 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B117 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B121 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B122 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B123 (Source)	Homozygous F508del	No	Yes	Female	Cystic fibrosis
+B125 (Source)	Heterozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B126 (Source)	No F508del	No	No	Female	Cystic fibrosis
+B130 (Source)	Heterozygous F508del	No	Yes	Male	Cystic fibrosis
+B134 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B142 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B144 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B146 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B148 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B151 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B157 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B158 (Source)	Heterozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B165 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B167 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B168 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B174 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B176 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B177 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B178 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B179 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B180 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B182 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B185 (Source)	Heterozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B188 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B190 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B193 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B195 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B198 (Source)	Homozygous F508del	No	Yes	Female	Cystic fibrosis
+B199 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B208 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B209 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B211 (Source)	Homozygous F508del	No	Yes	Male	Cystic fibrosis
+B221 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B224 (Source)	Heterozygous F508del	No	Yes	Female	Cystic fibrosis
+B226 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B228 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B230 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B235 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B236 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B243 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B266 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B269 (Source)	Heterozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B271 (Source)	No F508del	No	No	Male	Cystic fibrosis
+B272 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B273 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B275 (Source)	Homozygous F508del	No	Yes	Female	Cystic fibrosis
+B278 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B281 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B287 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B288 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B289 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B291 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B294 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B295 (Source)	No F508del	Yes	No	Male	Cystic fibrosis
+B296 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B299 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B301 (Source)	Homozygous F508del	No	Yes	Male	Cystic fibrosis
+B304 (Source)	Heterozygous F508del	No	Yes	Male	Cystic fibrosis
+B306 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B308 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B315 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B317 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B321 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B325 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B326 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B327 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B331 (Source)	Heterozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B333 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B334 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B335 (Source)	Heterozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B336 (Source)	No F508del	No	Yes	Female	Cystic fibrosis
+B341 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B343 (Source)	Homozygous F508del	No	Yes	Male	Cystic fibrosis
+B346 (Source)		Yes	Yes	Male	Cystic fibrosis
+B349 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B351 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B352 (Source)	Homozygous F508del	No	Yes	Female	Cystic fibrosis
+B358 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B362 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B363 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B364 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B372 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B375 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B379 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B385 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B386 (Source)	No F508del	No	No	Female	Cystic fibrosis
+B388 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B390 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B391 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B398 (Source)	Heterozygous F508del	No	Yes	Male	Cystic fibrosis
+B399 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B400 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B402 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B403 (Source)	Heterozygous F508del	No	Yes	Male	Cystic fibrosis
+B405 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B411 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B412 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B419 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B421 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B422 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B423 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B425 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B426 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B436 (Source)	Heterozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B438 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B440 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B441 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B443 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B453 (Source)	Heterozygous F508del	No	Yes	Female	Cystic fibrosis
+B454 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B456 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B461 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B468 (Source)	No F508del	No	Yes	Male	Cystic fibrosis
+B470 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B475 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B485 (Source)	Heterozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B493 (Source)	Heterozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B503 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B511 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B512 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B522 (Source)	Homozygous F508del	No	Yes	Female	Cystic fibrosis
+B543 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B547 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B559 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B562 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B576 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B582 (Source)	No F508del	No	No	Male	Cystic fibrosis
+B583 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B590 (Source)	Homozygous F508del	No	Yes	Male	Cystic fibrosis
+B591 (Source)	Heterozygous F508del	No	Yes	Female	Cystic fibrosis
+B608 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B620 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B621 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B634 (Source)	Homozygous F508del	No	Yes	Male	Cystic fibrosis
+B635 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B640 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B644 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B645 (Source)	Heterozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B651 (Source)	Heterozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B666 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B680 (Source)	Homozygous F508del	No	No	Female	Cystic fibrosis
+B686 (Source)	Heterozygous F508del	No	Yes	Female	Cystic fibrosis
+B688 (Source)	No F508del	Yes	Yes	Female	Cystic fibrosis
+B689 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B692 (Source)	No F508del	No	No	Male	Cystic fibrosis
+B702 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B728 (Source)	Heterozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B754 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B755 (Source)	Heterozygous F508del	No	No	Female	Cystic fibrosis
+B778 (Source)	Homozygous F508del	No	Yes	Female	Cystic fibrosis
+B782 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B791 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis
+B809 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B819 (Source)	Heterozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B836 (Source)	Heterozygous F508del	No	Yes	Female	Cystic fibrosis
+B853 (Source)	Homozygous F508del	Yes	No	Male	Cystic fibrosis
+B877 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B900 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B906 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B911 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B917 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B928 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B937 (Source)	Heterozygous F508del	No	Yes	Female	Cystic fibrosis
+B941 (Source)	Homozygous F508del	Yes	Yes	Female	Cystic fibrosis
+B945 (Source)	Homozygous F508del	No	No	Male	Cystic fibrosis
+B956 (Source)	Heterozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B957 (Source)	Heterozygous F508del	Yes	No	Male	Cystic fibrosis
+B964 (Source)	Heterozygous F508del	Yes	No	Female	Cystic fibrosis
+B972 (Source)	Homozygous F508del	Yes	Yes	Male	Cystic fibrosis
+B977 (Source)	Homozygous F508del	No	Yes	Male	Cystic fibrosis
+B988 (Source)	Heterozygous F508del	No	No	Male	Cystic fibrosis
+B991 (Source)	Homozygous F508del	Yes	No	Female	Cystic fibrosis

@@ -14,20 +14,6 @@ EUPATH_0000343	Animals on property	string	Dwelling environment	Participant	speci
 EUPATH_0000581	Delivery mode	string	Labor and delivery	Participant	Method of delivery (newborn)							2	["Cesarean","Vaginal"]	["DailyBaby.txt::baby_delivery_mode"]	
 EUPATH_0011036	Age 1st solid food given	integer	Weaning	Participant		116	247	157.583333333333	162	177.5	122	11		["DailyBaby.txt::age_first_solid_food_given_days"]	
 EUPATH_0011732	Diet	string	Participant	Participant	overall, what the main source of nutrition for the child?							3	["Breast milk","Breast milk and formula","Formula"]	["DailyBaby.txt::child_diet"]	
-EUPATH_0010981	Demographics		Participant	participant repeated measure											
-OGMS_0000015	Clinical history		Participant	participant repeated measure											
-OBI_0001169	Age	integer	Demographics	participant repeated measure	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	1	266	115.689642324888	112	173	56	266		["DailyBaby.txt::day_of_life"]	EUPATH_0000579
-EUPATH_0000580	Antibiotic exposure	string	Clinical history	participant repeated measure	was the host exposed to antibiotics?							2	["No","Yes"]	["DailyBaby.txt::antibiotic_exposure"]	
-EUPATH_0009123	Antifungal exposure	string	Clinical history	participant repeated measure								2	["No","Yes"]	["DailyBaby.txt::antifungal_exposure"]	
-OBI_0000659	Sample collection process		Sample	Sample											
-EUPATH_0011996	Sample details		Sample	Sample											
-OBI_0003069	Sequencing		Sequencing assay	Sample	A protocol that, when concretized, is realized in an assay that uses chemical or biological means to infer the sequence of a biomaterial.										EUPATH_0000603
-OBI_0003070	Sample collection device or method	string	Sample collection process	Sample	The method or device employed for collecting the sample							2	["Frozen upon collection","Stored in alcohol"]	["DailyBaby.txt::sample_collection_method"]	EUPATH_0000608
-OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["DailyBaby.txt::sample_type"]	
-SO_0001000	Region of 16S rRNA sequenced	string	Sequencing	Sample	Cytosolic 16S rRNA is an RNA component of the small subunit of cytosolic ribosomes in prokaryotes.							1	["V4"]	["DailyBaby.txt::region"]	
-UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							2	["colon","Colon"]	["DailyBaby.txt::body_site"]	
-UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							2	["Feces","UBERON:feces"]	["DailyBaby.txt::body_product"]	
-UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							2	["colon","Colon"]	["DailyBaby.txt::body_habitat"]	
 EUPATH_0009251	Kingdom		Relative taxonomic abundance analysis	16S rRNA (V4) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of kingdom.										
 EUPATH_0009252	Phylum		Relative taxonomic abundance analysis	16S rRNA (V4) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of phylum.										
 EUPATH_0009253	Class		Relative taxonomic abundance analysis	16S rRNA (V4) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of class.										
@@ -3357,3 +3343,17 @@ EUPATH_0009357_Bacteria_Proteobacteria_Gammaproteobacteria_Xanthomonadales_Xanth
 EUPATH_0009357_Bacteria_Verrucomicrobiota_Verrucomicrobiae_Verrucomicrobiales_Akkermansiaceae_Akkermansia_	unclassified Akkermansia	number	Species	16S rRNA (V4) assay	A data item that is the output of an absolute taxonomic abundance analysis for organisms grouped at the level of species.	2	15379	379.823420074349	47	75	26	187			
 EUPATH_0009357_Bacteria_a7b33137552d0eeb	Bacteroides uniformis	number	Species	16S rRNA (V4) assay	A data item that is the output of an absolute taxonomic abundance analysis for organisms grouped at the level of species.	13	13	13	13			1	["13.000000"]		
 EUPATH_0009357_Bacteria_e2160b2472823d97	unclassified Erysipelotrichaceae UCG-003	number	Species	16S rRNA (V4) assay	A data item that is the output of an absolute taxonomic abundance analysis for organisms grouped at the level of species.	2	289	34.25	17	52	7.5	50			
+EUPATH_0010981	Demographics		Participant	participant repeated measure											
+OGMS_0000015	Clinical history		Participant	participant repeated measure											
+OBI_0001169	Age	integer	Demographics	participant repeated measure	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	1	266	115.689642324888	112	173	56	266		["DailyBaby.txt::day_of_life"]	EUPATH_0000579
+EUPATH_0000580	Antibiotic exposure	string	Clinical history	participant repeated measure	was the host exposed to antibiotics?							2	["No","Yes"]	["DailyBaby.txt::antibiotic_exposure"]	
+EUPATH_0009123	Antifungal exposure	string	Clinical history	participant repeated measure								2	["No","Yes"]	["DailyBaby.txt::antifungal_exposure"]	
+OBI_0000659	Sample collection process		Sample	Sample											
+EUPATH_0011996	Sample details		Sample	Sample											
+OBI_0003069	Sequencing		Sequencing assay	Sample	A protocol that, when concretized, is realized in an assay that uses chemical or biological means to infer the sequence of a biomaterial.										EUPATH_0000603
+OBI_0003070	Sample collection device or method	string	Sample collection process	Sample	The method or device employed for collecting the sample							2	["Frozen upon collection","Stored in alcohol"]	["DailyBaby.txt::sample_collection_method"]	EUPATH_0000608
+OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["DailyBaby.txt::sample_type"]	
+SO_0001000	Region of 16S rRNA sequenced	string	Sequencing	Sample	Cytosolic 16S rRNA is an RNA component of the small subunit of cytosolic ribosomes in prokaryotes.							1	["V4"]	["DailyBaby.txt::region"]	
+UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							1	["Colon"]	["DailyBaby.txt::body_site"]	
+UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							1	["Feces"]	["DailyBaby.txt::body_product"]	
+UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							1	["Colon"]	["DailyBaby.txt::body_habitat"]	

@@ -1,165 +1,164 @@
 participant_repeated_measure_Id	Participant_Id	Age (years) [OBI_0001169]	Antibiotic exposure [EUPATH_0000580]	Antibiotics [EUPATH_0000582]	Child's diet (by month) [EUPATH_0000585]	Courses of antibiotics [EUPATH_0000492]	Diet [EUPATH_0011732]
-10_-23 days (Source)	10 (Source)	-23			na_-1		
-10_-97 days (Source)	10 (Source)	-97			na_-3		
-10_123 days (Source)	10 (Source)	123 days	n		bd_4		eb
-10_152 days (Source)	10 (Source)	152	n		bd_5		eb
-10_183 days (Source)	10 (Source)	183 days	n	Ciprofloxacin	bd_6	1	eb
-10_2 days (Source)	10 (Source)	2	n		bd_0		eb
-10_219 days (Source)	10 (Source)	219 days	y	Ciprofloxacin	bd_7	1	eb
-10_246 days (Source)	10 (Source)	246 days	y	Ciprofloxacin	bd_8	1	eb
+10_-23 days (Source)	10 (Source)	-23					
+10_-97 days (Source)	10 (Source)	-97					
+10_123 days (Source)	10 (Source)	123	No		bd_4		eb
+10_152 days (Source)	10 (Source)	152	No		bd_5		eb
+10_183 days (Source)	10 (Source)	183	No	Ciprofloxacin	bd_6	1	eb
+10_2 days (Source)	10 (Source)	2	No		Breast milk-dominant, month 0		eb
+10_219 days (Source)	10 (Source)	219	y	Ciprofloxacin	bd_7	1	eb
+10_246 days (Source)	10 (Source)	246	y	Ciprofloxacin	bd_8	1	eb
 10_275 days (Source)	10 (Source)	275	y	Moxifloxacin	bd_9	2	eb
-10_30 days (Source)	10 (Source)	30 days	n		bd_1		eb
-10_305 days (Source)	10 (Source)	305 days	y	Moxifloxacin	bd_10	2	eb
-10_337 days (Source)	10 (Source)	337 days	y	Moxifloxacin	bd_11	2	eb
+10_30 days (Source)	10 (Source)	30	No		Breast milk-dominant, month 1		eb
+10_305 days (Source)	10 (Source)	305	y	Moxifloxacin	bd_10	2	eb
+10_337 days (Source)	10 (Source)	337	y	Moxifloxacin	bd_11	2	eb
 10_368 days (Source)	10 (Source)	368	y		bd_12		eb
-10_39 days (Source)	10 (Source)	39	n		bd_1		eb
-10_43 days (Source)	10 (Source)	43 days	n		bd_1		eb
+10_39 days (Source)	10 (Source)	39	No		Breast milk-dominant, month 1		eb
+10_43 days (Source)	10 (Source)	43	No		Breast milk-dominant, month 1		eb
 10_431 days (Source)	10 (Source)	431	y		bd_14		eb
 10_502 days (Source)	10 (Source)	502	y		bd_17		eb
-10_60 days (Source)	10 (Source)	60 days	n		bd_2		eb
-10_613 days (Source)	10 (Source)	613 days	y		bd_20		eb
-10_677 days (Source)	10 (Source)	677 days	y		bd_22		eb
+10_60 days (Source)	10 (Source)	60	No		bd_2		eb
+10_613 days (Source)	10 (Source)	613	y		bd_20		eb
+10_677 days (Source)	10 (Source)	677	y		bd_22		eb
 10_737 days (Source)	10 (Source)	737	y		bd_24		eb
 10_794 days (Source)	10 (Source)	794	y		bd_26		eb
-10_93 days (Source)	10 (Source)	93 days	n		bd_3		eb
-11_-21 days (Source)	11 (Source)	-21 days			na_-1		
-11_-91 days (Source)	11 (Source)	-91			na_-3		
-11_1 days (Source)	11 (Source)	1 days	n		fd_0		fd
-11_120 days (Source)	11 (Source)	120	n		fd_4		fd
-11_156 days (Source)	11 (Source)	156	n		fd_5		fd
-11_187 days (Source)	11 (Source)	187	n		fd_6		fd
-11_210 days (Source)	11 (Source)	210	n		fd_7		fd
-11_247 days (Source)	11 (Source)	247	n		fd_8		fd
-11_273 days (Source)	11 (Source)	273 days	n		fd_9		fd
-11_303 days (Source)	11 (Source)	303 days	n		fd_10		fd
-11_338 days (Source)	11 (Source)	338 days	n		fd_11		fd
-11_36 days (Source)	11 (Source)	36 days	n		fd_1		fd
-11_37 days (Source)	11 (Source)	37 days			na_1		
-11_373 days (Source)	11 (Source)	373	n	Amoxicillin	fd_12	1	fd
-11_431 days (Source)	11 (Source)	431 days	n		fd_14		fd
+10_93 days (Source)	10 (Source)	93	No		bd_3		eb
+11_-21 days (Source)	11 (Source)	-21					
+11_-91 days (Source)	11 (Source)	-91					
+11_1 days (Source)	11 (Source)	1	No		Formula-dominant, month 0		fd
+11_120 days (Source)	11 (Source)	120	No		fd_4		fd
+11_156 days (Source)	11 (Source)	156	No		fd_5		fd
+11_187 days (Source)	11 (Source)	187	No		fd_6		fd
+11_210 days (Source)	11 (Source)	210	No		fd_7		fd
+11_247 days (Source)	11 (Source)	247	No		fd_8		fd
+11_273 days (Source)	11 (Source)	273	No		fd_9		fd
+11_303 days (Source)	11 (Source)	303	No		fd_10		fd
+11_338 days (Source)	11 (Source)	338	No		fd_11		fd
+11_36 days (Source)	11 (Source)	36	No		fd_1		fd
+11_37 days (Source)	11 (Source)	37			na_1		
+11_373 days (Source)	11 (Source)	373	No	Amoxicillin	fd_12	1	fd
+11_431 days (Source)	11 (Source)	431	No		fd_14		fd
 11_486 days (Source)	11 (Source)	486	y	Amoxicillin	fd_16	1	fd
 11_509 days (Source)	11 (Source)	509	y	Bactrim	fd_17	2	fd
 11_553 days (Source)	11 (Source)	553	y		fd_18		fd
 11_610 days (Source)	11 (Source)	610	y		fd_20		fd
-11_65 days (Source)	11 (Source)	65	n		fd_2		fd
+11_65 days (Source)	11 (Source)	65	No		fd_2		fd
 11_676 days (Source)	11 (Source)	676	y		fd_22		fd
-11_737 days (Source)	11 (Source)	737 days	y		fd_24		fd
-11_795 days (Source)	11 (Source)	795 days	y		fd_26		fd
+11_737 days (Source)	11 (Source)	737	y		fd_24		fd
+11_795 days (Source)	11 (Source)	795	y		fd_26		fd
 11_854 days (Source)	11 (Source)	854	y		fd_28		fd
-12_-15 days (Source)	12 (Source)	-15			na_-1		
+12_-15 days (Source)	12 (Source)	-15					
 12_-71 days (Source)	12 (Source)	-71			na_-2		
-12_123 days (Source)	12 (Source)	123 days	n	Azithromycin	bd_4	1	eb
+12_123 days (Source)	12 (Source)	123	No	Azithromycin	bd_4	1	eb
 12_146 days (Source)	12 (Source)	146	y	Azithromycin	bd_5	1	eb
-12_154 days (Source)	12 (Source)	154 days	y	Azithromycin	bd_5	1	eb
+12_154 days (Source)	12 (Source)	154	y	Azithromycin	bd_5	1	eb
 12_188 days (Source)	12 (Source)	188	y		bd_6		eb
-12_2 days (Source)	12 (Source)	2 days	n		bd_0		eb
+12_2 days (Source)	12 (Source)	2	No		Breast milk-dominant, month 0		eb
 12_215 days (Source)	12 (Source)	215	y		bd_7		eb
-12_244 days (Source)	12 (Source)	244 days	y		bd_8		eb
+12_244 days (Source)	12 (Source)	244	y		bd_8		eb
 12_272 days (Source)	12 (Source)	272	y		bd_9		eb
-12_29 days (Source)	12 (Source)	29 days	n		bd_1		eb
-12_305 days (Source)	12 (Source)	305 days	y		bd_10		eb
+12_29 days (Source)	12 (Source)	29	No		Breast milk-dominant, month 1		eb
+12_305 days (Source)	12 (Source)	305	y		bd_10		eb
 12_335 days (Source)	12 (Source)	335	y		bd_11		eb
 12_365 days (Source)	12 (Source)	365	y		bd_12		eb
-12_40 days (Source)	12 (Source)	40	n		bd_1		eb
-12_41 days (Source)	12 (Source)	41 days			na_1		
+12_40 days (Source)	12 (Source)	40	No		Breast milk-dominant, month 1		eb
+12_41 days (Source)	12 (Source)	41			na_1		
 12_426 days (Source)	12 (Source)	426	y		bd_14		eb
-12_490 days (Source)	12 (Source)	490 days	y		bd_16		eb
+12_490 days (Source)	12 (Source)	490	y		bd_16		eb
 12_560 days (Source)	12 (Source)	560	y		bd_18		eb
 12_609 days (Source)	12 (Source)	609	y		bd_20		eb
-12_62 days (Source)	12 (Source)	62	n		bd_2		eb
+12_62 days (Source)	12 (Source)	62	No		bd_2		eb
 12_675 days (Source)	12 (Source)	675	y	Amoxicillin	bd_22	2	eb
 12_732 days (Source)	12 (Source)	732	y		bd_24		eb
-12_739 days (Source)	12 (Source)	739 days	y		bd_24		eb
-12_99 days (Source)	12 (Source)	99	n		bd_3		eb
-14_-101 days (Source)	14 (Source)	-101			na_-3		
-14_-32 days (Source)	14 (Source)	-32			na_-1		
-14_1 days (Source)	14 (Source)	1 days	n		bd_0		eb
-14_121 days (Source)	14 (Source)	121	n		bd_4		eb
-14_154 days (Source)	14 (Source)	154 days	n		bd_5		eb
-14_184 days (Source)	14 (Source)	184	n		bd_6		eb
-14_211 days (Source)	14 (Source)	211	n		bd_7		eb
-14_239 days (Source)	14 (Source)	239	n		bd_8		eb
-14_276 days (Source)	14 (Source)	276 days	n		bd_9		eb
+12_739 days (Source)	12 (Source)	739	y		bd_24		eb
+12_99 days (Source)	12 (Source)	99	No		bd_3		eb
+14_-101 days (Source)	14 (Source)	-101					
+14_-32 days (Source)	14 (Source)	-32					
+14_1 days (Source)	14 (Source)	1	No		Breast milk-dominant, month 0		eb
+14_121 days (Source)	14 (Source)	121	No		bd_4		eb
+14_154 days (Source)	14 (Source)	154	No		bd_5		eb
+14_184 days (Source)	14 (Source)	184	No		bd_6		eb
+14_211 days (Source)	14 (Source)	211	No		bd_7		eb
+14_239 days (Source)	14 (Source)	239	No		bd_8		eb
+14_276 days (Source)	14 (Source)	276	No		bd_9		eb
 14_3 days (Source)	14 (Source)	3			na_0		
-14_31 days (Source)	14 (Source)	31 days	n		bd_1		eb
-14_333 days (Source)	14 (Source)	333	n		bd_11		eb
-14_368 days (Source)	14 (Source)	368 days	n		bd_12		eb
-14_394 days (Source)	14 (Source)	394	n		bd_13		eb
-14_426 days (Source)	14 (Source)	426 days	n		bd_14		eb
-14_43 days (Source)	14 (Source)	43 days			na_1		
-14_486 days (Source)	14 (Source)	486 days	n		bd_16		eb
-14_549 days (Source)	14 (Source)	549 days	n		bd_18		eb
-14_614 days (Source)	14 (Source)	614	n		bd_20		eb
-14_675 days (Source)	14 (Source)	675 days	n		bd_22		eb
-14_71 days (Source)	14 (Source)	71	n		bd_2		eb
-14_737 days (Source)	14 (Source)	737 days	n		bd_24		eb
-14_792 days (Source)	14 (Source)	792 days	n		bd_26		eb
-14_854 days (Source)	14 (Source)	854 days	n		bd_28		eb
-14_92 days (Source)	14 (Source)	92 days	n		bd_3		eb
-16_-104 days (Source)	16 (Source)	-104			na_-3		
-16_-32 days (Source)	16 (Source)	-32 days			na_-1		
-16_1 days (Source)	16 (Source)	1 days	n		bd_0		eb
-16_124 days (Source)	16 (Source)	124 days	n		bd_4		eb
-16_152 days (Source)	16 (Source)	152 days	n		bd_5		eb
-16_180 days (Source)	16 (Source)	180	n		bd_6		eb
-16_213 days (Source)	16 (Source)	213 days	n		bd_7		eb
-16_242 days (Source)	16 (Source)	242	n		bd_8		eb
-16_272 days (Source)	16 (Source)	272 days	n		bd_9		eb
-16_3 days (Source)	16 (Source)	3 days			na_0		
-16_303 days (Source)	16 (Source)	303 days	n		bd_10		eb
-16_31 days (Source)	16 (Source)	31 days	n		bd_1		eb
-16_333 days (Source)	16 (Source)	333 days	n		bd_11		eb
-16_366 days (Source)	16 (Source)	366 days	n		bd_12		eb
-16_395 days (Source)	16 (Source)	395	n		bd_13		eb
-16_428 days (Source)	16 (Source)	428 days	n		bd_14		eb
-16_45 days (Source)	16 (Source)	45	n		bd_2		eb
-16_489 days (Source)	16 (Source)	489	n		bd_16		eb
-16_549 days (Source)	16 (Source)	549 days	n		bd_18		eb
-16_608 days (Source)	16 (Source)	608 days	n		bd_20		eb
-16_64 days (Source)	16 (Source)	64 days	n		bd_2		eb
-16_672 days (Source)	16 (Source)	672	n		bd_22		eb
-16_733 days (Source)	16 (Source)	733 days	n		bd_24		eb
-16_796 days (Source)	16 (Source)	796	n		bd_26		eb
-16_8 days (Source)	16 (Source)	8	n		bd_0		eb
-16_852 days (Source)	16 (Source)	852	n		bd_28		eb
-16_92 days (Source)	16 (Source)	92 days	n		bd_3		eb
-17_-21 days (Source)	17 (Source)	-21 days			na_-1		
-17_-80 days (Source)	17 (Source)	-80 days			na_-3		
-17_0 days (Source)	17 (Source)	0 days	n		bd_0		eb
-17_123 days (Source)	17 (Source)	123 days	y		bd_4		eb
-17_152 days (Source)	17 (Source)	152 days	y		bd_5		eb
+14_31 days (Source)	14 (Source)	31	No		Breast milk-dominant, month 1		eb
+14_333 days (Source)	14 (Source)	333	No		bd_11		eb
+14_368 days (Source)	14 (Source)	368	No		bd_12		eb
+14_394 days (Source)	14 (Source)	394	No		bd_13		eb
+14_426 days (Source)	14 (Source)	426	No		bd_14		eb
+14_43 days (Source)	14 (Source)	43			na_1		
+14_486 days (Source)	14 (Source)	486	No		bd_16		eb
+14_549 days (Source)	14 (Source)	549	No		bd_18		eb
+14_614 days (Source)	14 (Source)	614	No		bd_20		eb
+14_675 days (Source)	14 (Source)	675	No		bd_22		eb
+14_71 days (Source)	14 (Source)	71	No		bd_2		eb
+14_737 days (Source)	14 (Source)	737	No		bd_24		eb
+14_792 days (Source)	14 (Source)	792	No		bd_26		eb
+14_854 days (Source)	14 (Source)	854	No		bd_28		eb
+14_92 days (Source)	14 (Source)	92	No		bd_3		eb
+16_-104 days (Source)	16 (Source)	-104					
+16_-32 days (Source)	16 (Source)	-32					
+16_1 days (Source)	16 (Source)	1	No		Breast milk-dominant, month 0		eb
+16_124 days (Source)	16 (Source)	124	No		bd_4		eb
+16_152 days (Source)	16 (Source)	152	No		bd_5		eb
+16_180 days (Source)	16 (Source)	180	No		bd_6		eb
+16_213 days (Source)	16 (Source)	213	No		bd_7		eb
+16_242 days (Source)	16 (Source)	242	No		bd_8		eb
+16_272 days (Source)	16 (Source)	272	No		bd_9		eb
+16_3 days (Source)	16 (Source)	3			na_0		
+16_303 days (Source)	16 (Source)	303	No		bd_10		eb
+16_31 days (Source)	16 (Source)	31	No		Breast milk-dominant, month 1		eb
+16_333 days (Source)	16 (Source)	333	No		bd_11		eb
+16_366 days (Source)	16 (Source)	366	No		bd_12		eb
+16_395 days (Source)	16 (Source)	395	No		bd_13		eb
+16_428 days (Source)	16 (Source)	428	No		bd_14		eb
+16_45 days (Source)	16 (Source)	45	No		bd_2		eb
+16_489 days (Source)	16 (Source)	489	No		bd_16		eb
+16_549 days (Source)	16 (Source)	549	No		bd_18		eb
+16_608 days (Source)	16 (Source)	608	No		bd_20		eb
+16_64 days (Source)	16 (Source)	64	No		bd_2		eb
+16_672 days (Source)	16 (Source)	672	No		bd_22		eb
+16_733 days (Source)	16 (Source)	733	No		bd_24		eb
+16_796 days (Source)	16 (Source)	796	No		bd_26		eb
+16_8 days (Source)	16 (Source)	8	No		Breast milk-dominant, month 0		eb
+16_852 days (Source)	16 (Source)	852	No		bd_28		eb
+16_92 days (Source)	16 (Source)	92	No		bd_3		eb
+17_-21 days (Source)	17 (Source)	-21					
+17_-80 days (Source)	17 (Source)	-80					
+17_0 days (Source)	17 (Source)	0	No		Breast milk-dominant, month 0		eb
+17_123 days (Source)	17 (Source)	123	y		bd_4		eb
+17_152 days (Source)	17 (Source)	152	y		bd_5		eb
 17_179 days (Source)	17 (Source)	179	y		bd_6		eb
-17_2 days (Source)	17 (Source)	2 days	n	Ampicillin/Gentamicin	bd_0	1	eb
+17_2 days (Source)	17 (Source)	2	No	Ampicillin/Gentamicin	Breast milk-dominant, month 0	1	eb
 17_216 days (Source)	17 (Source)	216	y		bd_7		eb
-17_247 days (Source)	17 (Source)	247 days	y		bd_8		eb
-17_32 days (Source)	17 (Source)	32 days	y	Ampicillin/Gentamicin	bd_1	1	eb
-17_4 days (Source)	17 (Source)	4 days			na_0		
-17_45 days (Source)	17 (Source)	45 days	y		bd_2		eb
-17_63 days (Source)	17 (Source)	63 days	y		bd_2		eb
-17_91 days (Source)	17 (Source)	91 days	y		bd_3		eb
+17_247 days (Source)	17 (Source)	247	y		bd_8		eb
+17_32 days (Source)	17 (Source)	32	y	Ampicillin/Gentamicin	Breast milk-dominant, month 1	1	eb
+17_4 days (Source)	17 (Source)	4			na_0		
+17_45 days (Source)	17 (Source)	45	y		bd_2		eb
+17_63 days (Source)	17 (Source)	63	y		bd_2		eb
+17_91 days (Source)	17 (Source)	91	y		bd_3		eb
 18_-110 days (Source)	18 (Source)	-110			na_-4		
-18_-24 days (Source)	18 (Source)	-24 days			na_-1		
-18_125 days (Source)	18 (Source)	125	n		bd_4		eb
-18_154 days (Source)	18 (Source)	154 days	n		bd_5		eb
-18_189 days (Source)	18 (Source)	189 days	n		bd_6		eb
-18_2 days (Source)	18 (Source)	2 days	n		bd_0		eb
-18_214 days (Source)	18 (Source)	214 days	n		bd_7		eb
-18_244 days (Source)	18 (Source)	244 days	n		bd_8		eb
-18_282 days (Source)	18 (Source)	282	n		bd_9		eb
-18_312 days (Source)	18 (Source)	312	n		bd_10		eb
-18_33 days (Source)	18 (Source)	33	n		bd_1		eb
-18_336 days (Source)	18 (Source)	336	n		bd_11		eb
-18_373 days (Source)	18 (Source)	373 days	n		bd_12		eb
-18_425 days (Source)	18 (Source)	425	n		bd_14		eb
-18_489 days (Source)	18 (Source)	489 days	n		bd_16		eb
-18_5 days (Source)	18 (Source)	5 days			na_0		
-18_548 days (Source)	18 (Source)	548	n		bd_18		eb
-18_606 days (Source)	18 (Source)	606	n		bd_20		eb
-18_732 days (Source)	18 (Source)	732 days	y	Cephalexin	bd_24		eb
+18_-24 days (Source)	18 (Source)	-24					
+18_125 days (Source)	18 (Source)	125	No		bd_4		eb
+18_154 days (Source)	18 (Source)	154	No		bd_5		eb
+18_189 days (Source)	18 (Source)	189	No		bd_6		eb
+18_2 days (Source)	18 (Source)	2	No		Breast milk-dominant, month 0		eb
+18_214 days (Source)	18 (Source)	214	No		bd_7		eb
+18_244 days (Source)	18 (Source)	244	No		bd_8		eb
+18_282 days (Source)	18 (Source)	282	No		bd_9		eb
+18_312 days (Source)	18 (Source)	312	No		bd_10		eb
+18_33 days (Source)	18 (Source)	33	No		Breast milk-dominant, month 1		eb
+18_336 days (Source)	18 (Source)	336	No		bd_11		eb
+18_373 days (Source)	18 (Source)	373	No		bd_12		eb
+18_425 days (Source)	18 (Source)	425	No		bd_14		eb
+18_489 days (Source)	18 (Source)	489	No		bd_16		eb
+18_5 days (Source)	18 (Source)	5			na_0		
+18_548 days (Source)	18 (Source)	548	No		bd_18		eb
+18_606 days (Source)	18 (Source)	606	No		bd_20		eb
+18_732 days (Source)	18 (Source)	732	y	Cephalexin	bd_24		eb
 18_790 days (Source)	18 (Source)	790	y		bd_26		eb
-18_853 days (Source)	18 (Source)	853 days	y		bd_28		eb
-18_90 days (Source)	18 (Source)	90	n		bd_3		eb
-19_ (Source)	19 (Source)				na_na		
+18_853 days (Source)	18 (Source)	853	y		bd_28		eb
+18_90 days (Source)	18 (Source)	90	No		bd_3		eb
 1_-21 days (Source)	1 (Source)	-21					
 1_0 days (Source)	1 (Source)	0	No		Breast milk-dominant, month 0		eb
 1_1003 days (Source)	1 (Source)	1003	y	Amoxicillin	bd_33	8	eb
@@ -175,7 +174,7 @@ participant_repeated_measure_Id	Participant_Id	Age (years) [OBI_0001169]	Antibio
 1_300 days (Source)	1 (Source)	300	y	Amoxicillin	bd_10	2	eb
 1_307 days (Source)	1 (Source)	307	y		bd_10		eb
 1_337 days (Source)	1 (Source)	337	y		bd_11		eb
-1_36 days (Source)	1 (Source)	36	n		Breast milk-dominant, month 1		eb
+1_36 days (Source)	1 (Source)	36	No		Breast milk-dominant, month 1		eb
 1_367 days (Source)	1 (Source)	367	y	Amoxicillin	bd_12	3	eb
 1_375 days (Source)	1 (Source)	375	y	Amoxicillin	bd_12	3	eb
 1_378 days (Source)	1 (Source)	378	y	Amoxicillin	bd_12	3	eb
@@ -184,13 +183,13 @@ participant_repeated_measure_Id	Participant_Id	Age (years) [OBI_0001169]	Antibio
 1_398 days (Source)	1 (Source)	398	y	Metronidazole	bd_13	4	eb
 1_406 days (Source)	1 (Source)	406	y	Augmentin	bd_13	5	eb
 1_411 days (Source)	1 (Source)	411	y	Augmentin	bd_14	5	eb
-1_42 days (Source)	1 (Source)	42	n		bd_1		eb
+1_42 days (Source)	1 (Source)	42	No		Breast milk-dominant, month 1		eb
 1_427 days (Source)	1 (Source)	427	y	Azithromycin	bd_14	6	eb
 1_435 days (Source)	1 (Source)	435	y	Azithromycin	bd_14	6	eb
 1_447 days (Source)	1 (Source)	447	y	Azithromycin	bd_15	6	eb
 1_488 days (Source)	1 (Source)	488	y		bd_16		eb
 1_49 days (Source)	1 (Source)	49	y	Cephalexin	bd_2	1	eb
-1_5 days (Source)	1 (Source)	5 days			na_0		
+1_5 days (Source)	1 (Source)	5			na_0		
 1_551 days (Source)	1 (Source)	551	y		bd_18		eb
 1_57 days (Source)	1 (Source)	57	y	Cephalexin	bd_2	1	eb
 1_61 days (Source)	1 (Source)	61	y		bd_2		eb
@@ -204,102 +203,102 @@ participant_repeated_measure_Id	Participant_Id	Age (years) [OBI_0001169]	Antibio
 1_977 days (Source)	1 (Source)	977	y	Amoxicillin	bd_32	8	eb
 1_994 days (Source)	1 (Source)	994	y	Amoxicillin	bd_33	8	eb
 1_999 days (Source)	1 (Source)	999	y	Amoxicillin	bd_33	8	eb
-20_-23 days (Source)	20 (Source)	-23 days			na_-1		
-20_-71 days (Source)	20 (Source)	-71 days			na_-2		
-20_0 days (Source)	20 (Source)	0 days	n	Polytrim	bd_0	1	eb
-20_11 days (Source)	20 (Source)	11	y	Polytrim	bd_0	1	eb
-20_123 days (Source)	20 (Source)	123 days	y		bd_4		eb
-20_13 days (Source)	20 (Source)	13	y	Polytrim	bd_0	1	eb
-20_15 days (Source)	20 (Source)	15	y	Polytrim	bd_1	1	eb
-20_153 days (Source)	20 (Source)	153 days	y		bd_5		eb
-20_180 days (Source)	20 (Source)	180 days	y		bd_6		eb
-20_211 days (Source)	20 (Source)	211 days	y		bd_7		eb
-20_243 days (Source)	20 (Source)	243 days	y		bd_8		eb
-20_273 days (Source)	20 (Source)	273 days	y		bd_9		eb
-20_305 days (Source)	20 (Source)	305 days	y		bd_10		eb
-20_33 days (Source)	20 (Source)	33 days	y		bd_1		eb
-20_334 days (Source)	20 (Source)	334 days	y		bd_11		eb
-20_34 days (Source)	20 (Source)	34 days			na_1		
-20_365 days (Source)	20 (Source)	365 days	y		bd_12		eb
-20_426 days (Source)	20 (Source)	426 days	y		bd_14		eb
+20_-23 days (Source)	20 (Source)	-23					
+20_-71 days (Source)	20 (Source)	-71			na_-2		
+20_0 days (Source)	20 (Source)	0	No	Polytrim	Breast milk-dominant, month 0	1	eb
+20_11 days (Source)	20 (Source)	11	y	Polytrim	Breast milk-dominant, month 0	1	eb
+20_123 days (Source)	20 (Source)	123	y		bd_4		eb
+20_13 days (Source)	20 (Source)	13	y	Polytrim	Breast milk-dominant, month 0	1	eb
+20_15 days (Source)	20 (Source)	15	y	Polytrim	Breast milk-dominant, month 1	1	eb
+20_153 days (Source)	20 (Source)	153	y		bd_5		eb
+20_180 days (Source)	20 (Source)	180	y		bd_6		eb
+20_211 days (Source)	20 (Source)	211	y		bd_7		eb
+20_243 days (Source)	20 (Source)	243	y		bd_8		eb
+20_273 days (Source)	20 (Source)	273	y		bd_9		eb
+20_305 days (Source)	20 (Source)	305	y		bd_10		eb
+20_33 days (Source)	20 (Source)	33	y		Breast milk-dominant, month 1		eb
+20_334 days (Source)	20 (Source)	334	y		bd_11		eb
+20_34 days (Source)	20 (Source)	34			na_1		
+20_365 days (Source)	20 (Source)	365	y		bd_12		eb
+20_426 days (Source)	20 (Source)	426	y		bd_14		eb
 20_487 days (Source)	20 (Source)	487	y		bd_16		eb
-20_5 days (Source)	20 (Source)	5 days			na_0		
-20_551 days (Source)	20 (Source)	551 days	y	Amoxicillin	bd_18	2	eb
+20_5 days (Source)	20 (Source)	5			na_0		
+20_551 days (Source)	20 (Source)	551	y	Amoxicillin	bd_18	2	eb
 20_593 days (Source)	20 (Source)	593	y		bd_20		eb
 20_594 days (Source)	20 (Source)	594	y		bd_20		eb
 20_599 days (Source)	20 (Source)	599	y		bd_20		eb
 20_604 days (Source)	20 (Source)	604	y		bd_20		eb
 20_670 days (Source)	20 (Source)	670	y		bd_22		eb
 20_69 days (Source)	20 (Source)	69	y		bd_2		eb
-20_7 days (Source)	20 (Source)	7	y	Polytrim	bd_0	1	eb
+20_7 days (Source)	20 (Source)	7	y	Polytrim	Breast milk-dominant, month 0	1	eb
 20_745 days (Source)	20 (Source)	745	y		bd_25		eb
 20_791 days (Source)	20 (Source)	791	y		bd_26		eb
-20_856 days (Source)	20 (Source)	856 days	y		bd_28		eb
-20_9 days (Source)	20 (Source)	9	y	Polytrim	bd_0	1	eb
+20_856 days (Source)	20 (Source)	856	y		bd_28		eb
+20_9 days (Source)	20 (Source)	9	y	Polytrim	Breast milk-dominant, month 0	1	eb
 20_95 days (Source)	20 (Source)	95	y		bd_3		eb
 21_-6 days (Source)	21 (Source)	-6			na_0		
-21_-83 days (Source)	21 (Source)	-83			na_-3		
-21_1 days (Source)	21 (Source)	1 days	n		fd_0		fd
-21_161 days (Source)	21 (Source)	161	n		fd_5		fd
-21_188 days (Source)	21 (Source)	188 days	n		fd_6		fd
-21_2 days (Source)	21 (Source)	2 days	n		fd_0		fd
-21_245 days (Source)	21 (Source)	245 days	n		fd_8		fd
-21_306 days (Source)	21 (Source)	306	n		fd_10		fd
-21_347 days (Source)	21 (Source)	347	n		fd_11		fd
-21_351 days (Source)	21 (Source)	351	n		fd_12		fd
-21_37 days (Source)	21 (Source)	37	n		fd_1		fd
-21_383 days (Source)	21 (Source)	383	n		fd_13		fd
+21_-83 days (Source)	21 (Source)	-83					
+21_1 days (Source)	21 (Source)	1	No		Formula-dominant, month 0		fd
+21_161 days (Source)	21 (Source)	161	No		fd_5		fd
+21_188 days (Source)	21 (Source)	188	No		fd_6		fd
+21_2 days (Source)	21 (Source)	2	No		Formula-dominant, month 0		fd
+21_245 days (Source)	21 (Source)	245	No		fd_8		fd
+21_306 days (Source)	21 (Source)	306	No		fd_10		fd
+21_347 days (Source)	21 (Source)	347	No		fd_11		fd
+21_351 days (Source)	21 (Source)	351	No		fd_12		fd
+21_37 days (Source)	21 (Source)	37	No		fd_1		fd
+21_383 days (Source)	21 (Source)	383	No		fd_13		fd
 21_499 days (Source)	21 (Source)	499	y	Amoxicillin	fd_16		fd
 21_559 days (Source)	21 (Source)	559	y		fd_18		fd
 21_746 days (Source)	21 (Source)	746	y		fd_25		fd
-21_8 days (Source)	21 (Source)	8 days			na_0		
+21_8 days (Source)	21 (Source)	8			na_0		
 21_872 days (Source)	21 (Source)	872	y		fd_29		fd
-21_94 days (Source)	21 (Source)	94 days	n		fd_3		fd
-22_-22 days (Source)	22 (Source)	-22			na_-1		
-22_0 days (Source)	22 (Source)	0 days	n		fd_0		fd
-22_122 days (Source)	22 (Source)	122 days	n		fd_4		fd
-22_153 days (Source)	22 (Source)	153 days	n		fd_5		fd
-22_182 days (Source)	22 (Source)	182	n		fd_6		fd
-22_2 days (Source)	22 (Source)	2 days			na_0		
-22_217 days (Source)	22 (Source)	217	n		fd_7		fd
-22_243 days (Source)	22 (Source)	243 days	n		fd_8		fd
-22_273 days (Source)	22 (Source)	273 days	n		fd_9		fd
-22_304 days (Source)	22 (Source)	304 days	n		fd_10		fd
-22_32 days (Source)	22 (Source)	32 days	n		fd_1		fd
-22_342 days (Source)	22 (Source)	342	n		fd_11		fd
-22_370 days (Source)	22 (Source)	370	n		fd_12		fd
-22_443 days (Source)	22 (Source)	443	n		fd_15		fd
-22_489 days (Source)	22 (Source)	489 days	n		fd_16		fd
-22_551 days (Source)	22 (Source)	551 days	n		fd_18		fd
-22_63 days (Source)	22 (Source)	63 days	n		fd_2		fd
+21_94 days (Source)	21 (Source)	94	No		fd_3		fd
+22_-22 days (Source)	22 (Source)	-22					
+22_0 days (Source)	22 (Source)	0	No		Formula-dominant, month 0		fd
+22_122 days (Source)	22 (Source)	122	No		fd_4		fd
+22_153 days (Source)	22 (Source)	153	No		fd_5		fd
+22_182 days (Source)	22 (Source)	182	No		fd_6		fd
+22_2 days (Source)	22 (Source)	2			na_0		
+22_217 days (Source)	22 (Source)	217	No		fd_7		fd
+22_243 days (Source)	22 (Source)	243	No		fd_8		fd
+22_273 days (Source)	22 (Source)	273	No		fd_9		fd
+22_304 days (Source)	22 (Source)	304	No		fd_10		fd
+22_32 days (Source)	22 (Source)	32	No		fd_1		fd
+22_342 days (Source)	22 (Source)	342	No		fd_11		fd
+22_370 days (Source)	22 (Source)	370	No		fd_12		fd
+22_443 days (Source)	22 (Source)	443	No		fd_15		fd
+22_489 days (Source)	22 (Source)	489	No		fd_16		fd
+22_551 days (Source)	22 (Source)	551	No		fd_18		fd
+22_63 days (Source)	22 (Source)	63	No		fd_2		fd
 22_67 days (Source)	22 (Source)	67			na_2		
-22_671 days (Source)	22 (Source)	671	n		fd_22		fd
-22_737 days (Source)	22 (Source)	737 days	n		fd_24		fd
-22_791 days (Source)	22 (Source)	791 days	n		fd_26		fd
-22_856 days (Source)	22 (Source)	856 days	n		fd_28		fd
-22_96 days (Source)	22 (Source)	96	n		fd_3		fd
+22_671 days (Source)	22 (Source)	671	No		fd_22		fd
+22_737 days (Source)	22 (Source)	737	No		fd_24		fd
+22_791 days (Source)	22 (Source)	791	No		fd_26		fd
+22_856 days (Source)	22 (Source)	856	No		fd_28		fd
+22_96 days (Source)	22 (Source)	96	No		fd_3		fd
 23_-5 days (Source)	23 (Source)	-5			na_0		
-23_-82 days (Source)	23 (Source)	-82 days			na_-3		
-23_1 days (Source)	23 (Source)	1 days	n		bd_0		eb
-24_-102 days (Source)	24 (Source)	-102			na_-3		
-24_-15 days (Source)	24 (Source)	-15 days			na_-1		
-24_0 days (Source)	24 (Source)	0 days	n		bd_0		eb
+23_-82 days (Source)	23 (Source)	-82					
+23_1 days (Source)	23 (Source)	1	No		Breast milk-dominant, month 0		eb
+24_-102 days (Source)	24 (Source)	-102					
+24_-15 days (Source)	24 (Source)	-15					
+24_0 days (Source)	24 (Source)	0	No		Breast milk-dominant, month 0		eb
 24_10 days (Source)	24 (Source)	10			na_0		
 24_129 days (Source)	24 (Source)	129	y		bd_4		eb
 24_150 days (Source)	24 (Source)	150	y		bd_5		eb
-24_182 days (Source)	24 (Source)	182 days	y		bd_6		eb
-24_213 days (Source)	24 (Source)	213 days	y		bd_7		eb
-24_272 days (Source)	24 (Source)	272 days	y		bd_9		eb
+24_182 days (Source)	24 (Source)	182	y		bd_6		eb
+24_213 days (Source)	24 (Source)	213	y		bd_7		eb
+24_272 days (Source)	24 (Source)	272	y		bd_9		eb
 24_310 days (Source)	24 (Source)	310	y		bd_10		eb
-24_33 days (Source)	24 (Source)	33 days	n		bd_1		eb
-24_337 days (Source)	24 (Source)	337 days	y		bd_11		eb
-24_373 days (Source)	24 (Source)	373 days	y		bd_12		eb
+24_33 days (Source)	24 (Source)	33	No		Breast milk-dominant, month 1		eb
+24_337 days (Source)	24 (Source)	337	y		bd_11		eb
+24_373 days (Source)	24 (Source)	373	y		bd_12		eb
 24_416 days (Source)	24 (Source)	416	y		bd_14		eb
-24_43 days (Source)	24 (Source)	43 days	n		bd_1		eb
-24_45 days (Source)	24 (Source)	45 days			na_2		
-24_490 days (Source)	24 (Source)	490 days	y		bd_16		eb
-24_551 days (Source)	24 (Source)	551 days	y		bd_18		eb
-24_61 days (Source)	24 (Source)	61 days	n	Augmentin	bd_2	1	eb
+24_43 days (Source)	24 (Source)	43	No		Breast milk-dominant, month 1		eb
+24_45 days (Source)	24 (Source)	45			na_2		
+24_490 days (Source)	24 (Source)	490	y		bd_16		eb
+24_551 days (Source)	24 (Source)	551	y		bd_18		eb
+24_61 days (Source)	24 (Source)	61	No	Augmentin	bd_2	1	eb
 24_611 days (Source)	24 (Source)	611	y		bd_20		eb
 24_673 days (Source)	24 (Source)	673	y		bd_22		eb
 24_734 days (Source)	24 (Source)	734	y		bd_24		eb
@@ -307,610 +306,607 @@ participant_repeated_measure_Id	Participant_Id	Age (years) [OBI_0001169]	Antibio
 24_799 days (Source)	24 (Source)	799	y		bd_26		eb
 24_86 days (Source)	24 (Source)	86	y	Augmentin	bd_3	1	eb
 25_-4 days (Source)	25 (Source)	-4			na_0		
-25_-88 days (Source)	25 (Source)	-88			na_-3		
-25_1 days (Source)	25 (Source)	1 days	n		bd_0		bd
-25_124 days (Source)	25 (Source)	124 days	n		bd_4		bd
-25_158 days (Source)	25 (Source)	158 days	n		bd_5		bd
-25_183 days (Source)	25 (Source)	183 days	n		bd_6		bd
-25_211 days (Source)	25 (Source)	211 days	n		bd_7		bd
-25_240 days (Source)	25 (Source)	240	n		bd_8		bd
-25_280 days (Source)	25 (Source)	280	n		bd_9		bd
-25_30 days (Source)	25 (Source)	30 days	n		bd_1		bd
-25_303 days (Source)	25 (Source)	303 days	n		bd_10		bd
-25_337 days (Source)	25 (Source)	337 days	n		bd_11		bd
-25_365 days (Source)	25 (Source)	365 days	n		bd_12		bd
-25_42 days (Source)	25 (Source)	42 days	n		bd_1		bd
-25_428 days (Source)	25 (Source)	428 days	y	Amoxicillin	bd_14		bd
-25_43 days (Source)	25 (Source)	43 days			na_1		
-25_489 days (Source)	25 (Source)	489 days	y		bd_16		bd
-25_548 days (Source)	25 (Source)	548 days	y		bd_18		bd
-25_60 days (Source)	25 (Source)	60 days	n		bd_2		bd
-25_615 days (Source)	25 (Source)	615 days	y		bd_20		bd
+25_-88 days (Source)	25 (Source)	-88					
+25_1 days (Source)	25 (Source)	1	No		Breast milk-dominant, month 0		bd
+25_124 days (Source)	25 (Source)	124	No		bd_4		bd
+25_158 days (Source)	25 (Source)	158	No		bd_5		bd
+25_183 days (Source)	25 (Source)	183	No		bd_6		bd
+25_211 days (Source)	25 (Source)	211	No		bd_7		bd
+25_240 days (Source)	25 (Source)	240	No		bd_8		bd
+25_280 days (Source)	25 (Source)	280	No		bd_9		bd
+25_30 days (Source)	25 (Source)	30	No		Breast milk-dominant, month 1		bd
+25_303 days (Source)	25 (Source)	303	No		bd_10		bd
+25_337 days (Source)	25 (Source)	337	No		bd_11		bd
+25_365 days (Source)	25 (Source)	365	No		bd_12		bd
+25_42 days (Source)	25 (Source)	42	No		Breast milk-dominant, month 1		bd
+25_428 days (Source)	25 (Source)	428	y	Amoxicillin	bd_14		bd
+25_43 days (Source)	25 (Source)	43			na_1		
+25_489 days (Source)	25 (Source)	489	y		bd_16		bd
+25_548 days (Source)	25 (Source)	548	y		bd_18		bd
+25_60 days (Source)	25 (Source)	60	No		bd_2		bd
+25_615 days (Source)	25 (Source)	615	y		bd_20		bd
 25_666 days (Source)	25 (Source)	666	y		bd_22		bd
-25_734 days (Source)	25 (Source)	734 days	y		bd_24		bd
-25_792 days (Source)	25 (Source)	792 days	y		bd_26		bd
-25_94 days (Source)	25 (Source)	94 days	n		bd_3		bd
-26_ (Source)	26 (Source)				na_na		
-27_-86 days (Source)	27 (Source)	-86			na_-3		
-27_1 days (Source)	27 (Source)	1 days	n		bd_0		bd
-27_119 days (Source)	27 (Source)	119	n		bd_4		bd
-27_155 days (Source)	27 (Source)	155 days	n		bd_5		bd
-27_181 days (Source)	27 (Source)	181	n		bd_6		bd
-27_211 days (Source)	27 (Source)	211 days	n		bd_7		bd
-27_243 days (Source)	27 (Source)	243 days	n	Amoxicillin	bd_8	1	bd
-27_275 days (Source)	27 (Source)	275 days	y	Amoxicillin	bd_9	1	bd
-27_278 days (Source)	27 (Source)	278 days	y		bd_9		bd
+25_734 days (Source)	25 (Source)	734	y		bd_24		bd
+25_792 days (Source)	25 (Source)	792	y		bd_26		bd
+25_94 days (Source)	25 (Source)	94	No		bd_3		bd
+27_-86 days (Source)	27 (Source)	-86					
+27_1 days (Source)	27 (Source)	1	No		Breast milk-dominant, month 0		bd
+27_119 days (Source)	27 (Source)	119	No		bd_4		bd
+27_155 days (Source)	27 (Source)	155	No		bd_5		bd
+27_181 days (Source)	27 (Source)	181	No		bd_6		bd
+27_211 days (Source)	27 (Source)	211	No		bd_7		bd
+27_243 days (Source)	27 (Source)	243	No	Amoxicillin	bd_8	1	bd
+27_275 days (Source)	27 (Source)	275	y	Amoxicillin	bd_9	1	bd
+27_278 days (Source)	27 (Source)	278	y		bd_9		bd
 27_289 days (Source)	27 (Source)	289	y		bd_10		bd
-27_3 days (Source)	27 (Source)	3 days			na_0		
-27_306 days (Source)	27 (Source)	306 days	y		bd_10		bd
-27_338 days (Source)	27 (Source)	338 days	y		bd_11		bd
-27_35 days (Source)	27 (Source)	35	n		bd_1		bd
-27_370 days (Source)	27 (Source)	370 days	y		bd_12		bd
-27_42 days (Source)	27 (Source)	42 days			na_1		
-27_429 days (Source)	27 (Source)	429 days	y		bd_14		bd
-27_489 days (Source)	27 (Source)	489 days	y		bd_16		bd
-27_551 days (Source)	27 (Source)	551 days	y		bd_18		bd
+27_3 days (Source)	27 (Source)	3			na_0		
+27_306 days (Source)	27 (Source)	306	y		bd_10		bd
+27_338 days (Source)	27 (Source)	338	y		bd_11		bd
+27_35 days (Source)	27 (Source)	35	No		Breast milk-dominant, month 1		bd
+27_370 days (Source)	27 (Source)	370	y		bd_12		bd
+27_42 days (Source)	27 (Source)	42			na_1		
+27_429 days (Source)	27 (Source)	429	y		bd_14		bd
+27_489 days (Source)	27 (Source)	489	y		bd_16		bd
+27_551 days (Source)	27 (Source)	551	y		bd_18		bd
 27_607 days (Source)	27 (Source)	607	y		bd_20		bd
-27_673 days (Source)	27 (Source)	673 days	y		bd_22		bd
-27_69 days (Source)	27 (Source)	69 days	n		bd_2		bd
+27_673 days (Source)	27 (Source)	673	y		bd_22		bd
+27_69 days (Source)	27 (Source)	69	No		bd_2		bd
 27_736 days (Source)	27 (Source)	736	y		bd_24		bd
 27_797 days (Source)	27 (Source)	797	y		bd_26		bd
-27_91 days (Source)	27 (Source)	91 days	n		bd_3		bd
-29_ (Source)	29 (Source)				na_na		
-2_-20 days (Source)	2 (Source)	-20			na_-1		
-2_0 days (Source)	2 (Source)	0 days	n		bd_0		eb
-2_123 days (Source)	2 (Source)	123	n		bd_4		eb
-2_158 days (Source)	2 (Source)	158	n		bd_5		eb
-2_190 days (Source)	2 (Source)	190	n		bd_6		eb
-2_249 days (Source)	2 (Source)	249	n		bd_8		eb
-2_284 days (Source)	2 (Source)	284	n		bd_9		eb
-2_315 days (Source)	2 (Source)	315	n		bd_10		eb
-2_32 days (Source)	2 (Source)	32	n		bd_1		eb
-2_338 days (Source)	2 (Source)	338	n		bd_11		eb
-2_369 days (Source)	2 (Source)	369	n		bd_12		eb
-2_460 days (Source)	2 (Source)	460	n		bd_15		eb
-2_488 days (Source)	2 (Source)	488 days	n		bd_16		eb
-2_52 days (Source)	2 (Source)	52 days			na_2		
-2_53 days (Source)	2 (Source)	53	n		bd_2		eb
-2_555 days (Source)	2 (Source)	555	n		bd_18		eb
-2_60 days (Source)	2 (Source)	60	n		bd_2		eb
-2_630 days (Source)	2 (Source)	630	n		bd_21		eb
-2_678 days (Source)	2 (Source)	678	n		bd_22		eb
-2_731 days (Source)	2 (Source)	731	n		bd_24		eb
-2_798 days (Source)	2 (Source)	798	n		bd_26		eb
-2_856 days (Source)	2 (Source)	856	n		bd_28		eb
-2_89 days (Source)	2 (Source)	89	n		bd_3		eb
-2_917 days (Source)	2 (Source)	917 days	n		bd_30		eb
-2_988 days (Source)	2 (Source)	988	n		bd_33		eb
-30_-29 days (Source)	30 (Source)	-29			na_-1		
-30_-92 days (Source)	30 (Source)	-92			na_-3		
-30_0 days (Source)	30 (Source)	0 days	n		bd_0		eb
-30_1 days (Source)	30 (Source)	1 days			na_0		
-30_122 days (Source)	30 (Source)	122 days	n		bd_4		eb
-30_150 days (Source)	30 (Source)	150 days	n		bd_5		eb
-30_183 days (Source)	30 (Source)	183 days	n		bd_6		eb
-30_214 days (Source)	30 (Source)	214 days	n		bd_7		eb
-30_243 days (Source)	30 (Source)	243 days	n		bd_8		eb
-30_276 days (Source)	30 (Source)	276 days	n		bd_9		eb
-30_303 days (Source)	30 (Source)	303 days	n		bd_10		eb
-30_334 days (Source)	30 (Source)	334 days	n		bd_11		eb
-30_34 days (Source)	30 (Source)	34	n		bd_1		eb
-30_365 days (Source)	30 (Source)	365 days	n		bd_12		eb
-30_400 days (Source)	30 (Source)	400	n		bd_13		eb
-30_429 days (Source)	30 (Source)	429 days	n		bd_14		eb
-30_44 days (Source)	30 (Source)	44	n		bd_1		eb
-30_495 days (Source)	30 (Source)	495	n		bd_16		eb
-30_554 days (Source)	30 (Source)	554	n		bd_18		eb
-30_606 days (Source)	30 (Source)	606 days	n		bd_20		eb
-30_61 days (Source)	30 (Source)	61 days	n		bd_2		eb
-30_674 days (Source)	30 (Source)	674	n		bd_22		eb
-30_746 days (Source)	30 (Source)	746 days	n		bd_25		eb
-30_90 days (Source)	30 (Source)	90 days	n		bd_3		eb
-31_-28 days (Source)	31 (Source)	-28			na_-1		
-31_-94 days (Source)	31 (Source)	-94			na_-3		
-31_0 days (Source)	31 (Source)	0 days	n		bd_0		eb
-31_119 days (Source)	31 (Source)	119 days	n		bd_4		eb
-31_152 days (Source)	31 (Source)	152 days	n		bd_5		eb
-31_184 days (Source)	31 (Source)	184 days	n		bd_6		eb
-31_2 days (Source)	31 (Source)	2 days			na_0		
-31_210 days (Source)	31 (Source)	210 days	n		bd_7		eb
-31_243 days (Source)	31 (Source)	243 days	n		bd_8		eb
-31_275 days (Source)	31 (Source)	275 days	n		bd_9		eb
-31_307 days (Source)	31 (Source)	307 days	n		bd_10		eb
-31_32 days (Source)	31 (Source)	32 days	n		bd_1		eb
-31_341 days (Source)	31 (Source)	341	n		bd_11		eb
-31_365 days (Source)	31 (Source)	365 days	n		bd_12		eb
-31_39 days (Source)	31 (Source)	39 days			na_1		
-31_396 days (Source)	31 (Source)	396	n		bd_13		eb
-31_41 days (Source)	31 (Source)	41	n		bd_1		eb
-31_42 days (Source)	31 (Source)	42 days			na_1		
-31_428 days (Source)	31 (Source)	428 days	n		bd_14		eb
-31_491 days (Source)	31 (Source)	491	n		bd_16		eb
-31_54 days (Source)	31 (Source)	54	n		bd_2		eb
-31_547 days (Source)	31 (Source)	547	n		bd_18		eb
-31_618 days (Source)	31 (Source)	618	n		bd_20		eb
-31_666 days (Source)	31 (Source)	666 days	n		bd_22		eb
-31_729 days (Source)	31 (Source)	729 days	n		bd_24		eb
-31_89 days (Source)	31 (Source)	89 days	n		bd_3		eb
-32_-98 days (Source)	32 (Source)	-98			na_-3		
-32_1 days (Source)	32 (Source)	1 days	n		bd_0		eb
+27_91 days (Source)	27 (Source)	91	No		bd_3		bd
+2_-20 days (Source)	2 (Source)	-20					
+2_0 days (Source)	2 (Source)	0	No		Breast milk-dominant, month 0		eb
+2_123 days (Source)	2 (Source)	123	No		bd_4		eb
+2_158 days (Source)	2 (Source)	158	No		bd_5		eb
+2_190 days (Source)	2 (Source)	190	No		bd_6		eb
+2_249 days (Source)	2 (Source)	249	No		bd_8		eb
+2_284 days (Source)	2 (Source)	284	No		bd_9		eb
+2_315 days (Source)	2 (Source)	315	No		bd_10		eb
+2_32 days (Source)	2 (Source)	32	No		Breast milk-dominant, month 1		eb
+2_338 days (Source)	2 (Source)	338	No		bd_11		eb
+2_369 days (Source)	2 (Source)	369	No		bd_12		eb
+2_460 days (Source)	2 (Source)	460	No		bd_15		eb
+2_488 days (Source)	2 (Source)	488	No		bd_16		eb
+2_52 days (Source)	2 (Source)	52			na_2		
+2_53 days (Source)	2 (Source)	53	No		bd_2		eb
+2_555 days (Source)	2 (Source)	555	No		bd_18		eb
+2_60 days (Source)	2 (Source)	60	No		bd_2		eb
+2_630 days (Source)	2 (Source)	630	No		bd_21		eb
+2_678 days (Source)	2 (Source)	678	No		bd_22		eb
+2_731 days (Source)	2 (Source)	731	No		bd_24		eb
+2_798 days (Source)	2 (Source)	798	No		bd_26		eb
+2_856 days (Source)	2 (Source)	856	No		bd_28		eb
+2_89 days (Source)	2 (Source)	89	No		bd_3		eb
+2_917 days (Source)	2 (Source)	917	No		bd_30		eb
+2_988 days (Source)	2 (Source)	988	No		bd_33		eb
+30_-29 days (Source)	30 (Source)	-29					
+30_-92 days (Source)	30 (Source)	-92					
+30_0 days (Source)	30 (Source)	0	No		Breast milk-dominant, month 0		eb
+30_1 days (Source)	30 (Source)	1			na_0		
+30_122 days (Source)	30 (Source)	122	No		bd_4		eb
+30_150 days (Source)	30 (Source)	150	No		bd_5		eb
+30_183 days (Source)	30 (Source)	183	No		bd_6		eb
+30_214 days (Source)	30 (Source)	214	No		bd_7		eb
+30_243 days (Source)	30 (Source)	243	No		bd_8		eb
+30_276 days (Source)	30 (Source)	276	No		bd_9		eb
+30_303 days (Source)	30 (Source)	303	No		bd_10		eb
+30_334 days (Source)	30 (Source)	334	No		bd_11		eb
+30_34 days (Source)	30 (Source)	34	No		Breast milk-dominant, month 1		eb
+30_365 days (Source)	30 (Source)	365	No		bd_12		eb
+30_400 days (Source)	30 (Source)	400	No		bd_13		eb
+30_429 days (Source)	30 (Source)	429	No		bd_14		eb
+30_44 days (Source)	30 (Source)	44	No		Breast milk-dominant, month 1		eb
+30_495 days (Source)	30 (Source)	495	No		bd_16		eb
+30_554 days (Source)	30 (Source)	554	No		bd_18		eb
+30_606 days (Source)	30 (Source)	606	No		bd_20		eb
+30_61 days (Source)	30 (Source)	61	No		bd_2		eb
+30_674 days (Source)	30 (Source)	674	No		bd_22		eb
+30_746 days (Source)	30 (Source)	746	No		bd_25		eb
+30_90 days (Source)	30 (Source)	90	No		bd_3		eb
+31_-28 days (Source)	31 (Source)	-28					
+31_-94 days (Source)	31 (Source)	-94					
+31_0 days (Source)	31 (Source)	0	No		Breast milk-dominant, month 0		eb
+31_119 days (Source)	31 (Source)	119	No		bd_4		eb
+31_152 days (Source)	31 (Source)	152	No		bd_5		eb
+31_184 days (Source)	31 (Source)	184	No		bd_6		eb
+31_2 days (Source)	31 (Source)	2			na_0		
+31_210 days (Source)	31 (Source)	210	No		bd_7		eb
+31_243 days (Source)	31 (Source)	243	No		bd_8		eb
+31_275 days (Source)	31 (Source)	275	No		bd_9		eb
+31_307 days (Source)	31 (Source)	307	No		bd_10		eb
+31_32 days (Source)	31 (Source)	32	No		Breast milk-dominant, month 1		eb
+31_341 days (Source)	31 (Source)	341	No		bd_11		eb
+31_365 days (Source)	31 (Source)	365	No		bd_12		eb
+31_39 days (Source)	31 (Source)	39			na_1		
+31_396 days (Source)	31 (Source)	396	No		bd_13		eb
+31_41 days (Source)	31 (Source)	41	No		Breast milk-dominant, month 1		eb
+31_42 days (Source)	31 (Source)	42			na_1		
+31_428 days (Source)	31 (Source)	428	No		bd_14		eb
+31_491 days (Source)	31 (Source)	491	No		bd_16		eb
+31_54 days (Source)	31 (Source)	54	No		bd_2		eb
+31_547 days (Source)	31 (Source)	547	No		bd_18		eb
+31_618 days (Source)	31 (Source)	618	No		bd_20		eb
+31_666 days (Source)	31 (Source)	666	No		bd_22		eb
+31_729 days (Source)	31 (Source)	729	No		bd_24		eb
+31_89 days (Source)	31 (Source)	89	No		bd_3		eb
+32_-98 days (Source)	32 (Source)	-98					
+32_1 days (Source)	32 (Source)	1	No		Breast milk-dominant, month 0		eb
 32_118 days (Source)	32 (Source)	118	y		bd_4		eb
-32_153 days (Source)	32 (Source)	153 days	y		bd_5		eb
+32_153 days (Source)	32 (Source)	153	y		bd_5		eb
 32_209 days (Source)	32 (Source)	209	y		bd_7		eb
-32_246 days (Source)	32 (Source)	246 days	y		bd_8		eb
-32_272 days (Source)	32 (Source)	272 days	y		bd_9		eb
-32_3 days (Source)	32 (Source)	3 days			na_0		
-32_304 days (Source)	32 (Source)	304 days	y		bd_10		eb
-32_31 days (Source)	32 (Source)	31 days	n	Cephalexin	bd_1	1	eb
-32_337 days (Source)	32 (Source)	337 days	y		bd_11		eb
-32_342 days (Source)	32 (Source)	342 days	y		bd_11		eb
-32_370 days (Source)	32 (Source)	370 days	y		bd_12		eb
+32_246 days (Source)	32 (Source)	246	y		bd_8		eb
+32_272 days (Source)	32 (Source)	272	y		bd_9		eb
+32_3 days (Source)	32 (Source)	3			na_0		
+32_304 days (Source)	32 (Source)	304	y		bd_10		eb
+32_31 days (Source)	32 (Source)	31	No	Cephalexin	Breast milk-dominant, month 1	1	eb
+32_337 days (Source)	32 (Source)	337	y		bd_11		eb
+32_342 days (Source)	32 (Source)	342	y		bd_11		eb
+32_370 days (Source)	32 (Source)	370	y		bd_12		eb
 32_422 days (Source)	32 (Source)	422	y		bd_14		eb
-32_485 days (Source)	32 (Source)	485 days	y	Azithromycin	bd_16	2	eb
+32_485 days (Source)	32 (Source)	485	y	Azithromycin	bd_16	2	eb
 32_52 days (Source)	32 (Source)	52	y	Cephalexin	bd_2	1	eb
-32_555 days (Source)	32 (Source)	555 days	y		bd_18		eb
+32_555 days (Source)	32 (Source)	555	y		bd_18		eb
 32_59 days (Source)	32 (Source)	59	y	Cephalexin	bd_2	1	eb
-32_609 days (Source)	32 (Source)	609 days	y		bd_20		eb
-32_62 days (Source)	32 (Source)	62 days			na_2		
-32_674 days (Source)	32 (Source)	674 days	y		bd_22		eb
-32_734 days (Source)	32 (Source)	734 days	y	Amoxicillin	bd_24	3	eb
+32_609 days (Source)	32 (Source)	609	y		bd_20		eb
+32_62 days (Source)	32 (Source)	62			na_2		
+32_674 days (Source)	32 (Source)	674	y		bd_22		eb
+32_734 days (Source)	32 (Source)	734	y	Amoxicillin	bd_24	3	eb
 32_772 days (Source)	32 (Source)	772	y	Amoxicillin	bd_25	3	eb
-32_91 days (Source)	32 (Source)	91 days	y		bd_3		eb
-33_-6 days (Source)	33 (Source)	-6 days			na_0		
-33_-97 days (Source)	33 (Source)	-97 days			na_-3		
-33_0 days (Source)	33 (Source)	0 days	n		bd_0		eb
-33_1 days (Source)	33 (Source)	1 days			na_0		
-33_119 days (Source)	33 (Source)	119 days	n		bd_4		eb
-33_147 days (Source)	33 (Source)	147	n		bd_5		eb
-33_180 days (Source)	33 (Source)	180 days	n		bd_6		eb
-33_211 days (Source)	33 (Source)	211 days	n	Amoxicillin	bd_7	1	eb
+32_91 days (Source)	32 (Source)	91	y		bd_3		eb
+33_-6 days (Source)	33 (Source)	-6			na_0		
+33_-97 days (Source)	33 (Source)	-97					
+33_0 days (Source)	33 (Source)	0	No		Breast milk-dominant, month 0		eb
+33_1 days (Source)	33 (Source)	1			na_0		
+33_119 days (Source)	33 (Source)	119	No		bd_4		eb
+33_147 days (Source)	33 (Source)	147	No		bd_5		eb
+33_180 days (Source)	33 (Source)	180	No		bd_6		eb
+33_211 days (Source)	33 (Source)	211	No	Amoxicillin	bd_7	1	eb
 33_230 days (Source)	33 (Source)	230	y	Amoxicillin	bd_8	1	eb
 33_236 days (Source)	33 (Source)	236	y		bd_8		eb
-33_240 days (Source)	33 (Source)	240 days	y		bd_8		eb
-33_272 days (Source)	33 (Source)	272 days	y		bd_9		eb
-33_305 days (Source)	33 (Source)	305 days	y		bd_10		eb
-33_32 days (Source)	33 (Source)	32 days	n		bd_1		eb
-33_340 days (Source)	33 (Source)	340 days	y		bd_11		eb
-33_365 days (Source)	33 (Source)	365 days	y		bd_12		eb
-33_427 days (Source)	33 (Source)	427 days	y		bd_14		eb
+33_240 days (Source)	33 (Source)	240	y		bd_8		eb
+33_272 days (Source)	33 (Source)	272	y		bd_9		eb
+33_305 days (Source)	33 (Source)	305	y		bd_10		eb
+33_32 days (Source)	33 (Source)	32	No		Breast milk-dominant, month 1		eb
+33_340 days (Source)	33 (Source)	340	y		bd_11		eb
+33_365 days (Source)	33 (Source)	365	y		bd_12		eb
+33_427 days (Source)	33 (Source)	427	y		bd_14		eb
 33_47 days (Source)	33 (Source)	47			na_2		
-33_485 days (Source)	33 (Source)	485 days	y		bd_16		eb
-33_547 days (Source)	33 (Source)	547 days	y		bd_18		eb
-33_608 days (Source)	33 (Source)	608 days	y		bd_20		eb
-33_61 days (Source)	33 (Source)	61 days	n		bd_2		eb
-33_670 days (Source)	33 (Source)	670 days	y		bd_22		eb
+33_485 days (Source)	33 (Source)	485	y		bd_16		eb
+33_547 days (Source)	33 (Source)	547	y		bd_18		eb
+33_608 days (Source)	33 (Source)	608	y		bd_20		eb
+33_61 days (Source)	33 (Source)	61	No		bd_2		eb
+33_670 days (Source)	33 (Source)	670	y		bd_22		eb
 33_751 days (Source)	33 (Source)	751	y		bd_25		eb
-34_-14 days (Source)	34 (Source)	-14			na_-1		
-34_-93 days (Source)	34 (Source)	-93			na_-3		
-34_1 days (Source)	34 (Source)	1 days	n		fd_0		fd
-34_119 days (Source)	34 (Source)	119 days	n		fd_4		fd
-34_166 days (Source)	34 (Source)	166	n		fd_6		fd
-34_183 days (Source)	34 (Source)	183 days	n		fd_6		fd
-34_214 days (Source)	34 (Source)	214 days	n		fd_7		fd
-34_243 days (Source)	34 (Source)	243 days	n		fd_8		fd
-34_273 days (Source)	34 (Source)	273 days	n		fd_9		fd
-34_308 days (Source)	34 (Source)	308 days	n		fd_10		fd
-34_335 days (Source)	34 (Source)	335 days	n		fd_11		fd
-34_34 days (Source)	34 (Source)	34 days	n		fd_1		fd
-34_369 days (Source)	34 (Source)	369 days	y	Amoxicillin	fd_12		fd
-34_42 days (Source)	34 (Source)	42 days			na_1		
+34_-14 days (Source)	34 (Source)	-14					
+34_-93 days (Source)	34 (Source)	-93					
+34_1 days (Source)	34 (Source)	1	No		Formula-dominant, month 0		fd
+34_119 days (Source)	34 (Source)	119	No		fd_4		fd
+34_166 days (Source)	34 (Source)	166	No		fd_6		fd
+34_183 days (Source)	34 (Source)	183	No		fd_6		fd
+34_214 days (Source)	34 (Source)	214	No		fd_7		fd
+34_243 days (Source)	34 (Source)	243	No		fd_8		fd
+34_273 days (Source)	34 (Source)	273	No		fd_9		fd
+34_308 days (Source)	34 (Source)	308	No		fd_10		fd
+34_335 days (Source)	34 (Source)	335	No		fd_11		fd
+34_34 days (Source)	34 (Source)	34	No		fd_1		fd
+34_369 days (Source)	34 (Source)	369	y	Amoxicillin	fd_12		fd
+34_42 days (Source)	34 (Source)	42			na_1		
 34_424 days (Source)	34 (Source)	424	y		fd_14		fd
-34_45 days (Source)	34 (Source)	45 days	n		fd_2		fd
+34_45 days (Source)	34 (Source)	45	No		fd_2		fd
 34_483 days (Source)	34 (Source)	483	y		fd_16		fd
 34_539 days (Source)	34 (Source)	539	y		fd_18		fd
-34_63 days (Source)	34 (Source)	63 days	n		fd_2		fd
-34_90 days (Source)	34 (Source)	90 days	n		fd_3		fd
-35_-36 days (Source)	35 (Source)	-36 days			na_-1		
-35_-99 days (Source)	35 (Source)	-99			na_-3		
-35_0 days (Source)	35 (Source)	0 days	n		bd_0		eb
-35_122 days (Source)	35 (Source)	122 days	n		bd_4		eb
-35_153 days (Source)	35 (Source)	153 days	n		bd_5		eb
-35_182 days (Source)	35 (Source)	182 days	n		bd_6		eb
-35_214 days (Source)	35 (Source)	214 days	n		bd_7		eb
-35_244 days (Source)	35 (Source)	244 days	n		bd_8		eb
-35_277 days (Source)	35 (Source)	277	n		bd_9		eb
-35_307 days (Source)	35 (Source)	307 days	n		bd_10		eb
-35_31 days (Source)	35 (Source)	31 days	n		bd_1		eb
-35_334 days (Source)	35 (Source)	334 days	n		bd_11		eb
-35_34 days (Source)	35 (Source)	34 days			na_1		
-35_367 days (Source)	35 (Source)	367 days	n		bd_12		eb
-35_4 days (Source)	35 (Source)	4 days			na_0		
-35_427 days (Source)	35 (Source)	427 days	n		bd_14		eb
-35_488 days (Source)	35 (Source)	488 days	n		bd_16		eb
-35_551 days (Source)	35 (Source)	551 days	n		bd_18		eb
-35_608 days (Source)	35 (Source)	608 days	n		bd_20		eb
-35_61 days (Source)	35 (Source)	61 days	n		bd_2		eb
-35_91 days (Source)	35 (Source)	91 days	n		bd_3		eb
-36_-14 days (Source)	36 (Source)	-14 days			na_-1		
-36_-82 days (Source)	36 (Source)	-82 days			na_-3		
-36_0 days (Source)	36 (Source)	0 days	n		fd_0		fd
-36_126 days (Source)	36 (Source)	126 days	n		fd_4		fd
-36_162 days (Source)	36 (Source)	162	n		fd_5		fd
-36_216 days (Source)	36 (Source)	216 days	n		fd_7		fd
-36_243 days (Source)	36 (Source)	243 days	n		fd_8		fd
-36_276 days (Source)	36 (Source)	276 days	n		fd_9		fd
-36_3 days (Source)	36 (Source)	3 days			na_0		
-36_308 days (Source)	36 (Source)	308 days	n		fd_10		fd
-36_334 days (Source)	36 (Source)	334 days	n		fd_11		fd
-36_364 days (Source)	36 (Source)	364 days	n		fd_12		fd
-36_41 days (Source)	36 (Source)	41 days			na_1		
-36_42 days (Source)	36 (Source)	42 days	n		fd_1		fd
-36_425 days (Source)	36 (Source)	425 days	n		fd_14		fd
-36_490 days (Source)	36 (Source)	490 days	n		fd_16		fd
-36_559 days (Source)	36 (Source)	559 days	n		fd_18		fd
-36_610 days (Source)	36 (Source)	610 days	n		fd_20		fd
-36_65 days (Source)	36 (Source)	65 days	n		fd_2		fd
-37_-15 days (Source)	37 (Source)	-15 days			na_-1		
-37_-71 days (Source)	37 (Source)	-71 days			na_-2		
-37_1 days (Source)	37 (Source)	1 days	n		fd_0		fd
-37_123 days (Source)	37 (Source)	123 days	n		fd_4		fd
-37_156 days (Source)	37 (Source)	156 days	n		fd_5		fd
-37_199 days (Source)	37 (Source)	199	n		fd_7		fd
-37_215 days (Source)	37 (Source)	215 days	n		fd_7		fd
-37_253 days (Source)	37 (Source)	253	n		fd_8		fd
-37_274 days (Source)	37 (Source)	274 days	n		fd_9		fd
-37_307 days (Source)	37 (Source)	307 days	n		fd_10		fd
-37_33 days (Source)	37 (Source)	33 days	n		fd_1		fd
-37_335 days (Source)	37 (Source)	335 days	n		fd_11		fd
-37_375 days (Source)	37 (Source)	375 days	n		fd_12		fd
-37_426 days (Source)	37 (Source)	426 days	n		fd_14		fd
-37_497 days (Source)	37 (Source)	497	n		fd_16		fd
-37_5 days (Source)	37 (Source)	5 days			na_0		
-37_55 days (Source)	37 (Source)	55 days			na_2		
-37_554 days (Source)	37 (Source)	554 days	n		fd_18		fd
-37_612 days (Source)	37 (Source)	612 days	n		fd_20		fd
-37_674 days (Source)	37 (Source)	674 days	n		fd_22		fd
-37_92 days (Source)	37 (Source)	92 days	n		fd_3		fd
-38_-30 days (Source)	38 (Source)	-30			na_-1		
-38_-98 days (Source)	38 (Source)	-98 days			na_-3		
-38_123 days (Source)	38 (Source)	123 days	n		fd_4		fd
-38_153 days (Source)	38 (Source)	153 days	n		fd_5		fd
-38_187 days (Source)	38 (Source)	187 days	n		fd_6		fd
-38_2 days (Source)	38 (Source)	2 days	n		fd_0		fd
-38_215 days (Source)	38 (Source)	215 days	n		fd_7		fd
-38_250 days (Source)	38 (Source)	250 days	n		fd_8		fd
-38_278 days (Source)	38 (Source)	278 days	n		fd_9		fd
-38_3 days (Source)	38 (Source)	3 days			na_0		
-38_305 days (Source)	38 (Source)	305 days	n		fd_10		fd
-38_33 days (Source)	38 (Source)	33 days	n		fd_1		fd
-38_334 days (Source)	38 (Source)	334 days	n		fd_11		fd
-38_365 days (Source)	38 (Source)	365 days	n		fd_12		fd
-38_428 days (Source)	38 (Source)	428 days	n		fd_14		fd
-38_487 days (Source)	38 (Source)	487 days	n		fd_16		fd
-38_61 days (Source)	38 (Source)	61 days	n		fd_2		fd
-38_610 days (Source)	38 (Source)	610 days	n		fd_20		fd
-38_62 days (Source)	38 (Source)	62 days			na_2		
-38_98 days (Source)	38 (Source)	98	n		fd_3		fd
-39_ (Source)	39 (Source)				na_na		
-41_-38 days (Source)	41 (Source)	-38			na_-1		
-41_-93 days (Source)	41 (Source)	-93 days			na_-3		
-41_0 days (Source)	41 (Source)	0 days	n		bd_0		eb
-41_126 days (Source)	41 (Source)	126 days	n		bd_4		eb
+34_63 days (Source)	34 (Source)	63	No		fd_2		fd
+34_90 days (Source)	34 (Source)	90	No		fd_3		fd
+35_-36 days (Source)	35 (Source)	-36					
+35_-99 days (Source)	35 (Source)	-99					
+35_0 days (Source)	35 (Source)	0	No		Breast milk-dominant, month 0		eb
+35_122 days (Source)	35 (Source)	122	No		bd_4		eb
+35_153 days (Source)	35 (Source)	153	No		bd_5		eb
+35_182 days (Source)	35 (Source)	182	No		bd_6		eb
+35_214 days (Source)	35 (Source)	214	No		bd_7		eb
+35_244 days (Source)	35 (Source)	244	No		bd_8		eb
+35_277 days (Source)	35 (Source)	277	No		bd_9		eb
+35_307 days (Source)	35 (Source)	307	No		bd_10		eb
+35_31 days (Source)	35 (Source)	31	No		Breast milk-dominant, month 1		eb
+35_334 days (Source)	35 (Source)	334	No		bd_11		eb
+35_34 days (Source)	35 (Source)	34			na_1		
+35_367 days (Source)	35 (Source)	367	No		bd_12		eb
+35_4 days (Source)	35 (Source)	4			na_0		
+35_427 days (Source)	35 (Source)	427	No		bd_14		eb
+35_488 days (Source)	35 (Source)	488	No		bd_16		eb
+35_551 days (Source)	35 (Source)	551	No		bd_18		eb
+35_608 days (Source)	35 (Source)	608	No		bd_20		eb
+35_61 days (Source)	35 (Source)	61	No		bd_2		eb
+35_91 days (Source)	35 (Source)	91	No		bd_3		eb
+36_-14 days (Source)	36 (Source)	-14					
+36_-82 days (Source)	36 (Source)	-82					
+36_0 days (Source)	36 (Source)	0	No		Formula-dominant, month 0		fd
+36_126 days (Source)	36 (Source)	126	No		fd_4		fd
+36_162 days (Source)	36 (Source)	162	No		fd_5		fd
+36_216 days (Source)	36 (Source)	216	No		fd_7		fd
+36_243 days (Source)	36 (Source)	243	No		fd_8		fd
+36_276 days (Source)	36 (Source)	276	No		fd_9		fd
+36_3 days (Source)	36 (Source)	3			na_0		
+36_308 days (Source)	36 (Source)	308	No		fd_10		fd
+36_334 days (Source)	36 (Source)	334	No		fd_11		fd
+36_364 days (Source)	36 (Source)	364	No		fd_12		fd
+36_41 days (Source)	36 (Source)	41			na_1		
+36_42 days (Source)	36 (Source)	42	No		fd_1		fd
+36_425 days (Source)	36 (Source)	425	No		fd_14		fd
+36_490 days (Source)	36 (Source)	490	No		fd_16		fd
+36_559 days (Source)	36 (Source)	559	No		fd_18		fd
+36_610 days (Source)	36 (Source)	610	No		fd_20		fd
+36_65 days (Source)	36 (Source)	65	No		fd_2		fd
+37_-15 days (Source)	37 (Source)	-15					
+37_-71 days (Source)	37 (Source)	-71			na_-2		
+37_1 days (Source)	37 (Source)	1	No		Formula-dominant, month 0		fd
+37_123 days (Source)	37 (Source)	123	No		fd_4		fd
+37_156 days (Source)	37 (Source)	156	No		fd_5		fd
+37_199 days (Source)	37 (Source)	199	No		fd_7		fd
+37_215 days (Source)	37 (Source)	215	No		fd_7		fd
+37_253 days (Source)	37 (Source)	253	No		fd_8		fd
+37_274 days (Source)	37 (Source)	274	No		fd_9		fd
+37_307 days (Source)	37 (Source)	307	No		fd_10		fd
+37_33 days (Source)	37 (Source)	33	No		fd_1		fd
+37_335 days (Source)	37 (Source)	335	No		fd_11		fd
+37_375 days (Source)	37 (Source)	375	No		fd_12		fd
+37_426 days (Source)	37 (Source)	426	No		fd_14		fd
+37_497 days (Source)	37 (Source)	497	No		fd_16		fd
+37_5 days (Source)	37 (Source)	5			na_0		
+37_55 days (Source)	37 (Source)	55			na_2		
+37_554 days (Source)	37 (Source)	554	No		fd_18		fd
+37_612 days (Source)	37 (Source)	612	No		fd_20		fd
+37_674 days (Source)	37 (Source)	674	No		fd_22		fd
+37_92 days (Source)	37 (Source)	92	No		fd_3		fd
+38_-30 days (Source)	38 (Source)	-30					
+38_-98 days (Source)	38 (Source)	-98					
+38_123 days (Source)	38 (Source)	123	No		fd_4		fd
+38_153 days (Source)	38 (Source)	153	No		fd_5		fd
+38_187 days (Source)	38 (Source)	187	No		fd_6		fd
+38_2 days (Source)	38 (Source)	2	No		Formula-dominant, month 0		fd
+38_215 days (Source)	38 (Source)	215	No		fd_7		fd
+38_250 days (Source)	38 (Source)	250	No		fd_8		fd
+38_278 days (Source)	38 (Source)	278	No		fd_9		fd
+38_3 days (Source)	38 (Source)	3			na_0		
+38_305 days (Source)	38 (Source)	305	No		fd_10		fd
+38_33 days (Source)	38 (Source)	33	No		fd_1		fd
+38_334 days (Source)	38 (Source)	334	No		fd_11		fd
+38_365 days (Source)	38 (Source)	365	No		fd_12		fd
+38_428 days (Source)	38 (Source)	428	No		fd_14		fd
+38_487 days (Source)	38 (Source)	487	No		fd_16		fd
+38_61 days (Source)	38 (Source)	61	No		fd_2		fd
+38_610 days (Source)	38 (Source)	610	No		fd_20		fd
+38_62 days (Source)	38 (Source)	62			na_2		
+38_98 days (Source)	38 (Source)	98	No		fd_3		fd
+41_-38 days (Source)	41 (Source)	-38					
+41_-93 days (Source)	41 (Source)	-93					
+41_0 days (Source)	41 (Source)	0	No		Breast milk-dominant, month 0		eb
+41_126 days (Source)	41 (Source)	126	No		bd_4		eb
 41_157 days (Source)	41 (Source)	157	y		bd_5		eb
-41_186 days (Source)	41 (Source)	186 days	y	Cephalexin	bd_6	1	eb
-41_214 days (Source)	41 (Source)	214 days	y		bd_7		eb
+41_186 days (Source)	41 (Source)	186	y	Cephalexin	bd_6	1	eb
+41_214 days (Source)	41 (Source)	214	y		bd_7		eb
 41_232 days (Source)	41 (Source)	232	y		bd_8		eb
-41_246 days (Source)	41 (Source)	246 days	y		bd_8		eb
-41_278 days (Source)	41 (Source)	278 days	y		bd_9		eb
-41_3 days (Source)	41 (Source)	3 days			na_0		
-41_310 days (Source)	41 (Source)	310 days	y		bd_10		eb
-41_32 days (Source)	41 (Source)	32 days	n		bd_1		eb
-41_339 days (Source)	41 (Source)	339 days	y		bd_11		eb
-41_424 days (Source)	41 (Source)	424 days	y		bd_14		eb
-41_488 days (Source)	41 (Source)	488 days	y		bd_16		eb
+41_246 days (Source)	41 (Source)	246	y		bd_8		eb
+41_278 days (Source)	41 (Source)	278	y		bd_9		eb
+41_3 days (Source)	41 (Source)	3			na_0		
+41_310 days (Source)	41 (Source)	310	y		bd_10		eb
+41_32 days (Source)	41 (Source)	32	No		Breast milk-dominant, month 1		eb
+41_339 days (Source)	41 (Source)	339	y		bd_11		eb
+41_424 days (Source)	41 (Source)	424	y		bd_14		eb
+41_488 days (Source)	41 (Source)	488	y		bd_16		eb
 41_556 days (Source)	41 (Source)	556	y		bd_18		eb
-41_618 days (Source)	41 (Source)	618 days	y	Amoxicillin	bd_20	2	eb
-41_64 days (Source)	41 (Source)	64 days	n		bd_2		eb
+41_618 days (Source)	41 (Source)	618	y	Amoxicillin	bd_20	2	eb
+41_64 days (Source)	41 (Source)	64	No		bd_2		eb
 41_647 days (Source)	41 (Source)	647	y	Amoxicillin	bd_21	2	eb
-41_96 days (Source)	41 (Source)	96 days	n		bd_3		eb
-42_-19 days (Source)	42 (Source)	-19 days			na_-1		
-42_-82 days (Source)	42 (Source)	-82 days			na_-3		
-42_0 days (Source)	42 (Source)	0 days	n		fd_0		fd
-42_1 days (Source)	42 (Source)	1 days			na_0		
-42_122 days (Source)	42 (Source)	122 days	n		fd_4		fd
-42_154 days (Source)	42 (Source)	154 days	n		fd_5		fd
-42_182 days (Source)	42 (Source)	182 days	y	Amoxicillin	fd_6		fd
-42_216 days (Source)	42 (Source)	216 days	y		fd_7		fd
-42_247 days (Source)	42 (Source)	247 days	y		fd_8		fd
-42_277 days (Source)	42 (Source)	277 days	y		fd_9		fd
-42_31 days (Source)	42 (Source)	31 days	n		fd_1		fd
-42_310 days (Source)	42 (Source)	310 days	y		fd_10		fd
-42_337 days (Source)	42 (Source)	337 days	y		fd_11		fd
+41_96 days (Source)	41 (Source)	96	No		bd_3		eb
+42_-19 days (Source)	42 (Source)	-19					
+42_-82 days (Source)	42 (Source)	-82					
+42_0 days (Source)	42 (Source)	0	No		Formula-dominant, month 0		fd
+42_1 days (Source)	42 (Source)	1			na_0		
+42_122 days (Source)	42 (Source)	122	No		fd_4		fd
+42_154 days (Source)	42 (Source)	154	No		fd_5		fd
+42_182 days (Source)	42 (Source)	182	y	Amoxicillin	fd_6		fd
+42_216 days (Source)	42 (Source)	216	y		fd_7		fd
+42_247 days (Source)	42 (Source)	247	y		fd_8		fd
+42_277 days (Source)	42 (Source)	277	y		fd_9		fd
+42_31 days (Source)	42 (Source)	31	No		fd_1		fd
+42_310 days (Source)	42 (Source)	310	y		fd_10		fd
+42_337 days (Source)	42 (Source)	337	y		fd_11		fd
 42_374 days (Source)	42 (Source)	374	y		fd_12		fd
 42_438 days (Source)	42 (Source)	438	y		fd_14		fd
-42_44 days (Source)	42 (Source)	44 days			na_1		
+42_44 days (Source)	42 (Source)	44			na_1		
 42_493 days (Source)	42 (Source)	493	y		fd_16		fd
 42_557 days (Source)	42 (Source)	557	y		fd_18		fd
-42_61 days (Source)	42 (Source)	61 days	n		fd_2		fd
+42_61 days (Source)	42 (Source)	61	No		fd_2		fd
 42_616 days (Source)	42 (Source)	616	y		fd_20		fd
-42_91 days (Source)	42 (Source)	91 days	n		fd_3		fd
-43_-22 days (Source)	43 (Source)	-22 days			na_-1		
-43_-92 days (Source)	43 (Source)	-92 days			na_-3		
-43_0 days (Source)	43 (Source)	0 days	n		fd_0		fd
-43_1 days (Source)	43 (Source)	1 days			na_0		
-43_126 days (Source)	43 (Source)	126 days	n		fd_4		fd
-43_154 days (Source)	43 (Source)	154 days	n		fd_5		fd
-43_189 days (Source)	43 (Source)	189 days	n		fd_6		fd
-43_217 days (Source)	43 (Source)	217 days	n		fd_7		fd
-43_245 days (Source)	43 (Source)	245 days	n		fd_8		fd
-43_275 days (Source)	43 (Source)	275 days	n		fd_9		fd
-43_306 days (Source)	43 (Source)	306 days	y		fd_10		fd
-43_312 days (Source)	43 (Source)	312 days	y		fd_10		fd
-43_35 days (Source)	43 (Source)	35 days	n		fd_1		fd
-43_36 days (Source)	43 (Source)	36 days			na_1		
-43_364 days (Source)	43 (Source)	364 days	y	Amoxicillin	fd_12	1	fd
-43_428 days (Source)	43 (Source)	428 days	y		fd_14		fd
-43_490 days (Source)	43 (Source)	490 days	y		fd_16		fd
+42_91 days (Source)	42 (Source)	91	No		fd_3		fd
+43_-22 days (Source)	43 (Source)	-22					
+43_-92 days (Source)	43 (Source)	-92					
+43_0 days (Source)	43 (Source)	0	No		Formula-dominant, month 0		fd
+43_1 days (Source)	43 (Source)	1			na_0		
+43_126 days (Source)	43 (Source)	126	No		fd_4		fd
+43_154 days (Source)	43 (Source)	154	No		fd_5		fd
+43_189 days (Source)	43 (Source)	189	No		fd_6		fd
+43_217 days (Source)	43 (Source)	217	No		fd_7		fd
+43_245 days (Source)	43 (Source)	245	No		fd_8		fd
+43_275 days (Source)	43 (Source)	275	No		fd_9		fd
+43_306 days (Source)	43 (Source)	306	y		fd_10		fd
+43_312 days (Source)	43 (Source)	312	y		fd_10		fd
+43_35 days (Source)	43 (Source)	35	No		fd_1		fd
+43_36 days (Source)	43 (Source)	36			na_1		
+43_364 days (Source)	43 (Source)	364	y	Amoxicillin	fd_12	1	fd
+43_428 days (Source)	43 (Source)	428	y		fd_14		fd
+43_490 days (Source)	43 (Source)	490	y		fd_16		fd
 43_550 days (Source)	43 (Source)	550	y	Cefepime	fd_18	2	fd
-43_555 days (Source)	43 (Source)	555 days	y	Cefepime	fd_18	2	fd
+43_555 days (Source)	43 (Source)	555	y	Cefepime	fd_18	2	fd
 43_572 days (Source)	43 (Source)	572	y	Augmentin	fd_19	3	fd
-43_61 days (Source)	43 (Source)	61 days	n		fd_2		fd
-43_616 days (Source)	43 (Source)	616 days	y		fd_20		fd
-43_96 days (Source)	43 (Source)	96 days	n		fd_3		fd
-44_-24 days (Source)	44 (Source)	-24 days			na_-1		
+43_61 days (Source)	43 (Source)	61	No		fd_2		fd
+43_616 days (Source)	43 (Source)	616	y		fd_20		fd
+43_96 days (Source)	43 (Source)	96	No		fd_3		fd
+44_-24 days (Source)	44 (Source)	-24					
 44_-52 days (Source)	44 (Source)	-52			na_-2		
-44_1 days (Source)	44 (Source)	1 days	n		bd_0		eb
-44_127 days (Source)	44 (Source)	127 days	n		bd_4		eb
-44_155 days (Source)	44 (Source)	155 days	n		bd_5		eb
-44_186 days (Source)	44 (Source)	186 days	n		bd_6		eb
-44_222 days (Source)	44 (Source)	222	n		bd_7		eb
-44_244 days (Source)	44 (Source)	244 days	n		bd_8		eb
-44_276 days (Source)	44 (Source)	276 days	n		bd_9		eb
-44_307 days (Source)	44 (Source)	307 days	n		bd_10		eb
-44_33 days (Source)	44 (Source)	33 days	n		bd_1		eb
-44_334 days (Source)	44 (Source)	334 days	n		bd_11		eb
-44_41 days (Source)	44 (Source)	41 days	n		bd_1		eb
-44_424 days (Source)	44 (Source)	424 days	n		bd_14		eb
-44_497 days (Source)	44 (Source)	497 days	n		bd_16		eb
-44_553 days (Source)	44 (Source)	553 days	n		bd_18		eb
-44_62 days (Source)	44 (Source)	62 days	n		bd_2		eb
-44_92 days (Source)	44 (Source)	92 days	n		bd_3		eb
-45_-71 days (Source)	45 (Source)	-71 days			na_-2		
-45_0 days (Source)	45 (Source)	0 days	n		bd_0		eb
-45_120 days (Source)	45 (Source)	120 days	n		bd_4		eb
-45_154 days (Source)	45 (Source)	154 days	n		bd_5		eb
-45_213 days (Source)	45 (Source)	213 days	n		bd_7		eb
-45_245 days (Source)	45 (Source)	245 days	n		bd_8		eb
-45_276 days (Source)	45 (Source)	276 days	n		bd_9		eb
-45_304 days (Source)	45 (Source)	304 days	n		bd_10		eb
-45_31 days (Source)	45 (Source)	31 days	n		bd_1		eb
-45_344 days (Source)	45 (Source)	344	n		bd_11		eb
-45_365 days (Source)	45 (Source)	365 days	n		bd_12		eb
-45_5 days (Source)	45 (Source)	5 days			na_0		
-45_61 days (Source)	45 (Source)	61 days	n		bd_2		eb
-45_62 days (Source)	45 (Source)	62 days			na_2		
-45_91 days (Source)	45 (Source)	91 days	n		bd_3		eb
-46_-15 days (Source)	46 (Source)	-15 days			na_-1		
-46_-16 days (Source)	46 (Source)	-16			na_-1		
+44_1 days (Source)	44 (Source)	1	No		Breast milk-dominant, month 0		eb
+44_127 days (Source)	44 (Source)	127	No		bd_4		eb
+44_155 days (Source)	44 (Source)	155	No		bd_5		eb
+44_186 days (Source)	44 (Source)	186	No		bd_6		eb
+44_222 days (Source)	44 (Source)	222	No		bd_7		eb
+44_244 days (Source)	44 (Source)	244	No		bd_8		eb
+44_276 days (Source)	44 (Source)	276	No		bd_9		eb
+44_307 days (Source)	44 (Source)	307	No		bd_10		eb
+44_33 days (Source)	44 (Source)	33	No		Breast milk-dominant, month 1		eb
+44_334 days (Source)	44 (Source)	334	No		bd_11		eb
+44_41 days (Source)	44 (Source)	41	No		Breast milk-dominant, month 1		eb
+44_424 days (Source)	44 (Source)	424	No		bd_14		eb
+44_497 days (Source)	44 (Source)	497	No		bd_16		eb
+44_553 days (Source)	44 (Source)	553	No		bd_18		eb
+44_62 days (Source)	44 (Source)	62	No		bd_2		eb
+44_92 days (Source)	44 (Source)	92	No		bd_3		eb
+45_-71 days (Source)	45 (Source)	-71			na_-2		
+45_0 days (Source)	45 (Source)	0	No		Breast milk-dominant, month 0		eb
+45_120 days (Source)	45 (Source)	120	No		bd_4		eb
+45_154 days (Source)	45 (Source)	154	No		bd_5		eb
+45_213 days (Source)	45 (Source)	213	No		bd_7		eb
+45_245 days (Source)	45 (Source)	245	No		bd_8		eb
+45_276 days (Source)	45 (Source)	276	No		bd_9		eb
+45_304 days (Source)	45 (Source)	304	No		bd_10		eb
+45_31 days (Source)	45 (Source)	31	No		Breast milk-dominant, month 1		eb
+45_344 days (Source)	45 (Source)	344	No		bd_11		eb
+45_365 days (Source)	45 (Source)	365	No		bd_12		eb
+45_5 days (Source)	45 (Source)	5			na_0		
+45_61 days (Source)	45 (Source)	61	No		bd_2		eb
+45_62 days (Source)	45 (Source)	62			na_2		
+45_91 days (Source)	45 (Source)	91	No		bd_3		eb
+46_-15 days (Source)	46 (Source)	-15					
+46_-16 days (Source)	46 (Source)	-16					
 46_-60 days (Source)	46 (Source)	-60			na_-2		
-46_1 days (Source)	46 (Source)	1 days	n		fd_0		fd
-46_124 days (Source)	46 (Source)	124 days	n		fd_4		fd
-46_151 days (Source)	46 (Source)	151	n		fd_5		fd
-46_184 days (Source)	46 (Source)	184 days	n		fd_6		fd
-46_211 days (Source)	46 (Source)	211 days	n		fd_7		fd
-46_244 days (Source)	46 (Source)	244 days	n		fd_8		fd
-46_274 days (Source)	46 (Source)	274 days	n		fd_9		fd
-46_306 days (Source)	46 (Source)	306 days	n		fd_10		fd
-46_31 days (Source)	46 (Source)	31 days	n		fd_1		fd
-46_336 days (Source)	46 (Source)	336 days	n		fd_11		fd
-46_366 days (Source)	46 (Source)	366 days	n		fd_12		fd
-46_4 days (Source)	46 (Source)	4 days			na_0		
-46_433 days (Source)	46 (Source)	433	n		fd_14		fd
-46_53 days (Source)	46 (Source)	53 days			na_2		
-46_54 days (Source)	46 (Source)	54 days	n		fd_2		fd
-46_93 days (Source)	46 (Source)	93 days	n		fd_3		fd
-47_-110 days (Source)	47 (Source)	-110 days			na_-4		
-47_-18 days (Source)	47 (Source)	-18			na_-1		
-47_126 days (Source)	47 (Source)	126 days	y		bd_4		eb
-47_156 days (Source)	47 (Source)	156 days	y		bd_5		eb
-47_185 days (Source)	47 (Source)	185 days	y		bd_6		eb
+46_1 days (Source)	46 (Source)	1	No		Formula-dominant, month 0		fd
+46_124 days (Source)	46 (Source)	124	No		fd_4		fd
+46_151 days (Source)	46 (Source)	151	No		fd_5		fd
+46_184 days (Source)	46 (Source)	184	No		fd_6		fd
+46_211 days (Source)	46 (Source)	211	No		fd_7		fd
+46_244 days (Source)	46 (Source)	244	No		fd_8		fd
+46_274 days (Source)	46 (Source)	274	No		fd_9		fd
+46_306 days (Source)	46 (Source)	306	No		fd_10		fd
+46_31 days (Source)	46 (Source)	31	No		fd_1		fd
+46_336 days (Source)	46 (Source)	336	No		fd_11		fd
+46_366 days (Source)	46 (Source)	366	No		fd_12		fd
+46_4 days (Source)	46 (Source)	4			na_0		
+46_433 days (Source)	46 (Source)	433	No		fd_14		fd
+46_53 days (Source)	46 (Source)	53			na_2		
+46_54 days (Source)	46 (Source)	54	No		fd_2		fd
+46_93 days (Source)	46 (Source)	93	No		fd_3		fd
+47_-110 days (Source)	47 (Source)	-110			na_-4		
+47_-18 days (Source)	47 (Source)	-18					
+47_126 days (Source)	47 (Source)	126	y		bd_4		eb
+47_156 days (Source)	47 (Source)	156	y		bd_5		eb
+47_185 days (Source)	47 (Source)	185	y		bd_6		eb
 47_221 days (Source)	47 (Source)	221	y		bd_7		eb
-47_249 days (Source)	47 (Source)	249 days	y		bd_8		eb
-47_277 days (Source)	47 (Source)	277 days	y		bd_9		eb
-47_32 days (Source)	47 (Source)	32 days	n		bd_1		eb
-47_347 days (Source)	47 (Source)	347 days	y		bd_11		eb
+47_249 days (Source)	47 (Source)	249	y		bd_8		eb
+47_277 days (Source)	47 (Source)	277	y		bd_9		eb
+47_32 days (Source)	47 (Source)	32	No		Breast milk-dominant, month 1		eb
+47_347 days (Source)	47 (Source)	347	y		bd_11		eb
 47_51 days (Source)	47 (Source)	51			na_2		
-47_94 days (Source)	47 (Source)	94 days	y	Amoxicillin	bd_3		eb
-49_-17 days (Source)	49 (Source)	-17			na_-1		
-49_-39 days (Source)	49 (Source)	-39			na_-1		
-49_1 days (Source)	49 (Source)	1 days			na_0		
-49_124 days (Source)	49 (Source)	124 days	n		bd_4		bd
-49_154 days (Source)	49 (Source)	154 days	n		bd_5		bd
-49_181 days (Source)	49 (Source)	181 days	n		bd_6		bd
-49_213 days (Source)	49 (Source)	213 days	n		bd_7		bd
-49_243 days (Source)	49 (Source)	243 days	n		bd_8		bd
-49_274 days (Source)	49 (Source)	274 days	n		bd_9		bd
-49_305 days (Source)	49 (Source)	305 days	n		bd_10		bd
-49_32 days (Source)	49 (Source)	32 days	n		bd_1		bd
-49_337 days (Source)	49 (Source)	337 days	n		bd_11		bd
-49_4 days (Source)	49 (Source)	4	n		bd_0		bd
-49_5 days (Source)	49 (Source)	5	n		bd_0		bd
-49_60 days (Source)	49 (Source)	60 days	n		bd_2		bd
-49_64 days (Source)	49 (Source)	64 days			na_2		
-4_-21 days (Source)	4 (Source)	-21 days			na_-1		
+47_94 days (Source)	47 (Source)	94	y	Amoxicillin	bd_3		eb
+49_-17 days (Source)	49 (Source)	-17					
+49_-39 days (Source)	49 (Source)	-39					
+49_1 days (Source)	49 (Source)	1			na_0		
+49_124 days (Source)	49 (Source)	124	No		bd_4		bd
+49_154 days (Source)	49 (Source)	154	No		bd_5		bd
+49_181 days (Source)	49 (Source)	181	No		bd_6		bd
+49_213 days (Source)	49 (Source)	213	No		bd_7		bd
+49_243 days (Source)	49 (Source)	243	No		bd_8		bd
+49_274 days (Source)	49 (Source)	274	No		bd_9		bd
+49_305 days (Source)	49 (Source)	305	No		bd_10		bd
+49_32 days (Source)	49 (Source)	32	No		Breast milk-dominant, month 1		bd
+49_337 days (Source)	49 (Source)	337	No		bd_11		bd
+49_4 days (Source)	49 (Source)	4	No		Breast milk-dominant, month 0		bd
+49_5 days (Source)	49 (Source)	5	No		Breast milk-dominant, month 0		bd
+49_60 days (Source)	49 (Source)	60	No		bd_2		bd
+49_64 days (Source)	49 (Source)	64			na_2		
+4_-21 days (Source)	4 (Source)	-21					
 4_-70 days (Source)	4 (Source)	-70			na_-2		
-4_0 days (Source)	4 (Source)	0 days	n		bd_0		eb
-4_124 days (Source)	4 (Source)	124	n		bd_4		eb
-4_154 days (Source)	4 (Source)	154	n		bd_5		eb
-4_186 days (Source)	4 (Source)	186	n		bd_6		eb
-4_214 days (Source)	4 (Source)	214 days	n	Clindamycin	bd_7	1	eb
+4_0 days (Source)	4 (Source)	0	No		Breast milk-dominant, month 0		eb
+4_124 days (Source)	4 (Source)	124	No		bd_4		eb
+4_154 days (Source)	4 (Source)	154	No		bd_5		eb
+4_186 days (Source)	4 (Source)	186	No		bd_6		eb
+4_214 days (Source)	4 (Source)	214	No	Clindamycin	bd_7	1	eb
 4_245 days (Source)	4 (Source)	245	y	Clindamycin	bd_8	1	eb
 4_257 days (Source)	4 (Source)	257	y	Clindamycin	bd_8	1	eb
 4_266 days (Source)	4 (Source)	266	y	Amoxicillin	bd_9	2	eb
 4_278 days (Source)	4 (Source)	278	y	Amoxicillin	bd_9	2	eb
 4_308 days (Source)	4 (Source)	308	y		bd_10		eb
-4_31 days (Source)	4 (Source)	31	n		bd_1		eb
+4_31 days (Source)	4 (Source)	31	No		Breast milk-dominant, month 1		eb
 4_340 days (Source)	4 (Source)	340	y		bd_11		eb
 4_366 days (Source)	4 (Source)	366	y		bd_12		eb
 4_464 days (Source)	4 (Source)	464	y		bd_15		eb
-4_55 days (Source)	4 (Source)	55	n		bd_2		eb
-4_91 days (Source)	4 (Source)	91	n		bd_3		eb
-50_-32 days (Source)	50 (Source)	-32 days			na_-1		
-50_-94 days (Source)	50 (Source)	-94 days			na_-3		
-50_4 days (Source)	50 (Source)	4 days			na_0		
-51_-21 days (Source)	51 (Source)	-21 days			na_-1		
-51_-97 days (Source)	51 (Source)	-97 days			na_-3		
-52_-14 days (Source)	52 (Source)	-14 days			na_-1		
-52_-90 days (Source)	52 (Source)	-90			na_-3		
-52_1 days (Source)	52 (Source)	1 days	n		bd_0		eb
-52_127 days (Source)	52 (Source)	127 days	n		bd_4		eb
-52_154 days (Source)	52 (Source)	154 days	n		bd_5		eb
-52_188 days (Source)	52 (Source)	188 days	n		bd_6		eb
-52_245 days (Source)	52 (Source)	245 days	n		bd_8		eb
-52_3 days (Source)	52 (Source)	3 days			na_0		
-52_32 days (Source)	52 (Source)	32 days	n		bd_1		eb
-52_62 days (Source)	52 (Source)	62 days	n		bd_2		eb
-52_64 days (Source)	52 (Source)	64 days			na_2		
-52_92 days (Source)	52 (Source)	92 days	n		bd_3		eb
+4_55 days (Source)	4 (Source)	55	No		bd_2		eb
+4_91 days (Source)	4 (Source)	91	No		bd_3		eb
+50_-32 days (Source)	50 (Source)	-32					
+50_-94 days (Source)	50 (Source)	-94					
+50_4 days (Source)	50 (Source)	4			na_0		
+51_-21 days (Source)	51 (Source)	-21					
+51_-97 days (Source)	51 (Source)	-97					
+52_-14 days (Source)	52 (Source)	-14					
+52_-90 days (Source)	52 (Source)	-90					
+52_1 days (Source)	52 (Source)	1	No		Breast milk-dominant, month 0		eb
+52_127 days (Source)	52 (Source)	127	No		bd_4		eb
+52_154 days (Source)	52 (Source)	154	No		bd_5		eb
+52_188 days (Source)	52 (Source)	188	No		bd_6		eb
+52_245 days (Source)	52 (Source)	245	No		bd_8		eb
+52_3 days (Source)	52 (Source)	3			na_0		
+52_32 days (Source)	52 (Source)	32	No		Breast milk-dominant, month 1		eb
+52_62 days (Source)	52 (Source)	62	No		bd_2		eb
+52_64 days (Source)	52 (Source)	64			na_2		
+52_92 days (Source)	52 (Source)	92	No		bd_3		eb
 53_-105 days (Source)	53 (Source)	-105			na_-4		
-53_-18 days (Source)	53 (Source)	-18 days			na_-1		
-53_123 days (Source)	53 (Source)	123 days	n		bd_4		bd
-53_153 days (Source)	53 (Source)	153 days	y	Cephalexin	bd_5		bd
-53_183 days (Source)	53 (Source)	183 days	y		bd_6		bd
-53_214 days (Source)	53 (Source)	214 days	y		bd_7		bd
-53_30 days (Source)	53 (Source)	30 days	n		bd_1		bd
-53_4 days (Source)	53 (Source)	4 days			na_0		
-53_45 days (Source)	53 (Source)	45 days	n		bd_2		bd
-53_62 days (Source)	53 (Source)	62 days	n		bd_2		bd
-53_95 days (Source)	53 (Source)	95 days	n		bd_3		bd
+53_-18 days (Source)	53 (Source)	-18					
+53_123 days (Source)	53 (Source)	123	No		bd_4		bd
+53_153 days (Source)	53 (Source)	153	y	Cephalexin	bd_5		bd
+53_183 days (Source)	53 (Source)	183	y		bd_6		bd
+53_214 days (Source)	53 (Source)	214	y		bd_7		bd
+53_30 days (Source)	53 (Source)	30	No		Breast milk-dominant, month 1		bd
+53_4 days (Source)	53 (Source)	4			na_0		
+53_45 days (Source)	53 (Source)	45	No		bd_2		bd
+53_62 days (Source)	53 (Source)	62	No		bd_2		bd
+53_95 days (Source)	53 (Source)	95	No		bd_3		bd
 55_-8 days (Source)	55 (Source)	-8			na_0		
-55_0 days (Source)	55 (Source)	0 days	n		fd_0		fd
-55_120 days (Source)	55 (Source)	120 days	n		fd_4		fd
-55_155 days (Source)	55 (Source)	155 days	n	Amoxicillin	fd_5	1	fd
-55_183 days (Source)	55 (Source)	183 days	y	Amoxicillin	fd_6	1	fd
-55_2 days (Source)	55 (Source)	2 days			na_0		
-55_211 days (Source)	55 (Source)	211 days	y	Amoxicillin	fd_7	1	fd
-55_30 days (Source)	55 (Source)	30 days	n		fd_1		fd
-55_41 days (Source)	55 (Source)	41 days	n		fd_1		fd
-55_64 days (Source)	55 (Source)	64 days	n		fd_2		fd
-55_91 days (Source)	55 (Source)	91 days	n		fd_3		fd
-56_-103 days (Source)	56 (Source)	-103			na_-3		
-56_-20 days (Source)	56 (Source)	-20 days			na_-1		
-56_0 days (Source)	56 (Source)	0 days	n		bd_0		bd
-56_1 days (Source)	56 (Source)	1 days	n		bd_0		bd
-56_122 days (Source)	56 (Source)	122 days	n		bd_4		bd
-56_153 days (Source)	56 (Source)	153 days	n		bd_5		bd
-56_184 days (Source)	56 (Source)	184 days	n		bd_6		bd
-56_2 days (Source)	56 (Source)	2 days			na_0		
-56_215 days (Source)	56 (Source)	215 days	n		bd_7		bd
-56_31 days (Source)	56 (Source)	31 days	n		bd_1		bd
-56_43 days (Source)	56 (Source)	43 days			na_1		
-56_65 days (Source)	56 (Source)	65 days	n		bd_2		bd
-56_93 days (Source)	56 (Source)	93 days	n		bd_3		bd
-57_-20 days (Source)	57 (Source)	-20 days			na_-1		
-57_125 days (Source)	57 (Source)	125 days	n		bd_4		eb
-57_157 days (Source)	57 (Source)	157 days	n		bd_5		eb
-57_215 days (Source)	57 (Source)	215 days	n	Amoxicillin/Ciprodex	bd_7	1	eb
+55_0 days (Source)	55 (Source)	0	No		Formula-dominant, month 0		fd
+55_120 days (Source)	55 (Source)	120	No		fd_4		fd
+55_155 days (Source)	55 (Source)	155	No	Amoxicillin	fd_5	1	fd
+55_183 days (Source)	55 (Source)	183	y	Amoxicillin	fd_6	1	fd
+55_2 days (Source)	55 (Source)	2			na_0		
+55_211 days (Source)	55 (Source)	211	y	Amoxicillin	fd_7	1	fd
+55_30 days (Source)	55 (Source)	30	No		fd_1		fd
+55_41 days (Source)	55 (Source)	41	No		fd_1		fd
+55_64 days (Source)	55 (Source)	64	No		fd_2		fd
+55_91 days (Source)	55 (Source)	91	No		fd_3		fd
+56_-103 days (Source)	56 (Source)	-103					
+56_-20 days (Source)	56 (Source)	-20					
+56_0 days (Source)	56 (Source)	0	No		Breast milk-dominant, month 0		bd
+56_1 days (Source)	56 (Source)	1	No		Breast milk-dominant, month 0		bd
+56_122 days (Source)	56 (Source)	122	No		bd_4		bd
+56_153 days (Source)	56 (Source)	153	No		bd_5		bd
+56_184 days (Source)	56 (Source)	184	No		bd_6		bd
+56_2 days (Source)	56 (Source)	2			na_0		
+56_215 days (Source)	56 (Source)	215	No		bd_7		bd
+56_31 days (Source)	56 (Source)	31	No		Breast milk-dominant, month 1		bd
+56_43 days (Source)	56 (Source)	43			na_1		
+56_65 days (Source)	56 (Source)	65	No		bd_2		bd
+56_93 days (Source)	56 (Source)	93	No		bd_3		bd
+57_-20 days (Source)	57 (Source)	-20					
+57_125 days (Source)	57 (Source)	125	No		bd_4		eb
+57_157 days (Source)	57 (Source)	157	No		bd_5		eb
+57_215 days (Source)	57 (Source)	215	No	Amoxicillin/Ciprodex	bd_7	1	eb
 57_238 days (Source)	57 (Source)	238	y	Amoxicillin/Ciprodex	bd_8	1	eb
-57_244 days (Source)	57 (Source)	244 days	y	Amoxicillin/Ciprodex	bd_8	1	eb
-57_277 days (Source)	57 (Source)	277 days	y		bd_9		eb
-57_3 days (Source)	57 (Source)	3 days			na_0		
-57_31 days (Source)	57 (Source)	31 days	n		bd_1		eb
+57_244 days (Source)	57 (Source)	244	y	Amoxicillin/Ciprodex	bd_8	1	eb
+57_277 days (Source)	57 (Source)	277	y		bd_9		eb
+57_3 days (Source)	57 (Source)	3			na_0		
+57_31 days (Source)	57 (Source)	31	No		Breast milk-dominant, month 1		eb
 57_48 days (Source)	57 (Source)	48			na_2		
-57_62 days (Source)	57 (Source)	62 days	n		bd_2		eb
-57_91 days (Source)	57 (Source)	91 days	n		bd_3		eb
-5_-24 days (Source)	5 (Source)	-24			na_-1		
+57_62 days (Source)	57 (Source)	62	No		bd_2		eb
+57_91 days (Source)	57 (Source)	91	No		bd_3		eb
+5_-24 days (Source)	5 (Source)	-24					
 5_-80 days (Source)	5 (Source)	-80					
-5_1 days (Source)	5 (Source)	1	n		Formula-dominant, month 0		fd
-5_155 days (Source)	5 (Source)	155	n		fd_5		fd
-5_183 days (Source)	5 (Source)	183 days	n		fd_6		fd
-5_213 days (Source)	5 (Source)	213	n		fd_7		fd
-5_245 days (Source)	5 (Source)	245 days	n		fd_8		fd
-5_276 days (Source)	5 (Source)	276	n		fd_9		fd
-5_29 days (Source)	5 (Source)	29	n		fd_1		fd
-5_304 days (Source)	5 (Source)	304	n		fd_10		fd
-5_332 days (Source)	5 (Source)	332	n		fd_11		fd
-5_367 days (Source)	5 (Source)	367 days	n		fd_12		fd
-5_428 days (Source)	5 (Source)	428	n		fd_14		fd
-5_43 days (Source)	5 (Source)	43	n		fd_1		fd
-5_485 days (Source)	5 (Source)	485	n		fd_16		fd
-5_549 days (Source)	5 (Source)	549	n		fd_18		fd
-5_612 days (Source)	5 (Source)	612	n		fd_20		fd
-5_63 days (Source)	5 (Source)	63	n		fd_2		fd
-5_667 days (Source)	5 (Source)	667	n		fd_22		fd
-5_735 days (Source)	5 (Source)	735	n		fd_24		fd
-5_793 days (Source)	5 (Source)	793	n		fd_26		fd
-5_855 days (Source)	5 (Source)	855 days	n		fd_28		fd
-5_9 days (Source)	5 (Source)	9 days			na_0		
-5_911 days (Source)	5 (Source)	911	n	Amoxicillin	fd_30	1	fd
-5_93 days (Source)	5 (Source)	93	n		fd_3		fd
+5_1 days (Source)	5 (Source)	1	No		Formula-dominant, month 0		fd
+5_155 days (Source)	5 (Source)	155	No		fd_5		fd
+5_183 days (Source)	5 (Source)	183	No		fd_6		fd
+5_213 days (Source)	5 (Source)	213	No		fd_7		fd
+5_245 days (Source)	5 (Source)	245	No		fd_8		fd
+5_276 days (Source)	5 (Source)	276	No		fd_9		fd
+5_29 days (Source)	5 (Source)	29	No		fd_1		fd
+5_304 days (Source)	5 (Source)	304	No		fd_10		fd
+5_332 days (Source)	5 (Source)	332	No		fd_11		fd
+5_367 days (Source)	5 (Source)	367	No		fd_12		fd
+5_428 days (Source)	5 (Source)	428	No		fd_14		fd
+5_43 days (Source)	5 (Source)	43	No		fd_1		fd
+5_485 days (Source)	5 (Source)	485	No		fd_16		fd
+5_549 days (Source)	5 (Source)	549	No		fd_18		fd
+5_612 days (Source)	5 (Source)	612	No		fd_20		fd
+5_63 days (Source)	5 (Source)	63	No		fd_2		fd
+5_667 days (Source)	5 (Source)	667	No		fd_22		fd
+5_735 days (Source)	5 (Source)	735	No		fd_24		fd
+5_793 days (Source)	5 (Source)	793	No		fd_26		fd
+5_855 days (Source)	5 (Source)	855	No		fd_28		fd
+5_9 days (Source)	5 (Source)	9			na_0		
+5_911 days (Source)	5 (Source)	911	No	Amoxicillin	fd_30	1	fd
+5_93 days (Source)	5 (Source)	93	No		fd_3		fd
 5_982 days (Source)	5 (Source)	982	y	Amoxicillin	fd_32	1	fd
-6_-36 days (Source)	6 (Source)	-36			na_-1		
-7_-19 days (Source)	7 (Source)	-19			na_-1		
-7_-82 days (Source)	7 (Source)	-82			na_-3		
-7_1 days (Source)	7 (Source)	1 days	n		bd_0		eb
-7_127 days (Source)	7 (Source)	127	n		bd_4		eb
-7_155 days (Source)	7 (Source)	155 days	n		bd_5		eb
-7_183 days (Source)	7 (Source)	183 days	n	Cefdinir	bd_6	1	eb
-7_214 days (Source)	7 (Source)	214 days	y	Cefdinir	bd_7	1	eb
+6_-36 days (Source)	6 (Source)	-36					
+7_-19 days (Source)	7 (Source)	-19					
+7_-82 days (Source)	7 (Source)	-82					
+7_1 days (Source)	7 (Source)	1	No		Breast milk-dominant, month 0		eb
+7_127 days (Source)	7 (Source)	127	No		bd_4		eb
+7_155 days (Source)	7 (Source)	155	No		bd_5		eb
+7_183 days (Source)	7 (Source)	183	No	Cefdinir	bd_6	1	eb
+7_214 days (Source)	7 (Source)	214	y	Cefdinir	bd_7	1	eb
 7_219 days (Source)	7 (Source)	219	y	Cefdinir	bd_7	1	eb
 7_243 days (Source)	7 (Source)	243	y	Cefdinir	bd_8	1	eb
 7_258 days (Source)	7 (Source)	258	y	Cefdinir	bd_9	2	eb
-7_266 days (Source)	7 (Source)	266 days	y	Cefdinir	bd_9	2	eb
+7_266 days (Source)	7 (Source)	266	y	Cefdinir	bd_9	2	eb
 7_274 days (Source)	7 (Source)	274	y	Cefdinir	bd_9	2	eb
-7_30 days (Source)	7 (Source)	30	n		bd_1		eb
+7_30 days (Source)	7 (Source)	30	No		Breast milk-dominant, month 1		eb
 7_303 days (Source)	7 (Source)	303	y		bd_10		eb
 7_334 days (Source)	7 (Source)	334	y		bd_11		eb
 7_364 days (Source)	7 (Source)	364	y		bd_12		eb
-7_427 days (Source)	7 (Source)	427 days	y		bd_14		eb
-7_49 days (Source)	7 (Source)	49 days	n		bd_2		eb
+7_427 days (Source)	7 (Source)	427	y		bd_14		eb
+7_49 days (Source)	7 (Source)	49	No		bd_2		eb
 7_490 days (Source)	7 (Source)	490	y		bd_16		eb
-7_551 days (Source)	7 (Source)	551 days	y		bd_18		eb
+7_551 days (Source)	7 (Source)	551	y		bd_18		eb
 7_608 days (Source)	7 (Source)	608	y		bd_20		eb
-7_66 days (Source)	7 (Source)	66	n		bd_2		eb
+7_66 days (Source)	7 (Source)	66	No		bd_2		eb
 7_669 days (Source)	7 (Source)	669	y		bd_22		eb
 7_729 days (Source)	7 (Source)	729	y		bd_24		eb
-7_793 days (Source)	7 (Source)	793 days	y		bd_26		eb
+7_793 days (Source)	7 (Source)	793	y		bd_26		eb
 7_815 days (Source)	7 (Source)	815	y	Cefdinir	bd_27	3	eb
 7_853 days (Source)	7 (Source)	853	y	Cefdinir	bd_28	3	eb
 7_874 days (Source)	7 (Source)	874	y	Cefadroxil	bd_29	4	eb
-7_9 days (Source)	7 (Source)	9 days			na_0		
-7_917 days (Source)	7 (Source)	917 days	y	Cefadroxil	bd_30	4	eb
-7_93 days (Source)	7 (Source)	93 days	n		bd_3		eb
+7_9 days (Source)	7 (Source)	9			na_0		
+7_917 days (Source)	7 (Source)	917	y	Cefadroxil	bd_30	4	eb
+7_93 days (Source)	7 (Source)	93	No		bd_3		eb
 7_949 days (Source)	7 (Source)	949	y	Augmentin	bd_31	5	eb
-8_-27 days (Source)	8 (Source)	-27			na_-1		
-8_-89 days (Source)	8 (Source)	-89			na_-3		
-8_1 days (Source)	8 (Source)	1 days	n		bd_0		eb
-8_126 days (Source)	8 (Source)	126	n		bd_4		eb
-8_159 days (Source)	8 (Source)	159	n	Azithromycin	bd_5	1	eb
+8_-27 days (Source)	8 (Source)	-27					
+8_-89 days (Source)	8 (Source)	-89					
+8_1 days (Source)	8 (Source)	1	No		Breast milk-dominant, month 0		eb
+8_126 days (Source)	8 (Source)	126	No		bd_4		eb
+8_159 days (Source)	8 (Source)	159	No	Azithromycin	bd_5	1	eb
 8_189 days (Source)	8 (Source)	189	y	Azithromycin	bd_6	1	eb
 8_194 days (Source)	8 (Source)	194	y	Azithromycin	bd_6	1	eb
 8_212 days (Source)	8 (Source)	212	y	Azithromycin	bd_7	1	eb
 8_250 days (Source)	8 (Source)	250	y		bd_8		eb
-8_273 days (Source)	8 (Source)	273 days	y		bd_9		eb
-8_30 days (Source)	8 (Source)	30 days			na_1		
-8_308 days (Source)	8 (Source)	308 days	y		bd_10		eb
-8_31 days (Source)	8 (Source)	31 days	n		bd_1		eb
-8_364 days (Source)	8 (Source)	364 days	y		bd_12		eb
-8_43 days (Source)	8 (Source)	43 days			na_1		
+8_273 days (Source)	8 (Source)	273	y		bd_9		eb
+8_30 days (Source)	8 (Source)	30			na_1		
+8_308 days (Source)	8 (Source)	308	y		bd_10		eb
+8_31 days (Source)	8 (Source)	31	No		Breast milk-dominant, month 1		eb
+8_364 days (Source)	8 (Source)	364	y		bd_12		eb
+8_43 days (Source)	8 (Source)	43			na_1		
 8_437 days (Source)	8 (Source)	437	y		bd_14		eb
-8_490 days (Source)	8 (Source)	490 days	y		bd_16		eb
+8_490 days (Source)	8 (Source)	490	y		bd_16		eb
 8_552 days (Source)	8 (Source)	552	y		bd_18		eb
 8_615 days (Source)	8 (Source)	615	y		bd_20		eb
-8_72 days (Source)	8 (Source)	72	n		bd_2		eb
+8_72 days (Source)	8 (Source)	72	No		bd_2		eb
 8_759 days (Source)	8 (Source)	759	y		bd_25		eb
 8_795 days (Source)	8 (Source)	795	y		bd_26		eb
 9_-13 days (Source)	9 (Source)	-13			na_0		
-9_-42 days (Source)	9 (Source)	-42			na_-1		
-9_1 days (Source)	9 (Source)	1 days	n		bd_0		eb
-9_122 days (Source)	9 (Source)	122 days	n		bd_4		eb
-9_155 days (Source)	9 (Source)	155 days	n		bd_5		eb
-9_185 days (Source)	9 (Source)	185	n		bd_6		eb
-9_214 days (Source)	9 (Source)	214 days	n		bd_7		eb
-9_246 days (Source)	9 (Source)	246	n		bd_8		eb
-9_273 days (Source)	9 (Source)	273 days	n		bd_9		eb
-9_305 days (Source)	9 (Source)	305	n		bd_10		eb
-9_31 days (Source)	9 (Source)	31 days	n		bd_1		eb
-9_339 days (Source)	9 (Source)	339	n		bd_11		eb
-9_366 days (Source)	9 (Source)	366 days	n		bd_12		eb
-9_42 days (Source)	9 (Source)	42 days			na_1		
-9_429 days (Source)	9 (Source)	429	n		bd_14		eb
-9_555 days (Source)	9 (Source)	555 days	n		bd_18		eb
-9_613 days (Source)	9 (Source)	613 days	n		bd_20		eb
-9_64 days (Source)	9 (Source)	64	n		bd_2		eb
-9_681 days (Source)	9 (Source)	681	n		bd_22		eb
-9_739 days (Source)	9 (Source)	739	n		bd_24		eb
-9_800 days (Source)	9 (Source)	800	n		bd_26		eb
-9_864 days (Source)	9 (Source)	864	n		bd_28		eb
-9_928 days (Source)	9 (Source)	928	n		bd_31		eb
-9_94 days (Source)	9 (Source)	94	n		bd_3		eb
+9_-42 days (Source)	9 (Source)	-42					
+9_1 days (Source)	9 (Source)	1	No		Breast milk-dominant, month 0		eb
+9_122 days (Source)	9 (Source)	122	No		bd_4		eb
+9_155 days (Source)	9 (Source)	155	No		bd_5		eb
+9_185 days (Source)	9 (Source)	185	No		bd_6		eb
+9_214 days (Source)	9 (Source)	214	No		bd_7		eb
+9_246 days (Source)	9 (Source)	246	No		bd_8		eb
+9_273 days (Source)	9 (Source)	273	No		bd_9		eb
+9_305 days (Source)	9 (Source)	305	No		bd_10		eb
+9_31 days (Source)	9 (Source)	31	No		Breast milk-dominant, month 1		eb
+9_339 days (Source)	9 (Source)	339	No		bd_11		eb
+9_366 days (Source)	9 (Source)	366	No		bd_12		eb
+9_42 days (Source)	9 (Source)	42			na_1		
+9_429 days (Source)	9 (Source)	429	No		bd_14		eb
+9_555 days (Source)	9 (Source)	555	No		bd_18		eb
+9_613 days (Source)	9 (Source)	613	No		bd_20		eb
+9_64 days (Source)	9 (Source)	64	No		bd_2		eb
+9_681 days (Source)	9 (Source)	681	No		bd_22		eb
+9_739 days (Source)	9 (Source)	739	No		bd_24		eb
+9_800 days (Source)	9 (Source)	800	No		bd_26		eb
+9_864 days (Source)	9 (Source)	864	No		bd_28		eb
+9_928 days (Source)	9 (Source)	928	No		bd_31		eb
+9_94 days (Source)	9 (Source)	94	No		bd_3		eb

@@ -1,10 +1,4 @@
 iri	label	type	parentlabel	category	definition	min	max	average	median	upper_quartile	lower_quartile	number_distinct_values	distinct_values	variable	replaces
-GAZ_00000448	Geographic location		Community	Participant											
-EUPATH_0010981	Demographics		Participant	Participant											
-EUPATH_0000587	Environment information		Community	Participant	An information content entity about environmental material, environmental feature, environmental system, etc.										
-ENVO_00000009	Country	string	Geographic location	Participant								1	["Bangladesh"]	["Bangladesh_healthy_5yr.txt::country"]	ENVO_00000004
-PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							4	["Female","female","male","Male"]	["Bangladesh_healthy_5yr.txt::Sex"]	
-ENVO_01000739	Habitat	string	Environment information	Participant	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["Bangladesh_healthy_5yr.txt::env_feature"]	ENVO_00002297
 EUPATH_0010981	Demographics		Participant	participant repeated measure											
 EUPATH_0000649	Anthropometry		Participant	participant repeated measure											
 OBI_0001169	Age	number	Demographics	participant repeated measure	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	0.1	60.4	31.9795031055901	34.2	46.85	17	494		["Bangladesh_healthy_5yr.txt::Age (months)"]	EUPATH_0000579
@@ -16,10 +10,16 @@ OBI_0003069	Sequencing		Sequencing assay	Sample	A protocol that, when concretize
 OBI_0000659	Sample collection process		Sample	Sample											
 OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["Bangladesh_healthy_5yr.txt::sample_type"]	
 SO_0001000	Region of 16S rRNA sequenced	string	Sequencing	Sample	Cytosolic 16S rRNA is an RNA component of the small subunit of cytosolic ribosomes in prokaryotes.							1	["V4"]	["Bangladesh_healthy_5yr.txt::region"]	
-UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							2	["colon","Colon"]	["Bangladesh_healthy_5yr.txt::body_site"]	
-UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							2	["Feces","UBERON:feces"]	["Bangladesh_healthy_5yr.txt::body_product"]	
-UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							2	["colon","Colon"]	["Bangladesh_healthy_5yr.txt::body_habitat"]	
+UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							1	["Colon"]	["Bangladesh_healthy_5yr.txt::body_site"]	
+UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							1	["Feces"]	["Bangladesh_healthy_5yr.txt::body_product"]	
+UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							1	["Colon"]	["Bangladesh_healthy_5yr.txt::body_habitat"]	
 EUPATH_0009028	Monthly sample	integer	Sample collection process	Sample		1	60	32.6505175983437	35	47	18	60		["Bangladesh_healthy_5yr.txt::Monthly Sample"]	
+GAZ_00000448	Geographic location		Community	Participant											
+EUPATH_0010981	Demographics		Participant	Participant											
+EUPATH_0000587	Environment information		Community	Participant	An information content entity about environmental material, environmental feature, environmental system, etc.										
+ENVO_00000009	Country	string	Geographic location	Participant								1	["Bangladesh"]	["Bangladesh_healthy_5yr.txt::country"]	ENVO_00000004
+PATO_0000047	Sex	string	Demographics	Participant	physical sex of the host							2	["Female","Male"]	["Bangladesh_healthy_5yr.txt::Sex"]	
+ENVO_01000739	Habitat	string	Environment information	Participant	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["Bangladesh_healthy_5yr.txt::env_feature"]	ENVO_00002297
 EUPATH_0009251	Kingdom		Relative taxonomic abundance analysis	16S rRNA (V4) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of kingdom.										
 EUPATH_0009252	Phylum		Relative taxonomic abundance analysis	16S rRNA (V4) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of phylum.										
 EUPATH_0009253	Class		Relative taxonomic abundance analysis	16S rRNA (V4) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of class.										

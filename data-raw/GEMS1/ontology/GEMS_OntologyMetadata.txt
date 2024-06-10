@@ -3,11 +3,20 @@ OBI_0003069	Sequencing		Sequencing assay	Sample	A protocol that, when concretize
 EUPATH_0011996	Sample details		Sample	Sample											
 OBI_0100051	Sample type	string	Sample details	Sample	A material entity that has the specimen role.							1	["Stool"]	["GEMS.txt::sample_type"]	
 SO_0001000	Region of 16S rRNA sequenced	string	Sequencing	Sample	Cytosolic 16S rRNA is an RNA component of the small subunit of cytosolic ribosomes in prokaryotes.							1	["V1-V2"]	["GEMS.txt::region"]	
-UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							2	["colon","Colon"]	["GEMS.txt::body_site"]	
-UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							2	["Feces","UBERON:feces"]	["GEMS.txt::body_product"]	
-UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							2	["colon","Colon"]	["GEMS.txt::body_habitat"]	
+UBERON_0000061	Host body site	string	Participant	Sample	name of body site where the sample was obtained from							1	["Colon"]	["GEMS.txt::body_site"]	
+UBERON_0000463	Host body product	string	Participant	Sample	substance produced by the body, e.g. stool, mucus, where the sample was obtained from. For Foundational Model of Anatomy Ontology (FMA) (v 3.1) terms, please see http://purl.bioontology.org/ontology/FMA							1	["Feces"]	["GEMS.txt::body_product"]	
+UBERON_0000466	Host body habitat	string	Participant	Sample	original body habitat where the sample was obtained from							1	["Colon"]	["GEMS.txt::body_habitat"]	
 EUPATH_0009358	Sample notes	string	Sample details	Sample								1	["Unable to match sample to data on ClinEpiDB.org"]	["GEMS.txt::sample_notes"]	
 EUPATH_0009359	ClinEpiDB.org study	string	Sample details	Sample								1	["GEMS1 Case-Control"]	["GEMS.txt::clinepi_study"]	
+GAZ_00000448	Geographic location		Community	Participant											
+EUPATH_0000587	Environment information		Community	Participant	An information content entity about environmental material, environmental feature, environmental system, etc.										
+EUPATH_0010035	Administrative information		Participant	Participant											
+EUPATH_0010981	Demographics		Participant	Participant											
+ENVO_00000009	Country	string	Geographic location	Participant								4	["Bangladesh","Kenya","Mali","The Gambia"]	["GEMS.txt::country"]	ENVO_00000004
+OBI_0001169	Age	integer	Demographics	Participant	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	0	58	17.3028798411122	14	24	8	58		["GEMS.txt::Age (months)"]	EUPATH_0000579
+ENVO_01000739	Habitat	string	Environment information	Participant	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["GEMS.txt::env_feature"]	ENVO_00002297
+EUPATH_0010375	Case or control participant	string	Administrative information	Participant								2	["Case","Control"]	["GEMS.txt::case_control"]	
+EUPATH_0051008	Age group at enrollment	string	Demographics	Participant								5	["0-6 months","6-12 months","12-18 months","18-24 months","24-60 months"]	["GEMS.txt::age_factor"]	
 EUPATH_0009251	Kingdom		Relative taxonomic abundance analysis	16S rRNA (V1-V2) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of kingdom.										
 EUPATH_0009252	Phylum		Relative taxonomic abundance analysis	16S rRNA (V1-V2) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of phylum.										
 EUPATH_0009253	Class		Relative taxonomic abundance analysis	16S rRNA (V1-V2) assay	A data item that is the output of a relative taxonomic abundance analysis for organisms grouped at the level of class.										
@@ -3201,12 +3210,3 @@ EUPATH_0009357_Bacteria_ea18bb09de26772a	Parabacteroides distasonis	number	Speci
 EUPATH_0009357_Bacteria_fe26155087e64456	Bifidobacterium adolescentis	number	Species	16S rRNA (V1-V2) assay	A data item that is the output of an absolute taxonomic abundance analysis for organisms grouped at the level of species.	2	2	2	2			1	["2.000000"]		
 EUPATH_0009357_Bacteria_fe9093cce15cbaec	Chryseobacterium indologenes	number	Species	16S rRNA (V1-V2) assay	A data item that is the output of an absolute taxonomic abundance analysis for organisms grouped at the level of species.	4	18	11	11	18	4	2	["4.000000","18.000000"]		
 EUPATH_0009357_Bacteria_feb788344d48e3e1	Oxalobacter formigenes	number	Species	16S rRNA (V1-V2) assay	A data item that is the output of an absolute taxonomic abundance analysis for organisms grouped at the level of species.	2	8	3.71428571428571	3	4	2	6	["2.000000","3.000000","4.000000","5.000000","7.000000","8.000000"]		
-GAZ_00000448	Geographic location		Community	Participant											
-EUPATH_0000587	Environment information		Community	Participant	An information content entity about environmental material, environmental feature, environmental system, etc.										
-EUPATH_0010035	Administrative information		Participant	Participant											
-EUPATH_0010981	Demographics		Participant	Participant											
-ENVO_00000009	Country	string	Geographic location	Participant								4	["Bangladesh","Kenya","Mali","The Gambia"]	["GEMS.txt::country"]	ENVO_00000004
-OBI_0001169	Age	string	Demographics	Participant	age of host at the time of sampling; relevant scale depends on species and study, e.g. could be seconds for amoebae or centuries for trees. The unit of age is year.,the animal's or human's age counted in days	0	58	17.3028798411122	14	24	8	59	["0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","57","58","NA"]	["GEMS.txt::Age (months)"]	EUPATH_0000579
-ENVO_01000739	Habitat	string	Environment information	Participant	An environmental system which can sustain and allow the growth of an ecological population.							1	["Human"]	["GEMS.txt::env_feature"]	ENVO_00002297
-EUPATH_0010375	Case or control participant	string	Administrative information	Participant								2	["Case","Control"]	["GEMS.txt::case_control"]	
-EUPATH_0051008	Age group at enrollment	string	Demographics	Participant								10	["0-6 months","6-12 months","12-18 months","18-24 months","24-60 months"]	["GEMS.txt::age_factor"]	
